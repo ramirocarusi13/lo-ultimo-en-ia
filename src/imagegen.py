@@ -33,10 +33,13 @@ HEIGHT = int(os.getenv("IMAGE_HEIGHT", "960"))
 STEPS = int(os.getenv("IMAGE_STEPS", "4"))  # klein distilado: 4 pasos
 TIMEOUT = int(os.getenv("COMFYUI_TIMEOUT", "1800"))  # segundos por imagen
 
+# Ilustración, NO foto realista: Instagram exige la etiqueta "Contenido de IA" solo para
+# fotos y videos realistas creados con IA. Con este estilo la etiqueta no corresponde.
 STYLE = (
-    ", editorial news photography, shot on a full-frame camera with a 50mm lens, natural "
-    "cinematic lighting, subtle cyan and violet accents, shallow depth of field, ultra "
-    "detailed, photorealistic, magazine quality, no text, no letters, no logos, no watermark"
+    ", stylized 3D editorial illustration, digital art, clean geometric shapes, soft volumetric "
+    "lighting, deep navy background with glowing cyan and violet accents, isometric depth, "
+    "high detail, magazine cover illustration, clearly not a photograph, no people, no faces, "
+    "no text, no letters, no logos, no watermark"
 )
 
 

@@ -36,7 +36,7 @@ def _dump(path, data) -> None:
 
 
 def _load_story(post_id: str) -> Story:
-    data = json.loads((WORK_DIR / post_id / "story.json").read_text(encoding="utf-8"))
+    data = json.loads((WORK_DIR / post_id / "story.json").read_text(encoding="utf-8-sig"))
     return Story([Article(**a) for a in data["articles"]])
 
 
@@ -65,7 +65,7 @@ def build(post_id: str, post: dict | None = None, story: Story | None = None) ->
 
     story = story or _load_story(post_id)
     if post is None:
-        post = validate(json.loads((WORK_DIR / post_id / "draft.json").read_text(encoding="utf-8")))
+        post = validate(json.loads((WORK_DIR / post_id / "draft.json").read_text(encoding="utf-8-sig")))
         if post is None:
             mark_posted(story, kind="skip")
             return False
@@ -73,7 +73,8 @@ def build(post_id: str, post: dict | None = None, story: Story | None = None) ->
     out.mkdir(parents=True, exist_ok=True)
     photos, credits = [], []
     # Persona de cada imagen (portada, slide 2, slide 3): foto real con licencia libre.
-    people = post.get("people") or ([post["person"]] * 2 if post.get("person") else [])
+    people = (post.get("photos") or post.get("people")
+              or ([post["person"]] * 2 if post.get("person") else []))
     real = [None] * 3
     if any(people):
         import photos as person_photos
@@ -152,7 +153,7 @@ def publish() -> None:
     if not PENDING.exists():
         print("[main] nada pendiente para publicar")
         return
-    meta = json.loads(PENDING.read_text(encoding="utf-8"))
+    meta = json.loads(PENDING.read_text(encoding="utf-8-sig"))
     base = os.environ.get("PUBLIC_BASE_URL")
     if not base:  # archivos crudos del repo de GitHub (debe ser público)
         repo, ref = os.environ["GITHUB_REPOSITORY"], os.environ.get("GITHUB_REF_NAME", "main")

@@ -14,20 +14,22 @@ Con las notas que te paso armás un carrusel de 4 imágenes:
   después 2 o 3 párrafos cortos, cerrá con una pregunta para generar comentarios y la línea
   "Fuente: <medios>". Sin hashtags dentro del caption.
 - hashtags: 8 a 12 hashtags relevantes, sin el símbolo #.
-- people: lista de 3 nombres, uno por imagen (portada, slide 2, slide 3). En cada posición poné
-  el nombre completo (como en Wikipedia) de la persona pública de la que habla ESE texto,
-  o "" si no habla de una persona concreta. Ej: portada sobre Jensen Huang, slide 2 que dice
-  que Colette Kress asume como CEO, slide 3 sobre la industria:
-  ["Jensen Huang", "Colette Kress", ""]. El bot pone fotos REALES de esas personas con licencia
-  libre (Wikimedia Commons); donde no hay persona o no hay foto libre, usa la foto del
-  image_prompt correspondiente, así que los 3 image_prompts igual van completos.
+- photos: lista de 3 búsquedas EN INGLÉS de fotos REALES, una por imagen (portada, slide 2,
+  slide 3), que el bot busca en Wikimedia Commons (licencia libre). En cada posición poné lo
+  que muestra mejor ESE texto, en este orden de preferencia:
+    1. la persona pública de la que habla, nombre completo como en Wikipedia ("Jensen Huang");
+    2. la empresa, lugar o producto concreto, con 2-3 palabras que estarían en el nombre del
+       archivo ("Nvidia headquarters", "Nvidia GPU", "Google Pixel", "Microsoft Redmond");
+    3. "" si no hay nada concreto que mostrar.
+  Ej: ["Jensen Huang", "Colette Kress", "Nvidia headquarters"]. Variá: no repitas la misma
+  búsqueda salvo que sea la protagonista. Donde no haya foto real, el bot usa el image_prompt
+  (ilustración 3D, no foto), así que los 3 image_prompts igual van completos.
   En el paso de revisión: si una foto real muestra a OTRAS personas reconocibles además de la
   nombrada, poné "" en esa posición y rearmá (no asociar a terceros con la noticia).
-- image_prompts: exactamente 3 descripciones EN INGLÉS de fotos para generar con IA
-  (portada, imagen 2, imagen 3), 25 a 45 palabras cada una. Escenas editoriales
-  concretas y fotográficas que representen la noticia: objetos, lugares, manos,
-  pantallas, laboratorios, servidores, siluetas o personas genéricas de espaldas
-  (escribí "seen from behind, faces not visible" cuando aparezca gente).
+- image_prompts: exactamente 3 descripciones EN INGLÉS de ilustraciones para generar con IA
+  (portada, imagen 2, imagen 3), 25 a 45 palabras cada una. Escenas simbólicas que
+  representen la noticia, como ilustración 3D (NO fotos realistas): objetos, chips,
+  servidores, edificios, pantallas, íconos, metáforas visuales. Sin personas.
   PROHIBIDO: personas reales o reconocibles (nunca nombres propios de personas),
   logos, marcas, texto o letras en la imagen, y objetos con inscripciones (chips,
   carteles, pantallas con texto legible). Variá encuadre entre las 3.
@@ -45,5 +47,5 @@ Reglas:
 - Español neutro latinoamericano, tono cercano, sin clickbait engañoso.
 
 Formato de salida: un objeto JSON con exactamente estas claves:
-{"skip": false, "skip_reason": "", "headline": "...", "badge": "...", "people": ["", "", ""],
+{"skip": false, "skip_reason": "", "headline": "...", "badge": "...", "photos": ["", "", ""],
  "slides": ["...", "..."], "caption": "...", "hashtags": ["..."], "image_prompts": ["...", "...", "..."]}

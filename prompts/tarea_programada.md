@@ -12,7 +12,8 @@ Hacé estos pasos en orden:
 
 2. Redactar. Leé las reglas en prompts\redaccion.md y las notas en work\<id>\notas.md.
    Escribí el borrador como JSON (UTF-8) en work\<id>\draft.json, cumpliendo TODAS las reglas
-   (largos, asteriscos, 3 image_prompts en inglés sin personas reales, logos ni texto).
+   (largos, asteriscos, 3 búsquedas en "photos" y 3 image_prompts de ilustraciones en inglés,
+   sin personas reales, logos ni texto).
    - Si la noticia no cumple las reglas (rumor, acusación sin pruebas, no es de IA/tecnología,
      recomendación de inversión, noticia menor), corré
      .\.venv\Scripts\python.exe src\main.py skip <id> "motivo"
@@ -24,10 +25,12 @@ Hacé estos pasos en orden:
    Si falla, mostrá el final del log más reciente de logs\ y terminá sin publicar.
 
 4. Revisar. Mirá las 4 imágenes posts\<id>\slide_1.jpg ... slide_4.jpg. Verificá que el
-   texto se lea completo, que no haya errores de ortografía, que las fotos no muestren
-   texto deformado, logos ni personas reconocibles, y que el titular sea fiel a las notas.
+   texto se lea completo, que no haya errores de ortografía, que las ilustraciones generadas
+   no parezcan fotos realistas ni muestren texto deformado o personas, y que el titular sea
+   fiel a las notas. (Las fotos reales de Wikimedia sí pueden mostrar a la persona nombrada.)
    - Si una foto real (de Wikimedia) muestra a otras personas reconocibles además de la
-     nombrada, poné "" en esa posición de "people" en el draft y repetí el paso 3.
+     nombrada, o algo que no corresponde a la noticia, cambiá esa posición de "photos" en el
+     draft (otra búsqueda o "") y repetí el paso 3.
    - Si algo está mal en el TEXTO: corregí work\<id>\draft.json y repetí el paso 3.
      (Una sola vez; si sigue mal, terminá sin publicar y explicá por qué.)
 
