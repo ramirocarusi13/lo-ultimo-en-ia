@@ -1,0 +1,64 @@
+{
+ "id": "20261116-1825",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "*EE.UU.* QUIERE CORTARLE A CHINA EL *ACCESO REMOTO* A *CHIPS DE IA*",
+  "badge": "NVIDIA",
+  "photos": [
+   "Nvidia headquarters",
+   "Nvidia GPU",
+   ""
+  ],
+  "slides": [
+   "Estados Unidos avanza con nuevas medidas para *limitar el acceso remoto de China* a los chips de IA más avanzados, como los de Nvidia. Así lo informaron Reuters, Bloomberg, NPR y Ars Technica. El anuncio llega mientras *Donald Trump viaja a Asia*.",
+   "El acceso remoto es usar esos chips a distancia, desde servidores ubicados en otros países, sin comprarlos. Es una forma de *aprovechar su potencia sin tenerlos* físicamente. Según Ars Technica, *Trump apuesta a que China no se moleste* con el bloqueo."
+  ],
+  "caption": "💻 Estados Unidos quiere cortarle a China el acceso remoto a los chips de IA más avanzados, como los de Nvidia.\n\nSegún Reuters, Bloomberg, NPR y Ars Technica, el gobierno estadounidense avanza con controles más estrictos sobre el uso a distancia de estos chips. La medida llega mientras Donald Trump viaja a Asia y, según Ars Technica, él apuesta a que China no se moleste.\n\n¿Y esto a mí qué? Los chips de Nvidia son el motor de muchas herramientas de IA, como los chatbots y los generadores de imágenes. Quién puede usarlos define en buena parte quién avanza más rápido en esta tecnología, y la pelea entre las dos potencias se pone cada vez más dura.\n\n¿Creés que bloquear el acceso remoto a estos chips frena de verdad el avance de la IA en China?\n\nFuente: Reuters, Bloomberg, NPR, Ars Technica\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "Nvidia",
+   "ChipsDeIA",
+   "ChinaEEUU"
+  ],
+  "image_prompts": [
+   "3D illustration of a glowing blank microchip floating above a world map, with a translucent digital padlock blocking a beam of light that connects two distant continents, dark blue background, soft cinematic lighting, no text",
+   "3D illustration of rows of futuristic server racks in a cool blue data center, with a long glowing network cable cut in half and sparks at the break, wide angle view, stylized render, no text or logos",
+   "3D illustration of a giant blank computer chip on a chessboard, surrounded by oversized chess pieces in red and blue tones, dramatic top-down angle, symbolic geopolitical rivalry, clean stylized render, no text"
+  ],
+  "reel_script": [
+   "Estados Unidos quiere que China deje de usar sus chips de IA a distancia.",
+   "El gobierno estadounidense avanza con nuevas medidas para limitar el *acceso remoto* de China a los chips más avanzados, como los de Nvidia, mientras Donald Trump viaja a Asia.",
+   "El acceso remoto permite usar esos chips sin tenerlos. Quien controla estos chips controla buena parte de la *carrera de la IA*, y la pelea entre las dos potencias se endurece."
+  ]
+ },
+ "caption": "💻 Estados Unidos quiere cortarle a China el acceso remoto a los chips de IA más avanzados, como los de Nvidia.\n\nSegún Reuters, Bloomberg, NPR y Ars Technica, el gobierno estadounidense avanza con controles más estrictos sobre el uso a distancia de estos chips. La medida llega mientras Donald Trump viaja a Asia y, según Ars Technica, él apuesta a que China no se moleste.\n\n¿Y esto a mí qué? Los chips de Nvidia son el motor de muchas herramientas de IA, como los chatbots y los generadores de imágenes. Quién puede usarlos define en buena parte quién avanza más rápido en esta tecnología, y la pelea entre las dos potencias se pone cada vez más dura.\n\n¿Creés que bloquear el acceso remoto a estos chips frena de verdad el avance de la IA en China?\n\nFuente: Reuters, Bloomberg, NPR, Ars Technica\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Coolcaesar / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: ChrisDag / Wikimedia Commons (CC BY 2.0)\n\n#Nvidia #ChipsDeIA #ChinaEEUU",
+ "slides": [
+  "posts/20261116-1825/slide_1.jpg",
+  "posts/20261116-1825/slide_2.jpg",
+  "posts/20261116-1825/slide_3.jpg",
+  "posts/20261116-1825/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "US moves to cut China’s remote access to AI chips",
+   "link": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+   "source": "Ars Technica"
+  },
+  {
+   "title": "US Moves to Curb Remote Access to Nvidia’s Advanced AI Chips",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3diZGZDaW14MTdtajJNSTFnMXF3MWtpODZRZDN3UVVRZXBwQllnQXFRRUFYbTAzQmJkLW1qTDAzZDhyYW54UjdBVjFrZVRzV3JiTVRTdmlybkVtRnZVSWlMTnFvYVp3dkFGeWhUVFdrUE1Na3E0WTVuekRuSm5jN1A2aDBnb1NjYXRhYmJfdjlBQWY1X093Q1hHTDM4ZzNhdlYwNVRn?oc=5",
+   "source": "Bloomberg.com"
+  },
+  {
+   "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObWZfUU1JVEVmLVN3WGtNQi1GejRsTHFIeFBIamVtcDMzNGg0WV96R0VFSGF4ODYzYkZhQVVJWGFsT3pmT1RDZXFMUkJ0Z3pEdFYtVlZIOGRYM3pETGwwVEQwM1IyZlNBajJYOVdvLWc3MVdzVE9zN04tSDZoZGk0V21YSEpoWmE0SnNoMQ?oc=5",
+   "source": "NPR"
+  },
+  {
+   "title": "US to curb China's access to AI chips as Trump heads to Asia",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOFRscFU2Tnd4dkpNWURqN2NDcEg1eHBNUW9VTTd5YkRBNlA2eVJkV0xsWHpqNExCek4xTUY0VlU5TjJYM1ZJaWE3YkVNZndhUE5CamYyZlh3WGhRUHhUVzhDRW1IUkVTXzBBQ1hXMTkzM0tiNF9DZGpZcUlTb0xQOFBsVEM1VDhnV0taSlpYYTNsQUpyMnlKQzNSenU3alBia0ZJR1QyQ2hSX3g5bG1yX3d3dTBublY1?oc=5",
+   "source": "Reuters"
+  }
+ ]
+}

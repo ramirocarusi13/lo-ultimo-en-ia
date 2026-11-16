@@ -16,6 +16,11 @@
 - Hashtags: #InteligenciaArtificial (genérico) → #BringJensenBack.
 - Diseño del Reel: el titular tapaba la cara de Jensen, ahora está más abajo. Slide final unificado en "tú" ("Sigue a", "Guárdalo").
 
+## Cazador de videos
+- Escena 1 del Reel: video real de Jensen Huang hablando (Wikimedia Commons, CC BY 3.0, del canal oficial de Narendra Modi, sept. 2024). El crédito va en el caption.
+- Descartados: 10 videos de YouTube "CC" de canales de comentario que usan imágenes ajenas, y videos de la Casa Blanca que no tienen relación.
+- Escenas 2 y 3: quedan con fotos.
+
 ## Sin cambios (a criterio)
 - No se menciona el escándalo personal (relaciones, presunta espía), para evitar sensacionalismo. Se usa "investigación sobre su conducta".
 - Las firmas son autodeclaradas (Xataka). Se dice "más de 175.000", la cifra más baja.
