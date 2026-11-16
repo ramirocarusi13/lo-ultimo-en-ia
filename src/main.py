@@ -1,7 +1,9 @@
 """Pipeline:  noticia en tendencia -> texto -> imágenes -> Instagram.
 
 Flujo con la tarea programada de Claude (usa la suscripción, sin API paga):
-  python src/main.py pick              # elige la noticia; deja las notas en work/<id>/story.json
+  python src/main.py pick              # 5 candidatas en work/<id>/candidatos.md
+  python src/main.py choose <id> <n>   # lee las notas de la candidata n -> work/<id>/notas.md
+  python src/main.py skipc <id> <n> "motivo"  # descarta una candidata
   (Claude escribe work/<id>/draft.json siguiendo prompts/redaccion.md)
   python src/main.py build <id>        # fotos (ComfyUI) + carrusel en posts/<id>/
   python src/main.py skip <id> "motivo"  # descarta la noticia para no volver a evaluarla
@@ -18,7 +20,7 @@ import time
 
 import imagegen
 from config import POSTS_DIR, ROOT
-from news import Article, Story, mark_posted, pick_trending_story
+from news import Article, Story, mark_posted, top_stories
 from render import render_carousel
 
 PENDING = POSTS_DIR / "pending.json"
@@ -40,19 +42,46 @@ def _load_story(post_id: str) -> Story:
     return Story([Article(**a) for a in data["articles"]])
 
 
-def pick() -> str | None:
-    story = pick_trending_story()
-    if not story:
+def pick(n: int = 5) -> str | None:
+    """Guarda las n mejores candidatas en work/<id>/candidatos.md para elegir una con `choose`."""
+    top = top_stories(n)
+    if not top:
         print("NADA: no hay noticia nueva en tendencia")
         return None
     post_id = time.strftime("%Y%m%d-%H%M")
-    _dump(WORK_DIR / post_id / "story.json", {"id": post_id, "articles": [vars(a) for a in story.articles]})
+    _dump(WORK_DIR / post_id / "candidatos.json",
+          [[vars(a) for a in s.articles] for s in top])
+    lines = []
+    for i, s in enumerate(top, 1):
+        age = (time.time() - max(a.published for a in s.articles)) / 3600
+        lines.append(f"## {i}. cobertura {s.coverage} medios · hace {age:.1f} h")
+        lines += [f"- [{a.source}] {a.title}" for a in s.articles[:5]]
+    text = "\n".join(lines)
+    (WORK_DIR / post_id / "candidatos.md").write_text(text, encoding="utf-8")
+    print(f"CANDIDATOS {post_id}\n{text}")
+    print(f"\nElegí una con: python src/main.py choose {post_id} <número>")
+    return post_id
+
+
+def choose(post_id: str, n: int) -> None:
+    """Toma la candidata n, lee las notas completas y deja work/<id>/notas.md para redactar."""
+    from news import prepare
     from writer import notes_text
+
+    cands = json.loads((WORK_DIR / post_id / "candidatos.json").read_text(encoding="utf-8-sig"))
+    story = prepare(Story([Article(**a) for a in cands[n - 1]]))
+    _dump(WORK_DIR / post_id / "story.json", {"id": post_id, "articles": [vars(a) for a in story.articles]})
     (WORK_DIR / post_id / "notas.md").write_text(notes_text(story), encoding="utf-8")
-    print(f"PICK {post_id}")
+    print(f"ELEGIDA {post_id}: {story.articles[0].title}")
     print(f"Notas: {WORK_DIR / post_id / 'notas.md'}")
     print(f"Escribí el borrador en: {WORK_DIR / post_id / 'draft.json'}")
-    return post_id
+
+
+def skip_candidate(post_id: str, n: int, reason: str) -> None:
+    """Descarta una candidata sin leer sus notas (para que no vuelva a aparecer)."""
+    cands = json.loads((WORK_DIR / post_id / "candidatos.json").read_text(encoding="utf-8-sig"))
+    mark_posted(Story([Article(**a) for a in cands[n - 1]]), kind="skip")
+    print(f"[main] candidata {n} descartada: {reason}")
 
 
 def skip(post_id: str, reason: str) -> None:
@@ -92,7 +121,9 @@ def build(post_id: str, post: dict | None = None, story: Story | None = None) ->
                 real[i] = found[name][k]
                 used[name] = k + 1
             print(f"[main] imagen {i + 1}: {name} -> {'foto real' if real[i] else 'sin foto libre'}")
-    news_photos = [(a.image, f"Foto: {a.source}") for a in story.articles if a.image]
+    # Nunca se usan las fotos de los medios (contenido ajeno con derechos): solo fotos con
+    # licencia libre o ilustraciones propias. Sin ninguna de las dos, el slide va con el fondo
+    # de marca.
     for i, prompt in enumerate(post.get("image_prompts", [])):
         dest = out / f"photo_{i + 1}.jpg"
         if i < 3 and real[i]:
@@ -104,12 +135,8 @@ def build(post_id: str, post: dict | None = None, story: Story | None = None) ->
             credits.append("")
             continue
         img = imagegen.generate(prompt, dest, seed=i + 1)
-        if img:
-            photos.append(img)
-            credits.append("")
-        elif i < len(news_photos):  # sin generador: foto de la nota
-            photos.append(news_photos[i][0])
-            credits.append(news_photos[i][1])
+        photos.append(img)  # None -> fondo de marca
+        credits.append("")
     # Sin créditos sobre las imágenes. Las fotos con licencia CC BY exigen nombrar al
     # autor: va en una línea del caption.
     paths = render_carousel(post, photos, [""] * len(photos), out)
@@ -136,9 +163,10 @@ def generate() -> bool:
     """Todo junto, redactando por la API de Anthropic (necesita ANTHROPIC_API_KEY)."""
     from writer import write_post
 
-    post_id = pick()
+    post_id = pick(1)
     if not post_id:
         return False
+    choose(post_id, 1)
     story = _load_story(post_id)
     post = write_post(story)
     if not post:
@@ -170,6 +198,10 @@ if __name__ == "__main__":
     cmd = args[0]
     if cmd == "pick":
         pick()
+    elif cmd == "choose":
+        choose(args[1], int(args[2]))
+    elif cmd == "skipc":
+        skip_candidate(args[1], int(args[2]), " ".join(args[3:]) or "sin motivo")
     elif cmd == "build":
         sys.exit(0 if build(args[1]) else 2)
     elif cmd == "skip":

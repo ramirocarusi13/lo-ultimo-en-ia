@@ -19,6 +19,7 @@ SCHEMA = {
     "properties": {
         "skip": {"type": "boolean"},
         "skip_reason": {"type": "string"},
+        "confidence": {"type": "string", "enum": ["alta", "media", "baja"]},
         "headline": {"type": "string"},
         "badge": {"type": "string"},
         "photos": {"type": "array", "items": {"type": "string"}},
@@ -27,7 +28,7 @@ SCHEMA = {
         "hashtags": {"type": "array", "items": {"type": "string"}},
         "image_prompts": {"type": "array", "items": {"type": "string"}},
     },
-    "required": ["skip", "skip_reason", "headline", "badge", "photos", "slides", "caption", "hashtags",
+    "required": ["skip", "skip_reason", "confidence", "headline", "badge", "photos", "slides", "caption", "hashtags",
                  "image_prompts"],
     "additionalProperties": False,
 }
@@ -43,12 +44,17 @@ def notes_text(story: Story) -> str:
 
 def validate(data: dict) -> dict | None:
     """Revisa un borrador; devuelve el post listo o None si hay que saltear la noticia."""
-    missing = [k for k in SCHEMA["required"] if k not in data]
+    optional = ("confidence", "photos")  # borradores viejos pueden no tenerlos
+    missing = [k for k in SCHEMA["required"] if k not in data and k not in optional]
     if missing:
         raise ValueError(f"faltan claves en el borrador: {missing}")
     if data["skip"]:
         print(f"[writer] saltada: {data['skip_reason']}")
         return None
+    if data.get("confidence") == "baja":  # verificación: nunca publicar algo poco confirmado
+        print("[writer] saltada: confianza baja (el hecho central no está bien confirmado)")
+        return None
+    data["hashtags"] = data["hashtags"][:5]  # límite de Instagram
     if len(data["slides"]) < 2 or not data["headline"].strip():
         raise ValueError("el borrador necesita headline y 2 slides")
     data["slides"] = data["slides"][:2]

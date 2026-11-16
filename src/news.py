@@ -195,18 +195,28 @@ def rate_limited(posted: dict) -> str | None:
     return None
 
 
-def pick_trending_story() -> Story | None:
+def top_stories(n: int = 5) -> list[Story]:
+    """Las n historias nuevas mejor puntuadas (cubiertas por >= MIN_SOURCES medios), o []
+    si no hay ninguna o si toca esperar por el ritmo de publicación."""
     posted = load_posted()
     wait = rate_limited(posted)
     if wait:
         print(f"[news] en pausa: {wait}")
-        return None
+        return []
     stories = [s for s in cluster(fetch_articles()) if not already_posted(s, posted)]
     stories = [s for s in stories if s.coverage >= MIN_SOURCES]
     if not stories:
         print(f"[news] ninguna historia nueva cubierta por >= {MIN_SOURCES} medios")
-        return None
-    best = max(stories, key=Story.score)
+    return sorted(stories, key=Story.score, reverse=True)[:n]
+
+
+def pick_trending_story() -> Story | None:
+    top = top_stories(1)
+    return prepare(top[0]) if top else None
+
+
+def prepare(best: Story) -> Story:
+    """Lee las notas completas de la historia elegida (un artículo por medio, máx 4)."""
     # nos quedamos con un artículo por medio, máx 4; primero los enlaces directos
     # al medio (los de Google Noticias no permiten leer la nota)
     seen, arts = set(), []

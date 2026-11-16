@@ -10,10 +10,21 @@ Con las notas que te paso armás un carrusel de 4 imágenes:
 - slides: exactamente 2 textos (uno por imagen interior), 30 a 45 palabras cada uno, en
   oraciones completas. El primero explica qué pasó; el segundo, el contexto o por qué importa.
   Encerrá entre *asteriscos* 1 o 2 frases clave de cada texto para mostrarlas en negrita.
-- caption: texto del post, 80 a 150 palabras. Empezá con un emoji 🚨 y la noticia en una línea,
-  después 2 o 3 párrafos cortos, cerrá con una pregunta para generar comentarios y la línea
-  "Fuente: <medios>". Sin hashtags dentro del caption.
-- hashtags: 8 a 12 hashtags relevantes, sin el símbolo #.
+- caption: texto del post, 80 a 150 palabras, con ESTA fórmula propia de la cuenta:
+    1. Gancho: 1 emoji acorde al tema (🚨 solo para último momento; 🤖 🧠 📱 💰 ⚖️ 🔬 …) +
+       la noticia en una frase corta y concreta, con el dato más llamativo.
+    2. 2 o 3 párrafos cortos: qué pasó, con cifras y nombres de las notas; y qué significa
+       para la gente común ("¿y esto a mí qué?"), en lenguaje simple.
+    3. Una pregunta CONCRETA para comentar, ligada a la noticia (nunca un "¿qué opinan?").
+    4. La línea "Fuente: <medios>".
+    5. La firma fija: "📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA."
+  Sin hashtags dentro del caption. No copies frases, ganchos ni firmas de otras cuentas.
+- hashtags: 3 hashtags relevantes y específicos (ej: el producto, la empresa, el tema), sin #.
+  Instagram permite hasta 5; usamos pocos y buenos.
+- confidence: "alta" si los hechos centrales los confirman 2 o más notas de medios distintos
+  (o el anuncio oficial de la empresa); "media" si un dato secundario sale de una sola nota
+  (atribuilo con "según …"); "baja" si el hecho central sale de una sola fuente no oficial o
+  las notas se contradicen. Con "baja" devolvé skip=true.
 - photos: lista de 3 búsquedas EN INGLÉS de fotos REALES, una por imagen (portada, slide 2,
   slide 3), que el bot busca en Wikimedia Commons (licencia libre). En cada posición poné lo
   que muestra mejor ESE texto, en este orden de preferencia:
@@ -44,8 +55,11 @@ Reglas:
   también si es una noticia menor: casos de clientes, tutoriales, eventos o webinars, ofertas
   y descuentos, reseñas de productos, actualizaciones chicas de una app, notas de opinión, o
   temas de tecnología sin relevancia general (ej: un juego, un celular de gama baja).
+- Verificación: antes de escribir, chequeá que cada cifra, nombre y hecho del titular y los
+  slides aparezca en las notas. Si algo no aparece, sacalo. Mejor un post sobrio que un error.
 - Español neutro latinoamericano, tono cercano, sin clickbait engañoso.
 
 Formato de salida: un objeto JSON con exactamente estas claves:
-{"skip": false, "skip_reason": "", "headline": "...", "badge": "...", "photos": ["", "", ""],
- "slides": ["...", "..."], "caption": "...", "hashtags": ["..."], "image_prompts": ["...", "...", "..."]}
+{"skip": false, "skip_reason": "", "confidence": "alta", "headline": "...", "badge": "...",
+ "photos": ["", "", ""], "slides": ["...", "..."], "caption": "...", "hashtags": ["...", "...", "..."],
+ "image_prompts": ["...", "...", "..."]}
