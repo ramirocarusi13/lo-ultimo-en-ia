@@ -1,0 +1,55 @@
+{
+ "id": "20261116-1514",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "headline": "*GOOGLE MAPS* YA PUEDE *LLAMAR A NEGOCIOS* Y ARMAR TUS *VIAJES CON IA*",
+  "badge": "Google",
+  "people": [
+   "",
+   "",
+   ""
+  ],
+  "slides": [
+   "Google lanzó nuevas funciones de *Ask Maps*, su asistente con IA dentro de Maps. Ahora arma itinerarios de viaje día por día, da consejos sobre la ruta antes de salir y, con *capacidades agénticas*, busca turnos y llama a negocios locales por vos.",
+   "Ask Maps se expande a *30 países de Europa*, incluida España, y ya llega a *más de 200 países y territorios*. Los itinerarios y la búsqueda en listas guardadas están disponibles en todos lados; los turnos y consejos de ruta arrancan primero en Estados Unidos."
+  ],
+  "caption": "🚨 Google Maps suma un asistente con IA que arma viajes y hasta llama a negocios por vos.\n\nGoogle lanzó cuatro funciones nuevas de Ask Maps en Android e iOS: itinerarios día por día con pines numerados en el mapa, consejos de ruta antes de salir (dónde estacionar o cargar el auto, clima, demoras y peajes) y búsqueda en tus listas guardadas con disponibilidad en tiempo real.\n\nLa más llamativa: con capacidades agénticas, Ask Maps puede buscar turnos de peluquería, mascotas, auto o reparaciones del hogar y llamar a negocios locales por vos. Por ahora, esto y los consejos de ruta arrancan en Estados Unidos.\n\nAdemás, Ask Maps se expande a 30 países de Europa, incluida España, y ya está en más de 200 países y territorios.\n\n¿Dejarías que una IA llame a un negocio en tu nombre?\n\nFuente: Google, ZDNET",
+  "hashtags": [
+   "inteligenciaartificial",
+   "IA",
+   "GoogleMaps",
+   "Google",
+   "AskMaps",
+   "agentesIA",
+   "tecnologia",
+   "viajes",
+   "noticiasIA",
+   "loultimoenia"
+  ],
+  "image_prompts": [
+   "A smartphone mounted on a car dashboard showing a colorful navigation map with a winding route, highway stretching ahead at golden hour, warm sunlight through the windshield, editorial photography, shallow depth of field, no readable text",
+   "Close-up of hands holding a smartphone over a paper road map spread on a car hood, scenic coastal road in the background, soft afternoon light, travel planning mood, realistic editorial photo, screen content blurred",
+   "Wide shot of a car driving along a scenic coastal highway at sunset, ocean on one side and hills on the other, aerial drone perspective, vivid warm colors, cinematic editorial photography, no signs or text"
+  ]
+ },
+ "caption": "🚨 Google Maps suma un asistente con IA que arma viajes y hasta llama a negocios por vos.\n\nGoogle lanzó cuatro funciones nuevas de Ask Maps en Android e iOS: itinerarios día por día con pines numerados en el mapa, consejos de ruta antes de salir (dónde estacionar o cargar el auto, clima, demoras y peajes) y búsqueda en tus listas guardadas con disponibilidad en tiempo real.\n\nLa más llamativa: con capacidades agénticas, Ask Maps puede buscar turnos de peluquería, mascotas, auto o reparaciones del hogar y llamar a negocios locales por vos. Por ahora, esto y los consejos de ruta arrancan en Estados Unidos.\n\nAdemás, Ask Maps se expande a 30 países de Europa, incluida España, y ya está en más de 200 países y territorios.\n\n¿Dejarías que una IA llame a un negocio en tu nombre?\n\nFuente: Google, ZDNET\n\n#inteligenciaartificial #IA #GoogleMaps #Google #AskMaps #agentesIA #tecnologia #viajes #noticiasIA #loultimoenia",
+ "slides": [
+  "posts/20261116-1514/slide_1.jpg",
+  "posts/20261116-1514/slide_2.jpg",
+  "posts/20261116-1514/slide_3.jpg",
+  "posts/20261116-1514/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "4 new Google Maps features to try on your next holiday road trip",
+   "link": "https://www.zdnet.com/tech/google-ask-maps-new-features-holiday-travel/",
+   "source": "ZDNET"
+  },
+  {
+   "title": "New Ask Maps features to help with holiday travel and prep",
+   "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+   "source": "Google"
+  }
+ ]
+}
