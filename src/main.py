@@ -72,19 +72,30 @@ def build(post_id: str, post: dict | None = None, story: Story | None = None) ->
     out = POSTS_DIR / post_id
     out.mkdir(parents=True, exist_ok=True)
     photos, credits = [], []
-    real = []  # fotos reales con licencia libre de la persona protagonista
-    if post.get("person"):
+    # Persona de cada imagen (portada, slide 2, slide 3): foto real con licencia libre.
+    people = post.get("people") or ([post["person"]] * 2 if post.get("person") else [])
+    real = [None] * 3
+    if any(people):
         import photos as person_photos
-        try:
-            real = person_photos.find_person_photos(post["person"], n=2)
-        except Exception as e:
-            print(f"[main] no se pudieron buscar fotos de {post['person']}: {e}")
-        print(f"[main] fotos reales de {post['person']}: {len(real)}")
+        found, used = {}, {}
+        for i, name in enumerate(people[:3]):
+            if not name:
+                continue
+            try:
+                found.setdefault(name, person_photos.find_person_photos(name, n=3))
+            except Exception as e:
+                print(f"[main] no se pudieron buscar fotos de {name}: {e}")
+                found[name] = []
+            k = used.get(name, 0)
+            if k < len(found[name]):  # otra foto distinta si la persona se repite
+                real[i] = found[name][k]
+                used[name] = k + 1
+            print(f"[main] imagen {i + 1}: {name} -> {'foto real' if real[i] else 'sin foto libre'}")
     news_photos = [(a.image, f"Foto: {a.source}") for a in story.articles if a.image]
     for i, prompt in enumerate(post.get("image_prompts", [])):
         dest = out / f"photo_{i + 1}.jpg"
-        if i < len(real):  # portada (y slide 2) con la foto real de la persona
-            photos.append(person_photos.download(real[i], dest))
+        if i < 3 and real[i]:
+            photos.append(person_photos.download(real[i], out / f"real_{i + 1}.jpg"))
             credits.append(real[i]["credit"])
             continue
         if dest.exists():  # rearmado (p. ej. tras corregir el texto): se reusa la foto ya generada

@@ -40,16 +40,18 @@ def find_person_photos(name: str, n: int = 2) -> list[dict]:
         title = p["title"].lower()
         if not any(lic.startswith(ok) for ok in OK_LICENSES):
             continue
-        if not all(t in title for t in tokens) or ii["width"] < 900:
+        if not all(t in title for t in tokens) or ii["width"] < 500:
             continue
         artist = _plain(meta.get("Artist", {}).get("value", "")) or "Wikimedia Commons"
         found.append({
             "url": ii.get("thumburl") or ii["url"],
             "portrait": ii["height"] >= ii["width"],
+            "width": ii["width"],
             "credit": f"Foto: {artist[:40]} / Wikimedia Commons ({_plain(meta['LicenseShortName']['value'])})",
             "page": ii.get("descriptionurl", ""),
         })
-    found.sort(key=lambda f: not f["portrait"])  # verticales primero (formato 4:5)
+    # verticales y grandes primero (formato 4:5)
+    found.sort(key=lambda f: (not f["portrait"], -f["width"]))
     return found[:n]
 
 

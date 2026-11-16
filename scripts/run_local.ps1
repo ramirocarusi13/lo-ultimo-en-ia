@@ -35,6 +35,7 @@ function Push-Repo($mensaje) {
     git diff --cached --quiet
     if ($LASTEXITCODE -ne 0) {
         git commit --quiet -m $mensaje 2>&1 | ForEach-Object { Log $_ }
+        git pull --rebase --autostash --quiet 2>&1 | ForEach-Object { Log $_ }
         git push --quiet 2>&1 | ForEach-Object { Log $_ }
         if ($LASTEXITCODE -ne 0) { Log 'ERROR: falló git push'; exit 1 }
     }
@@ -66,7 +67,6 @@ if ($Build) {
                 Stop-Process -Force -Confirm:$false
         }
     }
-    git pull --rebase --quiet 2>&1 | ForEach-Object { Log $_ }
     Push-Repo ("Nuevo post $Build")
     Log 'Imágenes subidas a GitHub'
 }

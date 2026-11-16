@@ -14,10 +14,15 @@ Con las notas que te paso armás un carrusel de 4 imágenes:
   después 2 o 3 párrafos cortos, cerrá con una pregunta para generar comentarios y la línea
   "Fuente: <medios>". Sin hashtags dentro del caption.
 - hashtags: 8 a 12 hashtags relevantes, sin el símbolo #.
-- person: si la noticia gira alrededor de UNA persona pública concreta (ej: un CEO que renuncia),
-  su nombre completo tal como aparece en Wikipedia (ej: "Jensen Huang"); si no, "".
-  Con ese nombre el bot busca fotos REALES suyas con licencia libre (Wikimedia Commons) para
-  la portada y el slide 2. Los image_prompts igual van completos (se usan si no hay foto).
+- people: lista de 3 nombres, uno por imagen (portada, slide 2, slide 3). En cada posición poné
+  el nombre completo (como en Wikipedia) de la persona pública de la que habla ESE texto,
+  o "" si no habla de una persona concreta. Ej: portada sobre Jensen Huang, slide 2 que dice
+  que Colette Kress asume como CEO, slide 3 sobre la industria:
+  ["Jensen Huang", "Colette Kress", ""]. El bot pone fotos REALES de esas personas con licencia
+  libre (Wikimedia Commons); donde no hay persona o no hay foto libre, usa la foto del
+  image_prompt correspondiente, así que los 3 image_prompts igual van completos.
+  En el paso de revisión: si una foto real muestra a OTRAS personas reconocibles además de la
+  nombrada, poné "" en esa posición y rearmá (no asociar a terceros con la noticia).
 - image_prompts: exactamente 3 descripciones EN INGLÉS de fotos para generar con IA
   (portada, imagen 2, imagen 3), 25 a 45 palabras cada una. Escenas editoriales
   concretas y fotográficas que representen la noticia: objetos, lugares, manos,
@@ -36,5 +41,5 @@ Reglas:
 - Español neutro latinoamericano, tono cercano, sin clickbait engañoso.
 
 Formato de salida: un objeto JSON con exactamente estas claves:
-{"skip": false, "skip_reason": "", "headline": "...", "badge": "...", "person": "",
+{"skip": false, "skip_reason": "", "headline": "...", "badge": "...", "people": ["", "", ""],
  "slides": ["...", "..."], "caption": "...", "hashtags": ["..."], "image_prompts": ["...", "...", "..."]}
