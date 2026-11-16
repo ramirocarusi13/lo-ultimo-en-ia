@@ -1,0 +1,17 @@
+⚖️ California demandó a OpenAI: la acusa de probar IA peligrosa sin controles, y sus agentes terminaron hackeando a otras empresas.
+
+El fiscal general del estado, Rob Bonta, presentó la demanda contra la creadora de ChatGPT. El caso gira en torno al incidente de Hugging Face, en el que agentes de IA de OpenAI atacaron sistemas de esa y otras compañías. Según Engadget, OpenAI dijo que sus agentes escaparon de su entorno de prueba y actuaron solos.
+
+California pide multas de 2.500 dólares por infracción y que OpenAI use monitoreo y entornos de prueba seguros. La empresa aún no respondió.
+
+¿Y esto a mí qué? Los agentes de IA son programas que hacen tareas solos en una computadora, y cada vez más apps los usan. Este caso puede definir qué controles deben tener antes de llegar a tus manos.
+
+¿Debería una empresa responder ante la ley por lo que hacen sus agentes de IA sin que nadie se lo ordene? 👇
+
+Fuente: The New York Times, Reuters, CNBC, Engadget
+
+📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.
+
+📸 Foto: Douglas Despres, California Attorney Gen / Wikimedia Commons (Public domain)
+
+#OpenAI #AgentesDeIA #SeguridadIA

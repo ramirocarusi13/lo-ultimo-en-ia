@@ -1,0 +1,59 @@
+{
+ "id": "20261116-1616",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "TRUMP APOYA QUE *JENSEN HUANG VUELVA*, PERO NVIDIA *NO LO CONSIDERA*",
+  "badge": "NVIDIA",
+  "photos": [
+   "Jensen Huang#2",
+   "Donald Trump",
+   "Nvidia headquarters#2"
+  ],
+  "slides": [
+   "Una campaña para que Jensen Huang *vuelva a dirigir Nvidia* ya suma más de 175.000 firmas, con apoyos como Elon Musk y Tim Sweeney. Donald Trump dijo que *no le molestaría* verlo de regreso.",
+   "Pero según una fuente citada por CNBC, el directorio *no está considerando recontratarlo*: está enfocado en la investigación sobre su conducta y eligiendo una firma para buscar nuevo CEO. Y el secretario del Tesoro, Scott Bessent, *pidió un reemplazo externo*."
+  ],
+  "caption": "🔄 Crece la campaña para que Jensen Huang vuelva a Nvidia, y Donald Trump la apoya.\n\nLa petición \"Bring Jensen Back\" ya superó las 175.000 firmas y la respaldan figuras como Elon Musk y Tim Sweeney, CEO de Epic Games. Trump dijo a la prensa que \"no le molestaría\" ver a Huang otra vez al frente de la empresa.\n\nDel otro lado, una fuente citada por CNBC asegura que el directorio no está considerando recontratarlo: sigue enfocado en la investigación sobre su conducta y en elegir una firma para buscar nuevo CEO. Mientras tanto, Colette Kress sigue como CEO interina.\n\n¿Y esto a mí qué? Nvidia es una pieza clave de la industria de la IA: sus chips están detrás de buena parte de los modelos que usas todos los días. Quién la dirija pesa en toda la industria.\n\n¿Crees que el directorio terminará cediendo a la presión? 👇\n\nFuente: CNBC, BBC, The Verge, Xataka\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "Nvidia",
+   "JensenHuang",
+   "InteligenciaArtificial"
+  ],
+  "image_prompts": [
+   "A glowing green graphics chip on a pedestal at the center of a tug of war between two groups of abstract geometric arrows, dark navy background, cyan and violet light",
+   "A giant stack of floating digital signature papers rising into the sky like a tower, glowing envelopes, dark navy background with cyan and violet accents",
+   "An empty glowing executive chair at the end of a long boardroom table seen from above, abstract geometric shapes, dark navy background with cyan and violet light"
+  ]
+ },
+ "caption": "🔄 Crece la campaña para que Jensen Huang vuelva a Nvidia, y Donald Trump la apoya.\n\nLa petición \"Bring Jensen Back\" ya superó las 175.000 firmas y la respaldan figuras como Elon Musk y Tim Sweeney, CEO de Epic Games. Trump dijo a la prensa que \"no le molestaría\" ver a Huang otra vez al frente de la empresa.\n\nDel otro lado, una fuente citada por CNBC asegura que el directorio no está considerando recontratarlo: sigue enfocado en la investigación sobre su conducta y en elegir una firma para buscar nuevo CEO. Mientras tanto, Colette Kress sigue como CEO interina.\n\n¿Y esto a mí qué? Nvidia es una pieza clave de la industria de la IA: sus chips están detrás de buena parte de los modelos que usas todos los días. Quién la dirija pesa en toda la industria.\n\n¿Crees que el directorio terminará cediendo a la presión? 👇\n\nFuente: CNBC, BBC, The Verge, Xataka\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Anders Eidesvik / Wikimedia Commons (CC BY 4.0)\n📸 Foto: Daniel Torok / Wikimedia Commons (Public domain)\n📸 Foto: Coolcaesar at English Wikipedia / Wikimedia Commons (CC BY-SA 3.0)\n\n#Nvidia #JensenHuang #InteligenciaArtificial",
+ "slides": [
+  "posts/20261116-1616/slide_1.jpg",
+  "posts/20261116-1616/slide_2.jpg",
+  "posts/20261116-1616/slide_3.jpg",
+  "posts/20261116-1616/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+   "link": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+   "source": "The Verge"
+  },
+  {
+   "title": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
+   "link": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
+   "source": "CNBC"
+  },
+  {
+   "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+   "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC"
+  },
+  {
+   "title": "Guerra interna por el control de Nvidia: la vuelta de Jensen Huang como CEO está encima de la mesa",
+   "link": "https://www.xataka.com/empresas-y-economia/guerra-interna-control-nvidia-vuelta-jensen-huang-como-ceo-esta-encima-mesa",
+   "source": "Xataka"
+  }
+ ]
+}
