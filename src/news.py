@@ -17,7 +17,9 @@ import feedparser
 import requests
 from bs4 import BeautifulSoup
 
-from config import BLOCKED_SOURCES, FEEDS, MAX_AGE_HOURS, MIN_SOURCES, STATE_FILE
+from config import (BLOCKED_SOURCES, FEEDS, MAX_AGE_HOURS, MAX_POSTS_PER_DAY,
+                    MIN_MINUTES_BETWEEN_POSTS, MIN_SOURCES, OFFICIAL_SOURCES, SOURCE_NAMES,
+                    STATE_FILE)
 
 UA = {"User-Agent": "Mozilla/5.0 (compatible; news-carousel-bot/1.0)"}
 
@@ -58,12 +60,14 @@ class Story:
         """Medios distintos que la cubren con su propio titular. Una nota copiada
         tal cual en varios sitios (sindicación) cuenta como uno solo."""
         titles = {re.sub(r"\W+", " ", a.title.lower()).strip() for a in self.articles}
-        return min(len(self.sources), len(titles))
+        official = any(a.source in OFFICIAL_SOURCES for a in self.articles)
+        return min(len(self.sources), len(titles)) + (1 if official else 0)
 
     def score(self) -> float:
+        # lo más cubierto y lo más reciente primero (modo "último momento")
         newest = max(a.published for a in self.articles)
         age_h = (time.time() - newest) / 3600
-        return self.coverage * 10 - age_h * 0.5
+        return self.coverage * 10 - age_h * 2
 
 
 def _words(title: str) -> set[str]:
@@ -75,8 +79,10 @@ def _source_of(entry, feed_url: str) -> str:
     # Google News trae el medio real en entry.source
     src = getattr(entry, "source", None)
     if src and getattr(src, "title", None):
-        return src.title
-    return urlparse(feed_url).netloc.replace("www.", "")
+        name = src.title.strip()
+        return {"BBC News": "BBC", "NVIDIA Newsroom": "NVIDIA", "The Verge.": "The Verge"}.get(name, name)
+    host = urlparse(feed_url).netloc.replace("www.", "")
+    return SOURCE_NAMES.get(host, host)
 
 
 def fetch_articles() -> list[Article]:
@@ -177,8 +183,24 @@ def enrich(article: Article) -> Article:
     return article
 
 
+def rate_limited(posted: dict) -> str | None:
+    """Motivo para no publicar todavía (ritmo máximo), o None si se puede."""
+    now = time.time()
+    posts = [h["at"] for h in posted.get("history", []) if h.get("kind", "post") == "post"]
+    if posts and now - max(posts) < MIN_MINUTES_BETWEEN_POSTS * 60:
+        mins = int((now - max(posts)) / 60)
+        return f"el último post fue hace {mins} min (mínimo {MIN_MINUTES_BETWEEN_POSTS})"
+    if sum(1 for t in posts if now - t < 86400) >= MAX_POSTS_PER_DAY:
+        return f"ya hay {MAX_POSTS_PER_DAY} posts en las últimas 24 h"
+    return None
+
+
 def pick_trending_story() -> Story | None:
     posted = load_posted()
+    wait = rate_limited(posted)
+    if wait:
+        print(f"[news] en pausa: {wait}")
+        return None
     stories = [s for s in cluster(fetch_articles()) if not already_posted(s, posted)]
     stories = [s for s in stories if s.coverage >= MIN_SOURCES]
     if not stories:
@@ -199,12 +221,15 @@ def pick_trending_story() -> Story | None:
     return best
 
 
-def mark_posted(story: Story, permalink: str | None = None) -> None:
+def mark_posted(story: Story, permalink: str | None = None, kind: str = "post") -> None:
+    """kind: "post" (se armó un carrusel) o "skip" (noticia descartada)."""
     posted = load_posted()
+    if story.articles and all(a.link in set(posted.get("links", [])) for a in story.articles):
+        return  # ya registrada (p. ej. al rearmar el mismo post)
     posted.setdefault("links", []).extend(a.link for a in story.articles)
     posted.setdefault("titles", []).append(story.articles[0].title)
     posted.setdefault("history", []).append(
-        {"title": story.articles[0].title, "at": int(time.time()), "permalink": permalink}
+        {"title": story.articles[0].title, "at": int(time.time()), "permalink": permalink, "kind": kind}
     )
     posted["links"] = posted["links"][-1000:]
     STATE_FILE.parent.mkdir(parents=True, exist_ok=True)

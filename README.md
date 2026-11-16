@@ -8,10 +8,13 @@ para seguir la cuenta.
 
 ## Cómo funciona
 
-1. **Busca tendencias** (`src/news.py`): lee ~10 medios de tecnología (TechCrunch, The Verge,
-   Xataka, Wired, Google Noticias…) y agrupa los titulares que hablan de lo mismo (también
-   entre inglés y español). La historia que cubren **más medios distintos en las últimas
-   horas** es la que está en tendencia; exige al menos 2 (`MIN_SOURCES`). Una nota copiada
+1. **Busca noticias de último momento** (`src/news.py`): lee ~27 fuentes (TechCrunch, The Verge,
+   Ars Technica, Engadget, CNBC, NYT, BBC, Xataka, Infobae, El País, Google Noticias y los blogs
+   oficiales de OpenAI, Google, DeepMind, NVIDIA y Hugging Face) y agrupa los titulares que
+   hablan de lo mismo (también entre inglés y español). Elige la historia de las últimas 12 h
+   que cubren **más medios distintos**, priorizando lo más reciente; exige al menos 2
+   (`MIN_SOURCES`; un anuncio oficial cuenta doble). Respeta un mínimo de 60 min entre posts y
+   un máximo de 12 por día (`MIN_MINUTES_BETWEEN_POSTS`, `MAX_POSTS_PER_DAY`). Una nota copiada
    tal cual en varios sitios cuenta como una sola, y los sitios de recomendaciones bursátiles
    están bloqueados (`BLOCKED_SOURCES` en `src/config.py`).
 2. **Redacta**: Claude, en una tarea programada de la app de Claude (con la suscripción, sin
@@ -29,7 +32,7 @@ para seguir la cuenta.
 6. **Revisa y publica**: Claude mira las 4 imágenes antes de publicar; si están bien,
    `src/publish.py` sube el carrusel con la API oficial de Instagram.
 7. **Se repite solo**: la tarea programada de la app de Claude (instrucciones en
-   `prompts/tarea_programada.md`) corre 3 veces por día. `state/posted.json` recuerda lo
+   `prompts/tarea_programada.md`) revisa las fuentes cada 20 minutos. `state/posted.json` recuerda lo
    publicado para no repetir.
 
 ¿Por qué en la PC y no en GitHub Actions? Los servidores de Actions no tienen placa de video

@@ -6,14 +6,15 @@ Hacé estos pasos en orden:
 
 1. Elegir la noticia. Corré:
    .\.venv\Scripts\python.exe src\main.py pick
-   - Si imprime "NADA", terminá: no hay noticia nueva para publicar.
+   - Si imprime "NADA" (o "en pausa": se respeta un mínimo entre posts y un máximo por día),
+     terminá enseguida: no hay noticia nueva para publicar.
    - Si imprime "PICK <id>", seguí con ese <id>.
 
 2. Redactar. Leé las reglas en prompts\redaccion.md y las notas en work\<id>\notas.md.
    Escribí el borrador como JSON (UTF-8) en work\<id>\draft.json, cumpliendo TODAS las reglas
    (largos, asteriscos, 3 image_prompts en inglés sin personas reales, logos ni texto).
-   - Si la noticia no cumple las reglas (rumor, acusación sin pruebas, no es de IA,
-     recomendación de inversión), corré
+   - Si la noticia no cumple las reglas (rumor, acusación sin pruebas, no es de IA/tecnología,
+     recomendación de inversión, noticia menor), corré
      .\.venv\Scripts\python.exe src\main.py skip <id> "motivo"
      y volvé al paso 1 (como máximo 3 veces en total).
 
@@ -25,6 +26,8 @@ Hacé estos pasos en orden:
 4. Revisar. Mirá las 4 imágenes posts\<id>\slide_1.jpg ... slide_4.jpg. Verificá que el
    texto se lea completo, que no haya errores de ortografía, que las fotos no muestren
    texto deformado, logos ni personas reconocibles, y que el titular sea fiel a las notas.
+   - Si una foto real (de Wikimedia) muestra a otras personas reconocibles además de la
+     nombrada, poné "" en esa posición de "people" en el draft y repetí el paso 3.
    - Si algo está mal en el TEXTO: corregí work\<id>\draft.json y repetí el paso 3.
      (Una sola vez; si sigue mal, terminá sin publicar y explicá por qué.)
 

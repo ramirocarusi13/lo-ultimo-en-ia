@@ -56,7 +56,7 @@ def pick() -> str | None:
 
 
 def skip(post_id: str, reason: str) -> None:
-    mark_posted(_load_story(post_id))
+    mark_posted(_load_story(post_id), kind="skip")
     print(f"[main] noticia {post_id} descartada: {reason}")
 
 
@@ -67,7 +67,7 @@ def build(post_id: str, post: dict | None = None, story: Story | None = None) ->
     if post is None:
         post = validate(json.loads((WORK_DIR / post_id / "draft.json").read_text(encoding="utf-8")))
         if post is None:
-            mark_posted(story)
+            mark_posted(story, kind="skip")
             return False
     out = POSTS_DIR / post_id
     out.mkdir(parents=True, exist_ok=True)
@@ -141,7 +141,7 @@ def generate() -> bool:
     story = _load_story(post_id)
     post = write_post(story)
     if not post:
-        mark_posted(story)
+        mark_posted(story, kind="skip")
         return False
     return build(post_id, post, story)
 

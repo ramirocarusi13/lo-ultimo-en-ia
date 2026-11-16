@@ -38,6 +38,10 @@ Reglas:
 - Si la noticia es un rumor sin confirmar, acusa a una persona de un delito o conducta
   privada sin pruebas sólidas, no trata de IA/tecnología, o es una recomendación de inversión
   o predicción bursátil ("comprá esta acción"), devolvé skip=true con el motivo.
+- La cuenta publica las noticias IMPORTANTES de IA y tecnología apenas salen. Devolvé skip=true
+  también si es una noticia menor: casos de clientes, tutoriales, eventos o webinars, ofertas
+  y descuentos, reseñas de productos, actualizaciones chicas de una app, notas de opinión, o
+  temas de tecnología sin relevancia general (ej: un juego, un celular de gama baja).
 - Español neutro latinoamericano, tono cercano, sin clickbait engañoso.
 
 Formato de salida: un objeto JSON con exactamente estas claves:
