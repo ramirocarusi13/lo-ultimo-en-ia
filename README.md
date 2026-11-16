@@ -1,8 +1,8 @@
 # Lo Último en IA — bot de Instagram
 
-Publica solo carruseles de noticias de IA con estilo propio (azul noche, celeste y violeta):
-portada con foto + titular grande con palabras en celeste, 2 imágenes con la explicación
-y una imagen final de "Síguenos".
+Publica sola carruseles de noticias de IA con diseño propio (azul noche, celeste y violeta):
+portada con foto + titular grande, 2 imágenes que explican la noticia y una imagen final
+para seguir la cuenta.
 
 ![ejemplo](docs/ejemplo/preview.jpg)
 
@@ -15,9 +15,14 @@ y una imagen final de "Síguenos".
 2. **Redacta** (`src/writer.py`): Claude lee las notas y escribe titular, los 2 textos del
    carrusel, el caption y los hashtags en español. Solo usa datos de las notas; si la
    noticia es un rumor o acusa a alguien sin pruebas, la descarta.
-3. **Diseña** (`src/render.py`): arma las 4 imágenes 1080×1350 con la foto de la nota.
-4. **Publica** (`src/publish.py`): sube el carrusel con la API oficial de Instagram.
-5. **Se repite solo**: GitHub Actions lo corre 3 veces por día (`.github/workflows/post.yml`).
+3. **Genera las fotos con IA open source** (`src/imagegen.py`): Claude describe 3 escenas
+   y el modelo **FLUX.1 [schnell]** (Black Forest Labs, licencia Apache 2.0) las genera
+   en Hugging Face. Nunca muestra personas reales ni logos. Si no hay token de Hugging
+   Face, usa la foto principal de la nota con el crédito del medio.
+4. **Diseña** (`src/render.py` + `src/templates/carousel.html`): plantilla HTML/CSS
+   renderizada con Chromium (Playwright), con tipografías Archivo, Inter y Space Grotesk.
+5. **Publica** (`src/publish.py`): sube el carrusel con la API oficial de Instagram.
+6. **Se repite solo**: GitHub Actions lo corre 3 veces por día (`.github/workflows/post.yml`).
    `state/posted.json` recuerda lo publicado para no repetir.
 
 ## Puesta en marcha
@@ -25,7 +30,7 @@ y una imagen final de "Síguenos".
 ### 1. Crear la cuenta de Instagram
 - Creá la cuenta **@loultimoenia** (o el usuario que esté libre) desde la app.
 - Pasala a **cuenta profesional** (Configuración → Tipo de cuenta → Creador o Empresa).
-- Foto de perfil: podés usar `docs/logo.png`.
+- Foto de perfil: `docs/logo.png`, o el logo que elijas de Canva.
 
 ### 2. Conseguir acceso a la API de Instagram
 - Entrá a <https://developers.facebook.com> → Crear app → tipo *Empresa*.
@@ -45,6 +50,7 @@ En el repo → Settings → Secrets and variables → Actions:
 | Tipo | Nombre | Valor |
 |---|---|---|
 | Secret | `ANTHROPIC_API_KEY` | tu clave de <https://console.anthropic.com> |
+| Secret | `HF_TOKEN` | token de <https://huggingface.co/settings/tokens> con permiso *Make calls to Inference Providers* (opcional, para fotos con FLUX) |
 | Secret | `IG_USER_ID` | ID de la cuenta de Instagram |
 | Secret | `IG_ACCESS_TOKEN` | token del paso 2 |
 | Variable | `IG_HANDLE` | `@loultimoenia` |
@@ -60,6 +66,7 @@ Actions → "Publicar noticia de IA" → *Run workflow*.
 
 ```bash
 pip install -r requirements.txt
+python -m playwright install chromium
 export ANTHROPIC_API_KEY=...
 python src/main.py generate   # genera posts/<fecha>/slide_1..4.jpg + caption
 python src/main.py publish    # publica (necesita IG_USER_ID, IG_ACCESS_TOKEN, PUBLIC_BASE_URL)
@@ -67,12 +74,15 @@ python src/main.py publish    # publica (necesita IG_USER_ID, IG_ACCESS_TOKEN, P
 
 ## Ajustes
 - Medios y frecuencia: `src/config.py` y los `cron` del workflow.
-- Colores, nombre y tipografías: `src/config.py` y `fonts/` (Anton y Montserrat, licencia OFL).
+- Colores y nombre: `src/config.py`. Diseño: `src/templates/carousel.html` (HTML/CSS común).
+- Modelo de imágenes: variable `IMAGE_MODEL` (por defecto `black-forest-labs/FLUX.1-schnell`;
+  con más créditos podés usar `black-forest-labs/FLUX.1-dev`, de mejor calidad).
+- Tipografías en `fonts/` (Archivo, Inter, Space Grotesk; licencia OFL).
 - Estilo de redacción: el prompt en `src/writer.py`.
 
 ## Ojo con
-- **Fotos**: se usa la imagen principal de cada nota con el crédito del medio. Es lo que hacen
-  muchas cuentas de noticias, pero esas fotos tienen derechos de autor y un medio puede pedir
-  que la bajes. Si querés evitar ese riesgo, cambiá las fotos por imágenes propias o de bancos libres.
+- **Fotos**: con `HF_TOKEN` las imágenes son propias (generadas con IA) y llevan la aclaración
+  "Imagen generada con IA". Sin token se usa la foto de la nota: tiene derechos de autor y un
+  medio puede pedir que la bajes.
 - **Límites de Instagram**: máximo 50 publicaciones por día vía API; 3 por día está bien.
 - Aunque Claude filtra rumores, conviene revisar de vez en cuando lo que se publica.

@@ -10,11 +10,12 @@ POSTS_DIR = ROOT / "posts"
 # ---- Marca ----
 BRAND_NAME = "Lo Último en IA"
 HANDLE = os.getenv("IG_HANDLE") or "@loultimoenia"
-ACCENT = (0, 220, 255)        # celeste eléctrico: palabras resaltadas
-VIOLET = (124, 58, 237)       # violeta: logo, etiqueta y botón
-VIOLET_DARK = (60, 20, 140)
-BG = (8, 10, 28)              # azul noche de fondo
-WHITE = (255, 255, 255)
+COLORS = {
+    "bg": "#080A1C",       # azul noche
+    "bg2": "#11153A",
+    "accent": "#00DCFF",   # celeste eléctrico (palabras resaltadas)
+    "accent2": "#7C3AED",  # violeta (etiquetas y botones)
+}
 SIZE = (1080, 1350)           # formato vertical 4:5 de Instagram
 
 # ---- Fuentes (RSS) ----

@@ -13,6 +13,7 @@ import sys
 import time
 from pathlib import Path
 
+import imagegen
 from config import POSTS_DIR
 from news import Story, mark_posted, pick_trending_story
 from render import render_carousel
@@ -31,8 +32,17 @@ def generate() -> bool:
         return False
     post_id = time.strftime("%Y%m%d-%H%M")
     out = POSTS_DIR / post_id
-    photos = [a.image for a in story.articles if a.image][:3]
-    credits = [f"Foto: {a.source}" for a in story.articles if a.image][:3]
+    out.mkdir(parents=True, exist_ok=True)
+    photos, credits = [], []
+    news_photos = [(a.image, f"Foto: {a.source}") for a in story.articles if a.image]
+    for i, prompt in enumerate(post.get("image_prompts", [])):
+        img = imagegen.generate(prompt, out / f"photo_{i + 1}.jpg", seed=i + 1)
+        if img:
+            photos.append(img)
+            credits.append("Imagen generada con IA")
+        elif i < len(news_photos):  # sin generador: foto de la nota
+            photos.append(news_photos[i][0])
+            credits.append(news_photos[i][1])
     paths = render_carousel(post, photos, credits, out)
     tags = " ".join("#" + h.lstrip("#").replace(" ", "") for h in post["hashtags"])
     caption = f"{post['caption']}\n\n{tags}"

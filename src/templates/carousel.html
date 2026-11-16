@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<style>
+  @font-face { font-family: "Archivo"; src: url("../../fonts/Archivo.ttf"); font-weight: 100 900; font-stretch: 62% 125%; }
+  @font-face { font-family: "Inter"; src: url("../../fonts/Inter.ttf"); font-weight: 100 900; }
+  @font-face { font-family: "Space Grotesk"; src: url("../../fonts/SpaceGrotesk.ttf"); font-weight: 300 700; }
+
+  :root {
+    --bg: {{ c.bg }};
+    --bg2: {{ c.bg2 }};
+    --accent: {{ c.accent }};
+    --accent2: {{ c.accent2 }};
+    --text: #F5F7FF;
+    --muted: #A9B0D0;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 1080px; height: 1350px; background: var(--bg); overflow: hidden; }
+  body { font-family: "Inter", sans-serif; color: var(--text); -webkit-font-smoothing: antialiased; }
+
+  .slide { position: relative; width: 1080px; height: 1350px; overflow: hidden; background: var(--bg); }
+
+  /* ---------- piezas comunes ---------- */
+  .photo { position: absolute; inset: 0; background-size: cover; background-position: center 30%; }
+  .grain::after {
+    content: ""; position: absolute; inset: 0; pointer-events: none; opacity: .07; mix-blend-mode: overlay;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+  }
+  .brand { position: absolute; top: 56px; left: 64px; display: flex; align-items: center; gap: 18px; z-index: 5; }
+  .brand svg { width: 64px; height: 64px; filter: drop-shadow(0 6px 18px rgba(0,0,0,.45)); }
+  .brand .name { font-family: "Space Grotesk"; font-weight: 700; font-size: 27px; letter-spacing: .5px; line-height: 1.05;
+                 text-shadow: 0 2px 12px rgba(0,0,0,.55); }
+  .brand .name small { display: block; font-family: "Inter"; font-weight: 500; font-size: 20px; color: #D7DCF5; letter-spacing: .2px; }
+  .credit { position: absolute; right: 64px; bottom: 34px; font-size: 19px; color: rgba(255,255,255,.55); font-weight: 500; z-index: 5; }
+  .hl { color: var(--accent); }
+
+  /* ---------- 1. portada ---------- */
+  .cover .photo { bottom: 470px; }
+  .cover .shade { position: absolute; inset: 0;
+    background: linear-gradient(180deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 18%, rgba(0,0,0,0) 38%, var(--bg) 66%, var(--bg) 100%); }
+  .tag { display: inline-flex; align-items: center; gap: 12px; padding: 12px 22px 12px 18px; border-radius: 999px;
+         background: var(--accent2); font-family: "Space Grotesk"; font-weight: 700; font-size: 24px; letter-spacing: 2px;
+         text-transform: uppercase; box-shadow: 0 10px 30px rgba(0,0,0,.35); }
+  .tag i { width: 12px; height: 12px; border-radius: 50%; background: #fff; box-shadow: 0 0 0 6px rgba(255,255,255,.25); }
+  .cover .body { position: absolute; left: 64px; right: 64px; bottom: 150px; }
+  .cover .entity { display: inline-block; margin-left: 12px; padding: 12px 22px; border-radius: 999px; font-family: "Space Grotesk";
+                   font-weight: 700; font-size: 24px; letter-spacing: 1px; background: rgba(255,255,255,.12);
+                   border: 1.5px solid rgba(255,255,255,.28); backdrop-filter: blur(10px); text-transform: uppercase; }
+  .headline { margin-top: 30px; font-family: "Archivo"; font-stretch: 72%; font-weight: 850; text-transform: uppercase;
+              font-size: {{ headline_size }}px; line-height: .98; letter-spacing: -.5px; text-wrap: balance; }
+  .rule { margin-top: 34px; height: 4px; width: 120px; border-radius: 4px; background: linear-gradient(90deg, var(--accent), var(--accent2)); }
+  .swipe { position: absolute; left: 64px; right: 64px; bottom: 64px; display: flex; justify-content: space-between; align-items: center;
+           font-family: "Space Grotesk"; font-weight: 600; font-size: 26px; color: var(--muted); }
+  .swipe b { color: var(--text); display: inline-flex; align-items: center; gap: 14px; }
+  .swipe b span { display: inline-grid; place-items: center; width: 48px; height: 48px; border-radius: 50%; background: var(--text); color: var(--bg); font-size: 26px; }
+
+  /* ---------- 2/3. explicación ---------- */
+  .story .photo { bottom: 0; }
+  .story .shade { position: absolute; inset: 0;
+    background: linear-gradient(180deg, rgba(0,0,0,.55) 0%, rgba(0,0,0,0) 20%, rgba(0,0,0,0) 34%, rgba(8,10,28,.86) 58%, var(--bg) 78%); }
+  .story .body { position: absolute; left: 64px; right: 64px; bottom: 110px; }
+  .step { display: flex; align-items: center; gap: 18px; font-family: "Space Grotesk"; font-weight: 700; font-size: 26px;
+          letter-spacing: 3px; color: var(--accent); text-transform: uppercase; }
+  .step::after { content: ""; flex: 1; height: 2px; background: linear-gradient(90deg, rgba(255,255,255,.35), transparent); }
+  .story p { margin-top: 28px; font-size: {{ body_size }}px; line-height: 1.38; font-weight: 500; color: #E9ECFA; text-wrap: pretty; }
+  .story p strong { color: #fff; font-weight: 800; }
+
+  /* ---------- 4. cierre ---------- */
+  .cta { background: radial-gradient(900px 700px at 85% 0%, color-mix(in srgb, var(--accent2) 55%, transparent), transparent 60%),
+                     radial-gradient(800px 700px at 0% 100%, color-mix(in srgb, var(--accent) 30%, transparent), transparent 60%),
+                     var(--bg); }
+  .cta .grid { position: absolute; inset: 0; opacity: .12;
+    background-image: linear-gradient(rgba(255,255,255,.6) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.6) 1px, transparent 1px);
+    background-size: 60px 60px; mask-image: radial-gradient(ellipse at center, #000 20%, transparent 75%); }
+  .cta .inner { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 0 90px; }
+  .cta .mark svg { width: 200px; height: 200px; filter: drop-shadow(0 20px 50px rgba(0,0,0,.5)); }
+  .cta h2 { margin-top: 56px; font-family: "Archivo"; font-stretch: 72%; font-weight: 850; text-transform: uppercase; font-size: 112px; line-height: .98; }
+  .cta .sub { margin-top: 28px; font-size: 34px; color: var(--muted); font-weight: 500; line-height: 1.35; }
+  .chips { margin-top: 48px; display: flex; gap: 16px; flex-wrap: wrap; justify-content: center; }
+  .chip { padding: 16px 26px; border-radius: 999px; background: rgba(255,255,255,.07); border: 1.5px solid rgba(255,255,255,.16);
+          font-size: 26px; font-weight: 600; }
+  .follow { margin-top: 64px; display: inline-flex; align-items: center; gap: 18px; padding: 26px 48px; border-radius: 999px;
+            background: linear-gradient(90deg, var(--accent), var(--accent2)); color: #fff; font-family: "Space Grotesk";
+            font-weight: 700; font-size: 36px; box-shadow: 0 18px 50px color-mix(in srgb, var(--accent2) 45%, transparent); }
+</style>
+</head>
+<body>
+{% set logo %}
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="{{ c.accent }}"/><stop offset="1" stop-color="{{ c.accent2 }}"/></linearGradient>
+  </defs>
+  <rect x="3" y="3" width="114" height="114" rx="32" fill="{{ c.bg }}" stroke="url(#g)" stroke-width="5"/>
+  <text x="56" y="83" text-anchor="middle" font-family="Archivo" font-stretch="80%" font-weight="900" font-size="64" fill="#fff" letter-spacing="-1">IA</text>
+  <path d="M93 22 L96.5 32 L106 35.5 L96.5 39 L93 49 L89.5 39 L80 35.5 L89.5 32 Z" fill="url(#g)"/>
+</svg>
+{% endset %}
+
+{% if slide == "cover" %}
+<div class="slide cover grain">
+  <div class="photo" style="background-image:url('{{ photo }}')"></div>
+  <div class="shade"></div>
+  <div class="brand">{{ logo }}<div class="name">{{ brand }}<small>{{ handle }}</small></div></div>
+  <div class="body">
+    <span class="tag"><i></i>Última hora</span>{% if badge %}<span class="entity">{{ badge }}</span>{% endif %}
+    <h1 class="headline">{{ headline | safe }}</h1>
+    <div class="rule"></div>
+  </div>
+  <div class="swipe"><span>{{ date }}</span><b>Deslizá para ver <span>→</span></b></div>
+  <div class="credit">{{ credit }}</div>
+</div>
+
+{% elif slide == "story" %}
+<div class="slide story grain">
+  <div class="photo" style="background-image:url('{{ photo }}'); background-position: {{ focus }}; transform: scale({{ zoom }})"></div>
+  <div class="shade"></div>
+  <div class="brand">{{ logo }}<div class="name">{{ brand }}<small>{{ handle }}</small></div></div>
+  <div class="body">
+    <div class="step">{{ step }}</div>
+    <p>{{ text | safe }}</p>
+  </div>
+  <div class="credit">{{ credit }}</div>
+</div>
+
+{% else %}
+<div class="slide cta grain">
+  <div class="grid"></div>
+  <div class="inner">
+    <div class="mark">{{ logo }}</div>
+    <h2>No te pierdas <span class="hl">nada</span> de la IA</h2>
+    <div class="sub">Las noticias de inteligencia artificial más importantes del día, explicadas simple y en español.</div>
+    <div class="chips"><span class="chip">🔖 Guardalo</span><span class="chip">📤 Compartilo</span><span class="chip">🔔 Activá avisos</span></div>
+    <div class="follow">Seguí a {{ handle }}</div>
+  </div>
+</div>
+{% endif %}
+</body>
+</html>
