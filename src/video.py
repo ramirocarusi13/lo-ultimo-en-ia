@@ -224,18 +224,32 @@ def make_reel(post_id: str) -> Path:
     # 3. un segmento de video por escena
     ff, fps = _ffmpeg(), REEL_FPS
     imgs = _scene_images(out)
+    from clips import WORK_DIR, selected
+    clips = selected(post_id)
     segs = []
     for k in range(3):
         dur, _ = timeline[k]
         frames = max(1, round(dur * fps))
-        bg = _background(imgs[k], tmp / f"bg_{k}.jpg")
         scene_layer, subs = index[k]
-        z = "1+0.10*on/{n}" if k % 2 == 0 else "1.10-0.10*on/{n}"  # acercar / alejar
-        args = [ff, "-y", "-i", str(bg), "-i", str(layers[scene_layer])]
+        W, H = REEL_SIZE
+        clip = clips.get(str(k + 1))
+        clip_file = WORK_DIR / post_id / clip["file"] if clip else None
+        if clip_file and clip_file.exists():
+            # video real (licencia libre), formato noticiero: el clip entero arriba y de fondo
+            # el mismo clip ampliado y desenfocado
+            args = [ff, "-y", "-stream_loop", "-1", "-i", str(clip_file), "-i", str(layers[scene_layer])]
+            f = (f"[0:v]fps={fps},split[a][c];[a]scale={W}:{H}:force_original_aspect_ratio=increase,"
+                 f"crop={W}:{H},boxblur=28:2,eq=brightness=-0.12[bg];"
+                 f"[c]scale={W}:1000:force_original_aspect_ratio=decrease[fg];"
+                 f"[bg][fg]overlay=x=(W-w)/2:y=330,setsar=1[b];[b][1:v]overlay=0:0[v0]")
+        else:
+            bg = _background(imgs[k], tmp / f"bg_{k}.jpg")
+            z = "1+0.10*on/{n}" if k % 2 == 0 else "1.10-0.10*on/{n}"  # acercar / alejar
+            args = [ff, "-y", "-i", str(bg), "-i", str(layers[scene_layer])]
+            f = (f"[0:v]zoompan=z='{z.format(n=frames)}':x='iw/2-(iw/zoom/2)':y='ih*0.3-(ih/zoom*0.3)'"
+                 f":d={frames}:s={W}x{H}:fps={fps},setsar=1[b];[b][1:v]overlay=0:0[v0]")
         for li, _, _ in subs:
             args += ["-i", str(layers[li])]
-        f = (f"[0:v]zoompan=z='{z.format(n=frames)}':x='iw/2-(iw/zoom/2)':y='ih*0.3-(ih/zoom*0.3)'"
-             f":d={frames}:s={REEL_SIZE[0]}x{REEL_SIZE[1]}:fps={fps},setsar=1[b];[b][1:v]overlay=0:0[v0]")
         for j, (_, a, b) in enumerate(subs):
             f += f";[v{j}][{j + 2}:v]overlay=0:0:enable='between(t,{a:.3f},{b:.3f})'[v{j + 1}]"
         seg = tmp / f"seg_{k}.mp4"

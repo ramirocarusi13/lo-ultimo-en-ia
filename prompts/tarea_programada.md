@@ -33,10 +33,17 @@ Hacé estos pasos en orden:
      .\.venv\Scripts\python.exe src\main.py skip <id> "motivo"
      y elegí otra candidata del mismo <id> con `choose` (como máximo 3 intentos en total).
 
-3. Revisión del borrador por el equipo. Lanzá EN PARALELO a `verificador`, `editor-estilo` y
-   `revisor-legal` con el <id>. Con sus informes:
+3. Revisión del borrador y videos. Lanzá EN PARALELO (en un mismo mensaje) a `verificador`,
+   `editor-estilo`, `revisor-legal`, `guionista-reels` y `cazador-videos` con el <id>.
+   Con sus informes:
    - Aplicá en work\<id>\draft.json los cambios que tengan sentido (los del verificador y
-     del revisor legal son obligatorios; los de estilo, si mejoran sin cambiar hechos).
+     del revisor legal son obligatorios; los de estilo y del guionista, si mejoran sin
+     cambiar hechos ni agregar datos que no estén en las notas).
+   - El cazador deja los clips de video elegidos en work\<id>\clips.json (el armado los usa
+     solo y agrega el crédito "🎥 Video: …" al caption). Si el revisor legal objeta un clip,
+     sacalo con  .\.venv\Scripts\python.exe src\main.py noclip <id> <escena>
+     Si el cazador indica un VIDEO ORIGINAL CON DERECHOS, podés sumar al caption una línea
+     tipo "🎬 El video completo está en la cuenta de <empresa>." (sin copiarlo).
    - Si el verificador o el revisor legal dicen DESCARTAR con un motivo sólido, corré `skip`
      y volvé al paso 2 con otra candidata (dentro del máximo de 3 intentos).
 
@@ -47,7 +54,11 @@ Hacé estos pasos en orden:
    Si el log dice "no se pudo armar el reel", reintentalo una vez con
    .\.venv\Scripts\python.exe src\main.py reel <id>   (si vuelve a fallar, seguí sin Reel).
 
-5. Revisión visual. Lanzá a `director-arte` con el <id>. Mirá también vos los slides.
+5. Revisión visual. Lanzá EN PARALELO a `director-arte` (slides) y `editor-video` (Reel) con
+   el <id>. Mirá también vos los slides. Si el editor de video pide sacar o cambiar un clip,
+   usá noclip/clip y rearmá solo el Reel con  .\.venv\Scripts\python.exe src\main.py reel <id>
+   (el caption con créditos se actualiza con un `build` completo; si cambiaste clips, corré
+   .\.venv\Scripts\python.exe src\main.py build <id>  que reusa las fotos ya generadas).
    - Si una foto real muestra a otras personas reconocibles además de la nombrada, o algo
      que no corresponde, cambiá esa posición de "photos" en el draft (otra búsqueda o "")
      y repetí el paso 4. Si algo está mal en el TEXTO, corregí el draft y repetí el paso 4.

@@ -14,7 +14,9 @@ Para cada candidata puntuá de 1 a 10:
   celulares, trabajo, dinero, salud).
 - frescura y equilibrio: ¿ya publicamos algo muy parecido? ¿hace falta una de "IA en la
   vida cotidiana" (más o menos 1 de cada 3 posts)?
-- video: ¿se puede contar bien en un Reel de 30 segundos?
+- video: ¿se puede contar bien en un Reel de 30 segundos? ¿Es algo que se VE (una demo,
+  un robot, un auto, un lanzamiento, un producto nuevo) y probablemente tenga video real?
+  Esas suman mucho: los Reels con imágenes reales de lo que pasó son los que más se comparten.
 
 Devolvé SOLO esto:
 RANKING:

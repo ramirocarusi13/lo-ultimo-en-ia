@@ -33,6 +33,11 @@ para seguir la cuenta.
    de **Piper** (TTS de código abierto, corre en la PC en segundos; voces en `voices/`, no se
    suben al repo). ffmpeg une todo en `posts/<id>/reel.mp4`. El guion sale del campo
    `reel_script` del borrador. Rearmar solo el Reel: `python src/main.py reel <id>`.
+   **Videos reales** (`src/clips.py`): cuando existe video de la noticia con licencia que permite
+   reutilizarlo (YouTube con licencia Creative Commons subido por el autor real, Wikimedia
+   Commons o NASA), el Reel lo muestra en formato noticiero y el caption cita al autor
+   ("🎥 Video: …"). Nunca se bajan videos de X/Twitter, TikTok, Instagram ni de YouTube con
+   licencia estándar.
 6. **Equipo de agentes** (`agentes/`): un analista de tendencias elige la noticia, y un
    verificador de datos, un editor de estilo, un revisor legal y un director de arte revisan
    cada post en paralelo. El informe queda en `posts/<id>/informe_agentes.md`.
