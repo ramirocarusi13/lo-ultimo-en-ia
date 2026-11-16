@@ -47,6 +47,19 @@ Con las notas que te paso armás un carrusel de 4 imágenes:
   logos, marcas, texto o letras en la imagen, y objetos con inscripciones (chips,
   carteles, pantallas con texto legible). Variá encuadre entre las 3.
 
+- reel_script: guion del Reel (video vertical de ~25-35 segundos con voz en off), lista de
+  exactamente 3 textos que lee una voz sintética, uno por escena:
+    1. gancho: UNA oración de 8 a 14 palabras que haga quedarse a mirar en los primeros 2
+       segundos (el dato más sorprendente o la tensión de la noticia). Nada de "¿Sabías que…?".
+    2. qué pasó: 20 a 32 palabras, con el nombre y la cifra clave.
+    3. por qué importa: 20 a 32 palabras, qué cambia para la gente o qué viene ahora.
+  Escribí para el oído: oraciones cortas, sin paréntesis, emojis, comillas ni símbolos (%, $,
+  &). Evitá siglas que la voz lea mal: "director ejecutivo" en vez de "CEO", "inteligencia
+  artificial" o "IA" está bien. Cifras con números ("175.000") se leen bien. Mismos hechos
+  verificados que el carrusel. Marcá con *asteriscos* 1 o 2 palabras clave de los textos 2 y 3
+  (se resaltan en los subtítulos). No agregues saludo ni despedida: el cierre "Sigue a Lo
+  Último en IA" lo pone el bot.
+
 Reglas:
 - Usá SOLO datos presentes en las notas. No inventes cifras, citas ni detalles.
 - Si las notas se contradicen, quedate con lo que confirman varias y aclaralo como "según ...".
@@ -64,4 +77,4 @@ Reglas:
 Formato de salida: un objeto JSON con exactamente estas claves:
 {"skip": false, "skip_reason": "", "confidence": "alta", "headline": "...", "badge": "...",
  "photos": ["", "", ""], "slides": ["...", "..."], "caption": "...", "hashtags": ["...", "...", "..."],
- "image_prompts": ["...", "...", "..."]}
+ "image_prompts": ["...", "...", "..."], "reel_script": ["...", "...", "..."]}

@@ -28,10 +28,17 @@ para seguir la cuenta.
    disponible, usa la foto principal de la nota con el crédito del medio.
 4. **Diseña** (`src/render.py` + `src/templates/carousel.html`): plantilla HTML/CSS
    renderizada con Chromium (Playwright), con tipografías Archivo, Inter y Space Grotesk.
-5. **Sube las imágenes a GitHub** (repo público) para que Instagram las pueda descargar.
-6. **Revisa y publica**: Claude mira las 4 imágenes antes de publicar; si están bien,
-   `src/publish.py` sube el carrusel con la API oficial de Instagram.
-7. **Se repite solo**: la tarea programada de la app de Claude (instrucciones en
+5. **Arma un Reel con voz** (`src/video.py` + `src/templates/reel.html`): video vertical 9:16
+   de ~30 s con las mismas fotos en movimiento, titular, subtítulos estilo karaoke y voz en off
+   de **Piper** (TTS de código abierto, corre en la PC en segundos; voces en `voices/`, no se
+   suben al repo). ffmpeg une todo en `posts/<id>/reel.mp4`. El guion sale del campo
+   `reel_script` del borrador. Rearmar solo el Reel: `python src/main.py reel <id>`.
+6. **Equipo de agentes** (`agentes/`): un analista de tendencias elige la noticia, y un
+   verificador de datos, un editor de estilo, un revisor legal y un director de arte revisan
+   cada post en paralelo. El informe queda en `posts/<id>/informe_agentes.md`.
+7. **Te lo manda para revisar**: los 4 slides, el Reel, el caption y el informe llegan con una
+   notificación. Se publica solo si lo pedís (o con `AUTO_PUBLISH=true` y la API de Instagram).
+8. **Se repite solo**: la tarea programada de la app de Claude (instrucciones en
    `prompts/tarea_programada.md`) revisa las fuentes cada 10 minutos. `state/posted.json` recuerda lo
    publicado para no repetir.
 

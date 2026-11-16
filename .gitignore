@@ -7,3 +7,7 @@ work/
 src/templates/_render_*.html
 research_notes/
 reports/
+voices/
+posts/*/_reel/
+posts/*/reel.mp4
+posts/*/reel_cuadro_*.jpg

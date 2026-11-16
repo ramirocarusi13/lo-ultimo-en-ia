@@ -27,9 +27,10 @@ SCHEMA = {
         "caption": {"type": "string"},
         "hashtags": {"type": "array", "items": {"type": "string"}},
         "image_prompts": {"type": "array", "items": {"type": "string"}},
+        "reel_script": {"type": "array", "items": {"type": "string"}},
     },
     "required": ["skip", "skip_reason", "confidence", "headline", "badge", "photos", "slides", "caption", "hashtags",
-                 "image_prompts"],
+                 "image_prompts", "reel_script"],
     "additionalProperties": False,
 }
 
@@ -44,7 +45,7 @@ def notes_text(story: Story) -> str:
 
 def validate(data: dict) -> dict | None:
     """Revisa un borrador; devuelve el post listo o None si hay que saltear la noticia."""
-    optional = ("confidence", "photos")  # borradores viejos pueden no tenerlos
+    optional = ("confidence", "photos", "reel_script")  # borradores viejos pueden no tenerlos
     missing = [k for k in SCHEMA["required"] if k not in data and k not in optional]
     if missing:
         raise ValueError(f"faltan claves en el borrador: {missing}")

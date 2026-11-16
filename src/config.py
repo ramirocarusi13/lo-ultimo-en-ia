@@ -18,6 +18,14 @@ COLORS = {
 }
 SIZE = (1080, 1350)           # formato vertical 4:5 de Instagram
 
+# ---- Reels (video vertical 9:16 con voz) ----
+REEL_SIZE = (1080, 1920)
+REEL_FPS = 30
+# voz de Piper (gratis y de código abierto); los modelos se bajan a voices/ (no se suben al repo)
+REEL_VOICE = os.getenv("REEL_VOICE") or "es_MX-claude-high"
+REEL_SPEED = float(os.getenv("REEL_SPEED") or 0.88)  # <1 = habla más rápido
+VOICES_DIR = ROOT / "voices"
+
 # ---- Fuentes (RSS) ----
 # Mezcla de medios en inglés y español. Una historia que aparece en varios
 # medios a la vez se considera "en tendencia".

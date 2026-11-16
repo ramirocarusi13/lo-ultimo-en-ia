@@ -16,5 +16,11 @@ conversación ("publicalo", "subilo"), nunca por tu cuenta.
 6. Si la pestaña no responde (captura en negro o "renderer frozen"), pedile al usuario que
    deje esa pestaña de Chrome seleccionada y visible.
 7. "Compartir". Esperá "Se compartió tu publicación", abrí el perfil y verificá.
+Para el Reel (si el usuario lo pide): igual que arriba, pero en el paso 2 subí solo
+posts\<id>\reel.mp4 (Instagram lo convierte en Reel), en el recorte elegí "Original" / 9:16,
+y en "Portada" dejá el primer cuadro. Usá el mismo caption.txt. La voz es sintética (TTS) y
+las imágenes son fotos reales o ilustraciones: no hace falta la etiqueta de IA salvo que haya
+fotos realistas generadas con IA.
+
 8. Después: si posts\pending.json es de este <id>, borralo y subí el cambio:
    git rm posts/pending.json; git commit -m "Publicado a mano <id>"; git push

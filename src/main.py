@@ -6,6 +6,7 @@ Flujo con la tarea programada de Claude (usa la suscripción, sin API paga):
   python src/main.py skipc <id> <n> "motivo"  # descarta una candidata
   (Claude escribe work/<id>/draft.json siguiendo prompts/redaccion.md)
   python src/main.py build <id>        # fotos (ComfyUI) + carrusel en posts/<id>/
+  python src/main.py reel <id>         # (re)arma solo el Reel con voz: posts/<id>/reel.mp4
   python src/main.py skip <id> "motivo"  # descarta la noticia para no volver a evaluarla
   python src/main.py publish           # publica el último post armado (necesita URL pública)
 
@@ -161,7 +162,18 @@ def build(post_id: str, post: dict | None = None, story: Story | None = None) ->
     for p in paths:
         print(f"SLIDE {p}")
     print(caption)
+    reel(post_id)
     return True
+
+
+def reel(post_id: str) -> None:
+    """Reel 9:16 con voz en off (posts/<id>/reel.mp4). Si falla, el carrusel igual queda."""
+    try:
+        from video import make_reel
+
+        print(f"REEL {make_reel(post_id)}")
+    except Exception as e:
+        print(f"[main] no se pudo armar el reel: {e}")
 
 
 def generate() -> bool:
@@ -209,6 +221,8 @@ if __name__ == "__main__":
         skip_candidate(args[1], int(args[2]), " ".join(args[3:]) or "sin motivo")
     elif cmd == "build":
         sys.exit(0 if build(args[1]) else 2)
+    elif cmd == "reel":
+        reel(args[1])
     elif cmd == "skip":
         skip(args[1], " ".join(args[2:]) or "sin motivo")
     elif cmd in ("generate", "run"):

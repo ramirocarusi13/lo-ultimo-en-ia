@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<style>
+  @font-face { font-family: "Archivo"; src: url("../../fonts/Archivo.ttf"); font-weight: 100 900; font-stretch: 62% 125%; }
+  @font-face { font-family: "Inter"; src: url("../../fonts/Inter.ttf"); font-weight: 100 900; }
+  @font-face { font-family: "Space Grotesk"; src: url("../../fonts/SpaceGrotesk.ttf"); font-weight: 300 700; }
+
+  :root {
+    --bg: {{ c.bg }};
+    --bg2: {{ c.bg2 }};
+    --accent: {{ c.accent }};
+    --accent2: {{ c.accent2 }};
+    --text: #F5F7FF;
+    --muted: #A9B0D0;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  /* capas transparentes que ffmpeg pone encima del video */
+  html, body { width: 1080px; height: 1920px; background: transparent; overflow: hidden; }
+  body { font-family: "Inter", sans-serif; color: var(--text); -webkit-font-smoothing: antialiased; }
+  .layer { position: relative; width: 1080px; height: 1920px; overflow: hidden; }
+  .hl { color: var(--accent); }
+
+  /* Zonas seguras de Reels: arriba ~200px (barra de IG), abajo ~420px (usuario y texto),
+     derecha ~150px (botones de me gusta / comentar). */
+  .shade { position: absolute; inset: 0;
+    background: linear-gradient(180deg, rgba(0,0,0,.65) 0%, rgba(0,0,0,.4) 13%, rgba(0,0,0,0) 22%, rgba(0,0,0,0) 34%,
+                color-mix(in srgb, var(--bg) 80%, transparent) 52%, color-mix(in srgb, var(--bg) 94%, transparent) 72%, var(--bg) 100%); }
+  .brand { position: absolute; top: 210px; left: 64px; display: flex; align-items: center; gap: 18px; }
+  .brand svg { width: 70px; height: 70px; filter: drop-shadow(0 6px 18px rgba(0,0,0,.45)); }
+  .brand .name { font-family: "Space Grotesk"; font-weight: 700; font-size: 30px; letter-spacing: .5px; line-height: 1.05;
+                 text-shadow: 0 2px 12px rgba(0,0,0,.6); }
+  .brand .name small { display: block; font-family: "Inter"; font-weight: 500; font-size: 22px; color: #D7DCF5; }
+
+  .top { position: absolute; left: 64px; right: 150px; bottom: 820px; }
+  .tag { display: inline-flex; align-items: center; gap: 12px; padding: 12px 22px 12px 18px; border-radius: 999px;
+         background: var(--accent2); font-family: "Space Grotesk"; font-weight: 700; font-size: 26px; letter-spacing: 2px;
+         text-transform: uppercase; box-shadow: 0 10px 30px rgba(0,0,0,.35); }
+  .tag i { width: 12px; height: 12px; border-radius: 50%; background: #fff; box-shadow: 0 0 0 6px rgba(255,255,255,.25); }
+  .entity { display: inline-block; margin-left: 12px; padding: 12px 22px; border-radius: 999px; font-family: "Space Grotesk";
+            font-weight: 700; font-size: 26px; letter-spacing: 1px; background: rgba(8,10,28,.55);
+            border: 1.5px solid rgba(255,255,255,.35); text-transform: uppercase; }
+  .headline { margin-top: 26px; font-family: "Archivo"; font-stretch: 72%; font-weight: 850; text-transform: uppercase;
+              font-size: {{ headline_size }}px; line-height: .98; letter-spacing: -.5px; text-wrap: balance;
+              text-shadow: 0 4px 30px rgba(0,0,0,.45); }
+  .step { display: flex; align-items: center; gap: 18px; font-family: "Space Grotesk"; font-weight: 700; font-size: 30px;
+          letter-spacing: 3px; color: var(--accent); text-transform: uppercase; }
+  .step::after { content: ""; flex: 1; height: 2px; background: linear-gradient(90deg, rgba(255,255,255,.4), transparent); }
+
+  /* subtítulo (una frase corta por vez, estilo karaoke) */
+  .sub { position: absolute; left: 64px; right: 150px; top: 1130px; height: 330px; display: flex; align-items: center; }
+  .sub p { font-family: "Archivo"; font-stretch: 85%; font-weight: 850; font-size: 92px; line-height: 1.02;
+           text-transform: uppercase; letter-spacing: -.5px; text-wrap: balance;
+           paint-order: stroke fill; -webkit-text-stroke: 10px rgba(0,0,0,.55); text-shadow: 0 6px 24px rgba(0,0,0,.5); }
+
+  /* cierre */
+  .end { width: 1080px; height: 1920px;
+         background: radial-gradient(1000px 900px at 85% 5%, color-mix(in srgb, var(--accent2) 55%, transparent), transparent 60%),
+                     radial-gradient(900px 900px at 0% 95%, color-mix(in srgb, var(--accent) 30%, transparent), transparent 60%),
+                     var(--bg); }
+  .end .grid { position: absolute; inset: 0; opacity: .12;
+    background-image: linear-gradient(rgba(255,255,255,.6) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.6) 1px, transparent 1px);
+    background-size: 60px 60px; mask-image: radial-gradient(ellipse at center, #000 20%, transparent 75%); }
+  .end .inner { position: absolute; inset: 0 0 260px 0; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 0 90px; }
+  .end .mark svg { width: 230px; height: 230px; filter: drop-shadow(0 20px 50px rgba(0,0,0,.5)); }
+  .end h2 { margin-top: 60px; font-family: "Archivo"; font-stretch: 72%; font-weight: 850; text-transform: uppercase; font-size: 130px; line-height: .98; }
+  .end .sub2 { margin-top: 30px; font-size: 38px; color: var(--muted); font-weight: 500; line-height: 1.35; }
+  .follow { margin-top: 70px; display: inline-flex; padding: 28px 54px; border-radius: 999px;
+            background: linear-gradient(90deg, var(--accent), var(--accent2)); color: #fff; font-family: "Space Grotesk";
+            font-weight: 700; font-size: 42px; box-shadow: 0 18px 50px color-mix(in srgb, var(--accent2) 45%, transparent); }
+</style>
+</head>
+<body>
+{% set logo %}
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="{{ c.accent }}"/><stop offset="1" stop-color="{{ c.accent2 }}"/></linearGradient>
+  </defs>
+  <rect x="3" y="3" width="114" height="114" rx="32" fill="{{ c.bg }}" stroke="url(#g)" stroke-width="5"/>
+  <text x="55" y="82" text-anchor="middle" font-family="Space Grotesk" font-weight="700" font-size="62" fill="#fff" letter-spacing="-2">IA</text>
+  <path d="M93 22 L96.5 32 L106 35.5 L96.5 39 L93 49 L89.5 39 L80 35.5 L89.5 32 Z" fill="url(#g)"/>
+</svg>
+{% endset %}
+
+{% if mode == "scene" %}
+<div class="layer">
+  <div class="shade"></div>
+  <div class="brand">{{ logo }}<div class="name">{{ brand }}<small>{{ handle }}</small></div></div>
+  <div class="top">
+    {% if headline %}
+      <span class="tag"><i></i>Última hora</span>{% if badge %}<span class="entity">{{ badge }}</span>{% endif %}
+      <h1 class="headline">{{ headline | safe }}</h1>
+    {% else %}
+      <div class="step">{{ step }}</div>
+    {% endif %}
+  </div>
+</div>
+
+{% elif mode == "sub" %}
+<div class="layer"><div class="sub"><p>{{ text | safe }}</p></div></div>
+
+{% else %}
+<div class="layer end">
+  <div class="grid"></div>
+  <div class="inner">
+    <div class="mark">{{ logo }}</div>
+    <h2>No te pierdas <span class="hl">nada</span> de la IA</h2>
+    <div class="sub2">Las noticias de inteligencia artificial más importantes, explicadas simple y en español.</div>
+    <div class="follow">Sigue a {{ handle }}</div>
+  </div>
+</div>
+{% endif %}
+</body>
+</html>
