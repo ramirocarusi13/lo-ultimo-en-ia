@@ -46,10 +46,20 @@ Hacé estos pasos en orden:
    - Si algo está mal en el TEXTO: corregí work\<id>\draft.json y repetí el paso 3.
      (Una sola vez; si sigue mal, terminá sin publicar y explicá por qué.)
 
-5. Publicar, solo si la variable de entorno de usuario AUTO_PUBLISH vale "true"
-   ([Environment]::GetEnvironmentVariable('AUTO_PUBLISH','User')):
+5. Avisar al usuario para que lo revise (SIEMPRE, salvo que AUTO_PUBLISH sea "true"):
+   a) Mandale con SendUserFile (status "proactive") los 5 archivos:
+      posts\<id>\slide_1.jpg, slide_2.jpg, slide_3.jpg, slide_4.jpg y posts\<id>\caption.txt,
+      con un caption corto: "Nuevo post para revisar: <titular sin asteriscos>".
+   b) Mandale una notificación con PushNotification (status "proactive"), una línea de menos
+      de 200 caracteres: "📰 Nuevo post listo para revisar: <titular corto>".
+   c) No publiques. Escribí en tu respuesta final el titular, las fuentes y la ruta de la
+      carpeta posts\<id>\, y que puede subirlo él o responder "publicalo" en esta conversación.
+   d) Si el usuario responde en esta conversación pidiendo publicarlo, seguí
+      prompts\publicar_en_chrome.md. Si pide cambios, corregí work\<id>\draft.json, repetí el
+      paso 3 y volvé a mandarle los archivos.
+   Solo si la variable de entorno de usuario AUTO_PUBLISH vale "true"
+   ([Environment]::GetEnvironmentVariable('AUTO_PUBLISH','User')), en vez de avisar publicá con:
    powershell -NoProfile -ExecutionPolicy Bypass -File scripts\run_local.ps1 -Publish
-   Si no vale "true", no publiques: dejá el post listo en posts\<id>\ para revisión manual.
 
 Al final, resumí en 3 líneas: la noticia elegida, el titular, y si se publicó (con el link)
 o por qué no.

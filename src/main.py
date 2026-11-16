@@ -153,6 +153,8 @@ def build(post_id: str, post: dict | None = None, story: Story | None = None) ->
         "sources": [{"title": a.title, "link": a.link, "source": a.source} for a in story.articles],
     }
     _dump(out / "post.json", meta)
+    # texto listo para copiar y pegar en Instagram al revisar y subir a mano
+    (out / "caption.txt").write_text(caption, encoding="utf-8")
     _dump(PENDING, meta)
     mark_posted(story)
     print(f"[main] post armado en {out}")
