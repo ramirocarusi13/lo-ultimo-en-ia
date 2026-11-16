@@ -32,6 +32,8 @@ Con las notas que te paso armás un carrusel de 4 imágenes:
     2. la empresa, lugar o producto concreto, con 2-3 palabras que estarían en el nombre del
        archivo ("Nvidia headquarters", "Nvidia GPU", "Google Pixel", "Microsoft Redmond");
     3. "" si no hay nada concreto que mostrar.
+  Si la persona ya salió en un post reciente, agregá "#2" o "#3" para usar otra foto suya
+  ("Jensen Huang#2").
   Ej: ["Jensen Huang", "Colette Kress", "Nvidia headquarters"]. Variá: no repitas la misma
   búsqueda salvo que sea la protagonista. Donde no haya foto real, el bot usa el image_prompt
   (ilustración 3D, no foto), así que los 3 image_prompts igual van completos.

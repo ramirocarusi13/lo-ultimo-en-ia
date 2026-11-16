@@ -47,6 +47,9 @@ def find_person_photos(name: str, n: int = 2) -> list[dict]:
             continue
         if not all(t in title for t in tokens) or ii["width"] < 500:
             continue
+        # fotos grupales ("X and Y", "X with Y"): no asociar a terceros con la noticia
+        if re.search(r"\b(and|with|y|con|meets|meeting)\b|&", title.replace("file:", "")):
+            continue
         desc = _plain(meta.get("ImageDescription", {}).get("value", "")).lower()
         if any(m in title or m in desc for m in AI_MARKERS):  # solo fotos reales, nada generado
             continue

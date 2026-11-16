@@ -111,8 +111,11 @@ def build(post_id: str, post: dict | None = None, story: Story | None = None) ->
         for i, name in enumerate(people[:3]):
             if not name:
                 continue
+            if "#" in name:  # "Jensen Huang#2": empezar por la 2.ª foto (no repetir la de otro post)
+                name, start = name.split("#", 1)
+                used.setdefault(name, int(start) - 1)
             try:
-                found.setdefault(name, person_photos.find_person_photos(name, n=3))
+                found.setdefault(name, person_photos.find_person_photos(name, n=4))
             except Exception as e:
                 print(f"[main] no se pudieron buscar fotos de {name}: {e}")
                 found[name] = []
