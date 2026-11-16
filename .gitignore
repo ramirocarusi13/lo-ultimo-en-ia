@@ -3,4 +3,5 @@ __pycache__/
 .env
 .venv/
 logs/
+work/
 src/templates/_render_*.html

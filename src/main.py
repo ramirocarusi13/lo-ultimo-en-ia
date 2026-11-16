@@ -1,9 +1,13 @@
-"""Pipeline completo:  noticias en tendencia -> texto (Claude) -> imágenes -> Instagram.
+"""Pipeline:  noticia en tendencia -> texto -> imágenes -> Instagram.
 
-Uso:
-  python src/main.py generate     # elige noticia, redacta y genera imágenes en posts/<id>/
-  python src/main.py publish      # publica el último post generado (necesita URL pública)
-  python src/main.py run          # generate + publish (si las imágenes ya son públicas)
+Flujo con la tarea programada de Claude (usa la suscripción, sin API paga):
+  python src/main.py pick              # elige la noticia; deja las notas en work/<id>/story.json
+  (Claude escribe work/<id>/draft.json siguiendo prompts/redaccion.md)
+  python src/main.py build <id>        # fotos (ComfyUI) + carrusel en posts/<id>/
+  python src/main.py skip <id> "motivo"  # descarta la noticia para no volver a evaluarla
+  python src/main.py publish           # publica el último post armado (necesita URL pública)
+
+Con ANTHROPIC_API_KEY también existe `generate` (pick + redacción por API + build).
 """
 from __future__ import annotations
 
@@ -11,15 +15,14 @@ import json
 import os
 import sys
 import time
-from pathlib import Path
 
 import imagegen
-from config import POSTS_DIR
-from news import Story, mark_posted, pick_trending_story
+from config import POSTS_DIR, ROOT
+from news import Article, Story, mark_posted, pick_trending_story
 from render import render_carousel
-from writer import write_post
 
 PENDING = POSTS_DIR / "pending.json"
+WORK_DIR = ROOT / "work"  # notas completas de los medios: NO se suben al repo
 
 # En Windows la consola no usa UTF-8 por defecto y el emoji del caption rompería el print.
 for _stream in (sys.stdout, sys.stderr):
@@ -27,15 +30,45 @@ for _stream in (sys.stdout, sys.stderr):
         _stream.reconfigure(encoding="utf-8", errors="replace")
 
 
-def generate() -> bool:
+def _dump(path, data) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
+def _load_story(post_id: str) -> Story:
+    data = json.loads((WORK_DIR / post_id / "story.json").read_text(encoding="utf-8"))
+    return Story([Article(**a) for a in data["articles"]])
+
+
+def pick() -> str | None:
     story = pick_trending_story()
     if not story:
-        return False
-    post = write_post(story)
-    if not post:
-        mark_posted(story)  # no volver a evaluarla
-        return False
+        print("NADA: no hay noticia nueva en tendencia")
+        return None
     post_id = time.strftime("%Y%m%d-%H%M")
+    _dump(WORK_DIR / post_id / "story.json", {"id": post_id, "articles": [vars(a) for a in story.articles]})
+    from writer import notes_text
+    (WORK_DIR / post_id / "notas.md").write_text(notes_text(story), encoding="utf-8")
+    print(f"PICK {post_id}")
+    print(f"Notas: {WORK_DIR / post_id / 'notas.md'}")
+    print(f"Escribí el borrador en: {WORK_DIR / post_id / 'draft.json'}")
+    return post_id
+
+
+def skip(post_id: str, reason: str) -> None:
+    mark_posted(_load_story(post_id))
+    print(f"[main] noticia {post_id} descartada: {reason}")
+
+
+def build(post_id: str, post: dict | None = None, story: Story | None = None) -> bool:
+    from writer import validate
+
+    story = story or _load_story(post_id)
+    if post is None:
+        post = validate(json.loads((WORK_DIR / post_id / "draft.json").read_text(encoding="utf-8")))
+        if post is None:
+            mark_posted(story)
+            return False
     out = POSTS_DIR / post_id
     out.mkdir(parents=True, exist_ok=True)
     photos, credits = [], []
@@ -57,12 +90,29 @@ def generate() -> bool:
         "slides": [p.relative_to(POSTS_DIR.parent).as_posix() for p in paths],
         "sources": [{"title": a.title, "link": a.link, "source": a.source} for a in story.articles],
     }
-    (out / "post.json").write_text(json.dumps(meta, ensure_ascii=False, indent=1), encoding="utf-8")
-    PENDING.write_text(json.dumps(meta, ensure_ascii=False, indent=1), encoding="utf-8")
+    _dump(out / "post.json", meta)
+    _dump(PENDING, meta)
     mark_posted(story)
-    print(f"[main] post generado en {out}")
+    print(f"[main] post armado en {out}")
+    for p in paths:
+        print(f"SLIDE {p}")
     print(caption)
     return True
+
+
+def generate() -> bool:
+    """Todo junto, redactando por la API de Anthropic (necesita ANTHROPIC_API_KEY)."""
+    from writer import write_post
+
+    post_id = pick()
+    if not post_id:
+        return False
+    story = _load_story(post_id)
+    post = write_post(story)
+    if not post:
+        mark_posted(story)
+        return False
+    return build(post_id, post, story)
 
 
 def publish() -> None:
@@ -73,21 +123,30 @@ def publish() -> None:
         return
     meta = json.loads(PENDING.read_text(encoding="utf-8"))
     base = os.environ.get("PUBLIC_BASE_URL")
-    if not base:  # en GitHub Actions: archivos crudos del repo (debe ser público)
+    if not base:  # archivos crudos del repo de GitHub (debe ser público)
         repo, ref = os.environ["GITHUB_REPOSITORY"], os.environ.get("GITHUB_REF_NAME", "main")
         base = f"https://raw.githubusercontent.com/{repo}/{ref}"
     urls = [f"{base.rstrip('/')}/{s}" for s in meta["slides"]]
     permalink = publish_carousel(urls, meta["caption"])
     meta["permalink"] = permalink
-    (POSTS_DIR / meta["id"] / "post.json").write_text(json.dumps(meta, ensure_ascii=False, indent=1), encoding="utf-8")
+    _dump(POSTS_DIR / meta["id"] / "post.json", meta)
     PENDING.unlink()
 
 
 if __name__ == "__main__":
-    cmd = sys.argv[1] if len(sys.argv) > 1 else "generate"
-    if cmd in ("generate", "run"):
+    args = sys.argv[1:] or ["pick"]
+    cmd = args[0]
+    if cmd == "pick":
+        pick()
+    elif cmd == "build":
+        sys.exit(0 if build(args[1]) else 2)
+    elif cmd == "skip":
+        skip(args[1], " ".join(args[2:]) or "sin motivo")
+    elif cmd in ("generate", "run"):
         ok = generate()
         if cmd == "run" and ok:
             publish()
     elif cmd == "publish":
         publish()
+    else:
+        sys.exit(f"comando desconocido: {cmd}")

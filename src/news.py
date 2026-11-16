@@ -167,7 +167,10 @@ def enrich(article: Article) -> Article:
         if og and og.get("content", "").startswith("http"):
             article.image = og["content"]
         paras = [p.get_text(" ", strip=True) for p in soup.find_all("p")]
-        article.text = "\n".join(p for p in paras if len(p) > 60)[:6000]
+        boiler = ("daily email digest", "Sign in to", "subsidiary of", "newsletter")
+        paras = [p for p in dict.fromkeys(paras)  # sin repetidos (avisos del sitio)
+                 if len(p) > 60 and not any(b in p for b in boiler)]
+        article.text = "\n".join(paras)[:6000]
         article.link = r.url
     except Exception as e:
         print(f"[news] no se pudo leer {article.link}: {e}")
