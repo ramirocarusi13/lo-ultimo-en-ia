@@ -21,6 +21,11 @@ from writer import write_post
 
 PENDING = POSTS_DIR / "pending.json"
 
+# En Windows la consola no usa UTF-8 por defecto y el emoji del caption rompería el print.
+for _stream in (sys.stdout, sys.stderr):
+    if hasattr(_stream, "reconfigure"):
+        _stream.reconfigure(encoding="utf-8", errors="replace")
+
 
 def generate() -> bool:
     story = pick_trending_story()
@@ -48,11 +53,12 @@ def generate() -> bool:
     caption = f"{post['caption']}\n\n{tags}"
     meta = {
         "id": post_id, "post": post, "caption": caption,
-        "slides": [str(p.relative_to(POSTS_DIR.parent)) for p in paths],
+        # barras "/" también en Windows: estas rutas se usan para armar URLs
+        "slides": [p.relative_to(POSTS_DIR.parent).as_posix() for p in paths],
         "sources": [{"title": a.title, "link": a.link, "source": a.source} for a in story.articles],
     }
-    (out / "post.json").write_text(json.dumps(meta, ensure_ascii=False, indent=1))
-    PENDING.write_text(json.dumps(meta, ensure_ascii=False, indent=1))
+    (out / "post.json").write_text(json.dumps(meta, ensure_ascii=False, indent=1), encoding="utf-8")
+    PENDING.write_text(json.dumps(meta, ensure_ascii=False, indent=1), encoding="utf-8")
     mark_posted(story)
     print(f"[main] post generado en {out}")
     print(caption)
@@ -65,7 +71,7 @@ def publish() -> None:
     if not PENDING.exists():
         print("[main] nada pendiente para publicar")
         return
-    meta = json.loads(PENDING.read_text())
+    meta = json.loads(PENDING.read_text(encoding="utf-8"))
     base = os.environ.get("PUBLIC_BASE_URL")
     if not base:  # en GitHub Actions: archivos crudos del repo (debe ser público)
         repo, ref = os.environ["GITHUB_REPOSITORY"], os.environ.get("GITHUB_REF_NAME", "main")
@@ -73,7 +79,7 @@ def publish() -> None:
     urls = [f"{base.rstrip('/')}/{s}" for s in meta["slides"]]
     permalink = publish_carousel(urls, meta["caption"])
     meta["permalink"] = permalink
-    (POSTS_DIR / meta["id"] / "post.json").write_text(json.dumps(meta, ensure_ascii=False, indent=1))
+    (POSTS_DIR / meta["id"] / "post.json").write_text(json.dumps(meta, ensure_ascii=False, indent=1), encoding="utf-8")
     PENDING.unlink()
 
 

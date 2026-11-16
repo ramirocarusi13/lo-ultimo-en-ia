@@ -51,7 +51,8 @@ Reglas:
 - Usá SOLO datos presentes en las notas. No inventes cifras, citas ni detalles.
 - Si las notas se contradicen, quedate con lo que confirman varias y aclaralo como "según ...".
 - Si la noticia es un rumor sin confirmar, acusa a una persona de un delito o conducta
-  privada sin pruebas sólidas, o no trata de IA/tecnología, devolvé skip=true con el motivo.
+  privada sin pruebas sólidas, no trata de IA/tecnología, o es una recomendación de inversión
+  o predicción bursátil ("comprá esta acción"), devolvé skip=true con el motivo.
 - Español neutro latinoamericano, tono cercano, sin clickbait engañoso."""
 
 

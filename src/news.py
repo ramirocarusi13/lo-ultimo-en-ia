@@ -17,7 +17,7 @@ import feedparser
 import requests
 from bs4 import BeautifulSoup
 
-from config import FEEDS, MAX_AGE_HOURS, MIN_SOURCES, STATE_FILE
+from config import BLOCKED_SOURCES, FEEDS, MAX_AGE_HOURS, MIN_SOURCES, STATE_FILE
 
 UA = {"User-Agent": "Mozilla/5.0 (compatible; news-carousel-bot/1.0)"}
 
@@ -25,7 +25,8 @@ STOP = set("""
 a al ante con contra de del desde el en entre es esta este hacia la las lo los
 para por que se sin sobre su sus tras un una y o u ya mas más como the of to in
 for on and with is are its it's at by from as an be has have new how why what
-after over into will this that ai ia inteligencia artificial
+after over into will this that ai ia inteligencia artificial intelligence
+could would says said about just more most latest here than their they you your news
 """.split())
 
 
@@ -52,10 +53,17 @@ class Story:
     def key(self) -> str:
         return self.articles[0].link
 
+    @property
+    def coverage(self) -> int:
+        """Medios distintos que la cubren con su propio titular. Una nota copiada
+        tal cual en varios sitios (sindicación) cuenta como uno solo."""
+        titles = {re.sub(r"\W+", " ", a.title.lower()).strip() for a in self.articles}
+        return min(len(self.sources), len(titles))
+
     def score(self) -> float:
         newest = max(a.published for a in self.articles)
         age_h = (time.time() - newest) / 3600
-        return len(self.sources) * 10 - age_h * 0.5
+        return self.coverage * 10 - age_h * 0.5
 
 
 def _words(title: str) -> set[str]:
@@ -87,35 +95,50 @@ def fetch_articles() -> list[Article]:
             ts = calendar.timegm(t) if t else time.time()
             if ts < cutoff:
                 continue
+            source = _source_of(e, url)
+            if source.lower() in BLOCKED_SOURCES:
+                continue
             title = re.sub(r"\s+-\s+[^-]+$", "", e.get("title", "")).strip()  # quita " - Medio"
             summary = BeautifulSoup(e.get("summary", ""), "html.parser").get_text(" ", strip=True)
-            out.append(Article(title, e.get("link", ""), _source_of(e, url), ts, summary[:600]))
+            out.append(Article(title, e.get("link", ""), source, ts, summary[:600]))
     print(f"[news] {len(out)} artículos recientes")
     return out
 
 
-def cluster(articles: list[Article], threshold: float = 0.3) -> list[Story]:
-    stories: list[tuple[set[str], Story]] = []
+def _similarity(a: set[str], b: set[str]) -> float:
+    """Palabras en común sobre el titular más corto, con al menos 2 en común.
+    Funciona mejor que Jaccard con titulares de largo distinto y entre idiomas
+    (los nombres propios como 'Jensen Huang' o 'Nvidia' se repiten)."""
+    shared = a & b
+    if len(shared) < 2:
+        return 0.0
+    return len(shared) / min(len(a), len(b))
+
+
+def cluster(articles: list[Article], threshold: float = 0.4) -> list[Story]:
+    # cada grupo guarda las palabras de cada titular; un artículo se suma al grupo
+    # si se parece lo suficiente a alguno de sus titulares
+    groups: list[tuple[list[set[str]], Story]] = []
     for a in sorted(articles, key=lambda x: -x.published):
         w = _words(a.title)
         if not w:
             continue
         best, best_sim = None, 0.0
-        for words, st in stories:
-            sim = len(w & words) / len(w | words)
+        for word_sets, st in groups:
+            sim = max(_similarity(w, ws) for ws in word_sets)
             if sim > best_sim:
-                best, best_sim = (words, st), sim
+                best, best_sim = (word_sets, st), sim
         if best and best_sim >= threshold:
-            best[0].update(w)
+            best[0].append(w)
             best[1].articles.append(a)
         else:
-            stories.append((set(w), Story([a])))
-    return [s for _, s in stories]
+            groups.append(([w], Story([a])))
+    return [s for _, s in groups]
 
 
 def load_posted() -> dict:
     if STATE_FILE.exists():
-        return json.loads(STATE_FILE.read_text())
+        return json.loads(STATE_FILE.read_text(encoding="utf-8"))
     return {"links": [], "titles": []}
 
 
@@ -135,6 +158,10 @@ def enrich(article: Article) -> Article:
     """Descarga la nota: imagen principal (og:image) y texto."""
     try:
         r = requests.get(article.link, headers=UA, timeout=20, allow_redirects=True)
+        if urlparse(r.url).netloc.endswith("news.google.com"):
+            # Google Noticias no redirige a la nota sin JavaScript: su página trae el
+            # logo de Google como imagen y ningún texto útil. Nos quedamos con el resumen.
+            return article
         soup = BeautifulSoup(r.text, "html.parser")
         og = soup.find("meta", property="og:image") or soup.find("meta", attrs={"name": "twitter:image"})
         if og and og.get("content", "").startswith("http"):
@@ -150,21 +177,22 @@ def enrich(article: Article) -> Article:
 def pick_trending_story() -> Story | None:
     posted = load_posted()
     stories = [s for s in cluster(fetch_articles()) if not already_posted(s, posted)]
-    stories = [s for s in stories if len(s.sources) >= MIN_SOURCES]
+    stories = [s for s in stories if s.coverage >= MIN_SOURCES]
     if not stories:
         print(f"[news] ninguna historia nueva cubierta por >= {MIN_SOURCES} medios")
         return None
     best = max(stories, key=Story.score)
-    # nos quedamos con un artículo por medio, máx 4
+    # nos quedamos con un artículo por medio, máx 4; primero los enlaces directos
+    # al medio (los de Google Noticias no permiten leer la nota)
     seen, arts = set(), []
-    for a in best.articles:
+    for a in sorted(best.articles, key=lambda x: "news.google.com" in x.link):
         if a.source not in seen:
             seen.add(a.source)
             arts.append(enrich(a))
         if len(arts) == 4:
             break
     best.articles = arts
-    print(f"[news] elegida: '{arts[0].title}' ({len(best.sources)} medios)")
+    print(f"[news] elegida: '{arts[0].title}' ({best.coverage} medios)")
     return best
 
 
@@ -177,4 +205,4 @@ def mark_posted(story: Story, permalink: str | None = None) -> None:
     )
     posted["links"] = posted["links"][-1000:]
     STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
-    STATE_FILE.write_text(json.dumps(posted, ensure_ascii=False, indent=1))
+    STATE_FILE.write_text(json.dumps(posted, ensure_ascii=False, indent=1), encoding="utf-8")

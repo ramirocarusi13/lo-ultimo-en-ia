@@ -29,10 +29,18 @@ FEEDS = [
     "https://arstechnica.com/ai/feed/",
     "https://www.wired.com/feed/tag/ai/latest/rss",
     "https://www.xataka.com/tag/inteligencia-artificial/rss2.xml",
-    "https://hipertextual.com/tag/inteligencia-artificial/feed",
+    "https://hipertextual.com/inteligencia-artificial/feed",
     "https://news.google.com/rss/search?q=inteligencia+artificial+when:1d&hl=es-419&gl=AR&ceid=AR:es-419",
     "https://news.google.com/rss/search?q=artificial+intelligence+when:1d&hl=en-US&gl=US&ceid=US:en",
 ]
+
+# Medios que no se usan: sitios de recomendaciones bursátiles que se republican
+# entre sí y harían pasar una nota copiada por "tendencia".
+BLOCKED_SOURCES = {
+    "the motley fool", "yahoo finance", "benzinga", "zacks", "investorplace",
+    "seeking alpha", "24/7 wall st.", "marketbeat", "insider monkey", "tipranks",
+    "nasdaq", "aol.com", "simply wall st", "gurufocus",
+}
 
 MAX_AGE_HOURS = int(os.getenv("MAX_AGE_HOURS", "36"))
 # Mínimo de medios distintos que deben cubrir la historia (reduce el riesgo
