@@ -21,12 +21,14 @@ SCHEMA = {
         "skip_reason": {"type": "string"},
         "headline": {"type": "string"},
         "badge": {"type": "string"},
+        "person": {"type": "string"},
         "slides": {"type": "array", "items": {"type": "string"}},
         "caption": {"type": "string"},
         "hashtags": {"type": "array", "items": {"type": "string"}},
         "image_prompts": {"type": "array", "items": {"type": "string"}},
     },
-    "required": ["skip", "skip_reason", "headline", "badge", "slides", "caption", "hashtags", "image_prompts"],
+    "required": ["skip", "skip_reason", "headline", "badge", "person", "slides", "caption", "hashtags",
+                 "image_prompts"],
     "additionalProperties": False,
 }
 

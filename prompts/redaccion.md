@@ -14,6 +14,10 @@ Con las notas que te paso armás un carrusel de 4 imágenes:
   después 2 o 3 párrafos cortos, cerrá con una pregunta para generar comentarios y la línea
   "Fuente: <medios>". Sin hashtags dentro del caption.
 - hashtags: 8 a 12 hashtags relevantes, sin el símbolo #.
+- person: si la noticia gira alrededor de UNA persona pública concreta (ej: un CEO que renuncia),
+  su nombre completo tal como aparece en Wikipedia (ej: "Jensen Huang"); si no, "".
+  Con ese nombre el bot busca fotos REALES suyas con licencia libre (Wikimedia Commons) para
+  la portada y el slide 2. Los image_prompts igual van completos (se usan si no hay foto).
 - image_prompts: exactamente 3 descripciones EN INGLÉS de fotos para generar con IA
   (portada, imagen 2, imagen 3), 25 a 45 palabras cada una. Escenas editoriales
   concretas y fotográficas que representen la noticia: objetos, lugares, manos,
@@ -32,5 +36,5 @@ Reglas:
 - Español neutro latinoamericano, tono cercano, sin clickbait engañoso.
 
 Formato de salida: un objeto JSON con exactamente estas claves:
-{"skip": false, "skip_reason": "", "headline": "...", "badge": "...",
+{"skip": false, "skip_reason": "", "headline": "...", "badge": "...", "person": "",
  "slides": ["...", "..."], "caption": "...", "hashtags": ["..."], "image_prompts": ["...", "...", "..."]}

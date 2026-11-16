@@ -72,18 +72,38 @@ def build(post_id: str, post: dict | None = None, story: Story | None = None) ->
     out = POSTS_DIR / post_id
     out.mkdir(parents=True, exist_ok=True)
     photos, credits = [], []
+    real = []  # fotos reales con licencia libre de la persona protagonista
+    if post.get("person"):
+        import photos as person_photos
+        try:
+            real = person_photos.find_person_photos(post["person"], n=2)
+        except Exception as e:
+            print(f"[main] no se pudieron buscar fotos de {post['person']}: {e}")
+        print(f"[main] fotos reales de {post['person']}: {len(real)}")
     news_photos = [(a.image, f"Foto: {a.source}") for a in story.articles if a.image]
     for i, prompt in enumerate(post.get("image_prompts", [])):
-        img = imagegen.generate(prompt, out / f"photo_{i + 1}.jpg", seed=i + 1)
+        dest = out / f"photo_{i + 1}.jpg"
+        if i < len(real):  # portada (y slide 2) con la foto real de la persona
+            photos.append(person_photos.download(real[i], dest))
+            credits.append(real[i]["credit"])
+            continue
+        if dest.exists():  # rearmado (p. ej. tras corregir el texto): se reusa la foto ya generada
+            photos.append(dest)
+            credits.append("")
+            continue
+        img = imagegen.generate(prompt, dest, seed=i + 1)
         if img:
             photos.append(img)
-            credits.append("Imagen generada con IA")
+            credits.append("")
         elif i < len(news_photos):  # sin generador: foto de la nota
             photos.append(news_photos[i][0])
             credits.append(news_photos[i][1])
-    paths = render_carousel(post, photos, credits, out)
+    # Sin créditos sobre las imágenes. Las fotos con licencia CC BY exigen nombrar al
+    # autor: va en una línea del caption.
+    paths = render_carousel(post, photos, [""] * len(photos), out)
     tags = " ".join("#" + h.lstrip("#").replace(" ", "") for h in post["hashtags"])
-    caption = f"{post['caption']}\n\n{tags}"
+    notes = [f"📸 {c}" for c in dict.fromkeys(c for c in credits if c)]
+    caption = post["caption"] + ("\n\n" + "\n".join(notes) if notes else "") + f"\n\n{tags}"
     meta = {
         "id": post_id, "post": post, "caption": caption,
         # barras "/" también en Windows: estas rutas se usan para armar URLs

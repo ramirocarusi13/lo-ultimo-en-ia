@@ -1,0 +1,59 @@
+"""Fotos reales de personas con licencia libre (Wikimedia Commons).
+
+Cuando la noticia es sobre una persona concreta, se usa una foto real suya con licencia
+que permite publicarla (CC0, dominio público, CC BY o CC BY-SA) y se cita al autor.
+Nunca se generan caras de personas reales con IA ni se usan fotos de los medios.
+"""
+from __future__ import annotations
+
+import io
+import re
+from pathlib import Path
+
+import requests
+from PIL import Image
+
+API = "https://commons.wikimedia.org/w/api.php"
+UA = {"User-Agent": "news-carousel-bot/1.0 (https://github.com/ramirocarusi13/lo-ultimo-en-ia)"}
+OK_LICENSES = ("cc0", "public domain", "cc by 4.0", "cc by 3.0", "cc by 2.0", "cc by-sa 4.0",
+               "cc by-sa 3.0", "cc by-sa 2.0")
+
+
+def _plain(html: str) -> str:
+    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", html or "")).strip()
+
+
+def find_person_photos(name: str, n: int = 2) -> list[dict]:
+    """Devuelve hasta n fotos {url, credit} de la persona, verticales primero."""
+    r = requests.get(API, headers=UA, timeout=30, params={
+        "action": "query", "format": "json", "generator": "search",
+        "gsrsearch": f'"{name}" filetype:bitmap', "gsrnamespace": 6, "gsrlimit": 30,
+        "prop": "imageinfo", "iiprop": "url|extmetadata|size", "iiurlwidth": 1600,
+    })
+    pages = sorted(r.json().get("query", {}).get("pages", {}).values(), key=lambda p: p["index"])
+    tokens = [t.lower() for t in name.split() if len(t) > 2]
+    found = []
+    for p in pages:
+        ii = p["imageinfo"][0]
+        meta = ii.get("extmetadata", {})
+        lic = _plain(meta.get("LicenseShortName", {}).get("value", "")).lower()
+        title = p["title"].lower()
+        if not any(lic.startswith(ok) for ok in OK_LICENSES):
+            continue
+        if not all(t in title for t in tokens) or ii["width"] < 900:
+            continue
+        artist = _plain(meta.get("Artist", {}).get("value", "")) or "Wikimedia Commons"
+        found.append({
+            "url": ii.get("thumburl") or ii["url"],
+            "portrait": ii["height"] >= ii["width"],
+            "credit": f"Foto: {artist[:40]} / Wikimedia Commons ({_plain(meta['LicenseShortName']['value'])})",
+            "page": ii.get("descriptionurl", ""),
+        })
+    found.sort(key=lambda f: not f["portrait"])  # verticales primero (formato 4:5)
+    return found[:n]
+
+
+def download(photo: dict, out: Path) -> Path:
+    raw = requests.get(photo["url"], headers=UA, timeout=60).content
+    Image.open(io.BytesIO(raw)).convert("RGB").save(out, "JPEG", quality=95)
+    return out
