@@ -1,0 +1,54 @@
+{
+ "id": "20261116-1814",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "EL *MALBRÁN* LANZA *MALDI-CLASS*, UNA IA PARA DIAGNOSTICAR *BACTERIAS Y HONGOS*",
+  "badge": "Malbrán",
+  "photos": [
+   "Instituto Malbran",
+   "",
+   ""
+  ],
+  "slides": [
+   "El Malbrán, en Argentina, lanzó *Maldi-Class*, una herramienta desarrollada por el propio instituto que combina tecnología e inteligencia artificial. Su objetivo es obtener *diagnósticos más precisos de bacterias y hongos*, según informaron Noticias Argentinas, LA17 y Diario El Norte.",
+   "¿Por qué importa? Identificar con precisión qué bacteria u hongo causa una infección es clave para elegir el tratamiento correcto. Que *un instituto argentino desarrolle su propia IA* muestra que esta tecnología *ya llega a la salud*, no solo a los chatbots."
+  ],
+  "caption": "🔬 El Malbrán lanzó Maldi-Class, una inteligencia artificial para diagnosticar con más precisión bacterias y hongos.\n\nEl instituto argentino desarrolló esta herramienta, que combina tecnología e IA, con un objetivo concreto: obtener diagnósticos más precisos de las bacterias y los hongos que analiza.\n\n¿Y esto a mí qué? Cuando alguien tiene una infección, saber exactamente qué microorganismo la causa ayuda a elegir el tratamiento adecuado. Que la IA se use para eso muestra que no sirve solo para chatear o crear imágenes: también puede llegar a los laboratorios de salud. Y es un desarrollo hecho en Argentina.\n\n¿Te harías un estudio de laboratorio sabiendo que una IA ayudó a analizar tu muestra?\n\nFuente: Agencia Noticias Argentinas, LA17, Diario El Norte\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "Malbran",
+   "InteligenciaArtificial",
+   "SaludDigital"
+  ],
+  "image_prompts": [
+   "A glossy 3D illustration of a laboratory petri dish filled with colorful stylized bacteria and fungi shapes, surrounded by glowing blue neural network lines, soft studio lighting, clean pastel background, playful cartoon style, no text, no people.",
+   "A 3D illustration of a modern microscope next to a floating holographic brain made of luminous nodes, analyzing tiny colorful microbe spheres, isometric view, soft gradients, toy-like render style, no text, no letters, no people.",
+   "A wide 3D illustration of a bright futuristic medical laboratory with test tubes, sample racks and a friendly robotic arm sorting colorful microbe samples, warm light, stylized cartoon render, no logos, no readable screens, no people."
+  ]
+ },
+ "caption": "🔬 El Malbrán lanzó Maldi-Class, una inteligencia artificial para diagnosticar con más precisión bacterias y hongos.\n\nEl instituto argentino desarrolló esta herramienta, que combina tecnología e IA, con un objetivo concreto: obtener diagnósticos más precisos de las bacterias y los hongos que analiza.\n\n¿Y esto a mí qué? Cuando alguien tiene una infección, saber exactamente qué microorganismo la causa ayuda a elegir el tratamiento adecuado. Que la IA se use para eso muestra que no sirve solo para chatear o crear imágenes: también puede llegar a los laboratorios de salud. Y es un desarrollo hecho en Argentina.\n\n¿Te harías un estudio de laboratorio sabiendo que una IA ayudó a analizar tu muestra?\n\nFuente: Agencia Noticias Argentinas, LA17, Diario El Norte\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Unknown authorUnknown author / Wikimedia Commons (Public domain)\n\n#Malbran #InteligenciaArtificial #SaludDigital",
+ "slides": [
+  "posts/20261116-1814/slide_1.jpg",
+  "posts/20261116-1814/slide_2.jpg",
+  "posts/20261116-1814/slide_3.jpg",
+  "posts/20261116-1814/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "El Malbrán lanza Maldi-Class, IA para diagnósticos más precisos - Diario El Norte",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaFFZTS1BR2FCUURXa3lhLXpBcWRQS3E4Z2Q5dVJyVENqYlRQQmMtQW5yX192aDdQZ0x4Q0JoclV3eWVmT0R0TTRzY0NfX1QzU0wzYnhybkdGN2s2dHlvZWdsQ1Ewa0JiRUE2UTVlWThCRTdXcFpjeUFaV3NqUFdpNDBiZ002VHNjM2g4RVRoa0JvLXdkQjNv?oc=5",
+   "source": "Diario El Norte - San Nicolás"
+  },
+  {
+   "title": "El Malbrán impulsa diagnósticos más precisos de bacterias y hongos con inteligencia artificial",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTkxRZkZfWERtb3JnLXdYbEx2UDhnMnpOMGpuLUdfaEtQRFhKYzVkVWp1TjluRW51cXUxS2l0VmxYaldBVmIwYUNvZ1pSZEprcHFBd2NXNHZkc1M3d2lYNmVyVkF6TGdGbTJCRkpUSXdlZkZPcExWa2NYaDU1bHRCNXVMUU9zVml3N2Z4eGdmaDFqMzZKbFdlb0lnSXo5RVRVVFd3VjdfRTV4c3N2a3loTTJGb3dGMExocmNYTkhoemZ3b2Z6T2NHRnpDZnVEMXM?oc=5",
+   "source": "LA17"
+  },
+  {
+   "title": "El Malbrán desarrolló tecnología e inteligencia artificial para obtener diagnósticos más precisos",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbzZkRERlR3hIMmQ4bmNmdktadzVOMEZZV0EyR3J6TmplelNuWm11ZnM2VGpSMkQ4VFFDNkhWdXZNeXUwVEdVSE90OTVtQTlNLTEtbDhwWG1CSFBHUGFJeFBGdXZSdUI1ZjBOb25mSTFCTkRxZWZMODJZRy1oZnFEWGtFNGt3ZFdMclNNbGVCT0EtZDIzRGJBTjlZZmlRVmNmRmUwYldKcS1OUE01eURubERmdlVEZjdtdGh0bktPUFdMQTVPNTZUampRRlFYZTRBVUxRV01KMFppdlVycE9ERjdvY1dvMTBt0gH3AUFVX3lxTE5McVV6Z0JKUG1KM3FrVlE4RDdEMUpxM1ZkaHpaLTR1eWd1OHBwQ2lqME9MWk9GQTJNXzJydExfSXV1dm9GTTVqSXItRVFfdlhsbGtoanZxNUZKb2RQTEprcFV3T1h3NUl1SkZkU3UtV1V5Qnh2eDNnX0J4Z25Cd1B1R2pBWmlRVlB0QWpDLTlJSHM1dnVwZ1N6TU4zazdEd3ZsaWZUUnhBdW1ndUhQWHhpWDFiZE1pSEtnMEJtdXhxVHE4T3BOZWg4VUNsdkpTREZoTE1sclhOeUJhSzgwa2doekFiTnBJN3AwMDN0VkcwRW90ZzNsOFE?oc=5",
+   "source": "Agencia Noticias Argentinas"
+  }
+ ]
+}

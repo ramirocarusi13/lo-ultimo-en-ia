@@ -4,7 +4,7 @@
   "skip": false,
   "skip_reason": "",
   "confidence": "alta",
-  "headline": "TRUMP APOYA QUE *JENSEN HUANG VUELVA*, PERO NVIDIA *NO LO CONSIDERA*",
+  "headline": "TRUMP APOYA QUE *JENSEN HUANG VUELVA*, PERO NVIDIA NO LO ESTARÍA *CONSIDERANDO*",
   "badge": "NVIDIA",
   "photos": [
    "Jensen Huang#2",
@@ -13,21 +13,26 @@
   ],
   "slides": [
    "Una campaña para que Jensen Huang *vuelva a dirigir Nvidia* ya suma más de 175.000 firmas, con apoyos como Elon Musk y Tim Sweeney. Donald Trump dijo que *no le molestaría* verlo de regreso.",
-   "Pero según una fuente citada por CNBC, el directorio *no está considerando recontratarlo*: está enfocado en la investigación sobre su conducta y eligiendo una firma para buscar nuevo CEO. Y el secretario del Tesoro, Scott Bessent, *pidió un reemplazo externo*."
+   "Pero según una fuente citada por CNBC, el directorio *no está considerando recontratarlo* y sigue enfocado en la investigación sobre su conducta. Además, ya elige una firma para buscar *nuevo CEO*, y el secretario del Tesoro pidió un reemplazo externo."
   ],
-  "caption": "🔄 Crece la campaña para que Jensen Huang vuelva a Nvidia, y Donald Trump la apoya.\n\nLa petición \"Bring Jensen Back\" ya superó las 175.000 firmas y la respaldan figuras como Elon Musk y Tim Sweeney, CEO de Epic Games. Trump dijo a la prensa que \"no le molestaría\" ver a Huang otra vez al frente de la empresa.\n\nDel otro lado, una fuente citada por CNBC asegura que el directorio no está considerando recontratarlo: sigue enfocado en la investigación sobre su conducta y en elegir una firma para buscar nuevo CEO. Mientras tanto, Colette Kress sigue como CEO interina.\n\n¿Y esto a mí qué? Nvidia es una pieza clave de la industria de la IA: sus chips están detrás de buena parte de los modelos que usas todos los días. Quién la dirija pesa en toda la industria.\n\n¿Crees que el directorio terminará cediendo a la presión? 👇\n\nFuente: CNBC, BBC, The Verge, Xataka\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "🔄 Crece la campaña para que Jensen Huang vuelva a Nvidia, y Donald Trump dice que no le molestaría.\n\nLa petición \"Bring Jensen Back\" ya superó las 175.000 firmas y la respaldan figuras como Elon Musk y Tim Sweeney, director ejecutivo de Epic Games. Trump dijo a la prensa que \"no le molestaría\" ver a Huang otra vez al frente de la empresa.\n\nDel otro lado, una fuente citada por CNBC asegura que el directorio no está considerando recontratarlo y que sigue enfocado en la investigación sobre su conducta. Según un representante del directorio, además, ya están eligiendo una firma para buscar nuevo CEO. Mientras tanto, Colette Kress sigue como CEO interina.\n\n¿Y esto a mí qué? Nvidia es una de las empresas más valiosas del mundo y sus chips se usan para entrenar modelos de IA.\n\n¿Crees que el directorio terminará cediendo a la presión? 👇\n\nFuente: CNBC, BBC, The Verge, Xataka\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
    "Nvidia",
    "JensenHuang",
-   "InteligenciaArtificial"
+   "BringJensenBack"
   ],
   "image_prompts": [
    "A glowing green graphics chip on a pedestal at the center of a tug of war between two groups of abstract geometric arrows, dark navy background, cyan and violet light",
    "A giant stack of floating digital signature papers rising into the sky like a tower, glowing envelopes, dark navy background with cyan and violet accents",
    "An empty glowing executive chair at the end of a long boardroom table seen from above, abstract geometric shapes, dark navy background with cyan and violet light"
+  ],
+  "reel_script": [
+   "Hasta Donald Trump dice que no le molestaría que Jensen Huang vuelva a Nvidia.",
+   "Una campaña para que regrese ya suma *175.000 firmas*, con el apoyo de Elon Musk y Tim Sweeney. Trump dijo que *no le molestaría* verlo de vuelta.",
+   "Pero según una fuente citada por la cadena CNBC, el directorio *no está considerando* recontratarlo. Sigue la investigación sobre su conducta y la búsqueda de un nuevo director ejecutivo."
   ]
  },
- "caption": "🔄 Crece la campaña para que Jensen Huang vuelva a Nvidia, y Donald Trump la apoya.\n\nLa petición \"Bring Jensen Back\" ya superó las 175.000 firmas y la respaldan figuras como Elon Musk y Tim Sweeney, CEO de Epic Games. Trump dijo a la prensa que \"no le molestaría\" ver a Huang otra vez al frente de la empresa.\n\nDel otro lado, una fuente citada por CNBC asegura que el directorio no está considerando recontratarlo: sigue enfocado en la investigación sobre su conducta y en elegir una firma para buscar nuevo CEO. Mientras tanto, Colette Kress sigue como CEO interina.\n\n¿Y esto a mí qué? Nvidia es una pieza clave de la industria de la IA: sus chips están detrás de buena parte de los modelos que usas todos los días. Quién la dirija pesa en toda la industria.\n\n¿Crees que el directorio terminará cediendo a la presión? 👇\n\nFuente: CNBC, BBC, The Verge, Xataka\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Anders Eidesvik / Wikimedia Commons (CC BY 4.0)\n📸 Foto: Daniel Torok / Wikimedia Commons (Public domain)\n📸 Foto: Coolcaesar at English Wikipedia / Wikimedia Commons (CC BY-SA 3.0)\n\n#Nvidia #JensenHuang #InteligenciaArtificial",
+ "caption": "🔄 Crece la campaña para que Jensen Huang vuelva a Nvidia, y Donald Trump dice que no le molestaría.\n\nLa petición \"Bring Jensen Back\" ya superó las 175.000 firmas y la respaldan figuras como Elon Musk y Tim Sweeney, director ejecutivo de Epic Games. Trump dijo a la prensa que \"no le molestaría\" ver a Huang otra vez al frente de la empresa.\n\nDel otro lado, una fuente citada por CNBC asegura que el directorio no está considerando recontratarlo y que sigue enfocado en la investigación sobre su conducta. Según un representante del directorio, además, ya están eligiendo una firma para buscar nuevo CEO. Mientras tanto, Colette Kress sigue como CEO interina.\n\n¿Y esto a mí qué? Nvidia es una de las empresas más valiosas del mundo y sus chips se usan para entrenar modelos de IA.\n\n¿Crees que el directorio terminará cediendo a la presión? 👇\n\nFuente: CNBC, BBC, The Verge, Xataka\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Anders Eidesvik / Wikimedia Commons (CC BY 4.0)\n📸 Foto: Daniel Torok / Wikimedia Commons (Public domain)\n📸 Foto: Coolcaesar at English Wikipedia / Wikimedia Commons (CC BY-SA 3.0)\n\n#Nvidia #JensenHuang #BringJensenBack",
  "slides": [
   "posts/20261116-1616/slide_1.jpg",
   "posts/20261116-1616/slide_2.jpg",
