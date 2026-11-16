@@ -34,6 +34,8 @@
   .brand .name small { display: block; font-family: "Inter"; font-weight: 500; font-size: 22px; color: #D7DCF5; }
 
   .top { position: absolute; left: 64px; right: 150px; bottom: 820px; }
+  /* portada: sin subtítulos, el titular baja para no tapar la cara de la foto */
+  .top.cover { bottom: 470px; }
   .tag { display: inline-flex; align-items: center; gap: 12px; padding: 12px 22px 12px 18px; border-radius: 999px;
          background: var(--accent2); font-family: "Space Grotesk"; font-weight: 700; font-size: 26px; letter-spacing: 2px;
          text-transform: uppercase; box-shadow: 0 10px 30px rgba(0,0,0,.35); }
@@ -87,7 +89,7 @@
 <div class="layer">
   <div class="shade"></div>
   <div class="brand">{{ logo }}<div class="name">{{ brand }}<small>{{ handle }}</small></div></div>
-  <div class="top">
+  <div class="top{% if headline %} cover{% endif %}">
     {% if headline %}
       <span class="tag"><i></i>Última hora</span>{% if badge %}<span class="entity">{{ badge }}</span>{% endif %}
       <h1 class="headline">{{ headline | safe }}</h1>
