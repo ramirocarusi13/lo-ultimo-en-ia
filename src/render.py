@@ -8,7 +8,7 @@ from pathlib import Path
 import requests
 from PIL import Image, ImageDraw, ImageFilter, ImageFont, ImageOps
 
-from config import BLACK, BRAND_NAME, FONTS, GREEN, GREEN_DARK, HANDLE, SIZE, WHITE
+from config import ACCENT, BG, BRAND_NAME, FONTS, HANDLE, SIZE, VIOLET, VIOLET_DARK, WHITE
 
 W, H = SIZE
 UA = {"User-Agent": "Mozilla/5.0 (compatible; news-carousel-bot/1.0)"}
@@ -41,9 +41,9 @@ def load_image(src: str | Path | None) -> Image.Image:
         return img.convert("RGB")
     except Exception:
         # sin foto: fondo oscuro con brillo verde
-        img = Image.new("RGB", SIZE, (8, 12, 10))
+        img = Image.new("RGB", SIZE, BG)
         d = ImageDraw.Draw(img)
-        d.ellipse((-300, -200, W + 300, H - 300), fill=(20, 70, 35))
+        d.ellipse((-300, -200, W + 300, H - 300), fill=VIOLET_DARK)
         return img.filter(ImageFilter.GaussianBlur(160))
 
 
@@ -63,7 +63,7 @@ def bottom_gradient(img: Image.Image, start: float, strength: int = 255) -> Imag
     for y in range(img.height):
         v = 0 if y < s else min(strength, int(strength * ((y - s) / (img.height - s)) ** 0.8 * 1.3))
         grad.putpixel((0, y), v)
-    black = Image.new("RGB", img.size, BLACK)
+    black = Image.new("RGB", img.size, BG)
     return Image.composite(black, img, grad.resize(img.size))
 
 
@@ -106,7 +106,7 @@ def draw_marked_block(draw, words, top, max_w, max_h, max_size=118, min_size=60,
         total = sum(draw.textlength(w, font=font) for w, _ in line) + space * (len(line) - 1)
         x = (W - total) / 2
         for w, hl in line:
-            draw.text((x, y), w, font=font, fill=GREEN if hl else WHITE)
+            draw.text((x, y), w, font=font, fill=ACCENT if hl else WHITE)
             x += draw.textlength(w, font=font) + space
         y += lh
     return y
@@ -121,16 +121,16 @@ def make_logo(size: int = 200) -> Image.Image:
     s = size * 4  # supersampling
     img = Image.new("RGBA", (s, s), (0, 0, 0, 0))
     d = ImageDraw.Draw(img)
-    d.ellipse((0, 0, s - 1, s - 1), fill=(0, 0, 0, 255))
+    d.ellipse((0, 0, s - 1, s - 1), fill=BG + (255,))
     ring = int(s * 0.035)
-    d.ellipse((ring, ring, s - ring, s - ring), outline=GREEN_DARK, width=ring)
+    d.ellipse((ring, ring, s - ring, s - ring), outline=VIOLET, width=ring)
     f = anton(int(s * 0.46))
     tw = d.textlength("IA", font=f)
     d.text(((s - tw) / 2, s * 0.14), "IA", font=f, fill=WHITE)
     # flecha de "lo último"
     d.line([(s * 0.30, s * 0.70), (s * 0.48, s * 0.60), (s * 0.58, s * 0.66), (s * 0.74, s * 0.52)],
-           fill=GREEN, width=int(s * 0.035), joint="curve")
-    d.polygon([(s * 0.78, s * 0.48), (s * 0.70, s * 0.50), (s * 0.76, s * 0.57)], fill=GREEN)
+           fill=ACCENT, width=int(s * 0.035), joint="curve")
+    d.polygon([(s * 0.78, s * 0.48), (s * 0.70, s * 0.50), (s * 0.76, s * 0.57)], fill=ACCENT)
     f2 = mont(int(s * 0.075), "Black")
     t = "LO ÚLTIMO"
     tw = d.textlength(t, font=f2)
@@ -160,28 +160,26 @@ def credit(img, text):
 
 # ---------- slides ----------
 def slide_cover(photo, headline: str, badge: str, photo_credit: str) -> Image.Image:
-    img = Image.new("RGB", SIZE, BLACK)
+    img = Image.new("RGB", SIZE, BG)
     ph_h = int(H * 0.60)
     ph = bottom_gradient(cover(photo, (W, ph_h)), 0.55)
     img.paste(ph, (0, 0))
     d = ImageDraw.Draw(img)
 
     if badge:
-        r = 190
-        cx, cy = 20 + r - 60, int(ph_h * 0.42)
-        d.ellipse((cx - r, cy - r, cx + r, cy + r), fill=GREEN_DARK)
-        size = 92
-        while size > 30 and d.textlength(badge.upper(), font=anton(size)) > r * 1.45:
-            size -= 4
-        f = anton(size)
-        tw = d.textlength(badge.upper(), font=f)
-        d.text((cx - tw / 2 + 20, cy - size * 0.62), badge.upper(), font=f, fill=WHITE)
+        f = anton(72)
+        t = badge.upper()
+        tw = d.textlength(t, font=f)
+        bx, by = 40, 40
+        d.rounded_rectangle((bx + 6, by + 8, bx + tw + 66, by + 118), radius=24, fill=VIOLET_DARK)
+        d.rounded_rectangle((bx, by, bx + tw + 60, by + 110), radius=24, fill=VIOLET)
+        d.text((bx + 30, by + 8), t, font=f, fill=WHITE)
 
     # línea con el logo al centro
     ly = ph_h - 10
     logo = make_logo(84)
-    d.line([(40, ly), (W / 2 - 60, ly)], fill=(200, 200, 200), width=3)
-    d.line([(W / 2 + 60, ly), (W - 40, ly)], fill=(200, 200, 200), width=3)
+    d.line([(40, ly), (W / 2 - 60, ly)], fill=ACCENT, width=3)
+    d.line([(W / 2 + 60, ly), (W - 40, ly)], fill=ACCENT, width=3)
     img.paste(logo, (W // 2 - 42, ly - 42), logo)
 
     end_y = draw_marked_block(d, parse_marked(headline), ly + 55, W - 110, H - ly - 200)
@@ -213,11 +211,11 @@ def slide_story(photo, text: str, photo_credit: str, zoom=1.0, focus=(0.5, 0.3))
 
 
 def slide_cta() -> Image.Image:
-    img = Image.new("RGB", SIZE, BLACK)
+    img = Image.new("RGB", SIZE, BG)
     d = ImageDraw.Draw(img)
     # tarjeta de perfil
     x0, y0, x1, y1 = 70, 70, W - 70, 660
-    d.rounded_rectangle((x0, y0, x1, y1), radius=60, outline=WHITE, width=14, fill=(5, 5, 5))
+    d.rounded_rectangle((x0, y0, x1, y1), radius=60, outline=ACCENT, width=10, fill=(14, 18, 44))
     f = mont(46, "Bold")
     d.text((x0 + 60, y0 + 60), "←", font=f, fill=WHITE)
     d.text((x0 + 150, y0 + 58), HANDLE.lstrip("@"), font=f, fill=WHITE)
@@ -234,17 +232,17 @@ def slide_cta() -> Image.Image:
     bio = ["Noticias de IA en español", "Explicado simple, sin vueltas", "Activá las notificaciones"]
     for i, b in enumerate(bio):
         by = y0 + 410 + i * 46
-        d.ellipse((x0 + 64, by + 13, x0 + 80, by + 29), fill=GREEN)
+        d.ellipse((x0 + 64, by + 13, x0 + 80, by + 29), fill=ACCENT)
         d.text((x0 + 100, y0 + 410 + i * 46), b, font=fm, fill=WHITE)
     # botón
     bx0, by0, bx1, by1 = x1 - 330, y0 + 420, x1 - 50, y0 + 500
-    d.rounded_rectangle((bx0 + 4, by0 + 8, bx1 + 4, by1 + 8), radius=40, fill=(20, 80, 40))
-    d.rounded_rectangle((bx0, by0, bx1, by1), radius=40, fill=(76, 175, 80))
+    d.rounded_rectangle((bx0 + 4, by0 + 8, bx1 + 4, by1 + 8), radius=40, fill=VIOLET_DARK)
+    d.rounded_rectangle((bx0, by0, bx1, by1), radius=40, fill=VIOLET)
     ft = mont(38, "Bold")
     t = "Síguenos"
     d.text(((bx0 + bx1 - d.textlength(t, font=ft)) / 2, by0 + 16), t, font=ft, fill=WHITE)
 
-    draw_marked_block(d, parse_marked("SI TE GUSTAN LAS NOTICIAS DE *IA* EN *TENDENCIA* ESTA PÁGINA ES PARA TI"),
+    draw_marked_block(d, parse_marked("SEGUINOS Y ENTERATE *PRIMERO* DE TODO LO *NUEVO* EN IA"),
                       720, W - 130, 580, max_size=130)
     return img
 

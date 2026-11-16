@@ -1,7 +1,7 @@
 # Lo Último en IA — bot de Instagram
 
-Publica solo carruseles de noticias de IA con el estilo de la cuenta de referencia:
-portada con foto + titular grande con palabras en verde, 2 imágenes con la explicación
+Publica solo carruseles de noticias de IA con estilo propio (azul noche, celeste y violeta):
+portada con foto + titular grande con palabras en celeste, 2 imágenes con la explicación
 y una imagen final de "Síguenos".
 
 ![ejemplo](docs/ejemplo/preview.jpg)

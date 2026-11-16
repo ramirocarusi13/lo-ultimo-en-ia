@@ -10,9 +10,10 @@ POSTS_DIR = ROOT / "posts"
 # ---- Marca ----
 BRAND_NAME = "Lo Último en IA"
 HANDLE = os.getenv("IG_HANDLE") or "@loultimoenia"
-GREEN = (110, 231, 120)       # verde de resaltado
-GREEN_DARK = (40, 170, 70)
-BLACK = (0, 0, 0)
+ACCENT = (0, 220, 255)        # celeste eléctrico: palabras resaltadas
+VIOLET = (124, 58, 237)       # violeta: logo, etiqueta y botón
+VIOLET_DARK = (60, 20, 140)
+BG = (8, 10, 28)              # azul noche de fondo
 WHITE = (255, 255, 255)
 SIZE = (1080, 1350)           # formato vertical 4:5 de Instagram
 
