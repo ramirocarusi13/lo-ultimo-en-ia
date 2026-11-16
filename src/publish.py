@@ -36,7 +36,21 @@ def _wait_ready(container_id: str, timeout: int = 300) -> None:
     raise TimeoutError(f"Contenedor {container_id} no terminó de procesarse")
 
 
+def publish_via_make(image_urls: list[str], caption: str) -> str:
+    """Plan B sin cuenta de desarrollador: un escenario de Make.com (plan gratis) recibe las
+    URLs y el texto por webhook y publica el carrusel con su app de Instagram ya aprobada."""
+    r = requests.post(os.environ["MAKE_WEBHOOK_URL"], timeout=120,
+                      json={"image_urls": image_urls, "caption": caption,
+                            "media": [{"media_type": "IMAGE", "image_url": u} for u in image_urls]})
+    if r.status_code >= 400:
+        raise RuntimeError(f"Make respondió {r.status_code}: {r.text[:300]}")
+    print(f"[publish] enviado a Make: {r.text[:200]}")
+    return r.text.strip() if r.text.strip().startswith("http") else ""
+
+
 def publish_carousel(image_urls: list[str], caption: str) -> str:
+    if not os.getenv("IG_ACCESS_TOKEN") and os.getenv("MAKE_WEBHOOK_URL"):
+        return publish_via_make(image_urls, caption)
     user = os.environ["IG_USER_ID"]
     children = []
     for url in image_urls:

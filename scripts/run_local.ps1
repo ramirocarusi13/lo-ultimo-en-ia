@@ -22,7 +22,7 @@ New-Item -ItemType Directory -Force $LogDir | Out-Null
 $Log = Join-Path $LogDir ("run-{0:yyyyMMdd-HHmm}.log" -f (Get-Date))
 function Log($msg) { $line = "{0:HH:mm:ss} {1}" -f (Get-Date), $msg; $line | Tee-Object -FilePath $Log -Append }
 
-foreach ($n in 'IG_USER_ID', 'IG_ACCESS_TOKEN', 'IG_GRAPH_HOST', 'IG_HANDLE') {
+foreach ($n in 'IG_USER_ID', 'IG_ACCESS_TOKEN', 'IG_GRAPH_HOST', 'IG_HANDLE', 'MAKE_WEBHOOK_URL') {
     $v = [Environment]::GetEnvironmentVariable($n, 'User')
     if ($v) { Set-Item "env:$n" $v }
 }
@@ -75,7 +75,9 @@ if ($Publish) {
     $remote = (git remote get-url origin 2>$null)
     if ($remote -notmatch 'github\.com[:/](.+?)(\.git)?$') { Log 'ERROR: el repo no tiene remoto de GitHub (origin)'; exit 1 }
     $env:PUBLIC_BASE_URL = "https://raw.githubusercontent.com/$($Matches[1])/main"
-    if (-not $env:IG_ACCESS_TOKEN -or -not $env:IG_USER_ID) { Log 'ERROR: faltan IG_USER_ID / IG_ACCESS_TOKEN'; exit 1 }
+    if (-not $env:MAKE_WEBHOOK_URL -and (-not $env:IG_ACCESS_TOKEN -or -not $env:IG_USER_ID)) {
+        Log 'ERROR: faltan IG_USER_ID / IG_ACCESS_TOKEN (API de Instagram) o MAKE_WEBHOOK_URL (Make.com)'; exit 1
+    }
     Log 'Publicando en Instagram'
     & $Py src/main.py publish 2>&1 | ForEach-Object { Log $_ }
     if ($LASTEXITCODE -ne 0) { Log 'ERROR: falló la publicación'; exit 1 }
