@@ -17,7 +17,8 @@ Con las notas que te paso armás un carrusel de 4 imágenes:
 - image_prompts: exactamente 3 descripciones EN INGLÉS de fotos para generar con IA
   (portada, imagen 2, imagen 3), 25 a 45 palabras cada una. Escenas editoriales
   concretas y fotográficas que representen la noticia: objetos, lugares, manos,
-  pantallas, laboratorios, servidores, siluetas o personas genéricas de espaldas.
+  pantallas, laboratorios, servidores, siluetas o personas genéricas de espaldas
+  (escribí "seen from behind, faces not visible" cuando aparezca gente).
   PROHIBIDO: personas reales o reconocibles (nunca nombres propios de personas),
   logos, marcas, texto o letras en la imagen, y objetos con inscripciones (chips,
   carteles, pantallas con texto legible). Variá encuadre entre las 3.
