@@ -74,8 +74,8 @@ OFFICIAL_SOURCES = {"OpenAI", "Google", "Google DeepMind", "NVIDIA", "Hugging Fa
 # ---- Ritmo de publicación (modo "último momento") ----
 # La tarea revisa las fuentes seguido; estos límites evitan que Instagram trate la
 # cuenta como spam (la API permite hasta 50 posts por día).
-MIN_MINUTES_BETWEEN_POSTS = int(os.getenv("MIN_MINUTES_BETWEEN_POSTS", "60"))
-MAX_POSTS_PER_DAY = int(os.getenv("MAX_POSTS_PER_DAY", "12"))
+MIN_MINUTES_BETWEEN_POSTS = int(os.getenv("MIN_MINUTES_BETWEEN_POSTS", "25"))
+MAX_POSTS_PER_DAY = int(os.getenv("MAX_POSTS_PER_DAY", "30"))
 
 # Medios que no se usan: sitios de recomendaciones bursátiles que se republican
 # entre sí y harían pasar una nota copiada por "tendencia".

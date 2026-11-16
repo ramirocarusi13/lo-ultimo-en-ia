@@ -13,8 +13,8 @@ para seguir la cuenta.
    oficiales de OpenAI, Google, DeepMind, NVIDIA y Hugging Face) y agrupa los titulares que
    hablan de lo mismo (también entre inglés y español). Elige la historia de las últimas 12 h
    que cubren **más medios distintos**, priorizando lo más reciente; exige al menos 2
-   (`MIN_SOURCES`; un anuncio oficial cuenta doble). Respeta un mínimo de 60 min entre posts y
-   un máximo de 12 por día (`MIN_MINUTES_BETWEEN_POSTS`, `MAX_POSTS_PER_DAY`). Una nota copiada
+   (`MIN_SOURCES`; un anuncio oficial cuenta doble). Respeta un mínimo de 25 min entre posts y
+   un máximo de 30 por día (`MIN_MINUTES_BETWEEN_POSTS`, `MAX_POSTS_PER_DAY`). Una nota copiada
    tal cual en varios sitios cuenta como una sola, y los sitios de recomendaciones bursátiles
    están bloqueados (`BLOCKED_SOURCES` en `src/config.py`).
 2. **Redacta**: Claude, en una tarea programada de la app de Claude (con la suscripción, sin
@@ -32,7 +32,7 @@ para seguir la cuenta.
 6. **Revisa y publica**: Claude mira las 4 imágenes antes de publicar; si están bien,
    `src/publish.py` sube el carrusel con la API oficial de Instagram.
 7. **Se repite solo**: la tarea programada de la app de Claude (instrucciones en
-   `prompts/tarea_programada.md`) revisa las fuentes cada 20 minutos. `state/posted.json` recuerda lo
+   `prompts/tarea_programada.md`) revisa las fuentes cada 10 minutos. `state/posted.json` recuerda lo
    publicado para no repetir.
 
 ¿Por qué en la PC y no en GitHub Actions? Los servidores de Actions no tienen placa de video
