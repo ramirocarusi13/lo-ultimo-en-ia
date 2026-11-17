@@ -8,3 +8,8 @@
 - **revisor-legal** — CAMBIOS, riesgo bajo. Condicional en titular, caption y Reel (la salida a bolsa aún no ocurrió). Sin recomendación de inversión. Etiqueta IA: no.
 - **editor-estilo** — CAMBIOS, 8/10. Recortar caption (~150 palabras), "boom" → "auge".
 - **cazador-videos** — sin clips con licencia libre de la noticia (descartó tutoriales de terceros y relleno de NASA). Va como carrusel.
+- **productor** — FORMATO: CARRUSEL (noticia de cifras; sin video real no hay Reel).
+- **director-arte** — CAMBIOS, 4/10. Slide 2 mostraba la torre Nasdaq con logo de NASA/Mars 2020 y carteles con personas; slide 3, una obra en construcción sin relación. Slides 1 y 4 bien.
+
+**Cambios aplicados (jefe de redacción):** condicional en titular, caption y Reel (legal); "casi el 30%" en vez de "casi un tercio" y "unos 1,4 billones de dólares" (verificador); caption recortado y "boom"→"auge" (estilo); gancho y cierre del guion (guionista); fotos de slides 2 y 3 reemplazadas por ilustraciones y carrusel rearmado.
+**Etiqueta IA:** sí corresponde avisar que las imágenes son ilustraciones generadas con IA (las 3 son ilustraciones 3D, no fotos realistas; el revisor legal considera que no hace falta etiqueta obligatoria).
