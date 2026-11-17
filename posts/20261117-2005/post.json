@@ -1,0 +1,64 @@
+{
+ "id": "20261117-2005",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "ANTHROPIC SALDRÍA A BOLSA VALUADA EN UNOS *1,4 BILLONES DE DÓLARES*",
+  "badge": "Anthropic",
+  "photos": [
+   "Anthropic office",
+   "Nasdaq MarketSite",
+   "Amazon Spheres"
+  ],
+  "slides": [
+   "Anthropic, la empresa que creó a Claude, *saldría a bolsa este jueves* en Nasdaq. Planea ofrecer 825 millones de acciones a entre 70 y 78 dólares cada una, con una valuación de unos 1,4 billones de dólares.",
+   "Sería *el primer gran laboratorio de IA* en cotizar, antes que OpenAI. Según su presentación, Amazon tendría el 14,7% y Google el 13,7%: *casi el 30% entre los dos*. Además, AMD, Microsoft, Nvidia y otras invertirán 26.000 millones de dólares."
+  ],
+  "caption": "💰 Anthropic, la empresa detrás de Claude, se prepara para salir a bolsa esta semana con una valuación prevista de unos 1,4 billones de dólares.\n\nSe espera que empiece a cotizar en Nasdaq este jueves, con 825 millones de acciones a entre 70 y 78 dólares cada una. Sería el primer gran laboratorio de IA en salir a bolsa, antes que OpenAI.\n\nSegún los documentos de la empresa, Amazon tendría el 14,7% y Google el 13,7%. AMD, Broadcom, Google, Micron, Microsoft, Nvidia y TSMC comprarán 26.000 millones de dólares en acciones sin voto.\n\n¿Y esto a mí qué? Es una prueba clave del auge de la IA: muestra cuánto valen las empresas detrás de los asistentes que usas.\n\n¿Te parece bien que Amazon y Google tengan casi el 30% de la empresa que hace Claude?\n\nFuente: TechCrunch, CNBC, CBS News\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "Anthropic",
+   "Claude",
+   "IPO"
+  ],
+  "image_prompts": [
+   "3D illustration of a glowing translucent brain made of circuits rising on a pedestal above a futuristic stock exchange floor, blue and violet lights, upward light trails, cinematic wide shot, no text, no logos",
+   "3D illustration of a giant glowing pie chart floating in a dark room, two large slices highlighted in warm orange and cool blue light, small abstract server towers around it, isometric view, no text, no numbers",
+   "3D illustration close-up of a golden bell on a sleek podium surrounded by rising abstract bar charts made of light and floating data cubes, dramatic low angle, soft purple glow, no text, no logos"
+  ],
+  "reel_script": [
+   "La creadora de Claude saldría a bolsa valuada en unos 1,4 billones de dólares.",
+   "*Anthropic* empezaría a cotizar este jueves en Nasdaq, con 825 millones de acciones. Amazon y Google tendrían casi el 30 por ciento de la empresa.",
+   "Sería el *primer gran laboratorio* de inteligencia artificial en cotizar. OpenAI apunta a hacerlo el año que viene, y todos miran qué pasa este jueves."
+  ]
+ },
+ "caption": "💰 Anthropic, la empresa detrás de Claude, se prepara para salir a bolsa esta semana con una valuación prevista de unos 1,4 billones de dólares.\n\nSe espera que empiece a cotizar en Nasdaq este jueves, con 825 millones de acciones a entre 70 y 78 dólares cada una. Sería el primer gran laboratorio de IA en salir a bolsa, antes que OpenAI.\n\nSegún los documentos de la empresa, Amazon tendría el 14,7% y Google el 13,7%. AMD, Broadcom, Google, Micron, Microsoft, Nvidia y TSMC comprarán 26.000 millones de dólares en acciones sin voto.\n\n¿Y esto a mí qué? Es una prueba clave del auge de la IA: muestra cuánto valen las empresas detrás de los asistentes que usas.\n\n¿Te parece bien que Amazon y Google tengan casi el 30% de la empresa que hace Claude?\n\nFuente: TechCrunch, CNBC, CBS News\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: NASA Headquarters / NASA/Emma Howells / Wikimedia Commons (Public domain)\n📸 Foto: SounderBruce from Seattle, United States / Wikimedia Commons (CC BY-SA 2.0)\n\n#Anthropic #Claude #IPO",
+ "slides": [
+  "posts/20261117-2005/slide_1.jpg",
+  "posts/20261117-2005/slide_2.jpg",
+  "posts/20261117-2005/slide_3.jpg",
+  "posts/20261117-2005/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+   "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+   "source": "TechCrunch"
+  },
+  {
+   "title": "Altimeter's Brad Gerstner aims to invest $5 billion in Anthropic IPO",
+   "link": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
+   "source": "CNBC"
+  },
+  {
+   "title": "Anthropic IPO Impact AI Investment Cycle",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV0xmZ3VNRG5MM3ZmNWRqbGNZNm5kTDNlOElFV2Y1VlFJTDZjekE4d1plQmEwT1FHRXlWSVlOQVE2T1hnNUVyZTZ0SGI1d2VGQ29DeXhXbGlFY2tjTjF1bmxkdndmUDZVZ2o3N1Zab19kaFZzbmJ6Si1SZHRvSTJjZE1qWHRYRU93RFlmdFd1aThTS3VGY3AwcVQ5RWxXdFZRczVwV1l3?oc=5",
+   "source": "Funds Society"
+  },
+  {
+   "title": "Anthropic's IPO set for blastoff this week in key test for AI boom",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE10OUpMSF9LOVFSVk9ZbGszRUFCTm9sYjhnUk9IaWZWb1FieW4zUG1saWd5UlJBUHB2TXRvczNqVlExYkd4WEcxRGlwdC1PbHUtaEFfRno2WlE0TnBVTWFtMnBwTmRCc3ZGS19adHRmUTBCZw?oc=5",
+   "source": "CBS News"
+  }
+ ]
+}
