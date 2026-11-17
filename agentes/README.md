@@ -13,10 +13,12 @@ cambios y decide.
 | `revisor-legal` | después del borrador | rumores, acusaciones, derechos de fotos y videos, reglas de Instagram | sonnet |
 | `guionista-reels` | después del borrador | gancho y ritmo del guion del Reel para que lo miren hasta el final | sonnet |
 | `cazador-videos` | después del borrador | busca videos REALES de la noticia con licencia libre (YouTube CC del autor, Wikimedia Commons, NASA) y los baja para el Reel | sonnet |
+| `productor` | después del armado | decide el formato: REEL (si la noticia se ve y hay video real), CARRUSEL o AMBOS | sonnet |
 | `director-arte` | después del armado | los 4 slides: legibilidad, fotos correctas, terceros, recortes | sonnet |
 | `editor-video` | después del armado | el Reel: clips, sincronía con la voz, textos, zonas seguras | sonnet |
 
-Los 5 de "después del borrador" corren en paralelo, y los 2 de "después del armado" también.
+Los 5 de "después del borrador" corren en paralelo, y los 3 de "después del armado" también.
+Los Reels son solo con video real; sin video, la noticia sale como carrusel.
 Cada agente devuelve un informe corto con VEREDICTO (OK / CAMBIOS / DESCARTAR), puntaje y
 cambios concretos. Los informes se juntan en `posts/<id>/informe_agentes.md`, que se manda
 al usuario junto con el post.

@@ -25,6 +25,8 @@ REEL_FPS = 30
 REEL_VOICE = os.getenv("REEL_VOICE") or "es_MX-claude-high"
 REEL_SPEED = float(os.getenv("REEL_SPEED") or 0.88)  # <1 = habla más rápido
 VOICES_DIR = ROOT / "voices"
+# "natural" = Chatterbox (suena humana; usa voices/referencia.wav si existe) | "piper"
+REEL_TTS = os.getenv("REEL_TTS") or "natural"
 
 # ---- Fuentes (RSS) ----
 # Mezcla de medios en inglés y español. Una historia que aparece en varios

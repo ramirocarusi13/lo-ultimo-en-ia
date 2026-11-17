@@ -24,9 +24,10 @@
 
   /* Zonas seguras de Reels: arriba ~200px (barra de IG), abajo ~420px (usuario y texto),
      derecha ~150px (botones de me gusta / comentar). */
-  .shade { position: absolute; inset: 0;
-    background: linear-gradient(180deg, rgba(0,0,0,.65) 0%, rgba(0,0,0,.4) 13%, rgba(0,0,0,0) 22%, rgba(0,0,0,0) 34%,
-                color-mix(in srgb, var(--bg) 80%, transparent) 52%, color-mix(in srgb, var(--bg) 94%, transparent) 72%, var(--bg) 100%); }
+  /* sin sombra oscura sobre el video: solo un velo suave arriba para que se lea el logo;
+     los textos se leen por su propia sombra y contorno */
+  .shade { position: absolute; inset: 0 0 auto 0; height: 380px;
+    background: linear-gradient(180deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 100%); }
   .brand { position: absolute; top: 210px; left: 64px; display: flex; align-items: center; gap: 18px; }
   .brand svg { width: 70px; height: 70px; filter: drop-shadow(0 6px 18px rgba(0,0,0,.45)); }
   .brand .name { font-family: "Space Grotesk"; font-weight: 700; font-size: 30px; letter-spacing: .5px; line-height: 1.05;
@@ -45,16 +46,18 @@
             border: 1.5px solid rgba(255,255,255,.35); text-transform: uppercase; }
   .headline { margin-top: 26px; font-family: "Archivo"; font-stretch: 72%; font-weight: 850; text-transform: uppercase;
               font-size: {{ headline_size }}px; line-height: .98; letter-spacing: -.5px; text-wrap: balance;
-              text-shadow: 0 4px 30px rgba(0,0,0,.45); }
+              paint-order: stroke fill; -webkit-text-stroke: 8px rgba(0,0,0,.45);
+              text-shadow: 0 4px 18px rgba(0,0,0,.75), 0 0 40px rgba(0,0,0,.45); }
   .step { display: flex; align-items: center; gap: 18px; font-family: "Space Grotesk"; font-weight: 700; font-size: 30px;
-          letter-spacing: 3px; color: var(--accent); text-transform: uppercase; }
+          letter-spacing: 3px; color: var(--accent); text-transform: uppercase; text-shadow: 0 2px 12px rgba(0,0,0,.8); }
   .step::after { content: ""; flex: 1; height: 2px; background: linear-gradient(90deg, rgba(255,255,255,.4), transparent); }
 
   /* subtítulo (una frase corta por vez, estilo karaoke) */
-  .sub { position: absolute; left: 64px; right: 150px; top: 1130px; height: 330px; display: flex; align-items: center; }
-  .sub p { font-family: "Archivo"; font-stretch: 85%; font-weight: 850; font-size: 92px; line-height: 1.02;
-           text-transform: uppercase; letter-spacing: -.5px; text-wrap: balance;
-           paint-order: stroke fill; -webkit-text-stroke: 10px rgba(0,0,0,.55); text-shadow: 0 6px 24px rgba(0,0,0,.5); }
+  .sub { position: absolute; left: 64px; right: 150px; top: 1200px; height: 240px; display: flex; align-items: center;
+         justify-content: center; text-align: center; }
+  .sub p { font-family: "Archivo"; font-stretch: 85%; font-weight: 800; font-size: 60px; line-height: 1.05;
+           text-transform: uppercase; letter-spacing: 0; text-wrap: balance;
+           paint-order: stroke fill; -webkit-text-stroke: 7px rgba(0,0,0,.7); text-shadow: 0 3px 14px rgba(0,0,0,.6); }
 
   /* cierre */
   .end { width: 1080px; height: 1920px;

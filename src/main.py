@@ -175,7 +175,8 @@ def reel(post_id: str) -> None:
     try:
         from video import make_reel
 
-        print(f"REEL {make_reel(post_id)}")
+        path = make_reel(post_id)
+        print(f"REEL {path}" if path else "REEL no (sin video real: va solo el carrusel)")
     except Exception as e:
         print(f"[main] no se pudo armar el reel: {e}")
 

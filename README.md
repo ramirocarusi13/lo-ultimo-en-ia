@@ -28,19 +28,31 @@ para seguir la cuenta.
    disponible, usa la foto principal de la nota con el crédito del medio.
 4. **Diseña** (`src/render.py` + `src/templates/carousel.html`): plantilla HTML/CSS
    renderizada con Chromium (Playwright), con tipografías Archivo, Inter y Space Grotesk.
-5. **Arma un Reel con voz** (`src/video.py` + `src/templates/reel.html`): video vertical 9:16
-   de ~30 s con las mismas fotos en movimiento, titular, subtítulos estilo karaoke y voz en off
-   de **Piper** (TTS de código abierto, corre en la PC en segundos; voces en `voices/`, no se
-   suben al repo). ffmpeg une todo en `posts/<id>/reel.mp4`. El guion sale del campo
-   `reel_script` del borrador. Rearmar solo el Reel: `python src/main.py reel <id>`.
+5. **Arma un Reel con voz, solo si hay video real** (`src/video.py` + `src/templates/reel.html`):
+   video vertical 9:16 de ~30 s con clips reales de la noticia, titular, subtítulos y voz en off.
+   Sin video real no hay Reel (la noticia sale como carrusel). ffmpeg une todo en
+   `posts/<id>/reel.mp4`. El guion sale del campo `reel_script` del borrador. Rearmar solo el
+   Reel: `python src/main.py reel <id>`.
+   **Voz natural**: Chatterbox Multilingual (Resemble AI, MIT) en un venv aparte con PyTorch CPU:
+   ```
+   py -3.12 -m venv .venv-tts
+   .venv-tts\Scripts\python -m pip install torch==2.6.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cpu
+   .venv-tts\Scripts\python -m pip install chatterbox-tts
+   ```
+   La primera vez baja el modelo (varios GB). Después tarda ~20 s por frase en CPU. Imita el
+   timbre de `voices/referencia.wav` (10-20 s de una sola persona hablando claro, **solo con su
+   permiso**); si no existe usa `voices/referencia_base.wav`. Si falla, cae a **Piper** (rápido,
+   más robótico). Forzar Piper: variable `REEL_TTS=piper`.
    **Videos reales** (`src/clips.py`): cuando existe video de la noticia con licencia que permite
    reutilizarlo (YouTube con licencia Creative Commons subido por el autor real, Wikimedia
    Commons o NASA), el Reel lo muestra en formato noticiero y el caption cita al autor
    ("🎥 Video: …"). Nunca se bajan videos de X/Twitter, TikTok, Instagram ni de YouTube con
    licencia estándar.
-6. **Equipo de agentes** (`agentes/`): un analista de tendencias elige la noticia, y un
-   verificador de datos, un editor de estilo, un revisor legal y un director de arte revisan
-   cada post en paralelo. El informe queda en `posts/<id>/informe_agentes.md`.
+6. **Equipo de agentes** (`agentes/`): un analista de tendencias elige la noticia; un
+   verificador de datos, un editor de estilo, un revisor legal, un guionista y un cazador de
+   videos revisan el borrador en paralelo; y un productor decide el formato (Reel, carrusel o
+   ambos) mientras el director de arte y el editor de video revisan lo armado. El informe queda
+   en `posts/<id>/informe_agentes.md`.
 7. **Te lo manda para revisar**: los 4 slides, el Reel, el caption y el informe llegan con una
    notificación. Se publica solo si lo pedís (o con `AUTO_PUBLISH=true` y la API de Instagram).
 8. **Se repite solo**: la tarea programada de la app de Claude (instrucciones en

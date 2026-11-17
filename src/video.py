@@ -1,9 +1,9 @@
-﻿"""Reel de Instagram (9:16, ~25-35 s) a partir de un post ya armado.
+"""Reel de Instagram (9:16, ~25-35 s) a partir de un post ya armado.
 
 Todo gratis y local:
-  - voz en off con Piper (TTS de código abierto, corre en CPU en segundos);
-  - fondos: las mismas fotos del carrusel (reales de Wikimedia o ilustraciones de ComfyUI)
-    con zoom lento (efecto Ken Burns);
+  - voz en off natural con Chatterbox (MIT) o, de respaldo, Piper (código abierto);
+  - SOLO video real con licencia libre (clips elegidos por el agente cazador-videos en
+    work/<id>/clips.json). Sin video no se arma Reel: ese post va solo como carrusel;
   - textos y subtítulos estilo karaoke con la plantilla HTML de la marca (Chromium);
   - ffmpeg une todo en posts/<id>/reel.mp4.
 
@@ -22,10 +22,9 @@ import wave
 from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader
-from PIL import Image
 
 from config import (BRAND_NAME, COLORS, HANDLE, POSTS_DIR, REEL_FPS, REEL_SIZE, REEL_SPEED,
-                    REEL_VOICE, VOICES_DIR)
+                    REEL_TTS, REEL_VOICE, ROOT, VOICES_DIR)
 from render import TEMPLATES, _headline_size, _marked
 
 OUTRO = "Sigue a Lo Último en IA para no perderte nada."
@@ -60,33 +59,72 @@ def _script(post: dict) -> list[str]:
 
 
 # ---------------------------------------------------------------- voz
-def _voice():
-    from piper import PiperVoice
+# Dos motores, los dos gratis y de código abierto:
+#   - "natural": Chatterbox Multilingual (Resemble AI, licencia MIT). Suena humano; imita el
+#     timbre de una grabación de referencia (voices/referencia.wav, 10-20 s de una persona que
+#     DIO SU PERMISO). Corre en su propio entorno (.venv-tts) porque usa PyTorch.
+#   - "piper": más robótica pero instantánea; queda de respaldo si la natural falla.
+TTS_PY = ROOT / ".venv-tts" / "Scripts" / "python.exe"
+
+
+def _sentences(text: str) -> list[str]:
+    # se separa a mano para conservar los *asteriscos* de cada oración
+    return [s for s in re.split(r"(?<=[.!?])\s+", text.strip()) if _plain(s)]
+
+
+def _speak_piper(groups: list[list[str]]) -> list[list[tuple[str, bytes, int]]]:
+    from piper import PiperVoice, SynthesisConfig
 
     model = VOICES_DIR / f"{REEL_VOICE}.onnx"
     if not model.exists():
         subprocess.run([sys.executable, "-m", "piper.download_voices", REEL_VOICE,
                         "--data-dir", str(VOICES_DIR)], check=True)
-    return PiperVoice.load(str(model))
-
-
-def _speak(voice, text: str) -> list[tuple[str, bytes, int]]:
-    """Una entrada por oración: (texto con *marcas*, audio int16, sample rate)."""
-    from piper import SynthesisConfig
-
-    cfg = SynthesisConfig(length_scale=REEL_SPEED)
-    # se separa a mano para conservar los *asteriscos* de cada oración
-    sentences = [s for s in re.split(r"(?<=[.!?])\s+", text.strip()) if _plain(s)]
+    voice, cfg = PiperVoice.load(str(model)), SynthesisConfig(length_scale=REEL_SPEED)
     out = []
-    for s in sentences:
-        chunks = list(voice.synthesize(_plain(s), syn_config=cfg))
-        out.append((s, b"".join(c.audio_int16_bytes for c in chunks), chunks[0].sample_rate))
+    for sents in groups:
+        row = []
+        for s in sents:
+            chunks = list(voice.synthesize(_plain(s), syn_config=cfg))
+            row.append((s, b"".join(c.audio_int16_bytes for c in chunks), chunks[0].sample_rate))
+        out.append(row)
     return out
 
 
+def _speak_natural(groups: list[list[str]], tmp: Path) -> list[list[tuple[str, bytes, int]]]:
+    flat = [_plain(s) for sents in groups for s in sents]
+    job = tmp / "tts.json"
+    job.write_text(json.dumps({"sentences": flat, "out_dir": str(tmp)}, ensure_ascii=False), encoding="utf-8")
+    r = subprocess.run([str(TTS_PY), str(Path(__file__).parent / "tts_natural.py"), str(job)],
+                       capture_output=True, text=True, encoding="utf-8", errors="replace")
+    if r.returncode:
+        raise RuntimeError(r.stderr[-1500:])
+    out, i = [], 0
+    for sents in groups:
+        row = []
+        for s in sents:
+            with wave.open(str(tmp / f"tts_{i:03d}.wav"), "rb") as w:
+                row.append((s, w.readframes(w.getnframes()), w.getframerate()))
+            i += 1
+        out.append(row)
+    return out
+
+
+def _speak(texts: list[str], tmp: Path) -> list[list[tuple[str, bytes, int]]]:
+    """Una lista por escena; en cada una, (oración con *marcas*, audio int16, sample rate)."""
+    groups = [_sentences(t) for t in texts]
+    if REEL_TTS == "natural" and TTS_PY.exists():
+        try:
+            out = _speak_natural(groups, tmp)
+            print("[video] voz: natural (Chatterbox)")
+            return out
+        except Exception as e:
+            print(f"[video] voz natural falló, uso Piper: {e}")
+    print(f"[video] voz: Piper ({REEL_VOICE})")
+    return _speak_piper(groups)
+
 # ---------------------------------------------------------------- subtítulos
-def _chunks(sentence: str, max_words: int = 3, max_chars: int = 18) -> list[str]:
-    """Parte una oración en frases de 1-3 palabras, conservando los resaltados *así*."""
+def _chunks(sentence: str, max_words: int = 4, max_chars: int = 26) -> list[str]:
+    """Parte una oración en frases de 1-4 palabras, conservando los resaltados *así*."""
     words, hl, tokens = sentence.split(), False, []
     for w in words:
         start = w.startswith("*")
@@ -112,23 +150,7 @@ def _chunks(sentence: str, max_words: int = 3, max_chars: int = 18) -> list[str]
     return [" ".join(f"*{w}*" if on else w for w, on in g).replace("* *", " ") for g in groups]
 
 
-# ---------------------------------------------------------------- imágenes
-def _background(src: Path | None, out: Path) -> Path:
-    """Recorta la foto a 9:16 (al doble de tamaño, para que el zoom no tiemble)."""
-    W, H = REEL_SIZE[0] * 2, REEL_SIZE[1] * 2
-    if src and src.exists():
-        img = Image.open(src).convert("RGB")
-        scale = max(W / img.width, H / img.height)
-        img = img.resize((round(img.width * scale), round(img.height * scale)), Image.LANCZOS)
-        left = (img.width - W) // 2
-        top = int((img.height - H) * 0.3)  # las caras suelen estar en el tercio de arriba
-        img = img.crop((left, top, left + W, top + H))
-    else:
-        img = Image.new("RGB", (W, H), COLORS["bg2"])
-    img.save(out, "JPEG", quality=92)
-    return out
-
-
+# ---------------------------------------------------------------- capas
 def _render_layers(pages: list[dict], out_dir: Path) -> list[Path]:
     from playwright.sync_api import sync_playwright
 
@@ -152,30 +174,26 @@ def _render_layers(pages: list[dict], out_dir: Path) -> list[Path]:
     return paths
 
 
-def _scene_images(out: Path) -> list[Path | None]:
-    imgs = []
-    for i in range(1, 4):
-        cands = [out / f"real_{i}.jpg", out / f"photo_{i}.jpg"]
-        imgs.append(next((c for c in cands if c.exists()), None))
-    # si falta una, se repite la anterior (con otro encuadre del zoom)
-    for i in range(3):
-        if imgs[i] is None:
-            imgs[i] = next((x for x in imgs if x), None)
-    return imgs
-
-
 # ---------------------------------------------------------------- armado
-def make_reel(post_id: str) -> Path:
+def make_reel(post_id: str) -> Path | None:
     out = POSTS_DIR / post_id
     meta = json.loads((out / "post.json").read_text(encoding="utf-8-sig"))
     post = meta["post"]
+    from clips import WORK_DIR, selected
+    clips = {k: WORK_DIR / post_id / v["file"] for k, v in selected(post_id).items()}
+    clips = {k: p for k, p in clips.items() if p.exists()}
+    if not clips:  # los Reels son solo con video real
+        for old in [out / "reel.mp4", *out.glob("reel_cuadro_*.jpg")]:
+            old.unlink(missing_ok=True)
+        print("[video] sin video real con licencia libre: no se arma Reel (va solo el carrusel)")
+        return None
+    avail = [clips[k] for k in sorted(clips)]
     tmp = out / "_reel"
     shutil.rmtree(tmp, ignore_errors=True)
     tmp.mkdir()
 
     # 1. voz en off: escenas 1-3 + cierre
-    voice = _voice()
-    scenes = [_speak(voice, t) for t in _script(post)] + [_speak(voice, OUTRO)]
+    scenes = _speak(_script(post) + [OUTRO], tmp)
     rate = scenes[0][0][2]
     gap = b"\x00\x00" * int(rate * GAP)
     audio, timeline = b"", []   # timeline: por escena, (duración, [(chunk, ini, fin)])
@@ -223,31 +241,24 @@ def make_reel(post_id: str) -> Path:
 
     # 3. un segmento de video por escena
     ff, fps = _ffmpeg(), REEL_FPS
-    imgs = _scene_images(out)
-    from clips import WORK_DIR, selected
-    clips = selected(post_id)
     segs = []
     for k in range(3):
         dur, _ = timeline[k]
         frames = max(1, round(dur * fps))
         scene_layer, subs = index[k]
         W, H = REEL_SIZE
-        clip = clips.get(str(k + 1))
-        clip_file = WORK_DIR / post_id / clip["file"] if clip else None
-        if clip_file and clip_file.exists():
-            # video real (licencia libre), formato noticiero: el clip entero arriba y de fondo
-            # el mismo clip ampliado y desenfocado
-            args = [ff, "-y", "-stream_loop", "-1", "-i", str(clip_file), "-i", str(layers[scene_layer])]
-            f = (f"[0:v]fps={fps},split[a][c];[a]scale={W}:{H}:force_original_aspect_ratio=increase,"
-                 f"crop={W}:{H},boxblur=28:2,eq=brightness=-0.12[bg];"
-                 f"[c]scale={W}:1000:force_original_aspect_ratio=decrease[fg];"
-                 f"[bg][fg]overlay=x=(W-w)/2:y=330,setsar=1[b];[b][1:v]overlay=0:0[v0]")
-        else:
-            bg = _background(imgs[k], tmp / f"bg_{k}.jpg")
-            z = "1+0.10*on/{n}" if k % 2 == 0 else "1.10-0.10*on/{n}"  # acercar / alejar
-            args = [ff, "-y", "-i", str(bg), "-i", str(layers[scene_layer])]
-            f = (f"[0:v]zoompan=z='{z.format(n=frames)}':x='iw/2-(iw/zoom/2)':y='ih*0.3-(ih/zoom*0.3)'"
-                 f":d={frames}:s={W}x{H}:fps={fps},setsar=1[b];[b][1:v]overlay=0:0[v0]")
+        # el clip de esa escena o, si no tiene, otro tramo de un clip disponible
+        clip_file = clips.get(str(k + 1))
+        offset = 0.0
+        if clip_file is None:
+            clip_file, offset = avail[k % len(avail)], 4.0 * k
+        # formato noticiero: el clip entero arriba y de fondo el mismo clip ampliado y desenfocado
+        args = [ff, "-y", "-stream_loop", "-1", "-ss", f"{offset:.2f}", "-i", str(clip_file),
+                "-i", str(layers[scene_layer])]
+        f = (f"[0:v]fps={fps},split[a][c];[a]scale={W}:{H}:force_original_aspect_ratio=increase,"
+             f"crop={W}:{H},boxblur=28:2,eq=brightness=-0.05[bg];"
+             f"[c]scale={W}:1000:force_original_aspect_ratio=decrease[fg];"
+             f"[bg][fg]overlay=x=(W-w)/2:y=330,setsar=1[b];[b][1:v]overlay=0:0[v0]")
         for li, _, _ in subs:
             args += ["-i", str(layers[li])]
         for j, (_, a, b) in enumerate(subs):

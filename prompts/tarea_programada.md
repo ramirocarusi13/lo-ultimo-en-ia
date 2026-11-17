@@ -47,15 +47,17 @@ Hacé estos pasos en orden:
    - Si el verificador o el revisor legal dicen DESCARTAR con un motivo sólido, corré `skip`
      y volvé al paso 2 con otra candidata (dentro del máximo de 3 intentos).
 
-4. Armar el carrusel y el Reel. Corré EN SEGUNDO PLANO (tarda ~15-20 minutos: genera las
-   fotos con ComfyUI, los 4 slides y el Reel con voz) y esperá a que termine:
+4. Armar el carrusel y el Reel. Corré EN SEGUNDO PLANO (tarda ~20-25 minutos: genera las
+   fotos con ComfyUI, los 4 slides y, si hay video real, el Reel con voz natural, que tarda
+   ~20 s por frase en CPU) y esperá a que termine:
    powershell -NoProfile -ExecutionPolicy Bypass -File scripts\run_local.ps1 -Build <id>
    Si falla, mostrá el final del log más reciente de logs\ y terminá sin publicar.
    Si el log dice "no se pudo armar el reel", reintentalo una vez con
    .\.venv\Scripts\python.exe src\main.py reel <id>   (si vuelve a fallar, seguí sin Reel).
 
-5. Revisión visual. Lanzá EN PARALELO a `director-arte` (slides) y `editor-video` (Reel) con
-   el <id>. Mirá también vos los slides. Si el editor de video pide sacar o cambiar un clip,
+5. Formato y revisión visual. Lanzá EN PARALELO a `productor` (decide REEL / CARRUSEL /
+   AMBOS), `director-arte` (slides) y `editor-video` (Reel, solo si existe posts\<id>\reel.mp4)
+   con el <id>. Los Reels son solo con video real: sin clips no hay Reel y va carrusel. Mirá también vos los slides. Si el editor de video pide sacar o cambiar un clip,
    usá noclip/clip y rearmá solo el Reel con  .\.venv\Scripts\python.exe src\main.py reel <id>
    (el caption con créditos se actualiza con un `build` completo; si cambiaste clips, corré
    .\.venv\Scripts\python.exe src\main.py build <id>  que reusa las fotos ya generadas).
@@ -67,12 +69,12 @@ Hacé estos pasos en orden:
      cambios aplicaste y si va con etiqueta de IA o no (máx. 25 líneas).
 
 6. Avisar al usuario para que lo revise (SIEMPRE, salvo que AUTO_PUBLISH sea "true"):
-   a) Mandale con SendUserFile (status "proactive") los archivos:
-      posts\<id>\slide_1.jpg … slide_4.jpg, posts\<id>\reel.mp4 (si existe),
-      posts\<id>\caption.txt y posts\<id>\informe_agentes.md,
-      con un caption corto: "Nuevo post para revisar: <titular sin asteriscos>".
+   a) Mandale con SendUserFile (status "proactive") según el FORMATO del productor:
+      REEL -> posts\<id>\reel.mp4; CARRUSEL -> posts\<id>\slide_1.jpg … slide_4.jpg;
+      AMBOS -> los dos. Siempre también posts\<id>\caption.txt y posts\<id>\informe_agentes.md,
+      con un caption corto: "Nuevo <reel/carrusel> para revisar: <titular sin asteriscos>".
    b) Mandale una notificación con PushNotification (status "proactive"), una línea de menos
-      de 200 caracteres: "📰 Nuevo post + Reel listo para revisar: <titular corto>".
+      de 200 caracteres: "📰 Nuevo <Reel/carrusel> listo para revisar: <titular corto>".
    c) No publiques. Escribí en tu respuesta final el titular, las fuentes, el puntaje del
       equipo y la ruta de posts\<id>\, y que puede subirlo él (carrusel y/o Reel, con el
       mismo caption.txt) o responder "publicalo" / "publicá el reel" en esta conversación.
