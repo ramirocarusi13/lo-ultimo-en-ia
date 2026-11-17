@@ -111,7 +111,10 @@
   "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html",
   "https://www.engadget.com/2319673/google-wallet-is-launching-on-ios/",
   "https://9to5google.com/2026/11/17/google-wallet-ios-app/",
-  "https://9to5google.com/2026/11/17/google-wallet-ios-app/"
+  "https://9to5google.com/2026/11/17/google-wallet-ios-app/",
+  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQVg3V1dEQVNwMUFueGFmczVVUzE2RUd4UUtkNWtBakFoMG9ILVhNU1M3WXVZSXNXdlpYRzFfVWx0X3pKX3NuM1RXckowRzktMUpzWHphbUJZWlJXX2ZOTk9JOE44U1hnNDZudU10dVI2UWhQV3hWcHNWVHpTLU4zV2VUZFAyZkFhYS1BWUVET3h4SHpyNW96aXdYVUxpMHZPeXRUMVc5LWM?oc=5",
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbkNKMUFRQTMxY0FqblVHQnpjdk9jN2RtendDd0NRamRMVHNlcHFLcXRKS1p4NEVESElqUzNsRmJnd1o2WS1fbTY2Qkgxc2YwbFZXWGhUQUh4dE5DZC11Tmg4RUxLckJQYTl5QUZpZFdVMHpLSWFjMC12Zlh5WjJIeHltUnZ5OVlkUGF6b3FEVW92ZHZpM1dzMGJLRWlKejJ6?oc=5",
+  "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -149,7 +152,9 @@
   "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
   "Argentina vs Costa Rica: quién gana, según la inteligencia artificial",
   "Apple tiene fallas globales: iCloud, Apple Pay, Apple Store, Apple TV+ y otros servicios sufren caída",
-  "Google Wallet is launching on iOS"
+  "Google Wallet is launching on iOS",
+  "Cut generative AI costs: Code for rules, models for judgment",
+  "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027"
  ],
  "history": [
   {
@@ -360,6 +365,18 @@
   {
    "title": "Google Wallet is launching on iOS",
    "at": 1794950432,
+   "permalink": null,
+   "kind": "post"
+  },
+  {
+   "title": "Cut generative AI costs: Code for rules, models for judgment",
+   "at": 1794953730,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
+   "at": 1794953933,
    "permalink": null,
    "kind": "post"
   }

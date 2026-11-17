@@ -1,0 +1,49 @@
+{
+ "id": "20261117-1915",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "*NVIDIA* FACTURÓ *US$115.800 MILLONES* Y MÁS QUE *DUPLICÓ* SUS VENTAS",
+  "badge": "NVIDIA",
+  "photos": [
+   "Nvidia headquarters",
+   "Nvidia GPU",
+   "Colette Kress"
+  ],
+  "slides": [
+   "NVIDIA informó ingresos de *115.800 millones de dólares* en el trimestre que cerró el 25 de octubre de 2026. Es un 20% más que el trimestre anterior y *un 103% más que hace un año*, con un margen bruto cercano al 75%.",
+   "El reporte lo presentó *Colette Kress, directora ejecutiva interina*, mientras la empresa busca un nuevo director ejecutivo. Kress dijo que *Vera Rubin* tuvo un \"arranque explosivo\". Como NVIDIA se define líder mundial en IA, sus ventas son un termómetro de la inversión en el sector."
+  ],
+  "caption": "💰 NVIDIA facturó 115.800 millones de dólares en solo tres meses: más del doble que hace un año.\n\nNVIDIA informó los resultados del trimestre que cerró el 25 de octubre. Los ingresos subieron 20% frente al trimestre anterior y 103% frente a hace un año, con un margen bruto cercano al 75%.\n\nLos presentó Colette Kress, directora financiera y directora ejecutiva interina, mientras la empresa busca un nuevo director ejecutivo. Según Kress, Vera Rubin tuvo un \"arranque explosivo\".\n\n¿Y esto a mí qué? NVIDIA se define como líder mundial en IA y computación acelerada. Que sus ventas sigan creciendo indica que las empresas siguen invirtiendo fuerte en la inteligencia artificial que ya usas a diario.\n\n¿Crees que la inversión en IA puede seguir creciendo a este ritmo un año más?\n\nFuente: NVIDIA (comunicado oficial)\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "NVIDIA",
+   "VeraRubin",
+   "ChipsIA"
+  ],
+  "image_prompts": [
+   "3D illustration of a glowing green computer chip rising like a skyscraper above a futuristic city at night, with luminous upward arrows and floating golden coins, cinematic lighting, no text, no logos",
+   "3D illustration of a vast data center hall with rows of sleek server racks glowing with green and blue lights, cables flowing like rivers of light, wide-angle perspective, clean futuristic style, no text",
+   "3D illustration of a giant translucent bar chart made of glass blocks climbing steeply, each bar filled with tiny glowing circuit patterns, soft studio lighting on a dark gradient background, no text, no numbers"
+  ],
+  "reel_script": [
+   "NVIDIA facturó 115.800 millones de dólares en solo tres meses.",
+   "Sus ventas son más del doble que en el mismo trimestre del año pasado: subieron *103 por ciento*. Frente al trimestre anterior, el aumento fue de 20 por ciento.",
+   "Colette Kress, directora ejecutiva interina, dijo que *Vera Rubin* tuvo un arranque explosivo. Mientras NVIDIA busca nuevo director ejecutivo, la inversión en inteligencia artificial *sigue fuerte*."
+  ]
+ },
+ "caption": "💰 NVIDIA facturó 115.800 millones de dólares en solo tres meses: más del doble que hace un año.\n\nNVIDIA informó los resultados del trimestre que cerró el 25 de octubre. Los ingresos subieron 20% frente al trimestre anterior y 103% frente a hace un año, con un margen bruto cercano al 75%.\n\nLos presentó Colette Kress, directora financiera y directora ejecutiva interina, mientras la empresa busca un nuevo director ejecutivo. Según Kress, Vera Rubin tuvo un \"arranque explosivo\".\n\n¿Y esto a mí qué? NVIDIA se define como líder mundial en IA y computación acelerada. Que sus ventas sigan creciendo indica que las empresas siguen invirtiendo fuerte en la inteligencia artificial que ya usas a diario.\n\n¿Crees que la inversión en IA puede seguir creciendo a este ritmo un año más?\n\nFuente: NVIDIA (comunicado oficial)\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Coolcaesar / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: ChrisDag / Wikimedia Commons (CC BY 2.0)\n📸 Foto: SiliconANGLE theCUBE / Wikimedia Commons (CC BY 4.0)\n\n#NVIDIA #VeraRubin #ChipsIA",
+ "slides": [
+  "posts/20261117-1915/slide_1.jpg",
+  "posts/20261117-1915/slide_2.jpg",
+  "posts/20261117-1915/slide_3.jpg",
+  "posts/20261117-1915/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
+   "link": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+   "source": "NVIDIA"
+  }
+ ]
+}
