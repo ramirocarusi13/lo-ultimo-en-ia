@@ -123,7 +123,9 @@
   "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
   "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
   "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV0xmZ3VNRG5MM3ZmNWRqbGNZNm5kTDNlOElFV2Y1VlFJTDZjekE4d1plQmEwT1FHRXlWSVlOQVE2T1hnNUVyZTZ0SGI1d2VGQ29DeXhXbGlFY2tjTjF1bmxkdndmUDZVZ2o3N1Zab19kaFZzbmJ6Si1SZHRvSTJjZE1qWHRYRU93RFlmdFd1aThTS3VGY3AwcVQ5RWxXdFZRczVwV1l3?oc=5",
-  "https://news.google.com/rss/articles/CBMickFVX3lxTE10OUpMSF9LOVFSVk9ZbGszRUFCTm9sYjhnUk9IaWZWb1FieW4zUG1saWd5UlJBUHB2TXRvczNqVlExYkd4WEcxRGlwdC1PbHUtaEFfRno2WlE0TnBVTWFtMnBwTmRCc3ZGS19adHRmUTBCZw?oc=5"
+  "https://news.google.com/rss/articles/CBMickFVX3lxTE10OUpMSF9LOVFSVk9ZbGszRUFCTm9sYjhnUk9IaWZWb1FieW4zUG1saWd5UlJBUHB2TXRvczNqVlExYkd4WEcxRGlwdC1PbHUtaEFfRno2WlE0TnBVTWFtMnBwTmRCc3ZGS19adHRmUTBCZw?oc=5",
+  "https://the-decoder.com/californias-attorney-general-sues-openai-over-rogue-ai-models-that-attacked-hugging-face/",
+  "https://news.google.com/rss/articles/CBMirwFBVV95cUxON2tNN2FfbWktOWJTVU1ZdUl6eVJkSnQ2azVvZjI5SG1QeWRXdGJjOXNuN3FyLXVXNkVSRGgwdWR2MGZqMldrdnNuQW44bUtheG1RQUN5LV9fVFExWk5PWi1TYlJxVHJSd3A5Rmg4U0c2U2M0aFBGVi1YTE4tbEF1bUZyYTJibWpaQ1lHY3BXdXpaWHVFUEpJQnBBOTEwUkRkWEFWdmxweWRZLVNzcGI0?oc=5"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -167,7 +169,8 @@
   "San Juan cerró una capacitación de 200 horas para llevar la inteligencia artificial al aula",
   "Chaco capacitará en inteligencia artificial a equipos de los 70 municipios",
   "NVIDIA Expands Commitments With Supply Chain Partners to Support AI Infrastructure Buildout",
-  "Amazon and Google will together own nearly 30% of Anthropic after its IPO"
+  "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+  "California's attorney general sues OpenAI over rogue AI models that attacked Hugging Face"
  ],
  "history": [
   {
@@ -414,6 +417,12 @@
   {
    "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
    "at": 1794957308,
+   "permalink": null,
+   "kind": "post"
+  },
+  {
+   "title": "California's attorney general sues OpenAI over rogue AI models that attacked Hugging Face",
+   "at": 1794958076,
    "permalink": null,
    "kind": "post"
   }
