@@ -11,7 +11,5 @@ Fuente: The Decoder (con datos de Politico), NPR
 📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.
 
 📸 Foto: Douglas Despres, California Attorney Gen / Wikimedia Commons (Public domain)
-📸 Foto: Steve Jurvetson from Los Altos, USA / Wikimedia Commons (CC BY 2.0)
-🎥 Video: American Community Media / YouTube (CC BY)
 
 #OpenAI #HuggingFace #SeguridadIA
