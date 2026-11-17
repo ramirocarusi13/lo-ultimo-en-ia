@@ -1,0 +1,54 @@
+{
+ "id": "20261117-1624",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "*MICROSOFT* VA CONTRA OPENAI Y ANTHROPIC CON *IA ESPECIALIZADA*",
+  "badge": "Microsoft",
+  "photos": [
+   "Microsoft Redmond",
+   "Microsoft Azure",
+   ""
+  ],
+  "slides": [
+   "Microsoft presentó *nuevos modelos de inteligencia artificial especializados*, pensados para tareas concretas como programar y la ciberseguridad. Según Axios, la apuesta es ofrecerlos *más baratos*, para competir de frente con OpenAI y Anthropic.",
+   "Microsoft apuesta por *modelos enfocados en tareas concretas*, como escribir código o proteger sistemas. Si resultan más económicos para empresas y desarrolladores, eso podría *bajar el costo* de las herramientas de IA que usamos todos."
+  ],
+  "caption": "🤖 Microsoft sale a pelear contra OpenAI y Anthropic con modelos de IA especializados que, según Axios, serían más baratos.\n\nLa empresa presentó nuevos modelos de inteligencia artificial enfocados en tareas concretas, como programar y la ciberseguridad, según informaron Reuters y Axios. Según Axios, la idea es competir con modelos más baratos y especializados.\n\n¿Y esto a mí qué? Si las grandes tecnológicas compiten por ofrecer IA más barata, las herramientas que usan empresas, programadores y equipos de seguridad podrían volverse más accesibles. Y si las empresas pagan menos, eso puede llegar a las apps que usamos todos los días.\n\n¿Usarías una IA especializada solo para programar o prefieres un asistente que haga de todo?\n\nFuente: Reuters, Axios\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "Microsoft",
+   "InteligenciaArtificial",
+   "Ciberseguridad"
+  ],
+  "image_prompts": [
+   "A 3D illustration of three glowing specialized robot arms on a sleek desk, one holding a code bracket symbol made of light, one holding a shield, one holding a shrinking price tag, soft blue and violet lighting, isometric view.",
+   "A 3D illustration of a futuristic server room with compact modular server blocks, each a different color, connected by glowing cables, a small balance scale in the foreground tipping toward the lighter blocks, cinematic wide angle.",
+   "A 3D illustration of a chess board where small glossy cube pieces face off against two large monolith pieces, dramatic side lighting, deep blue background, close-up low angle, symbolic tech competition."
+  ],
+  "reel_script": [
+   "Microsoft quiere ganarle a OpenAI y Anthropic con inteligencia artificial especializada.",
+   "*Microsoft* presentó modelos especializados en programar y en ciberseguridad. Según Axios, la apuesta es que sean *más baratos* para competir con OpenAI y Anthropic.",
+   "Si la inteligencia artificial especializada sale más barata, podría *abaratar* las herramientas que usan empresas, programadores y equipos de seguridad todos los días."
+  ]
+ },
+ "caption": "🤖 Microsoft sale a pelear contra OpenAI y Anthropic con modelos de IA especializados que, según Axios, serían más baratos.\n\nLa empresa presentó nuevos modelos de inteligencia artificial enfocados en tareas concretas, como programar y la ciberseguridad, según informaron Reuters y Axios. Según Axios, la idea es competir con modelos más baratos y especializados.\n\n¿Y esto a mí qué? Si las grandes tecnológicas compiten por ofrecer IA más barata, las herramientas que usan empresas, programadores y equipos de seguridad podrían volverse más accesibles. Y si las empresas pagan menos, eso puede llegar a las apps que usamos todos los días.\n\n¿Usarías una IA especializada solo para programar o prefieres un asistente que haga de todo?\n\nFuente: Reuters, Axios\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Jiaqian AirplaneFan / Wikimedia Commons (CC BY 3.0)\n📸 Foto: Oleg Yunakov / Wikimedia Commons (CC BY-SA 4.0)\n\n#Microsoft #InteligenciaArtificial #Ciberseguridad",
+ "slides": [
+  "posts/20261117-1624/slide_1.jpg",
+  "posts/20261117-1624/slide_2.jpg",
+  "posts/20261117-1624/slide_3.jpg",
+  "posts/20261117-1624/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Microsoft aims to challenge OpenAI, Anthropic with cheaper, specialized AI models",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWnpSWUhVX2NkMm9wR1R1dE92a2VBYVM5TUpKc19Ia3NsSlVmUmZfTjNfYVVuTnU4ZjJPMHJJWHNrclcxT3dSZGZ5ckdDYlM3M3BvcGVNNGtkb1ZKZk5KM2ZvOGJKdVhtLU5fQ3JtSDZsMW5rbGwwczhEX2R4TTY5Nm9n?oc=5",
+   "source": "Axios"
+  },
+  {
+   "title": "Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ05INXRWaGd0ZFhsSkZWMjBZeFNJYU1JOEhkRG9PT1V5SUl6YTNNMzFWblJXZVdjVHJzZW5raFlUbzlHMTNHemFUVWZab28xS0M3RzkyN2c2Ukl6VUR4SUF6RFRpVjRieGRFUWJGZUNsMzkyR1B0bnlxSFFQMHpFT2JCQ09KM0FMcUZWXzlZaEVmanRiMmtuOGxGQnNKbDZkM0hJVGpwNURRN0daX29GX2tHZ0pIU3NrRk5JbVVpZ1d1WGN0cHc?oc=5",
+   "source": "Reuters"
+  }
+ ]
+}

@@ -91,7 +91,13 @@
   "https://9to5mac.com/2026/11/17/apple-store-app-now-optimized-for-iphone-duo/",
   "https://9to5mac.com/2026/11/17/apple-now-selling-iphone-duo-replacement-parts-and-tools/",
   "https://www.zdnet.com/innovation/google-gemini-ai-model-training-opt-out-how/",
-  "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/"
+  "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+  "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWXUxNTdjLXNjWkstaDZLVzBWQjhLYk9OYkxUS3F3NWRzbEZFWkRwbEY3WmJwS2xfeEtWS3VxbGlydzZCc1Z0UXdXX0xXd3R3YlFIVWp4VUE1WC1aYkp4X0tzb0thU0ZKdnVqc3k5aG0tbk55QnpBMW94bHF3V3hXVjctdW0zRldCdGc?oc=5",
+  "https://www.engadget.com/2315208/carplay-apps-listening-music-podcasts/",
+  "https://www.zdnet.com/tech/android-fast-switch-like-iphone-handoff/",
+  "https://9to5google.com/2026/11/17/google-android-fast-switch-sim-iphone-handoff/",
+  "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWnpSWUhVX2NkMm9wR1R1dE92a2VBYVM5TUpKc19Ia3NsSlVmUmZfTjNfYVVuTnU4ZjJPMHJJWHNrclcxT3dSZGZ5ckdDYlM3M3BvcGVNNGtkb1ZKZk5KM2ZvOGJKdVhtLU5fQ3JtSDZsMW5rbGwwczhEX2R4TTY5Nm9n?oc=5",
+  "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ05INXRWaGd0ZFhsSkZWMjBZeFNJYU1JOEhkRG9PT1V5SUl6YTNNMzFWblJXZVdjVHJzZW5raFlUbzlHMTNHemFUVWZab28xS0M3RzkyN2c2Ukl6VUR4SUF6RFRpVjRieGRFUWJGZUNsMzkyR1B0bnlxSFFQMHpFT2JCQ09KM0FMcUZWXzlZaEVmanRiMmtuOGxGQnNKbDZkM0hJVGpwNURRN0daX29GX2tHZ0pIU3NrRk5JbVVpZ1d1WGN0cHc?oc=5"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -121,7 +127,10 @@
   "OpenAI upgrades ChatGPT and Codex with new GPT-6.2 Astra and Sol models",
   "OpenAI upgrades ChatGPT and Codex with new GPT-6.2 Astra and Sol models",
   "iCloud and other Apple services are down in an apparent outage",
-  "Google is making it easier to opt out of Gemini AI model training – here’s how"
+  "Google is making it easier to opt out of Gemini AI model training – here’s how",
+  "How Each Music Listening Platform Is Treating AI Music (Updating)",
+  "Own 2 Android phones? Google may let you switch service fast – like iPhone Handoff",
+  "Microsoft aims to challenge OpenAI, Anthropic with cheaper, specialized AI models"
  ],
  "history": [
   {
@@ -284,6 +293,24 @@
   {
    "title": "Google is making it easier to opt out of Gemini AI model training – here’s how",
    "at": 1794940289,
+   "permalink": null,
+   "kind": "post"
+  },
+  {
+   "title": "How Each Music Listening Platform Is Treating AI Music (Updating)",
+   "at": 1794943540,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "Own 2 Android phones? Google may let you switch service fast – like iPhone Handoff",
+   "at": 1794943541,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "Microsoft aims to challenge OpenAI, Anthropic with cheaper, specialized AI models",
+   "at": 1794944168,
    "permalink": null,
    "kind": "post"
   }
