@@ -1,54 +1,54 @@
 {
- "id": "20261117-1515",
+ "id": "20261117-1525",
  "post": {
   "skip": false,
   "skip_reason": "",
   "confidence": "alta",
-  "headline": "OPENAI LANZA *GPT-6.2*: ASTRA Y SOL HACEN *MÁS CON MENOS*",
-  "badge": "OpenAI",
+  "headline": "PODRÁS FRENAR QUE GEMINI *ENTRENE CON TUS CHATS* SIN BORRAR TU HISTORIAL",
+  "badge": "Gemini",
   "photos": [
-   "Pioneer Building San Francisco",
-   "OpenAI DevDay",
+   "Google Gemini",
+   "Google headquarters",
    ""
   ],
   "slides": [
-   "OpenAI presentó *GPT-6.2 Astra y GPT-6.2 Sol*, ya disponibles en ChatGPT Work y Codex para los planes Plus, Pro, Enterprise y Edu. Según la empresa, ambos resuelven tareas exigentes *usando menos tokens*, así rinde más el límite de uso.",
-   "Astra apunta a lo más difícil y puede copiar el diseño de una presentación *desde una captura*. Sol es la opción económica: según OpenAI, quedó a medio punto de Astra en una prueba de programación, *por cerca de un quinto del costo*."
+   "Google va a reemplazar el ajuste Keep Activity de Gemini por dos interruptores: uno para guardar o borrar tus chats y elegir cuánto tiempo se guardan, y otro para decidir si tus conversaciones, con texto y adjuntos, *se usan para entrenar la IA*.",
+   "Hasta ahora, la única forma de evitar el entrenamiento era *renunciar a tu historial*. ChatGPT, Copilot y Claude ya permitían separar las dos cosas. El cambio llega en las próximas semanas, pero si tenías el historial activado, *el entrenamiento también queda activado*."
   ],
-  "caption": "🤖 OpenAI lanzó GPT-6.2 Astra y GPT-6.2 Sol, dos modelos nuevos que ya llegan a ChatGPT y Codex.\n\nEstán disponibles desde hoy en ChatGPT Work y Codex para los planes Plus, Pro, Enterprise y Edu. Según OpenAI, los dos terminan tareas exigentes con menos tokens, así que puedes hacer más antes de llegar al límite de uso.\n\nAstra es el modelo para lo más difícil: con la captura de una diapositiva puede copiar el diseño, los colores y hasta el tamaño de letra. Sol es más barato y, en una prueba de programación, quedó a medio punto de Astra por cerca de un quinto del costo.\n\n¿Y esto a mí qué? Si usas ChatGPT para trabajar, tu plan debería alcanzarte para más tareas.\n\n¿Le pasarías una captura a ChatGPT para que arme tu próxima presentación?\n\nFuente: OpenAI, 9to5Mac\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "🔐 Google te va a dejar frenar que Gemini entrene su IA con tus chats, sin perder tu historial.\n\nHoy, en Gemini, un solo ajuste (Keep Activity) controla dos cosas a la vez: si se guardan tus conversaciones y si se usan para entrenar el modelo. Para no entrenarlo, había que renunciar al historial. En las próximas semanas, Google lo va a dividir en dos interruptores independientes, según anunció por correo a sus usuarios.\n\n¿Y esto a mí qué? Si tenías el historial activado, el entrenamiento también va a quedar activado. Para cuidar tu privacidad sin perder tus chats, vas a tener que entrar a los ajustes de Gemini y apagarlo. ChatGPT, Copilot y Claude ya separaban estas opciones.\n\n¿Vas a apagar el entrenamiento de Gemini apenas aparezca el nuevo ajuste?\n\nFuente: ZDNET, Ars Technica\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "ChatGPT",
-   "OpenAI",
-   "GPT6"
+   "Gemini",
+   "Google",
+   "privacidad"
   ],
   "image_prompts": [
-   "A glowing 3D illustration of two luminous orbs, one deep blue like a star and one warm golden like a sun, floating above a sleek dark laptop, soft volumetric light, futuristic minimal studio, no text, no logos",
-   "A 3D illustration of a floating presentation slide made of glass panels being copied into several identical colorful slides, abstract shapes and color blocks only, soft gradient background, isometric view, no letters, no text, no logos",
-   "A 3D illustration of a balance scale on a clean desk, one side holding a small stack of glowing coins and the other a bright cube of light, symbolizing doing more with less, warm cinematic lighting, close-up, no text, no logos"
+   "3D illustration of a glowing chat bubble inside a translucent glass safe with a padlock, soft blue and violet lighting, floating data particles stopping at the glass, clean minimal background, centered composition, no text",
+   "3D illustration of two large toggle switches side by side on a smooth panel, one glowing green and one switched off in grey, small chat bubbles hovering above them, soft studio lighting, isometric view, no text or symbols",
+   "3D illustration of a stream of colorful chat bubbles flowing toward a distant neural network server tower, a translucent shield wall diverting part of the stream back into a cozy archive drawer, wide angle, dreamy pastel lighting, no text"
   ],
   "reel_script": [
-   "Un modelo nuevo de OpenAI casi empata al más potente programando, y sale mucho menos.",
-   "OpenAI lanzó *GPT 6.2 Astra* y Sol. Sol, el más barato, según OpenAI quedó a medio punto de Astra en una prueba de código, por cerca de *un quinto* del costo.",
-   "Según OpenAI, ambos usan *menos tokens* por tarea, así que tu plan de ChatGPT alcanza para más. Ya llegaron a los planes Plus, Pro, Enterprise y Edu."
+   "Hasta ahora, frenar el entrenamiento de Gemini te obligaba a borrar tu historial.",
+   "*Google* va a dividir un solo ajuste en dos. Uno guarda o borra tu historial. El otro decide si tus chats, con texto y archivos, *entrenan la IA*.",
+   "Llega en las próximas semanas. Si tenías el historial activado, el *entrenamiento* también queda activado. Tendrás que *apagarlo tú* en los ajustes."
   ]
  },
- "caption": "🤖 OpenAI lanzó GPT-6.2 Astra y GPT-6.2 Sol, dos modelos nuevos que ya llegan a ChatGPT y Codex.\n\nEstán disponibles desde hoy en ChatGPT Work y Codex para los planes Plus, Pro, Enterprise y Edu. Según OpenAI, los dos terminan tareas exigentes con menos tokens, así que puedes hacer más antes de llegar al límite de uso.\n\nAstra es el modelo para lo más difícil: con la captura de una diapositiva puede copiar el diseño, los colores y hasta el tamaño de letra. Sol es más barato y, en una prueba de programación, quedó a medio punto de Astra por cerca de un quinto del costo.\n\n¿Y esto a mí qué? Si usas ChatGPT para trabajar, tu plan debería alcanzarte para más tareas.\n\n¿Le pasarías una captura a ChatGPT para que arme tu próxima presentación?\n\nFuente: OpenAI, 9to5Mac\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: HaeB / Wikimedia Commons (CC BY-SA 4.0)\n\n#ChatGPT #OpenAI #GPT6",
+ "caption": "🔐 Google te va a dejar frenar que Gemini entrene su IA con tus chats, sin perder tu historial.\n\nHoy, en Gemini, un solo ajuste (Keep Activity) controla dos cosas a la vez: si se guardan tus conversaciones y si se usan para entrenar el modelo. Para no entrenarlo, había que renunciar al historial. En las próximas semanas, Google lo va a dividir en dos interruptores independientes, según anunció por correo a sus usuarios.\n\n¿Y esto a mí qué? Si tenías el historial activado, el entrenamiento también va a quedar activado. Para cuidar tu privacidad sin perder tus chats, vas a tener que entrar a los ajustes de Gemini y apagarlo. ChatGPT, Copilot y Claude ya separaban estas opciones.\n\n¿Vas a apagar el entrenamiento de Gemini apenas aparezca el nuevo ajuste?\n\nFuente: ZDNET, Ars Technica\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Google / Wikimedia Commons (Public domain)\n\n#Gemini #Google #privacidad",
  "slides": [
-  "posts/20261117-1515/slide_1.jpg",
-  "posts/20261117-1515/slide_2.jpg",
-  "posts/20261117-1515/slide_3.jpg",
-  "posts/20261117-1515/slide_4.jpg"
+  "posts/20261117-1525/slide_1.jpg",
+  "posts/20261117-1525/slide_2.jpg",
+  "posts/20261117-1525/slide_3.jpg",
+  "posts/20261117-1525/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "OpenAI upgrades ChatGPT and Codex with new GPT-6.2 Astra and Sol models",
-   "link": "https://9to5mac.com/2026/11/17/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-2-astra-and-sol-models/",
-   "source": "9to5Mac"
+   "title": "Google is making it easier to opt out of Gemini AI model training – here’s how",
+   "link": "https://www.zdnet.com/innovation/google-gemini-ai-model-training-opt-out-how/",
+   "source": "ZDNET"
   },
   {
-   "title": "Introducing GPT-6.2 Astra and Sol",
-   "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-   "source": "OpenAI"
+   "title": "Google makes it easier to use Gemini without training AI on your data",
+   "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+   "source": "Ars Technica"
   }
  ]
 }

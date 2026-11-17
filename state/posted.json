@@ -89,7 +89,9 @@
   "https://www.engadget.com/2319504/icloud-and-other-apple-services-are-down-in-an-apparent-outage/",
   "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/",
   "https://9to5mac.com/2026/11/17/apple-store-app-now-optimized-for-iphone-duo/",
-  "https://9to5mac.com/2026/11/17/apple-now-selling-iphone-duo-replacement-parts-and-tools/"
+  "https://9to5mac.com/2026/11/17/apple-now-selling-iphone-duo-replacement-parts-and-tools/",
+  "https://www.zdnet.com/innovation/google-gemini-ai-model-training-opt-out-how/",
+  "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -118,7 +120,8 @@
   "Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation",
   "OpenAI upgrades ChatGPT and Codex with new GPT-6.2 Astra and Sol models",
   "OpenAI upgrades ChatGPT and Codex with new GPT-6.2 Astra and Sol models",
-  "iCloud and other Apple services are down in an apparent outage"
+  "iCloud and other Apple services are down in an apparent outage",
+  "Google is making it easier to opt out of Gemini AI model training – here’s how"
  ],
  "history": [
   {
@@ -277,6 +280,12 @@
    "at": 1794939974,
    "permalink": null,
    "kind": "skip"
+  },
+  {
+   "title": "Google is making it easier to opt out of Gemini AI model training – here’s how",
+   "at": 1794940289,
+   "permalink": null,
+   "kind": "post"
   }
  ]
 }

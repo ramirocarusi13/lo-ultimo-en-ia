@@ -1,0 +1,54 @@
+{
+ "id": "20261117-1525",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "PODRÁS FRENAR QUE GEMINI *ENTRENE CON TUS CHATS* SIN BORRAR TU HISTORIAL",
+  "badge": "Gemini",
+  "photos": [
+   "Google Gemini",
+   "Google headquarters",
+   ""
+  ],
+  "slides": [
+   "Google va a reemplazar el ajuste Keep Activity de Gemini por dos interruptores: uno para guardar o borrar tus chats y elegir cuánto tiempo se guardan, y otro para decidir si tus conversaciones, con texto y adjuntos, *se usan para entrenar la IA*.",
+   "Hasta ahora, la única forma de evitar el entrenamiento era *renunciar a tu historial*. ChatGPT, Copilot y Claude ya permitían separar las dos cosas. El cambio llega en las próximas semanas, pero si tenías el historial activado, *el entrenamiento también queda activado*."
+  ],
+  "caption": "🔐 Google te va a dejar frenar que Gemini entrene su IA con tus chats, sin perder tu historial.\n\nHoy, en Gemini, un solo ajuste (Keep Activity) controla dos cosas a la vez: si se guardan tus conversaciones y si se usan para entrenar el modelo. Para no entrenarlo, había que renunciar al historial. En las próximas semanas, Google lo va a dividir en dos interruptores independientes, según anunció por correo a sus usuarios.\n\n¿Y esto a mí qué? Si tenías el historial activado, el entrenamiento también va a quedar activado. Para cuidar tu privacidad sin perder tus chats, vas a tener que entrar a los ajustes de Gemini y apagarlo. ChatGPT, Copilot y Claude ya separaban estas opciones.\n\n¿Vas a apagar el entrenamiento de Gemini apenas aparezca el nuevo ajuste?\n\nFuente: ZDNET, Ars Technica\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "Gemini",
+   "Google",
+   "privacidad"
+  ],
+  "image_prompts": [
+   "3D illustration of a glowing chat bubble inside a translucent glass safe with a padlock, soft blue and violet lighting, floating data particles stopping at the glass, clean minimal background, centered composition, no text",
+   "3D illustration of two large toggle switches side by side on a smooth panel, one glowing green and one switched off in grey, small chat bubbles hovering above them, soft studio lighting, isometric view, no text or symbols",
+   "3D illustration of a stream of colorful chat bubbles flowing toward a distant neural network server tower, a translucent shield wall diverting part of the stream back into a cozy archive drawer, wide angle, dreamy pastel lighting, no text"
+  ],
+  "reel_script": [
+   "Hasta ahora, frenar el entrenamiento de Gemini te obligaba a borrar tu historial.",
+   "*Google* va a dividir un solo ajuste en dos. Uno guarda o borra tu historial. El otro decide si tus chats, con texto y archivos, *entrenan la IA*.",
+   "Llega en las próximas semanas. Si tenías el historial activado, el *entrenamiento* también queda activado. Tendrás que *apagarlo tú* en los ajustes."
+  ]
+ },
+ "caption": "🔐 Google te va a dejar frenar que Gemini entrene su IA con tus chats, sin perder tu historial.\n\nHoy, en Gemini, un solo ajuste (Keep Activity) controla dos cosas a la vez: si se guardan tus conversaciones y si se usan para entrenar el modelo. Para no entrenarlo, había que renunciar al historial. En las próximas semanas, Google lo va a dividir en dos interruptores independientes, según anunció por correo a sus usuarios.\n\n¿Y esto a mí qué? Si tenías el historial activado, el entrenamiento también va a quedar activado. Para cuidar tu privacidad sin perder tus chats, vas a tener que entrar a los ajustes de Gemini y apagarlo. ChatGPT, Copilot y Claude ya separaban estas opciones.\n\n¿Vas a apagar el entrenamiento de Gemini apenas aparezca el nuevo ajuste?\n\nFuente: ZDNET, Ars Technica\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Google / Wikimedia Commons (Public domain)\n\n#Gemini #Google #privacidad",
+ "slides": [
+  "posts/20261117-1525/slide_1.jpg",
+  "posts/20261117-1525/slide_2.jpg",
+  "posts/20261117-1525/slide_3.jpg",
+  "posts/20261117-1525/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Google is making it easier to opt out of Gemini AI model training – here’s how",
+   "link": "https://www.zdnet.com/innovation/google-gemini-ai-model-training-opt-out-how/",
+   "source": "ZDNET"
+  },
+  {
+   "title": "Google makes it easier to use Gemini without training AI on your data",
+   "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+   "source": "Ars Technica"
+  }
+ ]
+}
