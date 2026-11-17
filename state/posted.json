@@ -83,7 +83,13 @@
   "https://9to5google.com/2026/11/17/nvidias-tough-spot-is-googles-tpu-opportunity/",
   "https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee",
   "https://9to5mac.com/2026/11/17/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-2-astra-and-sol-models/",
-  "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+  "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+  "https://9to5mac.com/2026/11/17/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-2-astra-and-sol-models/",
+  "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+  "https://www.engadget.com/2319504/icloud-and-other-apple-services-are-down-in-an-apparent-outage/",
+  "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/",
+  "https://9to5mac.com/2026/11/17/apple-store-app-now-optimized-for-iphone-duo/",
+  "https://9to5mac.com/2026/11/17/apple-now-selling-iphone-duo-replacement-parts-and-tools/"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -110,7 +116,9 @@
   "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
   "Ante los retos de los afectos y la IA en América Latina y el Caribe",
   "Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation",
-  "OpenAI upgrades ChatGPT and Codex with new GPT-6.2 Astra and Sol models"
+  "OpenAI upgrades ChatGPT and Codex with new GPT-6.2 Astra and Sol models",
+  "OpenAI upgrades ChatGPT and Codex with new GPT-6.2 Astra and Sol models",
+  "iCloud and other Apple services are down in an apparent outage"
  ],
  "history": [
   {
@@ -257,6 +265,18 @@
    "at": 1794939968,
    "permalink": null,
    "kind": "post"
+  },
+  {
+   "title": "OpenAI upgrades ChatGPT and Codex with new GPT-6.2 Astra and Sol models",
+   "at": 1794939973,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "iCloud and other Apple services are down in an apparent outage",
+   "at": 1794939974,
+   "permalink": null,
+   "kind": "skip"
   }
  ]
 }
