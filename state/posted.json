@@ -45,7 +45,10 @@
   "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
   "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3diZGZDaW14MTdtajJNSTFnMXF3MWtpODZRZDN3UVVRZXBwQllnQXFRRUFYbTAzQmJkLW1qTDAzZDhyYW54UjdBVjFrZVRzV3JiTVRTdmlybkVtRnZVSWlMTnFvYVp3dkFGeWhUVFdrUE1Na3E0WTVuekRuSm5jN1A2aDBnb1NjYXRhYmJfdjlBQWY1X093Q1hHTDM4ZzNhdlYwNVRn?oc=5",
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSFFpN3hkMjdrVkkxalhuQ1pVNHAwUDZBVXN6SWdpWWVhV2FwT3ZVcHBYMEhjeFdpNnJOWWVVYzlZbkJjeW1ZUVNGX21PNURhTm5WRWZtOV9QNjlWWEJIVDNnR0hIdG9BU0dOaXNSS1BBRkc2Zm93RnBFRjBaa3FXSzNJcHp3RGNJMUJZM3lSaTA5QmRDQXZVZ09oUzNwT25OdWZKQVJCSnROUmJfenBkZm9LbjM5ZS1NWldJ0gHAAUFVX3lxTE10UEozWGFqZ0ZQU1NjMVdxdDF6MVdnWUliaXlTZFRqYXFwcEhnaTZZTUdTTFowUHBUUDlZaVN5VmFhRzlVVlNVMVRZTzVXQlJLQ1EyUHpTOEw4T1owZ2NCdWtncWNISWFTSVFMMlAxNG9kbVFocEtGXzZrTlExazNPT2J6OVZvVTlBOERsMndxeXNRMEhXa084UXZkTy1FSHFKWFJTMFBZRE0yTkQwX09WWV94MFFrWUVqWDNLc0dsdw?oc=5",
-  "https://news.google.com/rss/articles/CBMijAFBVV95cUxObWZfUU1JVEVmLVN3WGtNQi1GejRsTHFIeFBIamVtcDMzNGg0WV96R0VFSGF4ODYzYkZhQVVJWGFsT3pmT1RDZXFMUkJ0Z3pEdFYtVlZIOGRYM3pETGwwVEQwM1IyZlNBajJYOVdvLWc3MVdzVE9zN04tSDZoZGk0V21YSEpoWmE0SnNoMQ?oc=5"
+  "https://news.google.com/rss/articles/CBMijAFBVV95cUxObWZfUU1JVEVmLVN3WGtNQi1GejRsTHFIeFBIamVtcDMzNGg0WV96R0VFSGF4ODYzYkZhQVVJWGFsT3pmT1RDZXFMUkJ0Z3pEdFYtVlZIOGRYM3pETGwwVEQwM1IyZlNBajJYOVdvLWc3MVdzVE9zN04tSDZoZGk0V21YSEpoWmE0SnNoMQ?oc=5",
+  "https://www.turkiyetoday.com/world/a-new-war-in-2027-the-economist-flags-10-trends-shaping-the-year-3232573",
+  "https://dsn.pe/the-economist-revela-su-portada-de-2027-guerras-inteligencia-artificial-y-las-10-tendencias-que-marcarian-el-mundo/",
+  "https://www.azernews.az/region/267571.html"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -62,7 +65,8 @@
   "El Malbrán lanza Maldi-Class, IA para diagnósticos más precisos - Diario El Norte",
   "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
   "US moves to cut China’s remote access to AI chips",
-  "US moves to cut China’s remote access to AI chips"
+  "US moves to cut China’s remote access to AI chips",
+  "A new war in 2027? The Economist flags 10 trends shaping the year"
  ],
  "history": [
   {
@@ -147,6 +151,12 @@
   {
    "title": "US moves to cut China’s remote access to AI chips",
    "at": 1794865582,
+   "permalink": null,
+   "kind": "post"
+  },
+  {
+   "title": "A new war in 2027? The Economist flags 10 trends shaping the year",
+   "at": 1794918080,
    "permalink": null,
    "kind": "post"
   }

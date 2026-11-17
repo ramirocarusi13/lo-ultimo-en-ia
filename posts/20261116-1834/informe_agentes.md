@@ -8,3 +8,9 @@
 - **verificador** — CAMBIOS, 8/10: "crisis" exagera "fallout" (NPR); quitar "sin comprarlos" y "quien los usa avanza más rápido" (sin respaldo). Confianza: alta.
 - **editor-estilo** — CAMBIOS, 8/10: titular de 13 a 12 palabras ("EE.UU."), sacar frase repetida de medios del caption, gancho del Reel a 11 palabras.
 - **cazador-videos** — 2 clips CC BY 3.0 de Wikimedia Commons: escena 1, GPU Nvidia (ZMASLO; ilustrativo, no es el chip de la noticia), y escena 3, servidor Grace Hopper (Charbax). Crédito automático en el caption.
+- **director-arte** — OK, 8/10: texto legible, Trump sin terceros, ilustración sin texto ni logos. Sugerencia opcional (no aplicada): cambiar la portada de servidores. Se mantiene porque son servidores con GPU Nvidia Tesla, que encajan con la noticia.
+- **editor-video** — CAMBIOS, 7/10: el clip de la escena 1 (una placa gamer) no encaja con la noticia, y la foto de Trump es poco relacionada (opcional). Duración de 29,7 s y zonas seguras OK.
+
+**Cambios aplicados:** titular de 12 palabras; "crisis de Nvidia" → "repercusiones del caso Nvidia, según NPR"; se sacaron "sin comprarlos" y "quien los usa avanza más rápido"; "clave" → "se usan para entrenar"; gancho del Reel más corto y cierre atribuido a Ars Technica; se quitó el clip de la escena 1 (rearmado solo el Reel, sin el crédito de ZMASLO).
+**Etiqueta de IA:** no. Son fotos reales de Wikimedia y una ilustración 3D (slide 3), sin fotos realistas generadas.
+**Puntaje del equipo:** promedio ~7,8/10. Ningún DESCARTAR.
