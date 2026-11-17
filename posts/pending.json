@@ -1,58 +1,58 @@
 {
- "id": "20261117-1724",
+ "id": "20261117-1815",
  "post": {
   "skip": false,
   "skip_reason": "",
   "confidence": "alta",
-  "headline": "GEMINI AHORA *HACE TAREAS POR TI* GRATIS EN *6 PAÍSES*",
-  "badge": "Gemini",
+  "headline": "GOOGLE WALLET LLEGA AL *IPHONE* Y APUESTA POR *AGENTES DE IA*",
+  "badge": "Google",
   "photos": [
-   "",
-   "",
-   ""
+   "Google Wallet",
+   "iPhone",
+   "Googleplex"
   ],
   "slides": [
-   "Google renombró a su agente de IA Spark como *Tasks* y lo hizo *gratis* en Gemini. Puede armar planes de comidas, manejar tu calendario y revisar tus correos para encontrar gastos recurrentes. Llega a Estados Unidos, Canadá, Japón, Corea, Australia e India.",
-   "Antes solo lo tenían quienes pagaban Google AI Pro o Ultra. En Estados Unidos, además, puede *llamar a negocios* y comprar con Google Pay. Google dice que trabaja en una máquina virtual aislada y que *pide permiso antes de comprar*."
+   "Google lanzó hoy su app *Google Wallet para iPhone*, por ahora solo en Estados Unidos. Sirve para ordenar compras, entradas, pases de embarque y tarjetas de fidelidad en un mismo lugar, pero *no permite pagar acercando el celular*, por restricciones de la plataforma.",
+   "La gran apuesta de Google es que la app sea un *centro seguro para las compras hechas por agentes de IA* en sus herramientas. Es una diferencia con Apple, que según Engadget fue más cauta con la IA agéntica que sus competidores."
   ],
-  "caption": "🤖 Gemini ya puede hacer tareas por ti, y ahora gratis: Google abrió su agente de IA a todos los usuarios en seis países.\n\nEl agente se llamaba Spark, salió en mayo y era solo para suscriptores de Google AI Pro y Ultra. Ahora se llama Tasks, funciona con el nuevo modelo Gemini 4 Hydrogen y se activa cambiando de \"Chat\" a \"Tasks\" en la app.\n\n¿Y esto a ti qué? Puede armar planes de comidas, ordenar tu calendario y buscar en tus correos gastos recurrentes que quizá no necesitas. En Estados Unidos también llama a negocios para comparar precios y compra con Google Pay, pero te pide permiso antes de pagar.\n\n¿Le dejarías a una IA revisar tus correos para encontrar suscripciones que olvidaste?\n\nFuente: The Verge, 9to5Google\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "📱 Google Wallet ya está disponible en iPhone, pero con una gran ausencia: no sirve para pagar acercando el celular.\n\nGoogle lanzó hoy la app para iOS, por ahora solo en Estados Unidos. Permite guardar entradas, pases de embarque, tarjetas de fidelidad y de regalo, ver tus compras con Google y resume los correos de cada compra. También trae un escáner con la cámara para digitalizar todo lo demás.\n\nLa jugada más interesante es otra: Google quiere que la app sea un centro seguro para gestionar las compras que hacen sus agentes de inteligencia artificial. Según Engadget, es lo único que podría diferenciarla de verdad de Apple Wallet, porque Apple fue más cauta con este tipo de IA.\n\n¿Instalarías Google Wallet en tu iPhone aunque no puedas pagar con él?\n\nFuente: Engadget, 9to5Google\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "Gemini",
-   "GoogleGemini",
+   "GoogleWallet",
+   "iPhone",
    "AgentesIA"
   ],
   "image_prompts": [
-   "3D illustration of a friendly glowing AI assistant orb floating above a smartphone, surrounded by small floating icons of a calendar, an envelope, a shopping bag and a checklist, soft blue and purple lighting, clean studio background",
-   "3D isometric illustration of a tidy desk with a laptop, a calendar block and a plate with a meal plan made of colorful food shapes, small robotic arms organizing them neatly, pastel colors, soft shadows, no text",
-   "3D illustration of a transparent glowing cube representing a secure virtual machine, with a small shopping cart inside and a large green confirmation check button waiting outside, futuristic dark background with blue light rays"
+   "A glossy 3D illustration of a sleek smartphone floating in space, its screen showing colorful stacked blank cards and tickets, soft neon blue and purple lighting, clean futuristic background, no text, no logos",
+   "A 3D isometric illustration of a digital wallet opening up with blank boarding passes, event tickets and plain loyalty cards flying out of it, pastel colors, soft shadows, minimalist scene, no text, no logos",
+   "A 3D illustration of a small friendly robot assistant placing blank shopping bags and parcels into a glowing shielded vault, symbolizing secure AI-made purchases, warm cinematic lighting, no text, no logos, no people"
   ],
   "reel_script": [
-   "Gemini acaba de volverse gratis para hacer tareas por ti.",
-   "Google renombró a su agente Spark como *Tasks* y lo abrió gratis en seis países, entre ellos Estados Unidos, Canadá, Japón e India. Antes era solo para suscriptores de pago.",
-   "Puede ordenar tu calendario y buscar en tus correos *gastos recurrentes* que quizá no necesitas. En Estados Unidos hasta llama a negocios, y antes de comprar algo te pide permiso."
+   "Google Wallet ya está en el iPhone, pero no te deja pagar con él.",
+   "Llegó *Google Wallet* para iPhone, por ahora solo en Estados Unidos. Guarda entradas, pases de embarque y tarjetas de fidelidad, y resume tus compras. Pero no deja pagar acercando el celular.",
+   "La verdadera apuesta es otra. Google quiere que la app sea el centro seguro de las compras hechas por *agentes de inteligencia artificial*. Según Engadget, Apple fue más cauta."
   ]
  },
- "caption": "🤖 Gemini ya puede hacer tareas por ti, y ahora gratis: Google abrió su agente de IA a todos los usuarios en seis países.\n\nEl agente se llamaba Spark, salió en mayo y era solo para suscriptores de Google AI Pro y Ultra. Ahora se llama Tasks, funciona con el nuevo modelo Gemini 4 Hydrogen y se activa cambiando de \"Chat\" a \"Tasks\" en la app.\n\n¿Y esto a ti qué? Puede armar planes de comidas, ordenar tu calendario y buscar en tus correos gastos recurrentes que quizá no necesitas. En Estados Unidos también llama a negocios para comparar precios y compra con Google Pay, pero te pide permiso antes de pagar.\n\n¿Le dejarías a una IA revisar tus correos para encontrar suscripciones que olvidaste?\n\nFuente: The Verge, 9to5Google\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n#Gemini #GoogleGemini #AgentesIA",
+ "caption": "📱 Google Wallet ya está disponible en iPhone, pero con una gran ausencia: no sirve para pagar acercando el celular.\n\nGoogle lanzó hoy la app para iOS, por ahora solo en Estados Unidos. Permite guardar entradas, pases de embarque, tarjetas de fidelidad y de regalo, ver tus compras con Google y resume los correos de cada compra. También trae un escáner con la cámara para digitalizar todo lo demás.\n\nLa jugada más interesante es otra: Google quiere que la app sea un centro seguro para gestionar las compras que hacen sus agentes de inteligencia artificial. Según Engadget, es lo único que podría diferenciarla de verdad de Apple Wallet, porque Apple fue más cauta con este tipo de IA.\n\n¿Instalarías Google Wallet en tu iPhone aunque no puedas pagar con él?\n\nFuente: Engadget, 9to5Google\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Steven Walling / Wikimedia Commons (CC BY-SA 3.0)\n📸 Foto: Ka Kit Pang / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: The Pancake of Heaven! / Wikimedia Commons (CC BY-SA 4.0)\n\n#GoogleWallet #iPhone #AgentesIA",
  "slides": [
-  "posts/20261117-1724/slide_1.jpg",
-  "posts/20261117-1724/slide_2.jpg",
-  "posts/20261117-1724/slide_3.jpg",
-  "posts/20261117-1724/slide_4.jpg"
+  "posts/20261117-1815/slide_1.jpg",
+  "posts/20261117-1815/slide_2.jpg",
+  "posts/20261117-1815/slide_3.jpg",
+  "posts/20261117-1815/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
-   "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-   "source": "The Verge"
+   "title": "Google Wallet is launching on iOS",
+   "link": "https://www.engadget.com/2319673/google-wallet-is-launching-on-ios/",
+   "source": "Engadget"
   },
   {
-   "title": "You can now assign Gemini ‘tasks’ for free in six countries",
-   "link": "https://9to5google.com/2026/11/17/gemini-tasks-free/",
+   "title": "The Google Wallet app is now available on iOS",
+   "link": "https://9to5google.com/2026/11/17/google-wallet-ios-app/",
    "source": "9to5Mac"
   },
   {
-   "title": "You can now assign Gemini ‘tasks’ for free in six countries",
-   "link": "https://9to5google.com/2026/11/17/gemini-tasks-free/",
+   "title": "The Google Wallet app is now available on iOS",
+   "link": "https://9to5google.com/2026/11/17/google-wallet-ios-app/",
    "source": "9to5Google"
   }
  ]

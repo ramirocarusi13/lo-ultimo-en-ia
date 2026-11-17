@@ -103,7 +103,15 @@
   "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
   "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
   "https://9to5google.com/2026/11/17/gemini-tasks-free/",
-  "https://9to5google.com/2026/11/17/gemini-tasks-free/"
+  "https://9to5google.com/2026/11/17/gemini-tasks-free/",
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRFpkaDdUTGhrNEJIbFY5MW85QTFtdzQ5WGhRQ2E2blhBZGxZOXRFRXdndkM3Q0hnSS1JaWFWblA0MEtVZlF6cFVZMGk4MUxkUGtCLW9nZGtwa3IzZ1pkXzRudWhVUlMtUGFIbG9UMG5TZUc5dGh3a3dvZU80ZDBTOWdmMnJCc1BmT01PVktxdXlPSHl0ZGV6d1V3NW5YeVRNQzY4YjU4LUFHZ0NzOG04aA?oc=5",
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPak1PVXZTbU41SjZHNVhsWGlxWnp4UmxoOTNST1pFaTdkYlJRbVZobEpSa0xpc2RyQUgwYkxic1lOZWV0TmNick9hdWF3RlJuZXp0ZktwaEVDbjQxNFZwU0xsMmJsU2o2bzhuMmstbUJGRWhwaC1hQTFQM2dMWnRybmprZ3p4MS1hN0RiZDRnbnY4eGotc0ZkaDlyODJ3S2tscVc4cFhBOHBQUQ?oc=5",
+  "https://www.infobae.com/tecno/2026/11/17/argentina-vs-costa-rica-ver-online-en-xuper-tv-roja-directa-y-futbol-libre-el-truco-gratuito-que-pone-en-riesgo-tu-seguridad/",
+  "https://www.infobae.com/tecno/2026/11/17/apple-tiene-fallas-globales-icloud-apple-pay-apple-store-apple-tv-y-otros-servicios-sufren-caida/",
+  "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html",
+  "https://www.engadget.com/2319673/google-wallet-is-launching-on-ios/",
+  "https://9to5google.com/2026/11/17/google-wallet-ios-app/",
+  "https://9to5google.com/2026/11/17/google-wallet-ios-app/"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -138,7 +146,10 @@
   "Own 2 Android phones? Google may let you switch service fast – like iPhone Handoff",
   "Microsoft aims to challenge OpenAI, Anthropic with cheaper, specialized AI models",
   "Opinion: AI Data Centers are Detrimental",
-  "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free"
+  "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+  "Argentina vs Costa Rica: quién gana, según la inteligencia artificial",
+  "Apple tiene fallas globales: iCloud, Apple Pay, Apple Store, Apple TV+ y otros servicios sufren caída",
+  "Google Wallet is launching on iOS"
  ],
  "history": [
   {
@@ -331,6 +342,24 @@
   {
    "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
    "at": 1794947371,
+   "permalink": null,
+   "kind": "post"
+  },
+  {
+   "title": "Argentina vs Costa Rica: quién gana, según la inteligencia artificial",
+   "at": 1794950133,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "Apple tiene fallas globales: iCloud, Apple Pay, Apple Store, Apple TV+ y otros servicios sufren caída",
+   "at": 1794950134,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "Google Wallet is launching on iOS",
+   "at": 1794950432,
    "permalink": null,
    "kind": "post"
   }
