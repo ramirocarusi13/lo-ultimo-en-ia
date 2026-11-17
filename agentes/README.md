@@ -18,7 +18,9 @@ cambios y decide.
 | `editor-video` | después del armado | el Reel: clips, sincronía con la voz, textos, zonas seguras | sonnet |
 
 Los 5 de "después del borrador" corren en paralelo, y los 3 de "después del armado" también.
-Los Reels son solo con video real; sin video, la noticia sale como carrusel.
+Los Reels son solo con video real; sin video, la noticia sale como carrusel. El video sigue
+a la voz: cuando nombra a alguien con clip propio (Trump, Elon Musk…) se lo ve a él; si no,
+al protagonista. Nada de videos de relleno.
 Cada agente devuelve un informe corto con VEREDICTO (OK / CAMBIOS / DESCARTAR), puntaje y
 cambios concretos. Los informes se juntan en `posts/<id>/informe_agentes.md`, que se manda
 al usuario junto con el post.

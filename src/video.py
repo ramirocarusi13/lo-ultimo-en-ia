@@ -174,6 +174,61 @@ def _render_layers(pages: list[dict], out_dir: Path) -> list[Path]:
     return paths
 
 
+
+# ---------------------------------------------------------------- planos
+MIN_SHOT = 1.2  # un plano más corto que esto marea: se une al anterior
+
+
+def _norm(text: str) -> str:
+    import unicodedata
+    return unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode().lower()
+
+
+def _tokens(key: str) -> set[str]:
+    return {t for t in re.findall(r"[a-z0-9]+", _norm(key)) if len(t) >= 3}
+
+
+def _shots(subs, dur: float, keys: list[str], default: str) -> list[tuple[str, float, float]]:
+    """Planos de una escena: (clip, inicio, fin). Cambia al clip de una persona en el momento
+    en que la voz la nombra y vuelve al clip por defecto al empezar la oración siguiente."""
+    named = [(k, _tokens(k)) for k in keys if not k.isdigit() and _tokens(k)]
+    cuts, cur, last = [], default, None
+    for text, a, _, si in subs:
+        if si != last:
+            cur, last = default, si
+        words = set(re.findall(r"[a-z0-9]+", _norm(_plain(text))))
+        for k, toks in named:
+            if toks & words:
+                cur = k
+        if not cuts or cuts[-1][0] != cur:
+            cuts.append([cur, a])
+    if not cuts:
+        return [(default, 0.0, dur)]
+    cuts[0][1] = 0.0
+    shots = [[k, a, (cuts[i + 1][1] if i + 1 < len(cuts) else dur)] for i, (k, a) in enumerate(cuts)]
+    merged = []
+    for sh in shots:
+        if merged and (sh[2] - sh[1] < MIN_SHOT or merged[-1][0] == sh[0]):
+            merged[-1][2] = sh[2]
+        elif merged and merged[-1][2] - merged[-1][1] < MIN_SHOT:
+            merged[-1] = [sh[0], merged[-1][1], sh[2]]
+        else:
+            merged.append(sh)
+    return [tuple(m) for m in merged]
+
+
+def _duration(path: Path) -> float:
+    probe = shutil.which("ffprobe")
+    if probe:
+        r = subprocess.run([probe, "-v", "error", "-show_entries", "format=duration", "-of",
+                            "csv=p=0", str(path)], capture_output=True, text=True)
+        try:
+            return float(r.stdout.strip())
+        except ValueError:
+            pass
+    return 14.0
+
+
 # ---------------------------------------------------------------- armado
 def make_reel(post_id: str) -> Path | None:
     out = POSTS_DIR / post_id
@@ -187,7 +242,7 @@ def make_reel(post_id: str) -> Path | None:
             old.unlink(missing_ok=True)
         print("[video] sin video real con licencia libre: no se arma Reel (va solo el carrusel)")
         return None
-    avail = [clips[k] for k in sorted(clips)]
+    lead = next(iter(clips))  # protagonista: el primer clip guardado
     tmp = out / "_reel"
     shutil.rmtree(tmp, ignore_errors=True)
     tmp.mkdir()
@@ -199,7 +254,7 @@ def make_reel(post_id: str) -> Path | None:
     audio, timeline = b"", []   # timeline: por escena, (duración, [(chunk, ini, fin)])
     for k, sentences in enumerate(scenes):
         t0, subs = len(audio) / 2 / rate, []
-        for text, pcm, _ in sentences:
+        for si, (text, pcm, _) in enumerate(sentences):
             start = len(audio) / 2 / rate
             dur = len(pcm) / 2 / rate
             parts = _chunks(text)
@@ -207,7 +262,7 @@ def make_reel(post_id: str) -> Path | None:
             acc = start
             for p, w in zip(parts, weights):
                 d = dur * w / sum(weights)
-                subs.append((p, acc - t0, acc - t0 + d))
+                subs.append((p, acc - t0, acc - t0 + d, si))
                 acc += d
             audio += pcm + gap
         if k == len(scenes) - 1:
@@ -232,48 +287,59 @@ def make_reel(post_id: str) -> Path | None:
             pages.append(dict(mode="scene", headline="", step=STEPS[k], headline_size=0, badge=""))
         subs = []
         # en la portada ya está el titular grande: sin subtítulos encima para no saturar
-        for text, a, b in (timeline[k][1] if k else []):
+        for text, a, b, _ in (timeline[k][1] if k else []):
             subs.append((len(pages), a, b))
             pages.append(dict(mode="sub", text=_marked(text, hl), headline_size=0))
         index.append((len(pages) - len(subs) - 1, subs))
     pages.append(dict(mode="end", headline_size=0))
     layers = _render_layers(pages, tmp)
 
-    # 3. un segmento de video por escena
+    # 3. video: en cada escena, el clip de la persona que la voz está nombrando
+    #    (clips guardados con su nombre: "Donald Trump", "Elon Musk"...) y, si no nombra a
+    #    nadie con clip, el de la escena o el del protagonista. Cada clip sigue desde donde
+    #    quedó (no se repite el mismo tramo).
     ff, fps = _ffmpeg(), REEL_FPS
-    segs = []
+    W, H = REEL_SIZE
+    segs, playhead = [], {}
     for k in range(3):
-        dur, _ = timeline[k]
-        frames = max(1, round(dur * fps))
+        dur, subs_all = timeline[k]
         scene_layer, subs = index[k]
-        W, H = REEL_SIZE
-        # el clip de esa escena o, si no tiene, otro tramo de un clip disponible
-        clip_file = clips.get(str(k + 1))
-        offset = 0.0
-        if clip_file is None:
-            clip_file, offset = avail[k % len(avail)], 4.0 * k
-        # formato noticiero: el clip entero arriba y de fondo el mismo clip ampliado y desenfocado
-        args = [ff, "-y", "-stream_loop", "-1", "-ss", f"{offset:.2f}", "-i", str(clip_file),
-                "-i", str(layers[scene_layer])]
-        f = (f"[0:v]fps={fps},split[a][c];[a]scale={W}:{H}:force_original_aspect_ratio=increase,"
-             f"crop={W}:{H},boxblur=28:2,eq=brightness=-0.05[bg];"
-             f"[c]scale={W}:1000:force_original_aspect_ratio=decrease[fg];"
-             f"[bg][fg]overlay=x=(W-w)/2:y=330,setsar=1[b];[b][1:v]overlay=0:0[v0]")
-        for li, _, _ in subs:
-            args += ["-i", str(layers[li])]
-        for j, (_, a, b) in enumerate(subs):
-            f += f";[v{j}][{j + 2}:v]overlay=0:0:enable='between(t,{a:.3f},{b:.3f})'[v{j + 1}]"
-        seg = tmp / f"seg_{k}.mp4"
-        args += ["-filter_complex", f, "-map", f"[v{len(subs)}]", "-frames:v", str(frames),
-                 "-c:v", "libx264", "-preset", "veryfast", "-crf", "19", "-pix_fmt", "yuv420p",
-                 "-r", str(fps), str(seg)]
-        _run(args)
-        segs.append(seg)
+        default = str(k + 1) if str(k + 1) in clips else lead
+        sub_times = [(li, a, b) for (li, a, b) in subs]
+        total_frames = max(1, round(dur * fps))
+        for key, ta, tb in _shots(subs_all, dur, list(clips), default):
+            fa, fb = round(ta * fps), min(total_frames, round(tb * fps))
+            if fb <= fa:
+                continue
+            clip_file = clips[key]
+            length = _duration(clip_file)
+            offset = playhead.get(key, 0.0) % max(1.0, length - 1.0)
+            playhead[key] = playhead.get(key, 0.0) + (fb - fa) / fps
+            # formato noticiero: el clip entero arriba y de fondo el mismo clip ampliado y desenfocado
+            args = [ff, "-y", "-stream_loop", "-1", "-ss", f"{offset:.2f}", "-i", str(clip_file),
+                    "-i", str(layers[scene_layer])]
+            f = (f"[0:v]fps={fps},split[a][c];[a]scale={W}:{H}:force_original_aspect_ratio=increase,"
+                 f"crop={W}:{H},boxblur=28:2,eq=brightness=-0.05[bg];"
+                 f"[c]scale={W}:1000:force_original_aspect_ratio=decrease[fg];"
+                 f"[bg][fg]overlay=x=(W-w)/2:y=330,setsar=1[b];[b][1:v]overlay=0:0[v0]")
+            here = [(li, a - fa / fps, b - fa / fps) for li, a, b in sub_times
+                    if b > fa / fps and a < fb / fps]
+            for li, _, _ in here:
+                args += ["-i", str(layers[li])]
+            for j, (_, a, b) in enumerate(here):
+                f += f";[v{j}][{j + 2}:v]overlay=0:0:enable='between(t,{a:.3f},{b:.3f})'[v{j + 1}]"
+            seg = tmp / f"seg_{len(segs):02d}.mp4"
+            args += ["-filter_complex", f, "-map", f"[v{len(here)}]", "-frames:v", str(fb - fa),
+                     "-c:v", "libx264", "-preset", "veryfast", "-crf", "19", "-pix_fmt", "yuv420p",
+                     "-r", str(fps), str(seg)]
+            _run(args)
+            segs.append(seg)
+            print(f"[video] escena {k + 1}: {ta:5.1f}-{tb:5.1f} s -> clip {key}")
 
     # cierre: tarjeta de la marca con un zoom mínimo
     dur = timeline[3][0]
     frames = round(dur * fps)
-    seg = tmp / "seg_3.mp4"
+    seg = tmp / "seg_99.mp4"
     _run([ff, "-y", "-i", str(layers[-1]), "-filter_complex",
           f"[0:v]scale={REEL_SIZE[0] * 2}:-1,zoompan=z='1+0.04*on/{frames}':x='iw/2-(iw/zoom/2)'"
           f":y='ih/2-(ih/zoom/2)':d={frames}:s={REEL_SIZE[0]}x{REEL_SIZE[1]}:fps={fps},setsar=1[v]",

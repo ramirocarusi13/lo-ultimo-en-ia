@@ -19,7 +19,7 @@ Reglas:
 Devolvé SOLO esto:
 FORMATO: REEL | CARRUSEL | AMBOS
 POR QUÉ: <1-2 líneas>
-CLIPS: <ok, o qué escena sacar/cambiar: "noclip <id> <escena>" o qué buscar>
+CLIPS: <ok, o qué escena sacar/cambiar: "noclip <id> <nombre|escena>" o qué buscar>
 PORTADA DEL REEL: <qué cuadro o momento usar de portada, si hay Reel>
 
 No edites archivos. En español.

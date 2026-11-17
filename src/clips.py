@@ -12,6 +12,7 @@ con licencia estándar de YouTube: eso es contenido con derechos.
 Uso (lo corre el agente cazador-videos):
   python src/main.py clips <id> "Tesla Optimus robot"     # lista candidatos + miniaturas
   python src/main.py clip <id> <candidato> <escena 1-3> <segundo de inicio>
+  python src/main.py clip <id> <candidato> "Donald Trump" <segundo>  # aparece cuando la voz lo nombra
 """
 from __future__ import annotations
 
@@ -154,13 +155,25 @@ def search(post_id: str, query: str, n: int = 6, max_age_days: int = 60) -> list
 
 
 # ---------------------------------------------------------------- descarga
-def take(post_id: str, n: int, scene: int, start: float = 0.0) -> Path:
-    """Baja ~14 s del candidato n desde `start` para la escena 1-3 del Reel."""
+def _slug(key: str) -> str:
+    import unicodedata
+    k = unicodedata.normalize("NFKD", key).encode("ascii", "ignore").decode().lower()
+    return re.sub(r"[^a-z0-9]+", "_", k).strip("_") or "x"
+
+
+def take(post_id: str, n: int, scene: str, start: float = 0.0) -> Path:
+    """Baja ~14 s del candidato n desde `start`.
+
+    scene = "1".."3" (fondo de esa escena del Reel) o el NOMBRE de una persona/cosa
+    ("Donald Trump", "Elon Musk", "Tesla Roadster"): ese clip aparece cada vez que la voz
+    la nombra. El primer clip guardado es el protagonista: va cuando no se nombra a nadie.
+    """
+    scene = str(scene).strip()
     d = _clips_dir(post_id)
     cands = json.loads((d / "candidatos.json").read_text(encoding="utf-8"))
     c = next(x for x in cands if x["n"] == n)
     raw = d / f"raw_{n}.mp4"
-    out = WORK_DIR / post_id / f"clip_{scene}.mp4"
+    out = WORK_DIR / post_id / f"clip_{_slug(scene)}.mp4"
     end = start + CLIP_SECONDS
     if c["source"] == "YouTube":
         import yt_dlp
@@ -191,23 +204,23 @@ def take(post_id: str, n: int, scene: int, start: float = 0.0) -> Path:
                     "-pix_fmt", "yuv420p", str(out)], check=True, capture_output=True)
     # cuadro de muestra para que el editor de video lo mire
     subprocess.run([_ffmpeg(), "-y", "-ss", "3", "-i", str(out), "-frames:v", "1", "-q:v", "3",
-                    str(WORK_DIR / post_id / f"clip_{scene}.jpg")], check=True, capture_output=True)
+                    str(out.with_suffix(".jpg"))], check=True, capture_output=True)
     sel_path = WORK_DIR / post_id / "clips.json"
     sel = json.loads(sel_path.read_text(encoding="utf-8")) if sel_path.exists() else {}
-    sel[str(scene)] = {"file": out.name, "credit": c["credit"], "url": c["url"], "title": c["title"],
+    sel[scene] = {"file": out.name, "credit": c["credit"], "url": c["url"], "title": c["title"],
                        "start": start}
     sel_path.write_text(json.dumps(sel, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"CLIP escena {scene}: {out}  (muestra: {out.with_suffix('.jpg')})")
+    print(f"CLIP {scene}: {out}  (muestra: {out.with_suffix('.jpg')})")
     return out
 
 
-def drop(post_id: str, scene: int) -> None:
-    """Saca el clip de una escena (vuelve a la foto)."""
+def drop(post_id: str, scene: str) -> None:
+    """Saca el clip de una escena o de una persona."""
     sel_path = WORK_DIR / post_id / "clips.json"
     sel = json.loads(sel_path.read_text(encoding="utf-8")) if sel_path.exists() else {}
-    sel.pop(str(scene), None)
+    sel.pop(str(scene).strip(), None)
     sel_path.write_text(json.dumps(sel, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"[clips] escena {scene} sin clip")
+    print(f"[clips] {scene}: sin clip")
 
 
 def selected(post_id: str) -> dict:

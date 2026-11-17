@@ -8,7 +8,7 @@ Flujo con la tarea programada de Claude (usa la suscripción, sin API paga):
   python src/main.py build <id>        # fotos (ComfyUI) + carrusel en posts/<id>/
   python src/main.py reel <id>         # (re)arma solo el Reel con voz: posts/<id>/reel.mp4
   python src/main.py clips <id> "query"  # videos reales con licencia libre (YouTube CC, Commons, NASA)
-  python src/main.py clip <id> <n> <escena> [inicio]  # usa el candidato n en la escena 1-3 del Reel
+  python src/main.py clip <id> <n> <escena|"Nombre"> [inicio]  # clip para la escena 1-3 o para cuando la voz nombra a alguien
   python src/main.py skip <id> "motivo"  # descarta la noticia para no volver a evaluarla
   python src/main.py publish           # publica el último post armado (necesita URL pública)
 
@@ -231,12 +231,12 @@ if __name__ == "__main__":
     elif cmd == "clips":  # buscar videos con licencia libre: clips <id> "búsqueda"
         import clips
         clips.search(args[1], " ".join(args[2:]))
-    elif cmd == "clip":   # usar un candidato: clip <id> <n> <escena> [inicio_seg]
+    elif cmd == "clip":   # usar un candidato: clip <id> <n> <escena|"Nombre"> [inicio_seg]
         import clips
-        clips.take(args[1], int(args[2]), int(args[3]), float(args[4]) if len(args) > 4 else 0.0)
+        clips.take(args[1], int(args[2]), args[3], float(args[4]) if len(args) > 4 else 0.0)
     elif cmd == "noclip":  # sacar el clip de una escena: noclip <id> <escena>
         import clips
-        clips.drop(args[1], int(args[2]))
+        clips.drop(args[1], " ".join(args[2:]))
     elif cmd == "skip":
         skip(args[1], " ".join(args[2:]) or "sin motivo")
     elif cmd in ("generate", "run"):

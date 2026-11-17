@@ -41,7 +41,7 @@ Hacé estos pasos en orden:
      cambiar hechos ni agregar datos que no estén en las notas).
    - El cazador deja los clips de video elegidos en work\<id>\clips.json (el armado los usa
      solo y agrega el crédito "🎥 Video: …" al caption). Si el revisor legal objeta un clip,
-     sacalo con  .\.venv\Scripts\python.exe src\main.py noclip <id> <escena>
+     sacalo con  .\.venv\Scripts\python.exe src\main.py noclip <id> <nombre|escena>
      Si el cazador indica un VIDEO ORIGINAL CON DERECHOS, podés sumar al caption una línea
      tipo "🎬 El video completo está en la cuenta de <empresa>." (sin copiarlo).
    - Si el verificador o el revisor legal dicen DESCARTAR con un motivo sólido, corré `skip`

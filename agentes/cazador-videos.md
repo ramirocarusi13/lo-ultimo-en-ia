@@ -24,16 +24,34 @@ Leé work/<id>/draft.json (qué dice cada escena del reel_script) y work/<id>/no
    Nunca uses videos de X/Twitter, TikTok, Instagram ni de canales de YouTube con licencia
    estándar, aunque sean el video "oficial": eso no se puede reutilizar.
 
-3. Si hay uno bueno, bajá el tramo que sirve (14 s desde el segundo de inicio) para la
-   escena que mejor ilustra (1 = gancho/portada, 2 = qué pasó, 3 = por qué importa):
-     .\.venv\Scripts\python.exe src\main.py clip <id> <número> <escena> <segundo de inicio>
-   Elegí el segundo mirando la descripción/duración (ej: en un video largo evitá la intro).
-   Después mirá work/<id>/clip_<escena>.jpg: si muestra otra cosa, probá otro segundo o
-   sacalo con   .\.venv\Scripts\python.exe src\main.py noclip <id> <escena>
-   Podés poner clips en varias escenas (máximo 3). Sin clips, el Reel usa las fotos: está bien.
+3. EL VIDEO SIGUE A LA VOZ: lo que se ve tiene que ser de quien se está hablando. No
+   muestres "otros videos" de relleno.
+   - Primero el PROTAGONISTA de la noticia (ej: Jensen Huang). Guardalo con su nombre:
+       .\.venv\Scripts\python.exe src\main.py clip <id> <número> "Jensen Huang" <segundo>
+     El primer clip guardado es el que se ve cuando la voz no nombra a nadie más.
+   - Después, CADA PERSONA (o producto) que nombre el reel_script, si hay video libre de
+     ella: Trump, Elon Musk, Sam Altman, el Tesla… con su nombre tal como aparece en el
+     guion (nombre y/o apellido):
+       .\.venv\Scripts\python.exe src\main.py clip <id> <número> "Donald Trump" <segundo>
+     El Reel cambia solo a ese clip en el momento en que la voz lo nombra y vuelve al
+     protagonista en la oración siguiente. Si alguien nombrado no tiene video libre, no
+     pongas otro en su lugar: se queda el protagonista.
+   - Buenas fuentes por persona: discursos y conferencias del gobierno de EE. UU. (Casa
+     Blanca, NASA, Departamentos: dominio público, en Commons), conferencias del World
+     Economic Forum y similares (CC BY, en Commons), canales oficiales de las empresas.
+   - Elegí un tramo donde se vea SOLO a esa persona (en entrevistas, no el del
+     entrevistador). Para encontrarlo mirá un mosaico de cuadros, por ejemplo:
+       ffmpeg -ss 400 -i work\<id>\clipsaw_<n>.mp4 -t 300 -vf "fps=1/15,scale=320:-2,tile=5x4" -frames:v 1 work\<id>\mosaico_<n>.jpg
+     (solo existe raw_<n>.mp4 para Commons/NASA; en YouTube elegí el segundo por la
+     descripción y probá).
+   - Mirá la muestra work/<id>/clip_<nombre>.jpg: si muestra otra cosa, probá otro segundo
+     o sacalo con   .\.venv\Scripts\python.exe src\main.py noclip <id> "<nombre>"
+   - "1", "2" o "3" en lugar del nombre fija un clip de fondo para toda esa escena (solo si
+     es algo que no es una persona nombrada, ej: el producto).
+   Sin ningún clip no hay Reel (va carrusel): está bien.
 
 Devolvé SOLO esto:
-CLIPS: <escena>: <título> — <canal> — <licencia> — <url> (por qué es del autor)
+CLIPS: <nombre o escena>: <título> — <canal> — <licencia> — <url> (por qué es del autor)
        o "ninguno"
 DESCARTADOS: <n>: <motivo corto> (los más relevantes)
 VIDEO ORIGINAL CON DERECHOS: <si existe el video oficial de la noticia pero no se puede usar,
