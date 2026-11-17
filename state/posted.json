@@ -97,7 +97,13 @@
   "https://www.zdnet.com/tech/android-fast-switch-like-iphone-handoff/",
   "https://9to5google.com/2026/11/17/google-android-fast-switch-sim-iphone-handoff/",
   "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWnpSWUhVX2NkMm9wR1R1dE92a2VBYVM5TUpKc19Ia3NsSlVmUmZfTjNfYVVuTnU4ZjJPMHJJWHNrclcxT3dSZGZ5ckdDYlM3M3BvcGVNNGtkb1ZKZk5KM2ZvOGJKdVhtLU5fQ3JtSDZsMW5rbGwwczhEX2R4TTY5Nm9n?oc=5",
-  "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ05INXRWaGd0ZFhsSkZWMjBZeFNJYU1JOEhkRG9PT1V5SUl6YTNNMzFWblJXZVdjVHJzZW5raFlUbzlHMTNHemFUVWZab28xS0M3RzkyN2c2Ukl6VUR4SUF6RFRpVjRieGRFUWJGZUNsMzkyR1B0bnlxSFFQMHpFT2JCQ09KM0FMcUZWXzlZaEVmanRiMmtuOGxGQnNKbDZkM0hJVGpwNURRN0daX29GX2tHZ0pIU3NrRk5JbVVpZ1d1WGN0cHc?oc=5"
+  "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ05INXRWaGd0ZFhsSkZWMjBZeFNJYU1JOEhkRG9PT1V5SUl6YTNNMzFWblJXZVdjVHJzZW5raFlUbzlHMTNHemFUVWZab28xS0M3RzkyN2c2Ukl6VUR4SUF6RFRpVjRieGRFUWJGZUNsMzkyR1B0bnlxSFFQMHpFT2JCQ09KM0FMcUZWXzlZaEVmanRiMmtuOGxGQnNKbDZkM0hJVGpwNURRN0daX29GX2tHZ0pIU3NrRk5JbVVpZ1d1WGN0cHc?oc=5",
+  "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUW9tOXNnc2I2NHN4T0tTanBtVnMxbkJGWFQ1d2d4RVUtc3R6eXpDS08yeHdMYWQ5QUVwSnM2SGg1SXVMdG13MEd2SEdQX2diQzBXQTQxOFhSZVBFSGFkNWlpRy1mN1llMUM2QXh6MU5yWnJTZUNjdXlaSTFYYUE0aDZ3NW1wVndrVGc?oc=5",
+  "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdkJzdmhtd044TjlfOXgtNVRsTW9pNTlHbW1CV3lwallmbGhHQTV4aDlYRk5aWGlQSzFpOUVNSGllZnE5eld4Yl9tSHhBSzdBZVpqRkRvUEphMW9LUmhzQ2RvR2o5OXRVZ1JsN01PUlZFVnM0N3ZoRl82V285VUJBVzl2X0FkakVmaGRvU1REYjVtckYwUTczZGkxeFM1V1d3U2p6YzFGcmpBSGU1UmN5VVZwX1JSQzZVRi1nMGpCanBaWjV6SDgyY2dRNDhhY3NHOTFvalNnNA?oc=5",
+  "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+  "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+  "https://9to5google.com/2026/11/17/gemini-tasks-free/",
+  "https://9to5google.com/2026/11/17/gemini-tasks-free/"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -130,7 +136,9 @@
   "Google is making it easier to opt out of Gemini AI model training – here’s how",
   "How Each Music Listening Platform Is Treating AI Music (Updating)",
   "Own 2 Android phones? Google may let you switch service fast – like iPhone Handoff",
-  "Microsoft aims to challenge OpenAI, Anthropic with cheaper, specialized AI models"
+  "Microsoft aims to challenge OpenAI, Anthropic with cheaper, specialized AI models",
+  "Opinion: AI Data Centers are Detrimental",
+  "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free"
  ],
  "history": [
   {
@@ -311,6 +319,18 @@
   {
    "title": "Microsoft aims to challenge OpenAI, Anthropic with cheaper, specialized AI models",
    "at": 1794944168,
+   "permalink": null,
+   "kind": "post"
+  },
+  {
+   "title": "Opinion: AI Data Centers are Detrimental",
+   "at": 1794947127,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+   "at": 1794947371,
    "permalink": null,
    "kind": "post"
   }

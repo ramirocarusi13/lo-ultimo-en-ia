@@ -1,0 +1,59 @@
+{
+ "id": "20261117-1724",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "GEMINI AHORA *HACE TAREAS POR TI* GRATIS EN *6 PAÍSES*",
+  "badge": "Gemini",
+  "photos": [
+   "Google Gemini",
+   "Googleplex",
+   "Google Pay"
+  ],
+  "slides": [
+   "Google renombró a su agente de IA Spark como *Tasks* y lo hizo *gratis* en Gemini. Puede armar planes de comidas, manejar tu calendario y revisar tus correos para encontrar gastos recurrentes. Llega a Estados Unidos, Canadá, Japón, Corea, Australia e India.",
+   "Antes solo lo tenían quienes pagaban Google AI Pro o Ultra. En Estados Unidos, además, puede *llamar a negocios* y comprar con Google Pay. Google dice que trabaja en una máquina virtual aislada y que *pide permiso antes de comprar*."
+  ],
+  "caption": "🤖 Gemini ya puede hacer tareas por ti, y ahora gratis: Google abrió su agente de IA a todos los usuarios en seis países.\n\nEl agente se llamaba Spark, salió en mayo y era solo para suscriptores de Google AI Pro y Ultra. Ahora se llama Tasks, funciona con el nuevo modelo Gemini 4 Hydrogen y se activa cambiando de \"Chat\" a \"Tasks\" en la app.\n\n¿Y esto a ti qué? Puede armar planes de comidas, ordenar tu calendario y buscar en tus correos gastos recurrentes que quizá no necesitas. En Estados Unidos también llama a negocios para comparar precios y compra con Google Pay, pero te pide permiso antes de pagar.\n\n¿Le dejarías a una IA revisar tus correos para encontrar suscripciones que olvidaste?\n\nFuente: The Verge, 9to5Google\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "Gemini",
+   "GoogleGemini",
+   "AgentesIA"
+  ],
+  "image_prompts": [
+   "3D illustration of a friendly glowing AI assistant orb floating above a smartphone, surrounded by small floating icons of a calendar, an envelope, a shopping bag and a checklist, soft blue and purple lighting, clean studio background",
+   "3D isometric illustration of a tidy desk with a laptop, a calendar block and a plate with a meal plan made of colorful food shapes, small robotic arms organizing them neatly, pastel colors, soft shadows, no text",
+   "3D illustration of a transparent glowing cube representing a secure virtual machine, with a small shopping cart inside and a large green confirmation check button waiting outside, futuristic dark background with blue light rays"
+  ],
+  "reel_script": [
+   "Gemini acaba de volverse gratis para hacer tareas por ti.",
+   "Google renombró a su agente Spark como *Tasks* y lo abrió gratis en seis países, entre ellos Estados Unidos, Canadá, Japón e India. Antes era solo para suscriptores de pago.",
+   "Puede ordenar tu calendario y buscar en tus correos *gastos recurrentes* que quizá no necesitas. En Estados Unidos hasta llama a negocios, y antes de comprar algo te pide permiso."
+  ]
+ },
+ "caption": "🤖 Gemini ya puede hacer tareas por ti, y ahora gratis: Google abrió su agente de IA a todos los usuarios en seis países.\n\nEl agente se llamaba Spark, salió en mayo y era solo para suscriptores de Google AI Pro y Ultra. Ahora se llama Tasks, funciona con el nuevo modelo Gemini 4 Hydrogen y se activa cambiando de \"Chat\" a \"Tasks\" en la app.\n\n¿Y esto a ti qué? Puede armar planes de comidas, ordenar tu calendario y buscar en tus correos gastos recurrentes que quizá no necesitas. En Estados Unidos también llama a negocios para comparar precios y compra con Google Pay, pero te pide permiso antes de pagar.\n\n¿Le dejarías a una IA revisar tus correos para encontrar suscripciones que olvidaste?\n\nFuente: The Verge, 9to5Google\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Google / Wikimedia Commons (Public domain)\n📸 Foto: The Pancake of Heaven! / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: Naha Mama Pavilionz / Wikimedia Commons (CC0)\n\n#Gemini #GoogleGemini #AgentesIA",
+ "slides": [
+  "posts/20261117-1724/slide_1.jpg",
+  "posts/20261117-1724/slide_2.jpg",
+  "posts/20261117-1724/slide_3.jpg",
+  "posts/20261117-1724/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+   "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+   "source": "The Verge"
+  },
+  {
+   "title": "You can now assign Gemini ‘tasks’ for free in six countries",
+   "link": "https://9to5google.com/2026/11/17/gemini-tasks-free/",
+   "source": "9to5Mac"
+  },
+  {
+   "title": "You can now assign Gemini ‘tasks’ for free in six countries",
+   "link": "https://9to5google.com/2026/11/17/gemini-tasks-free/",
+   "source": "9to5Google"
+  }
+ ]
+}

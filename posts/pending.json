@@ -1,54 +1,59 @@
 {
- "id": "20261117-1624",
+ "id": "20261117-1724",
  "post": {
   "skip": false,
   "skip_reason": "",
   "confidence": "alta",
-  "headline": "*MICROSOFT* VA CONTRA OPENAI Y ANTHROPIC CON *IA ESPECIALIZADA*",
-  "badge": "Microsoft",
+  "headline": "GEMINI AHORA *HACE TAREAS POR TI* GRATIS EN *6 PAÍSES*",
+  "badge": "Gemini",
   "photos": [
-   "Microsoft Redmond",
-   "",
-   ""
+   "Google Gemini",
+   "Googleplex",
+   "Google Pay"
   ],
   "slides": [
-   "Microsoft presentó *nuevos modelos de inteligencia artificial especializados*, pensados para tareas concretas como programar y la ciberseguridad. Según Axios, la apuesta es ofrecerlos *más baratos*, para competir de frente con OpenAI y Anthropic.",
-   "Microsoft apuesta por *modelos enfocados en tareas concretas*, como escribir código o proteger sistemas. Si resultan más económicos para empresas y desarrolladores, eso podría *bajar el costo* de las herramientas de IA que usamos todos."
+   "Google renombró a su agente de IA Spark como *Tasks* y lo hizo *gratis* en Gemini. Puede armar planes de comidas, manejar tu calendario y revisar tus correos para encontrar gastos recurrentes. Llega a Estados Unidos, Canadá, Japón, Corea, Australia e India.",
+   "Antes solo lo tenían quienes pagaban Google AI Pro o Ultra. En Estados Unidos, además, puede *llamar a negocios* y comprar con Google Pay. Google dice que trabaja en una máquina virtual aislada y que *pide permiso antes de comprar*."
   ],
-  "caption": "🤖 Microsoft sale a pelear contra OpenAI y Anthropic con modelos de IA especializados que, según Axios, serían más baratos.\n\nLa empresa presentó nuevos modelos de inteligencia artificial enfocados en tareas concretas, como programar y la ciberseguridad, según informaron Reuters y Axios. Según Axios, la idea es competir con modelos más baratos y especializados.\n\n¿Y esto a mí qué? Si las grandes tecnológicas compiten por ofrecer IA más barata, las herramientas que usan empresas, programadores y equipos de seguridad podrían volverse más accesibles. Y si las empresas pagan menos, eso puede llegar a las apps que usamos todos los días.\n\n¿Usarías una IA especializada solo para programar o prefieres un asistente que haga de todo?\n\nFuente: Reuters, Axios\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "🤖 Gemini ya puede hacer tareas por ti, y ahora gratis: Google abrió su agente de IA a todos los usuarios en seis países.\n\nEl agente se llamaba Spark, salió en mayo y era solo para suscriptores de Google AI Pro y Ultra. Ahora se llama Tasks, funciona con el nuevo modelo Gemini 4 Hydrogen y se activa cambiando de \"Chat\" a \"Tasks\" en la app.\n\n¿Y esto a ti qué? Puede armar planes de comidas, ordenar tu calendario y buscar en tus correos gastos recurrentes que quizá no necesitas. En Estados Unidos también llama a negocios para comparar precios y compra con Google Pay, pero te pide permiso antes de pagar.\n\n¿Le dejarías a una IA revisar tus correos para encontrar suscripciones que olvidaste?\n\nFuente: The Verge, 9to5Google\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "Microsoft",
-   "InteligenciaArtificial",
-   "Ciberseguridad"
+   "Gemini",
+   "GoogleGemini",
+   "AgentesIA"
   ],
   "image_prompts": [
-   "A 3D illustration of three glowing specialized robot arms on a sleek desk, one holding a code bracket symbol made of light, one holding a shield, one holding a shrinking price tag, soft blue and violet lighting, isometric view.",
-   "A 3D illustration of a futuristic server room with compact modular server blocks, each a different color, connected by glowing cables, a small balance scale in the foreground tipping toward the lighter blocks, cinematic wide angle.",
-   "A 3D illustration of a chess board where small glossy cube pieces face off against two large monolith pieces, dramatic side lighting, deep blue background, close-up low angle, symbolic tech competition."
+   "3D illustration of a friendly glowing AI assistant orb floating above a smartphone, surrounded by small floating icons of a calendar, an envelope, a shopping bag and a checklist, soft blue and purple lighting, clean studio background",
+   "3D isometric illustration of a tidy desk with a laptop, a calendar block and a plate with a meal plan made of colorful food shapes, small robotic arms organizing them neatly, pastel colors, soft shadows, no text",
+   "3D illustration of a transparent glowing cube representing a secure virtual machine, with a small shopping cart inside and a large green confirmation check button waiting outside, futuristic dark background with blue light rays"
   ],
   "reel_script": [
-   "Microsoft quiere ganarle a OpenAI y Anthropic con inteligencia artificial especializada.",
-   "*Microsoft* presentó modelos especializados en programar y en ciberseguridad. Según Axios, la apuesta es que sean *más baratos* para competir con OpenAI y Anthropic.",
-   "Si la inteligencia artificial especializada sale más barata, podría *abaratar* las herramientas que usan empresas, programadores y equipos de seguridad todos los días."
+   "Gemini acaba de volverse gratis para hacer tareas por ti.",
+   "Google renombró a su agente Spark como *Tasks* y lo abrió gratis en seis países, entre ellos Estados Unidos, Canadá, Japón e India. Antes era solo para suscriptores de pago.",
+   "Puede ordenar tu calendario y buscar en tus correos *gastos recurrentes* que quizá no necesitas. En Estados Unidos hasta llama a negocios, y antes de comprar algo te pide permiso."
   ]
  },
- "caption": "🤖 Microsoft sale a pelear contra OpenAI y Anthropic con modelos de IA especializados que, según Axios, serían más baratos.\n\nLa empresa presentó nuevos modelos de inteligencia artificial enfocados en tareas concretas, como programar y la ciberseguridad, según informaron Reuters y Axios. Según Axios, la idea es competir con modelos más baratos y especializados.\n\n¿Y esto a mí qué? Si las grandes tecnológicas compiten por ofrecer IA más barata, las herramientas que usan empresas, programadores y equipos de seguridad podrían volverse más accesibles. Y si las empresas pagan menos, eso puede llegar a las apps que usamos todos los días.\n\n¿Usarías una IA especializada solo para programar o prefieres un asistente que haga de todo?\n\nFuente: Reuters, Axios\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Jiaqian AirplaneFan / Wikimedia Commons (CC BY 3.0)\n\n#Microsoft #InteligenciaArtificial #Ciberseguridad",
+ "caption": "🤖 Gemini ya puede hacer tareas por ti, y ahora gratis: Google abrió su agente de IA a todos los usuarios en seis países.\n\nEl agente se llamaba Spark, salió en mayo y era solo para suscriptores de Google AI Pro y Ultra. Ahora se llama Tasks, funciona con el nuevo modelo Gemini 4 Hydrogen y se activa cambiando de \"Chat\" a \"Tasks\" en la app.\n\n¿Y esto a ti qué? Puede armar planes de comidas, ordenar tu calendario y buscar en tus correos gastos recurrentes que quizá no necesitas. En Estados Unidos también llama a negocios para comparar precios y compra con Google Pay, pero te pide permiso antes de pagar.\n\n¿Le dejarías a una IA revisar tus correos para encontrar suscripciones que olvidaste?\n\nFuente: The Verge, 9to5Google\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Google / Wikimedia Commons (Public domain)\n📸 Foto: The Pancake of Heaven! / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: Naha Mama Pavilionz / Wikimedia Commons (CC0)\n\n#Gemini #GoogleGemini #AgentesIA",
  "slides": [
-  "posts/20261117-1624/slide_1.jpg",
-  "posts/20261117-1624/slide_2.jpg",
-  "posts/20261117-1624/slide_3.jpg",
-  "posts/20261117-1624/slide_4.jpg"
+  "posts/20261117-1724/slide_1.jpg",
+  "posts/20261117-1724/slide_2.jpg",
+  "posts/20261117-1724/slide_3.jpg",
+  "posts/20261117-1724/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "Microsoft aims to challenge OpenAI, Anthropic with cheaper, specialized AI models",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWnpSWUhVX2NkMm9wR1R1dE92a2VBYVM5TUpKc19Ia3NsSlVmUmZfTjNfYVVuTnU4ZjJPMHJJWHNrclcxT3dSZGZ5ckdDYlM3M3BvcGVNNGtkb1ZKZk5KM2ZvOGJKdVhtLU5fQ3JtSDZsMW5rbGwwczhEX2R4TTY5Nm9n?oc=5",
-   "source": "Axios"
+   "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+   "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+   "source": "The Verge"
   },
   {
-   "title": "Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ05INXRWaGd0ZFhsSkZWMjBZeFNJYU1JOEhkRG9PT1V5SUl6YTNNMzFWblJXZVdjVHJzZW5raFlUbzlHMTNHemFUVWZab28xS0M3RzkyN2c2Ukl6VUR4SUF6RFRpVjRieGRFUWJGZUNsMzkyR1B0bnlxSFFQMHpFT2JCQ09KM0FMcUZWXzlZaEVmanRiMmtuOGxGQnNKbDZkM0hJVGpwNURRN0daX29GX2tHZ0pIU3NrRk5JbVVpZ1d1WGN0cHc?oc=5",
-   "source": "Reuters"
+   "title": "You can now assign Gemini ‘tasks’ for free in six countries",
+   "link": "https://9to5google.com/2026/11/17/gemini-tasks-free/",
+   "source": "9to5Mac"
+  },
+  {
+   "title": "You can now assign Gemini ‘tasks’ for free in six countries",
+   "link": "https://9to5google.com/2026/11/17/gemini-tasks-free/",
+   "source": "9to5Google"
   }
  ]
 }
