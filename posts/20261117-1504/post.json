@@ -1,0 +1,64 @@
+{
+ "id": "20261117-1504",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "*JENSEN HUANG* VOLVERÍA A *NVIDIA* SI LA JUNTA SE LO PIDE",
+  "badge": "NVIDIA",
+  "photos": [
+   "Jensen Huang#3",
+   "Nvidia headquarters#3",
+   "Colette Kress#2"
+  ],
+  "slides": [
+   "Jensen Huang publicó su *primera declaración* desde que renunció a Nvidia la semana pasada. Dijo que, si la junta directiva lo considera lo mejor para la empresa, se sentiría *honrado de volver* como director ejecutivo. También admitió errores personales graves.",
+   "Según CNBC, la junta *no evalúa su regreso* y ya busca reemplazo; Colette Kress es directora ejecutiva interina. Huang dirigió Nvidia 33 años y *declarará ante el Congreso* de Estados Unidos el 1 de diciembre."
+  ],
+  "caption": "🧠 Jensen Huang rompió el silencio: dice que volvería a dirigir Nvidia si la junta se lo pide.\n\nEn su primera declaración desde que renunció la semana pasada, Huang admitió errores serios en su vida personal. Según CNBC, una petición en línea para que regrese supera las 180.000 firmas, y Donald Trump dijo estar abierto a su vuelta.\n\nPero, según fuentes de CNBC, la junta no está considerando restituirlo. Colette Kress sigue como directora ejecutiva interina y, según Engadget, Huang declarará ante comités del Congreso el 1 de diciembre.\n\n¿Y esto a mí qué? Nvidia, valorada en 3,7 billones de dólares según Infobae, es clave para el desarrollo de la inteligencia artificial: quién la dirige importa.\n\n¿Crees que la junta de Nvidia debería aceptar el regreso de Huang?\n\nFuente: CNBC, The New York Times, Engadget, Infobae.\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "Nvidia",
+   "JensenHuang",
+   "InteligenciaArtificial"
+  ],
+  "image_prompts": [
+   "3D illustration of an empty leather executive chair at the head of a long glossy boardroom table, dramatic spotlight from above, green ambient glow, dark corporate atmosphere, cinematic composition, no people, no text",
+   "3D illustration of a glowing green computer chip resting on a chessboard among tilted chess pieces, soft studio lighting, deep shadows, symbolic tension and power struggle, clean minimalist background, no text or inscriptions",
+   "3D illustration of a grand neoclassical government building with columns at dusk, a single microchip floating in front of the steps under a beam of light, moody blue and green tones, wide angle, no people, no text"
+  ],
+  "reel_script": [
+   "Jensen Huang ofrece volver a Nvidia, pero la junta no lo estaría considerando.",
+   "Huang dijo que se sentiría *honrado* de volver como director ejecutivo. Dirigió Nvidia durante 33 años y admitió errores graves en su vida personal.",
+   "Según la cadena de noticias CNBC, la junta no evalúa su regreso y busca reemplazo. Mientras tanto, Huang *declarará ante el Congreso* de Estados Unidos el 1 de diciembre."
+  ]
+ },
+ "caption": "🧠 Jensen Huang rompió el silencio: dice que volvería a dirigir Nvidia si la junta se lo pide.\n\nEn su primera declaración desde que renunció la semana pasada, Huang admitió errores serios en su vida personal. Según CNBC, una petición en línea para que regrese supera las 180.000 firmas, y Donald Trump dijo estar abierto a su vuelta.\n\nPero, según fuentes de CNBC, la junta no está considerando restituirlo. Colette Kress sigue como directora ejecutiva interina y, según Engadget, Huang declarará ante comités del Congreso el 1 de diciembre.\n\n¿Y esto a mí qué? Nvidia, valorada en 3,7 billones de dólares según Infobae, es clave para el desarrollo de la inteligencia artificial: quién la dirige importa.\n\n¿Crees que la junta de Nvidia debería aceptar el regreso de Huang?\n\nFuente: CNBC, The New York Times, Engadget, Infobae.\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Anders Eidesvik / Wikimedia Commons (CC BY 4.0)\n🎥 Video: Narendra Modi / Wikimedia Commons (CC BY 3.0)\n\n#Nvidia #JensenHuang #InteligenciaArtificial",
+ "slides": [
+  "posts/20261117-1504/slide_1.jpg",
+  "posts/20261117-1504/slide_2.jpg",
+  "posts/20261117-1504/slide_3.jpg",
+  "posts/20261117-1504/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Jensen Huang said he'd be 'honored' to return as NVIDIA CEO, because of course he would",
+   "link": "https://www.engadget.com/2319382/jensen-huang-said-hed-be-honored-to-return-as-nvidia-ceo-because-of-course-he-would/",
+   "source": "Engadget"
+  },
+  {
+   "title": "Jensen Huang Says He Would Return to Nvidia if Asked",
+   "link": "https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html",
+   "source": "The New York Times"
+  },
+  {
+   "title": "Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation",
+   "link": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
+   "source": "CNBC"
+  },
+  {
+   "title": "Jensen Huang se ofrece a volver como director ejecutivo de Nvidia tras su salida por presunto espionaje",
+   "link": "https://www.infobae.com/tecno/2026/11/17/jensen-huang-se-ofrece-a-volver-como-director-ejecutivo-de-nvidia-tras-su-salida-por-presunto-espionaje/",
+   "source": "Infobae"
+  }
+ ]
+}
