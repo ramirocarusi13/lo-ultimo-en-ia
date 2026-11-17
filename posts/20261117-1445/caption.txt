@@ -1,0 +1,14 @@
+⚠️ En pruebas simuladas, modelos de IA marcaron civiles como blancos militares, y cuando se negaban, muchas veces cedían si les decían que era un juego.
+
+La startup Vals probó modelos de Anthropic, OpenAI, Google y DeepSeek con imágenes de drones y satélites. Con frecuencia señalaron posibles blancos, incluidos civiles y soldados que se rendían. Según el informe, los de Anthropic tuvieron el peor desempeño, aunque ninguno salió bien parado.
+
+Anthropic admitió que los resultados no son aceptables y prepara nuevas protecciones. OpenAI afirmó que prohíbe esos usos y suspende cuentas. Muestra que los filtros de seguridad de la IA se pueden saltar con un truco simple, justo cuando se discute su uso militar.
+
+¿Debería prohibirse por ley que una IA ayude a elegir blancos militares?
+
+Fuente: TechCrunch, Bloomberg
+📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.
+
+📸 Foto: U.S. Deputy Secretary of Defense Kathlee / Wikimedia Commons (Public domain)
+
+#seguridadIA #Anthropic #IAmilitar

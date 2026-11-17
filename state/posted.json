@@ -48,7 +48,18 @@
   "https://news.google.com/rss/articles/CBMijAFBVV95cUxObWZfUU1JVEVmLVN3WGtNQi1GejRsTHFIeFBIamVtcDMzNGg0WV96R0VFSGF4ODYzYkZhQVVJWGFsT3pmT1RDZXFMUkJ0Z3pEdFYtVlZIOGRYM3pETGwwVEQwM1IyZlNBajJYOVdvLWc3MVdzVE9zN04tSDZoZGk0V21YSEpoWmE0SnNoMQ?oc=5",
   "https://www.turkiyetoday.com/world/a-new-war-in-2027-the-economist-flags-10-trends-shaping-the-year-3232573",
   "https://dsn.pe/the-economist-revela-su-portada-de-2027-guerras-inteligencia-artificial-y-las-10-tendencias-que-marcarian-el-mundo/",
-  "https://www.azernews.az/region/267571.html"
+  "https://www.azernews.az/region/267571.html",
+  "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+  "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc0xpbVB5RmotaFRiWTAybkZ5TzZQaDY1dWQ5YkQzeHhFX0VMekFmeldudFllZm85M2puZkE0cVFOTDdHSEIyVm82cnNKMDhQdml1bk9NbHEySWlFQ1FkQVVOUzUwZHRJTUo1M2ExcUtoUlE2MnNVVDVfY2F4V1BxbXlEUHVVakhIZTBCaG5IQlJ5V2RnX3ZIQUltdDdLMHRLQ0NzT2prenFSbTU0QlJ1QXFiNkRfOUVjQ1h3cVZ4TV9nWDFfMEx1RktjR04?oc=5",
+  "https://www.genbeta.com/actualidad/costco-preve-abrir-nueva-macrotienda-15-000-m2-madrid-asi-famoso-supermercado-estados-unidos-donde-solo-puedes-comprar-tarjeta-socio",
+  "https://www.infobae.com/estados-unidos/2026/11/17/estados-unidos-oficializa-la-investigacion-contra-megaspeed-por-el-presunto-desvio-de-chips-de-nvidia-hacia-china/",
+  "https://www.engadget.com/2319280/google-pixel-tag-review/",
+  "https://9to5google.com/2026/11/17/pixel-tag-coming-to-europe-leak-says/",
+  "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+  "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSS1jZVhGcHo5bUV2U1RFTmhhaVpURXhZSXVwcFUxYkpLcHAzUG1yclpmNmxkQVR3SS1ndWprbGdZYThiRm12b2lMWmkzaUliVWRCSUs0QkVpZGFUUVQtUm9MUzg5QkhQaDlEcmVfakwzUE5yY0xNdUZOZkVxYTltMXRWbXBCb1pjZ0V2cll3bmtYRE1HQVZzbno0UWd1Q0tkd2hYWkFhSERSUGZjaldCdldaa2FsX2gyYmFIQzFkUQ?oc=5",
+  "https://www.engadget.com/2319193/unified-disney-plus-and-hulu-app-is-set-to-arrive-in-december/",
+  "https://9to5mac.com/2026/11/17/disney-and-hulus-fully-unified-app-is-coming-next-month/",
+  "https://blogs.nvidia.com/blog/ian-buck-sc26/"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -66,7 +77,13 @@
   "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
   "US moves to cut China’s remote access to AI chips",
   "US moves to cut China’s remote access to AI chips",
-  "A new war in 2027? The Economist flags 10 trends shaping the year"
+  "A new war in 2027? The Economist flags 10 trends shaping the year",
+  "Put Gemini to work for you",
+  "Así Estados Unidos se protege de China y sus empresas de inteligencia artificial",
+  "Google Pixel Tag review: Simple but effective",
+  "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+  "The unified Disney+ and Hulu app is set to arrive in December",
+  "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents"
  ],
  "history": [
   {
@@ -159,6 +176,42 @@
    "at": 1794918080,
    "permalink": null,
    "kind": "post"
+  },
+  {
+   "title": "Put Gemini to work for you",
+   "at": 1794937567,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "Así Estados Unidos se protege de China y sus empresas de inteligencia artificial",
+   "at": 1794937568,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "Google Pixel Tag review: Simple but effective",
+   "at": 1794937568,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+   "at": 1794938166,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "The unified Disney+ and Hulu app is set to arrive in December",
+   "at": 1794938167,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+   "at": 1794938168,
+   "permalink": null,
+   "kind": "skip"
   }
  ]
 }
