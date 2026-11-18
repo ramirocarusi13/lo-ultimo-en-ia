@@ -1,0 +1,59 @@
+{
+ "id": "20261117-2115",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "LA EMPRESA DE GOOGLE QUE DISEÑA *MEDICINAS CON IA* LEVANTA *US$5.000* MILLONES",
+  "badge": "Isomorphic",
+  "photos": [
+   "Demis Hassabis",
+   "",
+   "Protein structure"
+  ],
+  "slides": [
+   "Isomorphic Labs, la empresa de Alphabet que usa IA para diseñar fármacos, recaudó *5.000 millones de dólares*, su segunda gran ronda en seis meses: en mayo había sumado 2.100 millones. La lideraron Greenoaks y Sequoia Capital, y se sumó *Andreessen Horowitz*.",
+   "El dinero servirá para llevar sus fármacos a *ensayos clínicos* y mejorar su motor IsoDDE, que según la empresa va más allá de AlphaFold 3. La empresa dice tener resultados preclínicos positivos en cáncer e inmunología, pero *todavía no tiene ningún medicamento aprobado*."
+  ],
+  "caption": "🔬 Isomorphic Labs, la empresa de Alphabet que diseña medicamentos con IA, acaba de levantar 5.000 millones de dólares.\n\nEs su segunda megarronda en seis meses: en mayo había sumado 2.100 millones. La lideraron Greenoaks y Sequoia Capital, con Andreessen Horowitz como nuevo inversor. La dirige Demis Hassabis, Nobel de Química 2024 por AlphaFold, la IA que predice la forma de las proteínas.\n\n¿Y esto a mí qué? La idea es usar la IA para acelerar el descubrimiento de medicamentos. Con este dinero quieren llevar sus fármacos a ensayos clínicos, tras resultados preclínicos que la empresa describe como positivos en cáncer e inmunología. Trabaja con Novartis, Eli Lilly y Johnson & Johnson, aunque todavía no tiene ningún medicamento aprobado.\n\n¿Te tomarías un medicamento diseñado por una IA si pasara todas las pruebas?\n\nFuente: TechCrunch, The Decoder, SiliconANGLE\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "IsomorphicLabs",
+   "AlphaFold",
+   "MedicinaIA"
+  ],
+  "image_prompts": [
+   "A 3D illustration of a glowing translucent medicine capsule floating above a futuristic laboratory bench, surrounded by orbiting colorful protein molecules and soft blue light particles, cinematic lighting, low angle, no text or logos.",
+   "A 3D illustration of a large folded protein ribbon structure in vivid colors being scanned by thin beams of light from a sleek server tower, dark teal background, isometric view, no text or inscriptions.",
+   "A 3D illustration of rows of laboratory test tubes and pill bottles without labels on a clean white shelf, with tiny glowing data streams connecting them to a floating abstract neural network, close-up shot, soft studio light."
+  ],
+  "reel_script": [
+   "Una empresa de Google acaba de recibir 5.000 millones para diseñar medicinas con IA.",
+   "Isomorphic Labs, de Alphabet, levantó *5.000 millones* de dólares. Es su segunda gran ronda en seis meses, y la dirige Demis Hassabis, Premio Nobel de Química.",
+   "Con ese dinero quiere llevar sus fármacos a *ensayos clínicos*. Según la empresa, ya tuvo buenos resultados preclínicos en cáncer, pero todavía no tiene ningún medicamento *aprobado*."
+  ]
+ },
+ "caption": "🔬 Isomorphic Labs, la empresa de Alphabet que diseña medicamentos con IA, acaba de levantar 5.000 millones de dólares.\n\nEs su segunda megarronda en seis meses: en mayo había sumado 2.100 millones. La lideraron Greenoaks y Sequoia Capital, con Andreessen Horowitz como nuevo inversor. La dirige Demis Hassabis, Nobel de Química 2024 por AlphaFold, la IA que predice la forma de las proteínas.\n\n¿Y esto a mí qué? La idea es usar la IA para acelerar el descubrimiento de medicamentos. Con este dinero quieren llevar sus fármacos a ensayos clínicos, tras resultados preclínicos que la empresa describe como positivos en cáncer e inmunología. Trabaja con Novartis, Eli Lilly y Johnson & Johnson, aunque todavía no tiene ningún medicamento aprobado.\n\n¿Te tomarías un medicamento diseñado por una IA si pasara todas las pruebas?\n\nFuente: TechCrunch, The Decoder, SiliconANGLE\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Cmichel67 / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: Thomas Shafee / Wikimedia Commons (CC BY 4.0)\n\n#IsomorphicLabs #AlphaFold #MedicinaIA",
+ "slides": [
+  "posts/20261117-2115/slide_1.jpg",
+  "posts/20261117-2115/slide_2.jpg",
+  "posts/20261117-2115/slide_3.jpg",
+  "posts/20261117-2115/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Isomorphic Labs raises $5 billion in its second mega-round within six months",
+   "link": "https://the-decoder.com/isomorphic-labs-raises-5-billion-in-its-second-mega-round-within-six-months/",
+   "source": "The Decoder"
+  },
+  {
+   "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+   "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+   "source": "TechCrunch"
+  },
+  {
+   "title": "Alphabet’s Isomorphic Labs raises $5B to accelerate drug discovery with AI",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZXMyRFJVdDNWUmNSY3JOQkpzSEJJcmxOQU5xYnpid0tVY3dJaGNObWxsNGZSUXFPR2VSSl9kZWwxX2dLNnBTOThfSmUzM3ZLZlhPWlVfTlB6VzVXMkxadXh4QVpCRGpXeGF4TXZwVDB0cndxNlYzNEJlRjgwZWdrR0t2Y3hwR2tOZGhhMjZHQVNLMldRdDZ5eEt0TnhnaTZ2ckxaajdwWklCNnF4dXc?oc=5",
+   "source": "SiliconANGLE"
+  }
+ ]
+}
