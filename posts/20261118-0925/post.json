@@ -1,0 +1,64 @@
+{
+ "id": "20261118-0925",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "JENSEN HUANG *VOLVERÍA A NVIDIA*, PERO EL CONSEJO *NO LO CONSIDERA*",
+  "badge": "NVIDIA",
+  "photos": [
+   "Jensen Huang",
+   "Jensen Huang#2",
+   "Colette Kress#2"
+  ],
+  "slides": [
+   "Jensen Huang, cofundador de NVIDIA, renunció como director ejecutivo el 12 de noviembre tras 33 años. Ahora dijo que sería *un honor volver* si el consejo se lo pide. Es su primera declaración pública desde su salida.",
+   "Una campaña de accionistas y seguidores pide que vuelva, con el apoyo de Elon Musk. Pero, según WSJ, CNN y CNBC, *el consejo no piensa readmitirlo*. Colette Kress sigue como directora ejecutiva interina mientras buscan un reemplazo."
+  ],
+  "caption": "🧠 Jensen Huang, cofundador de NVIDIA, dice que sería “un honor” volver como director ejecutivo, días después de renunciar.\n\nDejó el cargo el 12 de noviembre, tras 33 años. El consejo dijo que fue por una conducta personal contraria al código de la empresa. Una campaña de accionistas pide su regreso, con el apoyo de Elon Musk, y Donald Trump dijo que “no le importaría” verlo volver.\n\nPero, según WSJ, CNN y CNBC, el consejo no piensa readmitirlo, y Colette Kress sigue como directora ejecutiva interina. Importa porque NVIDIA hace los chips que usan las empresas detrás de ChatGPT, Gemini y Copilot, y domina ese mercado.\n\n¿Crees que NVIDIA debería devolverle el cargo a su cofundador?\n\nFuente: Xataka, BBC, CNBC, Infobae.\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "Nvidia",
+   "JensenHuang",
+   "InteligenciaArtificial"
+  ],
+  "image_prompts": [
+   "A 3D illustration of an empty executive leather chair facing a large glowing green computer chip landscape, dramatic lighting, dark background, symbolic of a vacant leadership position, no text, no logos.",
+   "A 3D illustration of a long boardroom table seen from above with empty chairs and a single spotlight on the head seat, futuristic circuit patterns glowing on the floor, cinematic mood, no people, no text.",
+   "A 3D illustration of a giant microchip at the center of a glowing network of data centers and cables spreading in all directions, isometric view, green and purple neon tones, no text, no logos, no people."
+  ],
+  "reel_script": [
+   "El cofundador de NVIDIA renunció hace seis días, y ahora dice que volvería.",
+   "Jensen Huang, cofundador de *NVIDIA*, renunció como director ejecutivo el 12 de noviembre, tras 33 años. Ahora dice que sería un *honor* volver si el consejo se lo pide.",
+   "Pero el consejo *no piensa* readmitirlo. Colette Kress dirige de forma interina, y el primero de diciembre Huang declarará a puerta cerrada ante la Cámara de Representantes."
+  ]
+ },
+ "caption": "🧠 Jensen Huang, cofundador de NVIDIA, dice que sería “un honor” volver como director ejecutivo, días después de renunciar.\n\nDejó el cargo el 12 de noviembre, tras 33 años. El consejo dijo que fue por una conducta personal contraria al código de la empresa. Una campaña de accionistas pide su regreso, con el apoyo de Elon Musk, y Donald Trump dijo que “no le importaría” verlo volver.\n\nPero, según WSJ, CNN y CNBC, el consejo no piensa readmitirlo, y Colette Kress sigue como directora ejecutiva interina. Importa porque NVIDIA hace los chips que usan las empresas detrás de ChatGPT, Gemini y Copilot, y domina ese mercado.\n\n¿Crees que NVIDIA debería devolverle el cargo a su cofundador?\n\nFuente: Xataka, BBC, CNBC, Infobae.\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Anders Eidesvik / Wikimedia Commons (CC BY 4.0)\n\n#Nvidia #JensenHuang #InteligenciaArtificial",
+ "slides": [
+  "posts/20261118-0925/slide_1.jpg",
+  "posts/20261118-0925/slide_2.jpg",
+  "posts/20261118-0925/slide_3.jpg",
+  "posts/20261118-0925/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Jensen Huang rompe su silencio tras dimitir: “Sería un honor volver como CEO de NVIDIA”",
+   "link": "https://www.xataka.com/empresas-y-economia/jensen-huang-rompe-su-silencio-dimitir-seria-honor-volver-como-ceo-nvidia",
+   "source": "Xataka"
+  },
+  {
+   "title": "How important are Nvidia and Jensen Huang to the US economy?",
+   "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC"
+  },
+  {
+   "title": "With Jensen Huang gone, Colette Kress shows Nvidia is still at the center of AI",
+   "link": "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html",
+   "source": "CNBC"
+  },
+  {
+   "title": "Cómo Jensen Huang pasó de limpiar habitaciones a dirigir Nvidia, la gigante de los chips de IA",
+   "link": "https://www.infobae.com/tecno/2026/11/18/como-jensen-huang-paso-de-limpiar-habitaciones-a-dirigir-nvidia-la-empresa-mas-valiosa-del-mundo/",
+   "source": "Infobae"
+  }
+ ]
+}

@@ -134,7 +134,13 @@
   "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
   "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZXMyRFJVdDNWUmNSY3JOQkpzSEJJcmxOQU5xYnpid0tVY3dJaGNObWxsNGZSUXFPR2VSSl9kZWwxX2dLNnBTOThfSmUzM3ZLZlhPWlVfTlB6VzVXMkxadXh4QVpCRGpXeGF4TXZwVDB0cndxNlYzNEJlRjgwZWdrR0t2Y3hwR2tOZGhhMjZHQVNLMldRdDZ5eEt0TnhnaTZ2ckxaajdwWklCNnF4dXc?oc=5",
   "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
-  "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oVXE3ZmF0WkYzN2R6MUdURzFzSTNqY3VmNEc0bDNlTm1sUGJ5TGhFd3JFVENkNFVGNWh1bWVBR0JMSGVJUHJMWGZGWmdlbFdxYkd2T0lHZG40YW1ySDYyUFNielR4cjduWmxodXhvT1IwMzA?oc=5"
+  "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oVXE3ZmF0WkYzN2R6MUdURzFzSTNqY3VmNEc0bDNlTm1sUGJ5TGhFd3JFVENkNFVGNWh1bWVBR0JMSGVJUHJMWGZGWmdlbFdxYkd2T0lHZG40YW1ySDYyUFNielR4cjduWmxodXhvT1IwMzA?oc=5",
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNHVCYlpUZ1gzOEpibERab0Q0OUd1TXNQX1cyWjZ1STdzTlN3aEluQUYyUks3bldvYlMyZ1VaNklISnNyMmt6MGRRQlVwNDZMUHBDYl9MbGk5UE94X0MwdjdYT3hmRjlVaHlGWlY4N2ZsQUtVUndKeFNtZXgxUGJKNVNmUEpoWXJULUxyNWpIVVBTeUhDNnFhRGtoRmszM0xXUFV2YUJHdjlqRzQ?oc=5",
+  "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNei1DY0s4cWprNHNETWpseGNxVnJrQU5YLW95TFhqejFEcEZsMkxrb0xXNVFpdmFqcHJYTDF3LVBSdFREMmZ6RHRrOF9aNVFNclQxOGhJNC1jMXhmbG1KWDREamgxV3RNOUdKTUlDS0h5S1AzSENUY3V4YVFwRVFkc1VETWpzZ3MxNVNwZzVhVDZmLTBFMi1xaTdwYWFDb25PNGh2dzhIZE1MNHJhb0hkS3BxY0FWampsb3R1Q1E1bmJHZ1hjSFIzNHMzQVZFTVp5VjNPYXZJbU8za3hm?oc=5",
+  "https://www.xataka.com/empresas-y-economia/jensen-huang-rompe-su-silencio-dimitir-seria-honor-volver-como-ceo-nvidia",
+  "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+  "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html",
+  "https://www.infobae.com/tecno/2026/11/18/como-jensen-huang-paso-de-limpiar-habitaciones-a-dirigir-nvidia-la-empresa-mas-valiosa-del-mundo/"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -183,7 +189,9 @@
   "76ers' LeBron James sues makers of AI sports-betting app 'Bron'",
   "FBI alerta por ataques globales automatizados con inteligencia artificial",
   "Isomorphic Labs raises $5 billion in its second mega-round within six months",
-  "FAA pauses installation of new routers after ground stop"
+  "FAA pauses installation of new routers after ground stop",
+  "El Nodo Tecnológico debatió el futuro de la inteligencia artificial junto a líderes empresariales en Córdoba",
+  "Jensen Huang rompe su silencio tras dimitir: “Sería un honor volver como CEO de NVIDIA”"
  ],
  "history": [
   {
@@ -462,6 +470,18 @@
    "at": 1794961544,
    "permalink": null,
    "kind": "skip"
+  },
+  {
+   "title": "El Nodo Tecnológico debatió el futuro de la inteligencia artificial junto a líderes empresariales en Córdoba",
+   "at": 1795004738,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "Jensen Huang rompe su silencio tras dimitir: “Sería un honor volver como CEO de NVIDIA”",
+   "at": 1795005290,
+   "permalink": null,
+   "kind": "post"
   }
  ]
 }
