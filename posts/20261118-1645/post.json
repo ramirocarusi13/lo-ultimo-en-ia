@@ -1,0 +1,54 @@
+{
+ "id": "20261118-1645",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "GOOGLE WALLET LLEGA AL *IPHONE* PARA CONTROLAR LAS *COMPRAS CON IA*",
+  "badge": "Google",
+  "photos": [
+   "Google Wallet",
+   "contactless payment terminal",
+   "Google Gemini"
+  ],
+  "slides": [
+   "Google lanzó la app *Google Wallet para iPhone* en Estados Unidos. Permite guardar tarjetas de embarque, entradas, recibos y membresías, y se sincroniza con Gmail para seguir paquetes. Tiene una sección para *controlar las compras que hacen los agentes de Gemini*.",
+   "La gran ausencia: *no permite pagar acercando el iPhone* a la terminal porque, según ZDNET, Apple restringe esa función. Aun así, Google apuesta a que Wallet sea el centro de las *compras hechas por IA*, una carrera donde también compiten Meta y OpenAI."
+  ],
+  "caption": "📱 Google Wallet llegó por primera vez al iPhone en Estados Unidos, y su gran novedad son las compras hechas por inteligencia artificial.\n\nLa app reúne tarjetas de embarque, entradas, recibos y membresías, y se sincroniza con Gmail para seguir tus paquetes. Tiene una sección de Agentes para ver qué está comprando Gemini por ti con su función Tasks y revisar los recibos.\n\nLo que no trae: pagos sin contacto. No puedes pagar acercando el iPhone a la terminal porque, según ZDNET, Apple restringe esa función. Sí sirve para pagar en línea donde acepten Google Pay.\n\nPara ti, significa que Google quiere que su billetera sea el lugar donde controlas lo que la IA compra por ti.\n\n¿Dejarías que una IA compre por ti si tú fijas el presupuesto máximo?\n\nFuente: Infobae, ZDNET\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "GoogleWallet",
+   "iPhone",
+   "Gemini"
+  ],
+  "image_prompts": [
+   "3D illustration of a sleek glossy smartphone floating above a soft gradient background, with colorful blank cards, a boarding pass shape and tickets fanning out of its screen like a digital wallet, cinematic lighting, no text",
+   "3D illustration of a smartphone hovering near a payment terminal with a glowing red barrier between them, blank screens, minimal desk scene, soft studio lighting, close-up angle, no text, no logos",
+   "3D illustration of a friendly abstract robot hand placing small shopping bags and parcels into a translucent glowing wallet, floating receipts without writing, wide isometric view, pastel colors, no text, no logos"
+  ],
+  "reel_script": [
+   "Google Wallet llegó al iPhone, pero no te deja pagar acercando el teléfono.",
+   "Google lanzó *Google Wallet* para iPhone en Estados Unidos. Guarda tarjetas de embarque, entradas y los recibos que llegan a Gmail. Pero no sirve para pagos presenciales sin contacto.",
+   "Desde la app puedes ver qué compra Gemini por ti y revisar los recibos. Google quiere que su billetera controle lo que compra la *inteligencia artificial* por ti."
+  ]
+ },
+ "caption": "📱 Google Wallet llegó por primera vez al iPhone en Estados Unidos, y su gran novedad son las compras hechas por inteligencia artificial.\n\nLa app reúne tarjetas de embarque, entradas, recibos y membresías, y se sincroniza con Gmail para seguir tus paquetes. Tiene una sección de Agentes para ver qué está comprando Gemini por ti con su función Tasks y revisar los recibos.\n\nLo que no trae: pagos sin contacto. No puedes pagar acercando el iPhone a la terminal porque, según ZDNET, Apple restringe esa función. Sí sirve para pagar en línea donde acepten Google Pay.\n\nPara ti, significa que Google quiere que su billetera sea el lugar donde controlas lo que la IA compra por ti.\n\n¿Dejarías que una IA compre por ti si tú fijas el presupuesto máximo?\n\nFuente: Infobae, ZDNET\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Steven Walling / Wikimedia Commons (CC BY-SA 3.0)\n📸 Foto: Google / Wikimedia Commons (Public domain)\n\n#GoogleWallet #iPhone #Gemini",
+ "slides": [
+  "posts/20261118-1645/slide_1.jpg",
+  "posts/20261118-1645/slide_2.jpg",
+  "posts/20261118-1645/slide_3.jpg",
+  "posts/20261118-1645/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Google Wallet para iPhone: cómo usar la app para guardar documentos y administrar compras",
+   "link": "https://www.infobae.com/tecno/2026/11/18/google-wallet-para-iphone-como-usar-la-app-para-guardar-documentos-y-administrar-compras/",
+   "source": "Infobae"
+  },
+  {
+   "title": "Google Wallet comes to your iPhone – but without this feature",
+   "link": "https://www.zdnet.com/tech/google-wallet-iphone-ios-no-tap-to-pay/",
+   "source": "ZDNET"
+  }
+ ]
+}

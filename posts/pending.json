@@ -1,54 +1,54 @@
 {
- "id": "20261118-1545",
+ "id": "20261118-1645",
  "post": {
   "skip": false,
   "skip_reason": "",
   "confidence": "alta",
-  "headline": "GOOGLE LANZA *GENIE 4*: CREA *MUNDOS INTERACTIVOS* CON SOLO ESCRIBIR",
-  "badge": "DeepMind",
+  "headline": "GOOGLE WALLET LLEGA AL *IPHONE* PARA CONTROLAR LAS *COMPRAS CON IA*",
+  "badge": "Google",
   "photos": [
-   "",
-   "",
-   ""
+   "Google Wallet",
+   "contactless payment terminal",
+   "Google Gemini"
   ],
   "slides": [
-   "Google DeepMind empezó a habilitar *Genie 4* para suscriptores elegibles de Google AI Ultra. Según Google, es su modelo de mundos más realista: generas un entorno interactivo desde el navegador y, mientras lo recorres, *escribes para cambiar el clima*, sumar personajes o redirigir la acción.",
-   "Por primera vez, el modelo suma *audio nativo en tiempo real*, que se adapta a la escena. También llega un agente que arma mundos conversando y una galería para compartir y remixar creaciones. Todo lo generado lleva la marca de agua *SynthID*."
+   "Google lanzó la app *Google Wallet para iPhone* en Estados Unidos. Permite guardar tarjetas de embarque, entradas, recibos y membresías, y se sincroniza con Gmail para seguir paquetes. Tiene una sección para *controlar las compras que hacen los agentes de Gemini*.",
+   "La gran ausencia: *no permite pagar acercando el iPhone* a la terminal porque, según ZDNET, Apple restringe esa función. Aun así, Google apuesta a que Wallet sea el centro de las *compras hechas por IA*, una carrera donde también compiten Meta y OpenAI."
   ],
-  "caption": "🌍 Google DeepMind lanzó Genie 4: escribes una idea y la IA crea un mundo interactivo que puedes recorrer y cambiar en tiempo real.\n\nYa está llegando a los suscriptores elegibles de Google AI Ultra dentro de Project Genie, desde el navegador. Mientras exploras, puedes escribir para cambiar el clima, sumar un personaje o redirigir la acción. Y por primera vez, el mundo trae audio propio que se adapta a la escena, desde sonido ambiente hasta diálogos.\n\nTambién suma un agente que arma mundos conversando y una galería para compartir y remixar creaciones. Google aclara que sigue siendo investigación de frontera, con desafíos como la latencia y la permanencia de las escenas. Los usuarios de Google AI Pro pueden anotarse en una lista de espera.\n\n¿Qué mundo crearías primero si pudieras entrar en él con solo escribirlo?\n\n🎬 Las demos en video están en el blog de Google DeepMind.\n\nFuente: Google DeepMind\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "📱 Google Wallet llegó por primera vez al iPhone en Estados Unidos, y su gran novedad son las compras hechas por inteligencia artificial.\n\nLa app reúne tarjetas de embarque, entradas, recibos y membresías, y se sincroniza con Gmail para seguir tus paquetes. Tiene una sección de Agentes para ver qué está comprando Gemini por ti con su función Tasks y revisar los recibos.\n\nLo que no trae: pagos sin contacto. No puedes pagar acercando el iPhone a la terminal porque, según ZDNET, Apple restringe esa función. Sí sirve para pagar en línea donde acepten Google Pay.\n\nPara ti, significa que Google quiere que su billetera sea el lugar donde controlas lo que la IA compra por ti.\n\n¿Dejarías que una IA compre por ti si tú fijas el presupuesto máximo?\n\nFuente: Infobae, ZDNET\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "Genie4",
-   "GoogleDeepMind",
-   "InteligenciaArtificial"
+   "GoogleWallet",
+   "iPhone",
+   "Gemini"
   ],
   "image_prompts": [
-   "A glowing miniature fantasy world emerging from a floating glass cube on a dark desk, with mountains, a river and tiny trees forming in real time, soft volumetric light, stylized 3D illustration, vibrant colors",
-   "A stylized 3D landscape split in two halves, one sunny meadow and one stormy snowy forest, with swirling weather particles transforming the scene, floating sound wave ribbons in the air, cinematic lighting, no text",
-   "Wide aerial view of a colorful 3D illustrated archipelago of floating islands, each a different world: underwater ruins, icy sea, ancient canyon, gothic manor, connected by glowing light bridges, dreamy atmosphere"
+   "3D illustration of a sleek glossy smartphone floating above a soft gradient background, with colorful blank cards, a boarding pass shape and tickets fanning out of its screen like a digital wallet, cinematic lighting, no text",
+   "3D illustration of a smartphone hovering near a payment terminal with a glowing red barrier between them, blank screens, minimal desk scene, soft studio lighting, close-up angle, no text, no logos",
+   "3D illustration of a friendly abstract robot hand placing small shopping bags and parcels into a translucent glowing wallet, floating receipts without writing, wide isometric view, pastel colors, no text, no logos"
   ],
   "reel_script": [
-   "Escribes una frase y el mundo virtual donde estás cambia en tiempo real.",
-   "Se llama *Genie 4*, de Google DeepMind. Mientras lo recorres, puedes cambiar el clima o sumar personajes, y el audio se adapta a cada escena.",
-   "Por ahora llega a suscriptores de Google AI Ultra, con una *galería* para remixar mundos. Los usuarios de Pro ya pueden anotarse en la lista de espera."
+   "Google Wallet llegó al iPhone, pero no te deja pagar acercando el teléfono.",
+   "Google lanzó *Google Wallet* para iPhone en Estados Unidos. Guarda tarjetas de embarque, entradas y los recibos que llegan a Gmail. Pero no sirve para pagos presenciales sin contacto.",
+   "Desde la app puedes ver qué compra Gemini por ti y revisar los recibos. Google quiere que su billetera controle lo que compra la *inteligencia artificial* por ti."
   ]
  },
- "caption": "🌍 Google DeepMind lanzó Genie 4: escribes una idea y la IA crea un mundo interactivo que puedes recorrer y cambiar en tiempo real.\n\nYa está llegando a los suscriptores elegibles de Google AI Ultra dentro de Project Genie, desde el navegador. Mientras exploras, puedes escribir para cambiar el clima, sumar un personaje o redirigir la acción. Y por primera vez, el mundo trae audio propio que se adapta a la escena, desde sonido ambiente hasta diálogos.\n\nTambién suma un agente que arma mundos conversando y una galería para compartir y remixar creaciones. Google aclara que sigue siendo investigación de frontera, con desafíos como la latencia y la permanencia de las escenas. Los usuarios de Google AI Pro pueden anotarse en una lista de espera.\n\n¿Qué mundo crearías primero si pudieras entrar en él con solo escribirlo?\n\n🎬 Las demos en video están en el blog de Google DeepMind.\n\nFuente: Google DeepMind\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n#Genie4 #GoogleDeepMind #InteligenciaArtificial",
+ "caption": "📱 Google Wallet llegó por primera vez al iPhone en Estados Unidos, y su gran novedad son las compras hechas por inteligencia artificial.\n\nLa app reúne tarjetas de embarque, entradas, recibos y membresías, y se sincroniza con Gmail para seguir tus paquetes. Tiene una sección de Agentes para ver qué está comprando Gemini por ti con su función Tasks y revisar los recibos.\n\nLo que no trae: pagos sin contacto. No puedes pagar acercando el iPhone a la terminal porque, según ZDNET, Apple restringe esa función. Sí sirve para pagar en línea donde acepten Google Pay.\n\nPara ti, significa que Google quiere que su billetera sea el lugar donde controlas lo que la IA compra por ti.\n\n¿Dejarías que una IA compre por ti si tú fijas el presupuesto máximo?\n\nFuente: Infobae, ZDNET\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Steven Walling / Wikimedia Commons (CC BY-SA 3.0)\n📸 Foto: Google / Wikimedia Commons (Public domain)\n\n#GoogleWallet #iPhone #Gemini",
  "slides": [
-  "posts/20261118-1545/slide_1.jpg",
-  "posts/20261118-1545/slide_2.jpg",
-  "posts/20261118-1545/slide_3.jpg",
-  "posts/20261118-1545/slide_4.jpg"
+  "posts/20261118-1645/slide_1.jpg",
+  "posts/20261118-1645/slide_2.jpg",
+  "posts/20261118-1645/slide_3.jpg",
+  "posts/20261118-1645/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "Genie 4 is now available",
-   "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-   "source": "Google DeepMind"
+   "title": "Google Wallet para iPhone: cómo usar la app para guardar documentos y administrar compras",
+   "link": "https://www.infobae.com/tecno/2026/11/18/google-wallet-para-iphone-como-usar-la-app-para-guardar-documentos-y-administrar-compras/",
+   "source": "Infobae"
   },
   {
-   "title": "The Gemini app is now available on lower-memory Android devices.",
-   "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-   "source": "Google"
+   "title": "Google Wallet comes to your iPhone – but without this feature",
+   "link": "https://www.zdnet.com/tech/google-wallet-iphone-ios-no-tap-to-pay/",
+   "source": "ZDNET"
   }
  ]
 }

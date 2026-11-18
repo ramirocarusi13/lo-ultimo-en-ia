@@ -165,7 +165,14 @@
   "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaEN4b0hWRXdzX25LX05NUW14b0xPOU5WX0ZMWk15alhPX3J6TXpuZF9oc0Q5Z3pRVUVQdU1Kc3hXTjJvZXVGVDluZ19USFlJRkNmeXpRZEhLVi0wSEpvSlFpal92cUVNT3AtZnlyV1p5QzhoZGRfdXc5QVpTMTdERW55RUlHV0tLVWR2NGx3djlXZDUteWhUak95QXNzNGFtNElxQ3JPYjRVVDJNR2ZqNnRB?oc=5",
   "https://www.infobae.com/estados-unidos/2026/11/18/los-siete-fundadores-de-anthropic-que-estan-a-punto-de-volverse-multimillonarios-con-la-salida-a-bolsa-de-la-empresa/",
   "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-  "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/"
+  "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+  "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+  "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+  "https://es.wired.com/articulos/por-que-nunca-dejare-de-jugar-a-grand-theft-auto",
+  "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+  "https://openai.com/index/inside-the-codex-sandbox",
+  "https://www.infobae.com/tecno/2026/11/18/google-wallet-para-iphone-como-usar-la-app-para-guardar-documentos-y-administrar-compras/",
+  "https://www.zdnet.com/tech/google-wallet-iphone-ios-no-tap-to-pay/"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -225,7 +232,12 @@
   "Will Wright's next simulation will use AI to mine content from your memories",
   "AI found a hole in Java, and it starts with 'AAAAAAAA...'",
   "Anthropic fijará el monto de su histórica salida a bolsa",
-  "Genie 4 is now available"
+  "Genie 4 is now available",
+  "Why your fine-tuning job takes longer than the FLOPs say",
+  "Grand Theft Auto 6 is a masterpiece, say critics",
+  "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+  "Inside the Codex sandbox",
+  "Google Wallet para iPhone: cómo usar la app para guardar documentos y administrar compras"
  ],
  "history": [
   {
@@ -568,6 +580,36 @@
   {
    "title": "Genie 4 is now available",
    "at": 1795027575,
+   "permalink": null,
+   "kind": "post"
+  },
+  {
+   "title": "Why your fine-tuning job takes longer than the FLOPs say",
+   "at": 1795031139,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+   "at": 1795031140,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+   "at": 1795031140,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "Inside the Codex sandbox",
+   "at": 1795031141,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "Google Wallet para iPhone: cómo usar la app para guardar documentos y administrar compras",
+   "at": 1795031725,
    "permalink": null,
    "kind": "post"
   }
