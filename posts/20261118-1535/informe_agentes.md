@@ -10,3 +10,7 @@
 - **Productor:** FORMATO CARRUSEL (no hay video real con licencia libre, así que no hay Reel).
 - **Director de arte:** CAMBIOS, 5/10. La portada mostraba el logo de DeepMind recortado y el slide 3, un auto de Street View sin relación. Aplicado: fotos 1 y 3 → "" (ilustraciones 3D). No usé su sugerencia de "Demis Hassabis" porque las notas no lo nombran. Rearmado una vez.
 - **Guionista de reels:** CAMBIOS, gancho 6→7. Aplicado el guion propuesto (gancho con el cambio en vivo, "tú" en vez de voseo).
+
+**Revisión final (jefe de redacción):** después de rearmar, la portada es la ilustración del libro con un mundo y el slide 3, la galería de portales. Los textos se leen bien.
+**Puntajes:** tendencias 41/50 · verificador 9 · estilo 7 · guion 7 · arte 5 → OK tras el rearmado · legal riesgo bajo.
+**Formato:** CARRUSEL (4 slides, sin Reel). **Etiqueta de IA:** no lleva, porque son ilustraciones 3D, no fotos realistas. **Confianza:** alta (anuncio oficial).

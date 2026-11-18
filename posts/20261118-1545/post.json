@@ -1,0 +1,54 @@
+{
+ "id": "20261118-1545",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "GOOGLE LANZA *GENIE 4*: CREA *MUNDOS INTERACTIVOS* CON SOLO ESCRIBIR",
+  "badge": "DeepMind",
+  "photos": [
+   "Google DeepMind",
+   "",
+   "Googleplex"
+  ],
+  "slides": [
+   "Google DeepMind empezó a habilitar *Genie 4* para suscriptores elegibles de Google AI Ultra. Según Google, es su modelo de mundos más realista: generas un entorno interactivo desde el navegador y, mientras lo recorres, *escribes para cambiar el clima*, sumar personajes o redirigir la acción.",
+   "Por primera vez, el modelo suma *audio nativo en tiempo real*, que se adapta a la escena. También llega un agente que arma mundos conversando y una galería para compartir y remixar creaciones. Todo lo generado lleva la marca de agua *SynthID*."
+  ],
+  "caption": "🌍 Google DeepMind lanzó Genie 4: escribes una idea y la IA crea un mundo interactivo que puedes recorrer y cambiar en tiempo real.\n\nYa está llegando a los suscriptores elegibles de Google AI Ultra dentro de Project Genie, desde el navegador. Mientras exploras, puedes escribir para cambiar el clima, sumar un personaje o redirigir la acción. Y por primera vez, el mundo trae audio propio que se adapta a la escena, desde sonido ambiente hasta diálogos.\n\nTambién suma un agente que arma mundos conversando y una galería para compartir y remixar creaciones. Google aclara que sigue siendo investigación de frontera, con desafíos como la latencia y la permanencia de las escenas. Los usuarios de Google AI Pro pueden anotarse en una lista de espera.\n\n¿Qué mundo crearías primero si pudieras entrar en él con solo escribirlo?\n\n🎬 Las demos en video están en el blog de Google DeepMind.\n\nFuente: Google DeepMind\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "Genie4",
+   "GoogleDeepMind",
+   "InteligenciaArtificial"
+  ],
+  "image_prompts": [
+   "A glowing miniature fantasy world emerging from a floating glass cube on a dark desk, with mountains, a river and tiny trees forming in real time, soft volumetric light, stylized 3D illustration, vibrant colors",
+   "A stylized 3D landscape split in two halves, one sunny meadow and one stormy snowy forest, with swirling weather particles transforming the scene, floating sound wave ribbons in the air, cinematic lighting, no text",
+   "Wide aerial view of a colorful 3D illustrated archipelago of floating islands, each a different world: underwater ruins, icy sea, ancient canyon, gothic manor, connected by glowing light bridges, dreamy atmosphere"
+  ],
+  "reel_script": [
+   "Escribes una frase y el mundo virtual donde estás cambia en tiempo real.",
+   "Se llama *Genie 4*, de Google DeepMind. Mientras lo recorres, puedes cambiar el clima o sumar personajes, y el audio se adapta a cada escena.",
+   "Por ahora llega a suscriptores de Google AI Ultra, con una *galería* para remixar mundos. Los usuarios de Pro ya pueden anotarse en la lista de espera."
+  ]
+ },
+ "caption": "🌍 Google DeepMind lanzó Genie 4: escribes una idea y la IA crea un mundo interactivo que puedes recorrer y cambiar en tiempo real.\n\nYa está llegando a los suscriptores elegibles de Google AI Ultra dentro de Project Genie, desde el navegador. Mientras exploras, puedes escribir para cambiar el clima, sumar un personaje o redirigir la acción. Y por primera vez, el mundo trae audio propio que se adapta a la escena, desde sonido ambiente hasta diálogos.\n\nTambién suma un agente que arma mundos conversando y una galería para compartir y remixar creaciones. Google aclara que sigue siendo investigación de frontera, con desafíos como la latencia y la permanencia de las escenas. Los usuarios de Google AI Pro pueden anotarse en una lista de espera.\n\n¿Qué mundo crearías primero si pudieras entrar en él con solo escribirlo?\n\n🎬 Las demos en video están en el blog de Google DeepMind.\n\nFuente: Google DeepMind\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: DeepMind Technologies Limited (Alphabet, / Wikimedia Commons (Public domain)\n📸 Foto: The Pancake of Heaven! / Wikimedia Commons (CC BY-SA 4.0)\n\n#Genie4 #GoogleDeepMind #InteligenciaArtificial",
+ "slides": [
+  "posts/20261118-1545/slide_1.jpg",
+  "posts/20261118-1545/slide_2.jpg",
+  "posts/20261118-1545/slide_3.jpg",
+  "posts/20261118-1545/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Genie 4 is now available",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+   "source": "Google DeepMind"
+  },
+  {
+   "title": "The Gemini app is now available on lower-memory Android devices.",
+   "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+   "source": "Google"
+  }
+ ]
+}
