@@ -185,7 +185,10 @@
   "https://es.wired.com/review/resena-apple-homeview-apple-acierta-con-el-diseno-pero-falla-con-siri",
   "https://9to5mac.com/2026/11/18/apple-releases-new-homeview-27-2-1-software-update/",
   "https://9to5mac.com/2026/11/18/new-siri-remote-for-apple-tv-4k-just-got-a-firmware-update/",
-  "https://openai.com/index/the-silent-consensus"
+  "https://openai.com/index/the-silent-consensus",
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=",
+  "https://9to5google.com/2026/11/18/gemini-4-neon-announcement/",
+  "https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -257,7 +260,8 @@
   "Instagram finally lets users edit Stories after publishing, but there’s a catch",
   "LeBron James demandó a una app de apuestas por un anuncio con su imagen y voz creados con IA",
   "Reseña Apple HomeView: Apple acierta con el diseño, pero falla con Siri",
-  "The Silent Consensus"
+  "The Silent Consensus",
+  "Introducing Gemini 4 Neon"
  ],
  "history": [
   {
@@ -674,6 +678,12 @@
    "at": 1795038334,
    "permalink": null,
    "kind": "skip"
+  },
+  {
+   "title": "Introducing Gemini 4 Neon",
+   "at": 1795038729,
+   "permalink": null,
+   "kind": "post"
   }
  ]
 }
