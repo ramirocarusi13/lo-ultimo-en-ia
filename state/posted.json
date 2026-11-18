@@ -181,7 +181,11 @@
   "https://9to5mac.com/2026/11/18/instagram-finally-lets-users-edit-stories-after-publishing-but-theres-a-catch/",
   "https://www.engadget.com/2320953/you-can-finally-edit-an-instagram-story-without-deleting-it/",
   "https://www.infobae.com/tecno/2026/11/18/lebron-james-demando-a-una-app-de-apuestas-por-un-anuncio-con-su-imagen-y-voz-creados-con-ia/",
-  "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcWdXLUEwN25KSWNlUU1NaV9KSVFfaXNieXRiRU9mYU5EY1NIZWdsOEZjNkEwR3JaNk84clE3ckQwaXVIMlVqZUVLVzFldzM3cm41bkp5OE5WenoxejFuQmNGQTdoYTJjQ3FhdmFOemx1U0lsNWtscnNSYXlVck13WHJSV1h0eklUbUhPRzBmQm1TeDlEWXNWSTRweDZLUGl5SDVTNzFBR2VuX0sySGltZlRoSWdEUmlkVlNPejlTRVpFdzZibkZyeThlZDJGVVNJZDJ6UTFnYkRmc3hFTjhJdXBQN2pZODhzM3VENFFSbXlnaXc?oc=5"
+  "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcWdXLUEwN25KSWNlUU1NaV9KSVFfaXNieXRiRU9mYU5EY1NIZWdsOEZjNkEwR3JaNk84clE3ckQwaXVIMlVqZUVLVzFldzM3cm41bkp5OE5WenoxejFuQmNGQTdoYTJjQ3FhdmFOemx1U0lsNWtscnNSYXlVck13WHJSV1h0eklUbUhPRzBmQm1TeDlEWXNWSTRweDZLUGl5SDVTNzFBR2VuX0sySGltZlRoSWdEUmlkVlNPejlTRVpFdzZibkZyeThlZDJGVVNJZDJ6UTFnYkRmc3hFTjhJdXBQN2pZODhzM3VENFFSbXlnaXc?oc=5",
+  "https://es.wired.com/review/resena-apple-homeview-apple-acierta-con-el-diseno-pero-falla-con-siri",
+  "https://9to5mac.com/2026/11/18/apple-releases-new-homeview-27-2-1-software-update/",
+  "https://9to5mac.com/2026/11/18/new-siri-remote-for-apple-tv-4k-just-got-a-firmware-update/",
+  "https://openai.com/index/the-silent-consensus"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -251,7 +255,9 @@
   "Cómo crear tu personaje de GTA 6 con inteligencia artificial: el paso a paso y el prompt para usar tu foto",
   "Wall Street prepares for Anthropic IPO frenzy, despite broader AI stock slump",
   "Instagram finally lets users edit Stories after publishing, but there’s a catch",
-  "LeBron James demandó a una app de apuestas por un anuncio con su imagen y voz creados con IA"
+  "LeBron James demandó a una app de apuestas por un anuncio con su imagen y voz creados con IA",
+  "Reseña Apple HomeView: Apple acierta con el diseño, pero falla con Siri",
+  "The Silent Consensus"
  ],
  "history": [
   {
@@ -656,6 +662,18 @@
    "at": 1795038327,
    "permalink": null,
    "kind": "post"
+  },
+  {
+   "title": "Reseña Apple HomeView: Apple acierta con el diseño, pero falla con Siri",
+   "at": 1795038334,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "The Silent Consensus",
+   "at": 1795038334,
+   "permalink": null,
+   "kind": "skip"
   }
  ]
 }
