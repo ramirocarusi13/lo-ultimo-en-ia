@@ -140,7 +140,16 @@
   "https://www.xataka.com/empresas-y-economia/jensen-huang-rompe-su-silencio-dimitir-seria-honor-volver-como-ceo-nvidia",
   "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
   "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html",
-  "https://www.infobae.com/tecno/2026/11/18/como-jensen-huang-paso-de-limpiar-habitaciones-a-dirigir-nvidia-la-empresa-mas-valiosa-del-mundo/"
+  "https://www.infobae.com/tecno/2026/11/18/como-jensen-huang-paso-de-limpiar-habitaciones-a-dirigir-nvidia-la-empresa-mas-valiosa-del-mundo/",
+  "https://www.xataka.com/empresas-y-economia/jensen-huang-rompe-su-silencio-dimitir-seria-honor-volver-como-ceo-nvidia",
+  "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+  "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html",
+  "https://www.infobae.com/tecno/2026/11/18/como-jensen-huang-paso-de-limpiar-habitaciones-a-dirigir-nvidia-la-empresa-mas-valiosa-del-mundo/",
+  "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+  "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+  "https://www.infobae.com/america/mundo/2026/11/18/la-empresa-nvidia-suspendio-los-envios-a-china-de-chips-hopper-para-inteligencia-artificial/",
+  "https://www.cnbc.com/2026/11/18/nvidia-chips-china-military-ai.html",
+  "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN0Vsd0FkMFJLZl8zbklveDFFQW9XSEc3Q3dHMEZ6NjJFZ0dyYUIzOVdkam50a0lSYy00NEt5OGpCaG8wQTZ4RDlyTGVvaU1VMTlGNjk3aTdiZHVXcnloamEyTUZqbEhJWTlHbFJqTHNDWmVGN2JBT2FYTG44bWRIVXFfQ1E3LVdmeGRlczZETDFIUXlUSy04RXk0bDBlTHlIVm1ld2V3TnltenZZSXdBTm1ZV3NxUFVnTTRZWWRn?oc=5"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -191,7 +200,9 @@
   "Isomorphic Labs raises $5 billion in its second mega-round within six months",
   "FAA pauses installation of new routers after ground stop",
   "El Nodo Tecnológico debatió el futuro de la inteligencia artificial junto a líderes empresariales en Córdoba",
-  "Jensen Huang rompe su silencio tras dimitir: “Sería un honor volver como CEO de NVIDIA”"
+  "Jensen Huang rompe su silencio tras dimitir: “Sería un honor volver como CEO de NVIDIA”",
+  "Jensen Huang rompe su silencio tras dimitir: “Sería un honor volver como CEO de NVIDIA”",
+  "La empresa Nvidia suspendió los envíos a China de chips Hopper para inteligencia artificial"
  ],
  "history": [
   {
@@ -480,6 +491,18 @@
   {
    "title": "Jensen Huang rompe su silencio tras dimitir: “Sería un honor volver como CEO de NVIDIA”",
    "at": 1795005290,
+   "permalink": null,
+   "kind": "post"
+  },
+  {
+   "title": "Jensen Huang rompe su silencio tras dimitir: “Sería un honor volver como CEO de NVIDIA”",
+   "at": 1795005337,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "La empresa Nvidia suspendió los envíos a China de chips Hopper para inteligencia artificial",
+   "at": 1795005644,
    "permalink": null,
    "kind": "post"
   }

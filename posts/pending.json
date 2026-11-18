@@ -1,64 +1,59 @@
 {
- "id": "20261118-0925",
+ "id": "20261118-0935",
  "post": {
   "skip": false,
   "skip_reason": "",
   "confidence": "alta",
-  "headline": "JENSEN HUANG *VOLVERÍA A NVIDIA*, PERO EL CONSEJO *NO LO CONSIDERA*",
+  "headline": "NVIDIA *DEJA DE ENVIAR* SUS CHIPS HOPPER A *CHINA*",
   "badge": "NVIDIA",
   "photos": [
-   "Jensen Huang",
-   "Jensen Huang#2",
-   "Colette Kress#2"
+   "Nvidia H100",
+   "Colette Kress",
+   "United States Capitol"
   ],
   "slides": [
-   "Jensen Huang, cofundador de NVIDIA, renunció como director ejecutivo el 12 de noviembre tras 33 años. Ahora dijo que sería *un honor volver* si el consejo se lo pide. Es su primera declaración pública desde su salida.",
-   "Una campaña de accionistas y seguidores pide que vuelva, con el apoyo de Elon Musk. Pero, según WSJ, CNN y CNBC, *el consejo no piensa readmitirlo*. Colette Kress sigue como directora ejecutiva interina mientras buscan un reemplazo."
+   "Nvidia *dejó de enviar a China sus chips Hopper*, usados para entrenar y ejecutar inteligencia artificial. Lo confirmó Colette Kress, su directora ejecutiva interina: esas ventas sumaron *2.400 millones de dólares* en el tercer trimestre y ya no están en sus previsiones.",
+   "Una comisión del Congreso de EE. UU. informó que *el ejército chino busca los chips más avanzados de Nvidia* para sus capacidades militares con IA. Y el Departamento de Comercio publicó una norma para cortar el *acceso remoto* desde centros de datos de otros países."
   ],
-  "caption": "🧠 Jensen Huang, cofundador de NVIDIA, dice que sería “un honor” volver como director ejecutivo, días después de renunciar.\n\nDejó el cargo el 12 de noviembre, tras 33 años. El consejo dijo que fue por una conducta personal contraria al código de la empresa. Una campaña de accionistas pide su regreso, con el apoyo de Elon Musk, y Donald Trump dijo que “no le importaría” verlo volver.\n\nPero, según WSJ, CNN y CNBC, el consejo no piensa readmitirlo, y Colette Kress sigue como directora ejecutiva interina. Importa porque NVIDIA hace los chips que usan las empresas detrás de ChatGPT, Gemini y Copilot, y domina ese mercado.\n\n¿Crees que NVIDIA debería devolverle el cargo a su cofundador?\n\nFuente: Xataka, BBC, CNBC, Infobae.\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "🌏 Nvidia dejó de enviar a China sus chips de IA Hopper, que sumaron 2.400 millones de dólares en el tercer trimestre.\n\nLo anunció Colette Kress, directora ejecutiva interina: esas ventas ya no figuran en las previsiones de la empresa.\n\nAdemás, según el informe de una comisión del Congreso de EE. UU., el ejército chino busca los chips más avanzados de Nvidia para su IA militar. Y el Departamento de Comercio publicó una norma para cortar el acceso a esos chips desde centros de datos en otros países.\n\n¿Y esto a mí qué? Estos chips son los que entrenan y hacen funcionar la IA, y son clave en la competencia entre Estados Unidos y China.\n\n¿Crees que las restricciones van a frenar a China o la van a empujar a fabricar sus propios chips?\n\nFuente: Infobae, CNBC, Reuters\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
    "Nvidia",
-   "JensenHuang",
-   "InteligenciaArtificial"
+   "ChipsIA",
+   "China"
   ],
   "image_prompts": [
-   "A 3D illustration of an empty executive leather chair facing a large glowing green computer chip landscape, dramatic lighting, dark background, symbolic of a vacant leadership position, no text, no logos.",
-   "A 3D illustration of a long boardroom table seen from above with empty chairs and a single spotlight on the head seat, futuristic circuit patterns glowing on the floor, cinematic mood, no people, no text.",
-   "A 3D illustration of a giant microchip at the center of a glowing network of data centers and cables spreading in all directions, isometric view, green and purple neon tones, no text, no logos, no people."
+   "3D illustration of a sleek glowing graphics processor module with no markings floating above an open shipping container whose doors are closing, dark blue background, dramatic rim lighting, cinematic wide shot, clean minimal style",
+   "3D illustration of a cargo ship stopped at a digital border made of glowing red light beams, stacked plain unmarked server boxes on its deck, night ocean, isometric view, soft volumetric fog, high detail",
+   "3D illustration of two giant chess pieces made of circuit boards facing each other across a board of blank microchip tiles, one glowing blue and one glowing red, low angle close-up, dramatic cinematic lighting"
   ],
   "reel_script": [
-   "El cofundador de NVIDIA renunció hace seis días, y ahora dice que volvería.",
-   "Jensen Huang, cofundador de *NVIDIA*, renunció como director ejecutivo el 12 de noviembre, tras 33 años. Ahora dice que sería un *honor* volver si el consejo se lo pide.",
-   "Pero el consejo *no piensa* readmitirlo. Colette Kress dirige de forma interina, y el primero de diciembre Huang declarará a puerta cerrada ante la Cámara de Representantes."
+   "Nvidia acaba de frenar sus envíos de chips Hopper de inteligencia artificial a China.",
+   "La directora ejecutiva interina, Colette Kress, confirmó que ya había frenado los chips *Hopper*. Solo en el tercer trimestre, esas ventas sumaron *2.400 millones* de dólares.",
+   "Según una comisión del Congreso, el ejército chino busca los chips más avanzados de Nvidia para su *IA militar*. Y Estados Unidos publicó una norma para cerrar el acceso desde *otros países*."
   ]
  },
- "caption": "🧠 Jensen Huang, cofundador de NVIDIA, dice que sería “un honor” volver como director ejecutivo, días después de renunciar.\n\nDejó el cargo el 12 de noviembre, tras 33 años. El consejo dijo que fue por una conducta personal contraria al código de la empresa. Una campaña de accionistas pide su regreso, con el apoyo de Elon Musk, y Donald Trump dijo que “no le importaría” verlo volver.\n\nPero, según WSJ, CNN y CNBC, el consejo no piensa readmitirlo, y Colette Kress sigue como directora ejecutiva interina. Importa porque NVIDIA hace los chips que usan las empresas detrás de ChatGPT, Gemini y Copilot, y domina ese mercado.\n\n¿Crees que NVIDIA debería devolverle el cargo a su cofundador?\n\nFuente: Xataka, BBC, CNBC, Infobae.\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Anders Eidesvik / Wikimedia Commons (CC BY 4.0)\n\n#Nvidia #JensenHuang #InteligenciaArtificial",
+ "caption": "🌏 Nvidia dejó de enviar a China sus chips de IA Hopper, que sumaron 2.400 millones de dólares en el tercer trimestre.\n\nLo anunció Colette Kress, directora ejecutiva interina: esas ventas ya no figuran en las previsiones de la empresa.\n\nAdemás, según el informe de una comisión del Congreso de EE. UU., el ejército chino busca los chips más avanzados de Nvidia para su IA militar. Y el Departamento de Comercio publicó una norma para cortar el acceso a esos chips desde centros de datos en otros países.\n\n¿Y esto a mí qué? Estos chips son los que entrenan y hacen funcionar la IA, y son clave en la competencia entre Estados Unidos y China.\n\n¿Crees que las restricciones van a frenar a China o la van a empujar a fabricar sus propios chips?\n\nFuente: Infobae, CNBC, Reuters\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: 极客湾Geekerwan / Wikimedia Commons (CC BY 3.0)\n📸 Foto: SiliconANGLE theCUBE / Wikimedia Commons (CC BY 4.0)\n📸 Foto: Fvanhoof / Wikimedia Commons (CC BY 4.0)\n\n#Nvidia #ChipsIA #China",
  "slides": [
-  "posts/20261118-0925/slide_1.jpg",
-  "posts/20261118-0925/slide_2.jpg",
-  "posts/20261118-0925/slide_3.jpg",
-  "posts/20261118-0925/slide_4.jpg"
+  "posts/20261118-0935/slide_1.jpg",
+  "posts/20261118-0935/slide_2.jpg",
+  "posts/20261118-0935/slide_3.jpg",
+  "posts/20261118-0935/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "Jensen Huang rompe su silencio tras dimitir: “Sería un honor volver como CEO de NVIDIA”",
-   "link": "https://www.xataka.com/empresas-y-economia/jensen-huang-rompe-su-silencio-dimitir-seria-honor-volver-como-ceo-nvidia",
-   "source": "Xataka"
+   "title": "La empresa Nvidia suspendió los envíos a China de chips Hopper para inteligencia artificial",
+   "link": "https://www.infobae.com/america/mundo/2026/11/18/la-empresa-nvidia-suspendio-los-envios-a-china-de-chips-hopper-para-inteligencia-artificial/",
+   "source": "Infobae"
   },
   {
-   "title": "How important are Nvidia and Jensen Huang to the US economy?",
-   "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC"
-  },
-  {
-   "title": "With Jensen Huang gone, Colette Kress shows Nvidia is still at the center of AI",
-   "link": "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html",
+   "title": "China’s military seeks Nvidia’s advanced chips for AI capabilities, commission says",
+   "link": "https://www.cnbc.com/2026/11/18/nvidia-chips-china-military-ai.html",
    "source": "CNBC"
   },
   {
-   "title": "Cómo Jensen Huang pasó de limpiar habitaciones a dirigir Nvidia, la gigante de los chips de IA",
-   "link": "https://www.infobae.com/tecno/2026/11/18/como-jensen-huang-paso-de-limpiar-habitaciones-a-dirigir-nvidia-la-empresa-mas-valiosa-del-mundo/",
-   "source": "Infobae"
+   "title": "China seeks advanced Nvidia chips for AI weapons despite US curbs, report says",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN0Vsd0FkMFJLZl8zbklveDFFQW9XSEc3Q3dHMEZ6NjJFZ0dyYUIzOVdkam50a0lSYy00NEt5OGpCaG8wQTZ4RDlyTGVvaU1VMTlGNjk3aTdiZHVXcnloamEyTUZqbEhJWTlHbFJqTHNDWmVGN2JBT2FYTG44bWRIVXFfQ1E3LVdmeGRlczZETDFIUXlUSy04RXk0bDBlTHlIVm1ld2V3TnltenZZSXdBTm1ZV3NxUFVnTTRZWWRn?oc=5",
+   "source": "Reuters"
   }
  ]
 }

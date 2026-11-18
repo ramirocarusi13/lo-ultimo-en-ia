@@ -8,3 +8,9 @@
 - **editor-estilo** — CAMBIOS (8/10). Largos OK (titular 11, slides 37/37, caption ~135). "fundador" -> "cofundador"; gancho del reel más fiel. Aplicado.
 - **guionista-reels** — CAMBIOS (gancho 6 -> 8). Gancho "hace seis días"; cierre con la declaración del 1 de diciembre ante la Cámara. Aplicado (gancho mezclado con el de estilo, sin "pide volver").
 - **cazador-videos** — sin clips con licencia libre de Huang ni de Kress (solo canales de terceros o hardware genérico). Sin Reel: va carrusel.
+- **productor** — FORMATO: CARRUSEL (decisión de directorio, nada para mostrar en video; sin clips válidos).
+- **director-arte** — OK (8/10). Textos legibles; slides 1 y 2 muestran solo a Huang; slide 3 es ilustración 3D (no hubo foto libre de Kress), sin texto ni logos.
+
+**Decisión del jefe de redacción:** carrusel de 4 slides, sin Reel. Cambios aplicados: precisión de fechas ("días después"), NVIDIA "hace/domina" en vez de "fabrica", titular con "volvería", "cofundador", guion de Reel mejorado (no se usó). Se omitieron a propósito las relaciones personales y la acusación de espionaje; solo el motivo oficial del consejo.
+**Etiqueta de IA:** no hace falta (fotos reales de Wikimedia CC BY 4.0 + una ilustración 3D que no parece foto).
+**AUTO_PUBLISH:** no activado → no se publica; queda para revisión.
