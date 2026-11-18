@@ -132,7 +132,9 @@
   "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSG8zQlFCOHZPbkxyWHpXUkdWOXFHWXZqM3JOTU9xN3Nmc3c2M0d3TU1sMFFzOUZ6dkJsMFFYWWZoZ0pudXRwZ1dEZmRGQ0RTbzhnZFlKa2hTeUFuOWJXbXZtYVc1RnIwM3dZb3YxdHJXMVRwVzA0VzVMcm9XX1dKWExQNDU3bEZuZGZKamJ6dlhsdEN3cjRPQUItZ2l2dEc0bWw0cVRqSkEzWVNVbFc3MHR4VFR2VW9sUzU1LUJ1eUQ3eTg2U3RabTJFeWxHS3ZrSzg5QVVPeFFaOHFDcWE5VTZLazRKTkN5Z0xIREp6RmZNeGkzZUlB0gGLAkFVX3lxTE5IMW5RaUk1OU1PWi14YTUtejFSWTZia0JvTEhiQXozOFhzSDYzTElhR1RIcVF2Tm1Hd3VMb1h3cFpfVG5tUHhqenNTNElmTW15NTdBNjVFMF92bWV4aE5HcjdpSGI1eHlpTENwOUpYT2dpbk9yRExMaE9oc3ZSc015RkVickFtTUpfUk5iamJIUnJPVnV0cDE3TS13eW4tcHUxODEwaW1jY2NkcUQwSjlxRmxxLVdZOTNBMFc4YTFkWjdsc0l3MjN0cVNFN1BuLXlCZEZyZmFVRW5xU29zbmRvT0d0czN3MHFUVVN4NGtRRzI3Nk1QTHVBdlRhcktDTUxoSGFmVE5OeTBITQ?oc=5",
   "https://the-decoder.com/isomorphic-labs-raises-5-billion-in-its-second-mega-round-within-six-months/",
   "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
-  "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZXMyRFJVdDNWUmNSY3JOQkpzSEJJcmxOQU5xYnpid0tVY3dJaGNObWxsNGZSUXFPR2VSSl9kZWwxX2dLNnBTOThfSmUzM3ZLZlhPWlVfTlB6VzVXMkxadXh4QVpCRGpXeGF4TXZwVDB0cndxNlYzNEJlRjgwZWdrR0t2Y3hwR2tOZGhhMjZHQVNLMldRdDZ5eEt0TnhnaTZ2ckxaajdwWklCNnF4dXc?oc=5"
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZXMyRFJVdDNWUmNSY3JOQkpzSEJJcmxOQU5xYnpid0tVY3dJaGNObWxsNGZSUXFPR2VSSl9kZWwxX2dLNnBTOThfSmUzM3ZLZlhPWlVfTlB6VzVXMkxadXh4QVpCRGpXeGF4TXZwVDB0cndxNlYzNEJlRjgwZWdrR0t2Y3hwR2tOZGhhMjZHQVNLMldRdDZ5eEt0TnhnaTZ2ckxaajdwWklCNnF4dXc?oc=5",
+  "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
+  "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oVXE3ZmF0WkYzN2R6MUdURzFzSTNqY3VmNEc0bDNlTm1sUGJ5TGhFd3JFVENkNFVGNWh1bWVBR0JMSGVJUHJMWGZGWmdlbFdxYkd2T0lHZG40YW1ySDYyUFNielR4cjduWmxodXhvT1IwMzA?oc=5"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -180,7 +182,8 @@
   "California's attorney general sues OpenAI over rogue AI models that attacked Hugging Face",
   "76ers' LeBron James sues makers of AI sports-betting app 'Bron'",
   "FBI alerta por ataques globales automatizados con inteligencia artificial",
-  "Isomorphic Labs raises $5 billion in its second mega-round within six months"
+  "Isomorphic Labs raises $5 billion in its second mega-round within six months",
+  "FAA pauses installation of new routers after ground stop"
  ],
  "history": [
   {
@@ -453,6 +456,12 @@
    "at": 1794961528,
    "permalink": null,
    "kind": "post"
+  },
+  {
+   "title": "FAA pauses installation of new routers after ground stop",
+   "at": 1794961544,
+   "permalink": null,
+   "kind": "skip"
   }
  ]
 }
