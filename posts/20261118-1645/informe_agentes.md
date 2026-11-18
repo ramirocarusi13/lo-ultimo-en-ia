@@ -8,3 +8,9 @@
 **Cazador de videos** — sin clips con licencia válida (descartó 3 canales de noticias CC y 1 de Commons sin relación). Sin video → carrusel, sin Reel.
 **Productor** — FORMATO: CARRUSEL (no hay clips válidos; noticia de producto/funciones, se lee mejor en carrusel).
 **Director de arte** — CAMBIOS, 5/10. Portada: cartel viejo y borroso del Google Wallet antiguo; slide 3: captura casi en blanco de Gemini con "Hello, John". → Cambié photos 1 y 3 a "" (ilustraciones) y rearmé. Slide 2 (ilustración) y slide 4 OK.
+
+## Decisión del jefe de redacción
+- Formato: CARRUSEL (4 slides). Sin Reel: no hay video real con licencia libre.
+- Cambios aplicados: gancho del Reel sin dato no respaldado (verificador + legal); titular "PARA CONTROLAR LAS COMPRAS CON IA" (verificador); 3 ajustes de estilo en el caption; guion del Reel del guionista (queda en el draft aunque no se arma Reel); portada y slide 3 pasaron a ilustraciones 3D (director de arte). Rearmado 1 vez.
+- Etiqueta de IA: no hace falta etiqueta de contenido realista (las 3 imágenes son ilustraciones 3D, no fotos realistas).
+- Puntajes: analista 38/50 · verificador 8 · estilo 8 · guionista 8 (gancho nuevo) · legal riesgo bajo · director de arte 5 → OK tras el rearmado.

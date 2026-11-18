@@ -1,0 +1,54 @@
+{
+ "id": "20261118-1835",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "media",
+  "headline": "*LEBRON JAMES* DEMANDA A UNA APP POR *IMITAR SU VOZ* CON IA",
+  "badge": "NBA",
+  "photos": [
+   "LeBron James",
+   "LeBron James#2",
+   ""
+  ],
+  "slides": [
+   "LeBron James presentó una demanda en un tribunal federal de Nueva York contra PlayVision, la empresa detrás de la app *Bron*. Acusa a la compañía de aprovechar sin autorización su apodo, su imagen y *una voz sintética* en un anuncio creado con IA.",
+   "Según la demanda, el video no aclaraba que era IA ni que James no tenía relación con la app, y sumó *cerca de un millón de vistas* en un día. El caso recién empieza: no hay sentencia ni acuerdo."
+  ],
+  "caption": "⚖️ LeBron James demandó a una app de análisis de apuestas con IA por usar su imagen y una voz que, según él, imita la suya.\n\nLa demanda, presentada en un tribunal federal de Nueva York, apunta a PlayVision, dueña de la app Bron. Según el escrito, el anuncio mostraba a un James hecho con IA, no aclaraba que era falso y sumó cerca de un millón de vistas en un día.\n\nJames pide frenar el uso de su identidad y del nombre Bron. El caso recién empieza: no hay sentencia ni respuesta formal de la empresa.\n\n¿Y esto a mí qué? Muestra el riesgo de que tu cara o tu voz se imiten con IA sin permiso.\n\n¿Debería ser obligatorio avisar cuando un anuncio muestra a una persona creada con IA?\n\nFuente: Infobae, Rosario3\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "LeBronJames",
+   "Deepfake",
+   "InteligenciaArtificial"
+  ],
+  "image_prompts": [
+   "3D illustration of a glowing basketball resting on an empty locker room bench beside a smartphone that emits holographic sound waves and a translucent blank digital mask, moody purple and orange lighting, cinematic depth of field",
+   "3D illustration of a wooden judge gavel next to a floating holographic microphone made of glowing digital particles, blurred courtroom columns in the background, dramatic cinematic lighting, symbolic legal scene, high detail",
+   "Top-down 3D illustration of a smartphone lying on a dark surface showing abstract colorful chart shapes, surrounded by scattered basketballs and floating sound wave icons, neon blue and orange glow, clean minimalist composition"
+  ],
+  "reel_script": [
+   "LeBron James demandó a una app que, según él, clonó su voz con IA.",
+   "Según la demanda, un creador de la app *Bron* difundió un anuncio con un LeBron hecho con IA, sin avisar que era falso, y llegó a casi un millón de vistas.",
+   "James pide frenar el uso de su *identidad* y una indemnización. El caso recién empieza, pero esto *se puede repetir con cualquiera*."
+  ]
+ },
+ "caption": "⚖️ LeBron James demandó a una app de análisis de apuestas con IA por usar su imagen y una voz que, según él, imita la suya.\n\nLa demanda, presentada en un tribunal federal de Nueva York, apunta a PlayVision, dueña de la app Bron. Según el escrito, el anuncio mostraba a un James hecho con IA, no aclaraba que era falso y sumó cerca de un millón de vistas en un día.\n\nJames pide frenar el uso de su identidad y del nombre Bron. El caso recién empieza: no hay sentencia ni respuesta formal de la empresa.\n\n¿Y esto a mí qué? Muestra el riesgo de que tu cara o tu voz se imiten con IA sin permiso.\n\n¿Debería ser obligatorio avisar cuando un anuncio muestra a una persona creada con IA?\n\nFuente: Infobae, Rosario3\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Erik Drost / Wikimedia Commons (CC BY 2.0)\n\n#LeBronJames #Deepfake #InteligenciaArtificial",
+ "slides": [
+  "posts/20261118-1835/slide_1.jpg",
+  "posts/20261118-1835/slide_2.jpg",
+  "posts/20261118-1835/slide_3.jpg",
+  "posts/20261118-1835/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "LeBron James demandó a una app de apuestas por un anuncio con su imagen y voz creados con IA",
+   "link": "https://www.infobae.com/tecno/2026/11/18/lebron-james-demando-a-una-app-de-apuestas-por-un-anuncio-con-su-imagen-y-voz-creados-con-ia/",
+   "source": "Infobae"
+  },
+  {
+   "title": "LeBron James demanda a una startup de inteligencia artificial por clonar su imagen y voz sin permiso",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcWdXLUEwN25KSWNlUU1NaV9KSVFfaXNieXRiRU9mYU5EY1NIZWdsOEZjNkEwR3JaNk84clE3ckQwaXVIMlVqZUVLVzFldzM3cm41bkp5OE5WenoxejFuQmNGQTdoYTJjQ3FhdmFOemx1U0lsNWtscnNSYXlVck13WHJSV1h0eklUbUhPRzBmQm1TeDlEWXNWSTRweDZLUGl5SDVTNzFBR2VuX0sySGltZlRoSWdEUmlkVlNPejlTRVpFdzZibkZyeThlZDJGVVNJZDJ6UTFnYkRmc3hFTjhJdXBQN2pZODhzM3VENFFSbXlnaXc?oc=5",
+   "source": "Rosario3"
+  }
+ ]
+}
