@@ -172,7 +172,8 @@
   "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
   "https://openai.com/index/inside-the-codex-sandbox",
   "https://www.infobae.com/tecno/2026/11/18/google-wallet-para-iphone-como-usar-la-app-para-guardar-documentos-y-administrar-compras/",
-  "https://www.zdnet.com/tech/google-wallet-iphone-ios-no-tap-to-pay/"
+  "https://www.zdnet.com/tech/google-wallet-iphone-ios-no-tap-to-pay/",
+  "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -237,7 +238,8 @@
   "Grand Theft Auto 6 is a masterpiece, say critics",
   "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
   "Inside the Codex sandbox",
-  "Google Wallet para iPhone: cómo usar la app para guardar documentos y administrar compras"
+  "Google Wallet para iPhone: cómo usar la app para guardar documentos y administrar compras",
+  "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency"
  ],
  "history": [
   {
@@ -612,6 +614,12 @@
    "at": 1795031725,
    "permalink": null,
    "kind": "post"
+  },
+  {
+   "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+   "at": 1795031741,
+   "permalink": null,
+   "kind": "skip"
   }
  ]
 }
