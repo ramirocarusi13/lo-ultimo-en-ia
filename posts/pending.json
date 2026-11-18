@@ -1,59 +1,54 @@
 {
- "id": "20261118-0935",
+ "id": "20261118-1535",
  "post": {
   "skip": false,
   "skip_reason": "",
   "confidence": "alta",
-  "headline": "NVIDIA *DEJA DE ENVIAR* SUS CHIPS HOPPER A *CHINA*",
-  "badge": "NVIDIA",
+  "headline": "GOOGLE LANZA *GENIE 4*, LA IA QUE *CREA MUNDOS* EN VIVO",
+  "badge": "Google",
   "photos": [
-   "Nvidia H100",
-   "Colette Kress",
-   "United States Capitol"
+   "Google DeepMind",
+   "",
+   "Googleplex"
   ],
   "slides": [
-   "Nvidia *dejó de enviar a China sus chips Hopper*, usados para entrenar y ejecutar inteligencia artificial. Lo confirmó Colette Kress, su directora ejecutiva interina: esas ventas sumaron *2.400 millones de dólares* en el tercer trimestre y ya no están en sus previsiones.",
-   "Una comisión del Congreso de EE. UU. informó que *el ejército chino busca los chips más avanzados de Nvidia* para sus capacidades militares con IA. Y el Departamento de Comercio publicó una norma para cortar el *acceso remoto* desde centros de datos de otros países."
+   "Google DeepMind empezó a habilitar *Genie 4* para suscriptores elegibles de Google AI Ultra. Es su modelo de mundos más realista: creas un mundo interactivo desde el navegador y *lo cambias en tiempo real* escribiendo, por ejemplo el clima o un personaje nuevo.",
+   "Por primera vez, el modelo suma *audio nativo* que se adapta a la escena, desde sonido ambiente hasta diálogos. También hay un agente que arma mundos conversando y *una galería* para compartirlos y remixarlos. Google AI Pro tiene lista de espera."
   ],
-  "caption": "🌏 Nvidia dejó de enviar a China sus chips de IA Hopper, que sumaron 2.400 millones de dólares en el tercer trimestre.\n\nLo anunció Colette Kress, directora ejecutiva interina: esas ventas ya no figuran en las previsiones de la empresa.\n\nAdemás, según el informe de una comisión del Congreso de EE. UU., el ejército chino busca los chips más avanzados de Nvidia para su IA militar. Y el Departamento de Comercio publicó una norma para cortar el acceso a esos chips desde centros de datos en otros países.\n\n¿Y esto a mí qué? Estos chips son los que entrenan y hacen funcionar la IA, y son clave en la competencia entre Estados Unidos y China.\n\n¿Crees que las restricciones van a frenar a China o la van a empujar a fabricar sus propios chips?\n\nFuente: Infobae, CNBC, Reuters\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "🎮 Google lanzó Genie 4, una IA que crea mundos interactivos que puedes recorrer y cambiar en vivo con solo escribir.\n\nGoogle DeepMind lo habilita de a poco para suscriptores elegibles de Google AI Ultra dentro de Project Genie, que sigue siendo un prototipo experimental. Mientras navegas tu mundo, puedes cambiar el clima, sumar un personaje o redirigir la acción. Y por primera vez suma audio nativo que se adapta a la escena.\n\nTambién estrena un agente que arma mundos conversando y una galería para compartir y remixar creaciones. Google AI Pro tiene lista de espera.\n\n¿Y esto a mí qué? Crear un mundo explorable ahora se parece más a conversar que a programar.\n\n¿Qué mundo crearías primero con Genie 4?\n\n🎬 El video completo está en la cuenta de Google DeepMind.\n\nFuente: Google DeepMind\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "Nvidia",
-   "ChipsIA",
-   "China"
+   "Genie4",
+   "GoogleDeepMind",
+   "MundosVirtuales"
   ],
   "image_prompts": [
-   "3D illustration of a sleek glowing graphics processor module with no markings floating above an open shipping container whose doors are closing, dark blue background, dramatic rim lighting, cinematic wide shot, clean minimal style",
-   "3D illustration of a cargo ship stopped at a digital border made of glowing red light beams, stacked plain unmarked server boxes on its deck, night ocean, isometric view, soft volumetric fog, high detail",
-   "3D illustration of two giant chess pieces made of circuit boards facing each other across a board of blank microchip tiles, one glowing blue and one glowing red, low angle close-up, dramatic cinematic lighting"
+   "3D illustration of a glowing open book whose pages unfold into a miniature living world with forests, mountains and a river, floating in a dark blue space, soft magical light particles, cinematic wide shot, clean minimal style",
+   "3D illustration of a small floating island landscape where half the sky is sunny and half has rain and snow falling, a blank keyboard below sending streams of light upward, isometric view, vibrant colors, high detail",
+   "3D illustration of a gallery wall with several floating glowing portal frames, each showing a different tiny world like a gothic manor, an ant colony and a dinosaur field, dark background, low angle, dramatic lighting"
   ],
   "reel_script": [
-   "Nvidia acaba de frenar sus envíos de chips Hopper de inteligencia artificial a China.",
-   "La directora ejecutiva interina, Colette Kress, confirmó que ya había frenado los chips *Hopper*. Solo en el tercer trimestre, esas ventas sumaron *2.400 millones* de dólares.",
-   "Según una comisión del Congreso, el ejército chino busca los chips más avanzados de Nvidia para su *IA militar*. Y Estados Unidos publicó una norma para cerrar el acceso desde *otros países*."
+   "Google lanzó una IA que crea mundos y los cambia mientras los recorres.",
+   "Se llama *Genie 4*, de Google DeepMind. Escribes lo que imaginas y genera un mundo interactivo. Mientras lo recorres, cambias el *clima* o sumas un personaje al instante.",
+   "Por primera vez suma *audio* que se adapta a la escena. Ya empieza a llegar a suscriptores de Google AI Ultra, y crear mundos pasa a ser cuestión de *describirlos*."
   ]
  },
- "caption": "🌏 Nvidia dejó de enviar a China sus chips de IA Hopper, que sumaron 2.400 millones de dólares en el tercer trimestre.\n\nLo anunció Colette Kress, directora ejecutiva interina: esas ventas ya no figuran en las previsiones de la empresa.\n\nAdemás, según el informe de una comisión del Congreso de EE. UU., el ejército chino busca los chips más avanzados de Nvidia para su IA militar. Y el Departamento de Comercio publicó una norma para cortar el acceso a esos chips desde centros de datos en otros países.\n\n¿Y esto a mí qué? Estos chips son los que entrenan y hacen funcionar la IA, y son clave en la competencia entre Estados Unidos y China.\n\n¿Crees que las restricciones van a frenar a China o la van a empujar a fabricar sus propios chips?\n\nFuente: Infobae, CNBC, Reuters\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: 极客湾Geekerwan / Wikimedia Commons (CC BY 3.0)\n📸 Foto: SiliconANGLE theCUBE / Wikimedia Commons (CC BY 4.0)\n📸 Foto: Fvanhoof / Wikimedia Commons (CC BY 4.0)\n\n#Nvidia #ChipsIA #China",
+ "caption": "🎮 Google lanzó Genie 4, una IA que crea mundos interactivos que puedes recorrer y cambiar en vivo con solo escribir.\n\nGoogle DeepMind lo habilita de a poco para suscriptores elegibles de Google AI Ultra dentro de Project Genie, que sigue siendo un prototipo experimental. Mientras navegas tu mundo, puedes cambiar el clima, sumar un personaje o redirigir la acción. Y por primera vez suma audio nativo que se adapta a la escena.\n\nTambién estrena un agente que arma mundos conversando y una galería para compartir y remixar creaciones. Google AI Pro tiene lista de espera.\n\n¿Y esto a mí qué? Crear un mundo explorable ahora se parece más a conversar que a programar.\n\n¿Qué mundo crearías primero con Genie 4?\n\n🎬 El video completo está en la cuenta de Google DeepMind.\n\nFuente: Google DeepMind\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: DeepMind Technologies Limited (Alphabet, / Wikimedia Commons (Public domain)\n📸 Foto: The Pancake of Heaven! / Wikimedia Commons (CC BY-SA 4.0)\n\n#Genie4 #GoogleDeepMind #MundosVirtuales",
  "slides": [
-  "posts/20261118-0935/slide_1.jpg",
-  "posts/20261118-0935/slide_2.jpg",
-  "posts/20261118-0935/slide_3.jpg",
-  "posts/20261118-0935/slide_4.jpg"
+  "posts/20261118-1535/slide_1.jpg",
+  "posts/20261118-1535/slide_2.jpg",
+  "posts/20261118-1535/slide_3.jpg",
+  "posts/20261118-1535/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "La empresa Nvidia suspendió los envíos a China de chips Hopper para inteligencia artificial",
-   "link": "https://www.infobae.com/america/mundo/2026/11/18/la-empresa-nvidia-suspendio-los-envios-a-china-de-chips-hopper-para-inteligencia-artificial/",
-   "source": "Infobae"
+   "title": "Genie 4 is now available",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+   "source": "Google DeepMind"
   },
   {
-   "title": "China’s military seeks Nvidia’s advanced chips for AI capabilities, commission says",
-   "link": "https://www.cnbc.com/2026/11/18/nvidia-chips-china-military-ai.html",
-   "source": "CNBC"
-  },
-  {
-   "title": "China seeks advanced Nvidia chips for AI weapons despite US curbs, report says",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN0Vsd0FkMFJLZl8zbklveDFFQW9XSEc3Q3dHMEZ6NjJFZ0dyYUIzOVdkam50a0lSYy00NEt5OGpCaG8wQTZ4RDlyTGVvaU1VMTlGNjk3aTdiZHVXcnloamEyTUZqbEhJWTlHbFJqTHNDWmVGN2JBT2FYTG44bWRIVXFfQ1E3LVdmeGRlczZETDFIUXlUSy04RXk0bDBlTHlIVm1ld2V3TnltenZZSXdBTm1ZV3NxUFVnTTRZWWRn?oc=5",
-   "source": "Reuters"
+   "title": "The Gemini app is now available on lower-memory Android devices.",
+   "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+   "source": "Google"
   }
  ]
 }
