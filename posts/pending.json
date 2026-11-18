@@ -1,53 +1,58 @@
 {
- "id": "20261118-1945",
+ "id": "20261118-2045",
  "post": {
   "skip": false,
   "skip_reason": "",
-  "confidence": "alta",
-  "headline": "*ANTHROPIC* FIJA SU SALIDA A BOLSA EN *83 DÓLARES*, MÁS DE LO ESPERADO",
-  "badge": "Anthropic",
+  "confidence": "media",
+  "headline": "NVIDIA ADELANTA LA REVISIÓN DE *SUELDOS*: ALGUNOS PIDEN QUE *VUELVA HUANG*",
+  "badge": "NVIDIA",
   "photos": [
-   "Dario Amodei",
-   "",
-   ""
+   "Colette Kress",
+   "Jensen Huang#3",
+   "Nvidia headquarters"
   ],
   "slides": [
-   "Anthropic, la empresa que creó a *Claude*, fijó el precio de su salida a bolsa en *83 dólares por acción*, según fuentes citadas por CNBC y TechCrunch. Queda por encima del rango previsto de 70 a 78 dólares. Empieza a cotizar el jueves en Nasdaq.",
-   "Si vende sus 825 millones de acciones, recaudaría unos *68.500 millones de dólares*, por debajo del récord de SpaceX. En nueve meses facturó 33.240 millones de dólares, *cerca de 1.200% más* que un año antes. Es una prueba clave para la industria de la IA."
+   "Colette Kress, directora ejecutiva interina de Nvidia, hizo su primera reunión con todo el personal tras la renuncia de Jensen Huang. Según CNBC, pidió *seguir adelante* y movió de marzo a diciembre la revisión anual, cuando suelen llegar *aumentos y más acciones*.",
+   "Según un asistente citado por CNBC, muchos en la sala quieren que *Huang vuelva*, aunque otra fuente lo matiza. Él dijo estar listo si el directorio lo quiere, pero su presidente, Harvey Jones, *no planea reincorporarlo*."
   ],
-  "caption": "💰 Anthropic, la creadora de Claude, fijó su salida a bolsa en 83 dólares por acción, más de lo esperado.\n\nSegún fuentes citadas por CNBC y TechCrunch, superó el rango previsto de 70 a 78 dólares. Si vende sus 825 millones de acciones, recaudaría unos 68.500 millones de dólares, por debajo del récord de SpaceX. Empieza a cotizar este jueves en Nasdaq.\n\n¿Y esto a mí qué? Es una gran prueba en bolsa para la industria de la IA: si le va bien, muestra que los inversores siguen confiando en ella. Y le marca el camino a OpenAI, que apunta a salir a bolsa en 2027.\n\nEsto es información, no una recomendación de inversión.\n\n¿Crees que la IA ya es tan importante como para valer más que muchas empresas de toda la vida?\n\nFuente: CNBC, TechCrunch\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "💼 La jefa interina de Nvidia adelantó la revisión de sueldos de sus empleados, mientras algunos piden el regreso de Jensen Huang.\n\nColette Kress, también directora financiera, encabezó la primera reunión con todo el personal desde la renuncia de Huang. Según CNBC, pidió \"seguir adelante\" y movió de marzo a diciembre la revisión anual, cuando suelen llegar aumentos y más acciones.\n\nUn asistente citado por CNBC dice que muchos quieren que Huang vuelva, y él dijo estar listo si el directorio lo quiere. Pero su presidente, Harvey Jones, lo descartó.\n\n¿Y esto a mí qué? Nvidia busca mantener su dominio en la era de la IA, y lo que pase con su liderazgo pesa en toda la industria.\n\n¿Debería el directorio de Nvidia devolverle el mando a Jensen Huang?\n\nFuente: CNBC, WIRED, The New York Times\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "Anthropic",
-   "Claude",
-   "SalidaABolsa"
+   "Nvidia",
+   "ColetteKress",
+   "JensenHuang"
   ],
   "image_prompts": [
-   "A glossy 3D illustration of a giant glowing neural network sphere rising above a stylized city skyline of abstract skyscrapers at dusk, upward arrows of light around it, purple and orange tones, no text, no logos",
-   "A 3D render of an abstract stock exchange trading floor with floating holographic candlestick charts climbing upward, empty desks and glowing screens without any readable text, cool blue lighting, wide angle view",
-   "A stylized 3D scene of a large golden bell beside a stack of translucent crystal cubes containing tiny glowing circuits, soft studio lighting, celebratory confetti in the air, close-up framing, no text or inscriptions"
+   "3D illustration of a large empty corporate auditorium stage with a single spotlight on an empty chair, rows of glowing green seats, dramatic cinematic lighting, symbolic leadership transition, no people, no text",
+   "3D illustration of a giant computer chip on a pedestal split into two halves, one side bright green and one side dim, floating light particles, dark background, symbolic company crossroads, no text or markings",
+   "3D illustration of a futuristic glass headquarters building at dusk with a downward stock arrow made of light hovering above it, clean minimal style, soft reflections, no logos, no text or letters"
   ],
   "reel_script": [
-   "La empresa detrás de Claude saldrá a bolsa y recaudaría 68.500 millones de dólares.",
-   "Fijó el precio de su acción en *83 dólares*, por encima del rango previsto de 70 a 78, según fuentes de la prensa. Queda por debajo del *récord* de SpaceX.",
-   "Empieza a cotizar el jueves en Nasdaq. Es una *prueba clave* para la industria: si le va bien, mostrará que los inversores aún confían en la inteligencia artificial."
+   "Jensen Huang renunció a Nvidia, y según CNBC muchos empleados quieren que regrese.",
+   "Colette Kress, la directora ejecutiva interina, reunió a todo el personal. Les pidió *seguir adelante* y adelantó de marzo a diciembre la revisión de sueldos y acciones.",
+   "Huang dijo estar listo para volver si el directorio lo quiere. Pero el directorio *no planea reincorporarlo* y, según CNBC, ya habla de buscar un nuevo director ejecutivo."
   ]
  },
- "caption": "💰 Anthropic, la creadora de Claude, fijó su salida a bolsa en 83 dólares por acción, más de lo esperado.\n\nSegún fuentes citadas por CNBC y TechCrunch, superó el rango previsto de 70 a 78 dólares. Si vende sus 825 millones de acciones, recaudaría unos 68.500 millones de dólares, por debajo del récord de SpaceX. Empieza a cotizar este jueves en Nasdaq.\n\n¿Y esto a mí qué? Es una gran prueba en bolsa para la industria de la IA: si le va bien, muestra que los inversores siguen confiando en ella. Y le marca el camino a OpenAI, que apunta a salir a bolsa en 2027.\n\nEsto es información, no una recomendación de inversión.\n\n¿Crees que la IA ya es tan importante como para valer más que muchas empresas de toda la vida?\n\nFuente: CNBC, TechCrunch\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: TechCrunch / Wikimedia Commons (CC BY 2.0)\n\n#Anthropic #Claude #SalidaABolsa",
+ "caption": "💼 La jefa interina de Nvidia adelantó la revisión de sueldos de sus empleados, mientras algunos piden el regreso de Jensen Huang.\n\nColette Kress, también directora financiera, encabezó la primera reunión con todo el personal desde la renuncia de Huang. Según CNBC, pidió \"seguir adelante\" y movió de marzo a diciembre la revisión anual, cuando suelen llegar aumentos y más acciones.\n\nUn asistente citado por CNBC dice que muchos quieren que Huang vuelva, y él dijo estar listo si el directorio lo quiere. Pero su presidente, Harvey Jones, lo descartó.\n\n¿Y esto a mí qué? Nvidia busca mantener su dominio en la era de la IA, y lo que pase con su liderazgo pesa en toda la industria.\n\n¿Debería el directorio de Nvidia devolverle el mando a Jensen Huang?\n\nFuente: CNBC, WIRED, The New York Times\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: SiliconANGLE theCUBE / Wikimedia Commons (CC BY 4.0)\n📸 Foto: Anders Eidesvik / Wikimedia Commons (CC BY 4.0)\n📸 Foto: Coolcaesar / Wikimedia Commons (CC BY-SA 4.0)\n🎥 Video: Narendra Modi / Wikimedia Commons (CC BY 3.0)\n\n#Nvidia #ColetteKress #JensenHuang",
  "slides": [
-  "posts/20261118-1945/slide_1.jpg",
-  "posts/20261118-1945/slide_2.jpg",
-  "posts/20261118-1945/slide_3.jpg",
-  "posts/20261118-1945/slide_4.jpg"
+  "posts/20261118-2045/slide_1.jpg",
+  "posts/20261118-2045/slide_2.jpg",
+  "posts/20261118-2045/slide_3.jpg",
+  "posts/20261118-2045/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
-   "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-   "source": "TechCrunch"
+   "title": "What Nvidia’s Interim CEO, Colette Kress, Said to Employees After Jensen Huang’s Resignation",
+   "link": "https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html",
+   "source": "The New York Times"
   },
   {
-   "title": "Anthropic prices IPO at $83 per share, above expected range, source tells CNBC",
-   "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+   "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
+   "link": "https://www.wired.com/story/guys-really-we-got-this/",
+   "source": "WIRED"
+  },
+  {
+   "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
+   "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
    "source": "CNBC"
   }
  ]
