@@ -9,3 +9,8 @@
 **Guionista de Reels:** CAMBIOS, gancho 6→8. Propuso "Una app clonó la voz de LeBron…": no aplicado tal cual (lo da como hecho); se usó "una app que, según él, clonó su voz con IA".
 **Cazador de videos:** sin clips libres de LeBron ni de la app → va como CARRUSEL. El anuncio original fue retirado; no se agrega línea de "video completo".
 **Cambios aplicados:** todos los del verificador y legal; recortes de estilo (caption 149 palabras, Reel 14/31/22).
+**Productor:** CARRUSEL (demanda judicial, sin video real válido).
+**Director de arte:** CAMBIOS, 6/10. Portada con otro jugador reconocible detrás y cabeza cortada; slide 2 con público reconocible; ilustración del slide 3 parecía de finanzas.
+**Cambios aplicados (1 rearmado):** portada → otra foto de LeBron ("LeBron James#3"); slide 2 → ilustración (mazo de juez + micrófono digital); prompt del slide 3 cambiado a voz/máscara digital.
+**⚠️ Pendiente tras el único rearmado permitido:** la nueva portada muestra público de fondo (fans y staff con caras visibles); y el slide 3 salió con la misma ilustración (celular con gráfico), se reusó la imagen ya generada. Recomendación: antes de subir, cambiar la portada a una foto de LeBron solo o a ilustración ("" en photos[0]) y regenerar el slide 3.
+**Etiqueta de IA:** no (foto real de Wikimedia + ilustraciones 3D sin personas). Confianza: media. Formato: CARRUSEL.
