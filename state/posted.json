@@ -188,7 +188,13 @@
   "https://openai.com/index/the-silent-consensus",
   "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=",
   "https://9to5google.com/2026/11/18/gemini-4-neon-announcement/",
-  "https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/"
+  "https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/",
+  "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYXpOQVNUU3h1VzhZczdJVmpnM1pHbTBQdEl3TjhQaHREaEkxY29TQlVNZFJMdENJQ0swbjRWa0FreHJRR19kNGxXdGR1eUdXWXI4eWxTODlZVVo0M0RXbXRVNDAySWJnZFo5TDY5NFFBa1VpQ0tCSWh0YzRNTVhBaXJibE9uMWFDbUE?oc=5",
+  "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+  "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMlo4OXVTbXlqamlkdFA2ZW9ET1hOWFEzRXNBaWo2SkFPQ0dPQ1ZhaVdDWlJqd21IWU80aHczMUV0ZjNINzJqTVRmMDBfd0pIUFhZRTl4aFRZeVBzUHdwbE1yVnlTbUI0RkhJOXRwNlJSWEl4bmt6Vmc4dWtqSzhOeF9pOThfWUhfYW5tSXFSbklfbzZINkZhVUVHckQzcUJ1Q1UtSGRZd2NMUm5fQ1dQVHIyc242WldzMzZveXlvRlgxR05tOF83SWFQN3pkTEpha3Zz?oc=5",
+  "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRTUtOXJPcnpweklCMkk4R1JheDB3bFE0VHpqVExNaGRNR3lVMXh5a1FjUUdGSjFlQi01WURQWlJILUZaaGRXYmRpYndhOUhrNHRVY21HZnNqN2RaSEFOZEJEaGJHbnlSSFdDck4wRmhxMkVlTUtPYWxwWTdVSExNOE5WbTZuMFhzQ1A3bGtMWENIamVsLW9xcU5mSjBnSDJMbGdjWnE0b3pzTjRRaF9nWmNwQ3czQ3I3STBRQVVDVHV2ZklndUJnRE5DZHM1cXFWS2RwanVYVXlkd9IB3wFBVV95cUxQbjdwbmJKRWtPLWhmamV0WWRRWUpFS1F1cWlFUGVMVXJVUS1pMkZkM3Jkclduc29FbHZFaUpjajJSWXNST1kxcTRablR2OW9Kb2dJdTJYazhnd1V2SlY4c0pWTXRxNzZieGVMeE5jQ29zbkVZTUZ4QThFaVJBM2ppMjFzT1Y3V0trZktLYnFLcEFOR3ZkUG8zMWNVQ1lMblU2SWNpTDkwT1MxRjFGWk92TDFPVko1SDRYY2RGVHJsVnFMWFIzZy1kNXd2Q2h6Yi11QTUwTHpHNHduU3hVWVFF?oc=5",
+  "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+  "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -261,7 +267,10 @@
   "LeBron James demandó a una app de apuestas por un anuncio con su imagen y voz creados con IA",
   "Reseña Apple HomeView: Apple acierta con el diseño, pero falla con Siri",
   "The Silent Consensus",
-  "Introducing Gemini 4 Neon"
+  "Introducing Gemini 4 Neon",
+  "Palmer Luckey Warns the U.S. Faces an A.I. ‘Mismatch’",
+  "Estafas con inteligencia artificial: cómo funcionan las voces clonadas y los videos falsos para robar dinero - Diario El Norte",
+  "Anthropic reportedly prices IPO at $83 a share, above projected range"
  ],
  "history": [
   {
@@ -682,6 +691,24 @@
   {
    "title": "Introducing Gemini 4 Neon",
    "at": 1795038729,
+   "permalink": null,
+   "kind": "post"
+  },
+  {
+   "title": "Palmer Luckey Warns the U.S. Faces an A.I. ‘Mismatch’",
+   "at": 1795041937,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "Estafas con inteligencia artificial: cómo funcionan las voces clonadas y los videos falsos para robar dinero - Diario El Norte",
+   "at": 1795041937,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+   "at": 1795042438,
    "permalink": null,
    "kind": "post"
   }

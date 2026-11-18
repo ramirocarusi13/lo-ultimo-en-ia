@@ -20,3 +20,9 @@
 
 ## cazador-videos — sin clips
 - Ningún video libre y propio de la noticia (descartados canales que reempaquetan material ajeno). Sin clips → no hay Reel, va carrusel.
+
+## productor — CARRUSEL
+## director-arte — CAMBIOS (4/10 en el primer armado)
+- Portada: captura de UI de Gemini casi en blanco; slide 2: auto de Street View sin relación; slide 3 vacío (ComfyUI se cayó). Cambié las 3 "photos" a "" y rearmé: 3 ilustraciones 3D bien generadas, texto legible.
+
+**Veredicto del jefe:** carrusel listo para revisar. Etiqueta de IA: no hace falta (ilustraciones 3D, no fotorrealistas, sin personas).

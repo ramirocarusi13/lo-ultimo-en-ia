@@ -1,59 +1,54 @@
 {
- "id": "20261118-1845",
+ "id": "20261118-1945",
  "post": {
   "skip": false,
   "skip_reason": "",
   "confidence": "alta",
-  "headline": "GOOGLE LANZA *GEMINI 4 NEON*, SU CUARTO GEMINI 4 EN *UN MES*",
-  "badge": "Gemini",
+  "headline": "*ANTHROPIC* FIJA SU SALIDA A BOLSA EN *83 DÓLARES*, MÁS DE LO ESPERADO",
+  "badge": "Anthropic",
   "photos": [
-   "",
-   "",
+   "Dario Amodei",
+   "Nasdaq MarketSite",
    ""
   ],
   "slides": [
-   "Según 9to5Google, *Gemini 4 Neon* rinde parecido a Gemini 4 Carbon en programación, razonamiento y tareas de agentes, pero con la velocidad de Flash y, según Google, un 32% menos de costo por tarea. Ya está para suscriptores *AI Pro y Ultra*.",
-   "Es el *cuarto modelo Gemini 4 en un mes*, según The Decoder. Google asegura que Neon tiene la *tasa más baja de datos inventados* que ha medido en pruebas internas. Además, puede analizar hojas de cálculo, PDF, gráficos, audio y video a la vez."
+   "Anthropic, la empresa que creó a *Claude*, fijó el precio de su salida a bolsa en *83 dólares por acción*, según fuentes citadas por CNBC y TechCrunch. Queda por encima del rango previsto de 70 a 78 dólares. Empieza a cotizar el jueves en Nasdaq.",
+   "Si vende sus 825 millones de acciones, recaudaría unos *68.500 millones de dólares*, por debajo del récord de SpaceX. En nueve meses facturó 33.240 millones de dólares, *cerca de 1.200% más* que un año antes. Es una prueba clave para la industria de la IA."
   ],
-  "caption": "🧠 Google lanzó Gemini 4 Neon, su cuarto modelo Gemini 4 en apenas un mes, y ya se puede usar en la app.\n\nSegún 9to5Google, Neon rinde parecido a Gemini 4 Carbon en programación, razonamiento y tareas de agentes, pero con velocidad de Flash; Google asegura que cuesta 32% menos por tarea que Carbon. Llega para suscriptores de Google AI Pro y Ultra y, según 9to5Google, en la app reemplaza a Gemini 3.1 Pro.\n\n¿Y esto a mí qué? Si tienes Google AI Pro o Ultra, tendrás un modelo más rápido para analizar PDF, hojas de cálculo, gráficos, audio y video de una sola vez. Google además asegura que es el modelo que menos datos inventa en sus pruebas internas.\n\n¿Qué tarea le darías primero a un modelo que lee un PDF, un audio y un video a la vez?\n\nFuente: Google DeepMind, 9to5Google, The Decoder.\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "💰 Anthropic, la creadora de Claude, fijó su salida a bolsa en 83 dólares por acción, más de lo esperado.\n\nSegún fuentes citadas por CNBC y TechCrunch, superó el rango previsto de 70 a 78 dólares. Si vende sus 825 millones de acciones, recaudaría unos 68.500 millones de dólares, por debajo del récord de SpaceX. Empieza a cotizar este jueves en Nasdaq.\n\n¿Y esto a mí qué? Es una gran prueba en bolsa para la industria de la IA: si le va bien, muestra que los inversores siguen confiando en ella. Y le marca el camino a OpenAI, que apunta a salir a bolsa en 2027.\n\nEsto es información, no una recomendación de inversión.\n\n¿Crees que la IA ya es tan importante como para valer más que muchas empresas de toda la vida?\n\nFuente: CNBC, TechCrunch\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "GeminiNeon",
-   "GoogleGemini",
-   "InteligenciaArtificial"
+   "Anthropic",
+   "Claude",
+   "SalidaABolsa"
   ],
   "image_prompts": [
-   "A glowing neon-lit glass sphere floating above a sleek dark pedestal, surrounded by orbiting luminous data streams in pink and violet, futuristic 3D render, dramatic studio lighting, no text, no logos.",
-   "Isometric 3D illustration of a stack of documents, a spreadsheet grid, a bar chart, a sound wave and a film strip flowing into a bright glowing cube, clean pastel background, soft shadows, no text or letters.",
-   "Four glowing glass tubes filled with different colored luminous gases lined up on a futuristic lab bench, the last one shining brightest in neon pink, 3D render, cinematic side lighting, no text, no labels."
+   "A glossy 3D illustration of a giant glowing neural network sphere rising above a stylized city skyline of abstract skyscrapers at dusk, upward arrows of light around it, purple and orange tones, no text, no logos",
+   "A 3D render of an abstract stock exchange trading floor with floating holographic candlestick charts climbing upward, empty desks and glowing screens without any readable text, cool blue lighting, wide angle view",
+   "A stylized 3D scene of a large golden bell beside a stack of translucent crystal cubes containing tiny glowing circuits, soft studio lighting, celebratory confetti in the air, close-up framing, no text or inscriptions"
   ],
   "reel_script": [
-   "Google lanzó su cuarto modelo Gemini 4 en un mes, y ya se puede usar.",
-   "Se llama *Gemini 4 Neon*. Rinde parecido a Carbon en programación, pero más rápido y, según Google, más barato por tarea. Ya está en la app para suscriptores *Pro y Ultra*.",
-   "Analiza documentos, hojas de cálculo, audio y video a la vez. Y según Google, es el modelo que *menos datos inventa* en sus pruebas internas."
+   "La empresa detrás de Claude saldrá a bolsa y recaudaría 68.500 millones de dólares.",
+   "Fijó el precio de su acción en *83 dólares*, por encima del rango previsto de 70 a 78, según fuentes de la prensa. Queda por debajo del *récord* de SpaceX.",
+   "Empieza a cotizar el jueves en Nasdaq. Es una *prueba clave* para la industria: si le va bien, mostrará que los inversores aún confían en la inteligencia artificial."
   ]
  },
- "caption": "🧠 Google lanzó Gemini 4 Neon, su cuarto modelo Gemini 4 en apenas un mes, y ya se puede usar en la app.\n\nSegún 9to5Google, Neon rinde parecido a Gemini 4 Carbon en programación, razonamiento y tareas de agentes, pero con velocidad de Flash; Google asegura que cuesta 32% menos por tarea que Carbon. Llega para suscriptores de Google AI Pro y Ultra y, según 9to5Google, en la app reemplaza a Gemini 3.1 Pro.\n\n¿Y esto a mí qué? Si tienes Google AI Pro o Ultra, tendrás un modelo más rápido para analizar PDF, hojas de cálculo, gráficos, audio y video de una sola vez. Google además asegura que es el modelo que menos datos inventa en sus pruebas internas.\n\n¿Qué tarea le darías primero a un modelo que lee un PDF, un audio y un video a la vez?\n\nFuente: Google DeepMind, 9to5Google, The Decoder.\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n#GeminiNeon #GoogleGemini #InteligenciaArtificial",
+ "caption": "💰 Anthropic, la creadora de Claude, fijó su salida a bolsa en 83 dólares por acción, más de lo esperado.\n\nSegún fuentes citadas por CNBC y TechCrunch, superó el rango previsto de 70 a 78 dólares. Si vende sus 825 millones de acciones, recaudaría unos 68.500 millones de dólares, por debajo del récord de SpaceX. Empieza a cotizar este jueves en Nasdaq.\n\n¿Y esto a mí qué? Es una gran prueba en bolsa para la industria de la IA: si le va bien, muestra que los inversores siguen confiando en ella. Y le marca el camino a OpenAI, que apunta a salir a bolsa en 2027.\n\nEsto es información, no una recomendación de inversión.\n\n¿Crees que la IA ya es tan importante como para valer más que muchas empresas de toda la vida?\n\nFuente: CNBC, TechCrunch\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: TechCrunch / Wikimedia Commons (CC BY 2.0)\n📸 Foto: NASA Headquarters / NASA/Emma Howells / Wikimedia Commons (Public domain)\n\n#Anthropic #Claude #SalidaABolsa",
  "slides": [
-  "posts/20261118-1845/slide_1.jpg",
-  "posts/20261118-1845/slide_2.jpg",
-  "posts/20261118-1845/slide_3.jpg",
-  "posts/20261118-1845/slide_4.jpg"
+  "posts/20261118-1945/slide_1.jpg",
+  "posts/20261118-1945/slide_2.jpg",
+  "posts/20261118-1945/slide_3.jpg",
+  "posts/20261118-1945/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "Introducing Gemini 4 Neon",
-   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=",
-   "source": "Google DeepMind"
+   "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+   "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+   "source": "TechCrunch"
   },
   {
-   "title": "Google launches Gemini 4 Neon with Carbon quality at Flash speeds, live for AI Pro",
-   "link": "https://9to5google.com/2026/11/18/gemini-4-neon-announcement/",
-   "source": "9to5Google"
-  },
-  {
-   "title": "Google ships Gemini 4 Neon, its fourth new Gemini model in a month",
-   "link": "https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/",
-   "source": "The Decoder"
+   "title": "Anthropic prices IPO at $83 per share, above expected range, source tells CNBC",
+   "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+   "source": "CNBC"
   }
  ]
 }
