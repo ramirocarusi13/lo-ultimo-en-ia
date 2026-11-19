@@ -300,7 +300,9 @@
   "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
   "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6929322",
   "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-  "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price"
+  "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+  "https://www.engadget.com/2322304/employees-call-out-google-over-ai-search-in-schools/",
+  "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ3J5ejZuQ3lVa0pmdWpoV01hdWcxNWZZRWN5enRfMHIxT1BEZlNVME14blpyU0V2Zy1jUURYamZybXZ3OTc4WllYaUNmQ3JOLTdwbXFNTWhDZGdJNFFucnFsX2kzek5LNW1VcmZ2TkdKNG40Y0QxU09hUWc3XzV1OHA4RkpXMEtSN0ptOTJFU2hnWi05N20yc2hn0gGfAUFVX3lxTE5fWlp0eDV2d3h0a2M1QV9NVkhiR2VqcUJzcTlVdHNlQmg2ZkEwTXNHQXhmaUJVV3RqSzFYLWF4R2JlTUZHQUxYX05lVFNibDNGdEg3NWN4TkxSN25BV3lkUDlZZzFWM3ZDWVBoRjVqVUFxV3UwZ2NWVUo5Q0RUdkd6NWd6WFJORWVmZDctYjU2MURvQWNwTUZHcVREUXZ4OA?oc=5"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -422,7 +424,8 @@
   "ACIERA presenta observatorio para estudiar el impacto de la Inteligencia Artificial en la vida humana",
   "What’s With All These Outages?",
   "NVIDIA Announces Upcoming Event for Financial Community",
-  "Meta’s new Muse Charm device may cost $300"
+  "Meta’s new Muse Charm device may cost $300",
+  "Employees call out Google over AI Search in schools"
  ],
  "history": [
   {
@@ -1137,6 +1140,12 @@
   {
    "title": "Meta’s new Muse Charm device may cost $300",
    "at": 1795126852,
+   "permalink": null,
+   "kind": "post"
+  },
+  {
+   "title": "Employees call out Google over AI Search in schools",
+   "at": 1795126857,
    "permalink": null,
    "kind": "post"
   }

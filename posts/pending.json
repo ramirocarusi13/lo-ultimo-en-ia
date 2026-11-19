@@ -1,54 +1,54 @@
 {
- "id": "20261119-1905",
+ "id": "20261119-1915",
  "post": {
   "skip": false,
   "skip_reason": "",
-  "confidence": "media",
-  "headline": "EL *MUSE CHARM* DE META COSTARÍA *300 DÓLARES*, SEGÚN REPORTE",
-  "badge": "Meta",
+  "confidence": "alta",
+  "headline": "NUEVA YORK EVALÚA DEJAR *EL BUSCADOR DE GOOGLE* EN ESCUELAS POR *SU IA*",
+  "badge": "Google",
   "photos": [
-   "Mark Zuckerberg",
-   "",
-   "Meta headquarters Menlo Park"
+   "Googleplex",
+   "Google headquarters Mountain View",
+   ""
   ],
   "slides": [
-   "Según el medio The Information, Meta planea vender el *Muse Charm a 300 dólares*. Es un pequeño aparato con pantalla, del tamaño de un llavero, para hablar con Muse, su agente de IA. Meta no lo negó: dijo que pronto compartirá más.",
-   "Mark Zuckerberg lo presentó este año y prometió que llegaría *para las fiestas de diciembre*. Según The Information, incluiría 12 meses de datos 5G gratis de Verizon. Sería más caro que otros: el de Friend cuesta 250 dólares y el *Bee de Amazon, 75 dólares*."
+   "Google fijó este mes una política: para que los alumnos usen su buscador, las escuelas deben dejar activadas algunas funciones de IA. *Más de 500 empleados*, según Engadget, firmaron una petición para que las escuelas puedan *apagar la IA sin perder el buscador*.",
+   "Google argumenta que *la búsqueda y la IA están profundamente integradas*. Según The New York Times, los distritos escolares de Nueva York, Los Ángeles y Chicago evalúan *pasarse a otro buscador* para decidir ellos cómo usan la IA sus alumnos."
   ],
-  "caption": "📱 Meta le pondría precio a su gadget de IA: el Muse Charm costaría 300 dólares, según The Information.\n\nEs un aparatito con pantalla y sensor de huellas, del tamaño de un llavero, para hablar con Muse, el agente de IA de Meta, sin desbloquear el celular. Mark Zuckerberg prometió que llegaría para las fiestas de diciembre. Según el reporte, vendría con 12 meses de datos 5G gratis de Verizon.\n\n¿Y esto a mí qué? Es la apuesta de Meta para que su IA viva en tu bolsillo y no solo en una app. Como referencia, el dispositivo de Friend cuesta 250 dólares y el Bee de Amazon, 75 dólares.\n\n¿Pagarías 300 dólares por un aparatito con IA del tamaño de un llavero o te alcanza con la app del celular?\n\nFuente: TechCrunch, The Verge (según The Information)\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "🏫 Las escuelas de Nueva York, Los Ángeles y Chicago evalúan dejar el buscador de Google por cómo maneja la IA.\n\nEste mes, Google fijó una política: para que los alumnos usen su buscador, las escuelas tienen que dejar activadas algunas funciones de IA. Según The New York Times, por eso esos distritos analizan pasarse a otro buscador.\n\nLa polémica llegó a Google: el sindicato Alphabet Workers Union criticó la decisión y, según Engadget, más de 500 empleados firmaron una petición para que las escuelas puedan apagar la IA sin perder el buscador.\n\n¿Y esto a mí qué? Si tienes hijos en edad escolar, se discute quién decide cuánta IA usan en clase: la escuela o Google.\n\n¿Debería una escuela poder apagar la IA de Google sin quedarse sin buscador?\n\nFuente: Engadget, ABC7 New York, The New York Times (vía Engadget)\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "Meta",
-   "MuseCharm",
-   "GadgetsIA"
+   "GoogleSearch",
+   "IAenEducacion",
+   "NuevaYork"
   ],
   "image_prompts": [
-   "A tiny glossy keychain-sized gadget with a glowing blank screen showing a cute abstract smiling face, floating above a soft gradient background, 3D render illustration, warm pastel lighting, playful tech mood, no text, no logos",
-   "A small rounded AI companion device hanging from a keyring, its blank screen glowing softly, surrounded by floating sound wave ribbons and empty speech bubbles, 3D isometric illustration, purple and blue tones, no text",
-   "Three small wearable gadgets of different sizes on a white pedestal, one with a glowing blank screen, abstract blank price tag shapes floating around, festive holiday lights in the background, 3D illustration, no text, no logos"
+   "A 3D illustration of a school desk with an open laptop showing a glowing magnifying glass icon, surrounded by floating sparkling orbs symbolizing artificial intelligence, a classroom with an empty chalkboard behind, soft blue and violet light, no text",
+   "A 3D illustration of a giant two-sided power switch, one side glowing with sparkles symbolizing artificial intelligence and the other holding a simple magnifying glass, placed on a stack of school books, dramatic studio lighting, no text or letters",
+   "A 3D illustration of a city skyline at dusk with three small school buildings in the foreground, each sending a different colored beam of light upward, a crossroads path between them, cinematic wide angle view, no text"
   ],
   "reel_script": [
-   "Según un reporte, Meta cobraría 300 dólares por un aparatito de IA.",
-   "El *Muse Charm* es un aparato con pantalla del tamaño de un llavero. Sirve para hablar con Muse, el agente de Meta. Zuckerberg prometió que llegaría para las fiestas de diciembre.",
-   "Costaría más que el aparato de Friend, de 250 dólares, y que el de Amazon, de 75 dólares. Falta ver si la gente *pagará* por llevar la IA en el bolsillo."
+   "Google condiciona su buscador en las escuelas: sin su IA, no hay búsqueda.",
+   "Google exige que las escuelas dejen activada parte de su *inteligencia artificial*. Más de 500 empleados de Google firmaron una petición para poder apagar esa IA.",
+   "Según The New York Times, Nueva York, Los Ángeles y Chicago evalúan *otro buscador*. Se discute quién decide cuánta IA usan los alumnos: la escuela o Google."
   ]
  },
- "caption": "📱 Meta le pondría precio a su gadget de IA: el Muse Charm costaría 300 dólares, según The Information.\n\nEs un aparatito con pantalla y sensor de huellas, del tamaño de un llavero, para hablar con Muse, el agente de IA de Meta, sin desbloquear el celular. Mark Zuckerberg prometió que llegaría para las fiestas de diciembre. Según el reporte, vendría con 12 meses de datos 5G gratis de Verizon.\n\n¿Y esto a mí qué? Es la apuesta de Meta para que su IA viva en tu bolsillo y no solo en una app. Como referencia, el dispositivo de Friend cuesta 250 dólares y el Bee de Amazon, 75 dólares.\n\n¿Pagarías 300 dólares por un aparatito con IA del tamaño de un llavero o te alcanza con la app del celular?\n\nFuente: TechCrunch, The Verge (según The Information)\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Anthony Quintano from Westminster, Unite / Wikimedia Commons (CC BY 2.0)\n\n#Meta #MuseCharm #GadgetsIA",
+ "caption": "🏫 Las escuelas de Nueva York, Los Ángeles y Chicago evalúan dejar el buscador de Google por cómo maneja la IA.\n\nEste mes, Google fijó una política: para que los alumnos usen su buscador, las escuelas tienen que dejar activadas algunas funciones de IA. Según The New York Times, por eso esos distritos analizan pasarse a otro buscador.\n\nLa polémica llegó a Google: el sindicato Alphabet Workers Union criticó la decisión y, según Engadget, más de 500 empleados firmaron una petición para que las escuelas puedan apagar la IA sin perder el buscador.\n\n¿Y esto a mí qué? Si tienes hijos en edad escolar, se discute quién decide cuánta IA usan en clase: la escuela o Google.\n\n¿Debería una escuela poder apagar la IA de Google sin quedarse sin buscador?\n\nFuente: Engadget, ABC7 New York, The New York Times (vía Engadget)\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: The Pancake of Heaven! / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: Carol M. Highsmith / Wikimedia Commons (Public domain)\n\n#GoogleSearch #IAenEducacion #NuevaYork",
  "slides": [
-  "posts/20261119-1905/slide_1.jpg",
-  "posts/20261119-1905/slide_2.jpg",
-  "posts/20261119-1905/slide_3.jpg",
-  "posts/20261119-1905/slide_4.jpg"
+  "posts/20261119-1915/slide_1.jpg",
+  "posts/20261119-1915/slide_2.jpg",
+  "posts/20261119-1915/slide_3.jpg",
+  "posts/20261119-1915/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "Meta’s new Muse Charm device may cost $300",
-   "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-   "source": "TechCrunch"
+   "title": "Employees call out Google over AI Search in schools",
+   "link": "https://www.engadget.com/2322304/employees-call-out-google-over-ai-search-in-schools/",
+   "source": "Engadget"
   },
   {
-   "title": "Meta’s Muse Charm might cost $300",
-   "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-   "source": "The Verge"
+   "title": "NYC schools weigh alternatives to Google search amid AI dispute",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ3J5ejZuQ3lVa0pmdWpoV01hdWcxNWZZRWN5enRfMHIxT1BEZlNVME14blpyU0V2Zy1jUURYamZybXZ3OTc4WllYaUNmQ3JOLTdwbXFNTWhDZGdJNFFucnFsX2kzek5LNW1VcmZ2TkdKNG40Y0QxU09hUWc3XzV1OHA4RkpXMEtSN0ptOTJFU2hnWi05N20yc2hn0gGfAUFVX3lxTE5fWlp0eDV2d3h0a2M1QV9NVkhiR2VqcUJzcTlVdHNlQmg2ZkEwTXNHQXhmaUJVV3RqSzFYLWF4R2JlTUZHQUxYX05lVFNibDNGdEg3NWN4TkxSN25BV3lkUDlZZzFWM3ZDWVBoRjVqVUFxV3UwZ2NWVUo5Q0RUdkd6NWd6WFJORWVmZDctYjU2MURvQWNwTUZHcVREUXZ4OA?oc=5",
+   "source": "ABC7 New York"
   }
  ]
 }

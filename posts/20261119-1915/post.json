@@ -1,0 +1,54 @@
+{
+ "id": "20261119-1915",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "NUEVA YORK EVALÚA DEJAR *EL BUSCADOR DE GOOGLE* EN ESCUELAS POR *SU IA*",
+  "badge": "Google",
+  "photos": [
+   "Googleplex",
+   "Google headquarters Mountain View",
+   ""
+  ],
+  "slides": [
+   "Google fijó este mes una política: para que los alumnos usen su buscador, las escuelas deben dejar activadas algunas funciones de IA. *Más de 500 empleados*, según Engadget, firmaron una petición para que las escuelas puedan *apagar la IA sin perder el buscador*.",
+   "Google argumenta que *la búsqueda y la IA están profundamente integradas*. Según The New York Times, los distritos escolares de Nueva York, Los Ángeles y Chicago evalúan *pasarse a otro buscador* para decidir ellos cómo usan la IA sus alumnos."
+  ],
+  "caption": "🏫 Las escuelas de Nueva York, Los Ángeles y Chicago evalúan dejar el buscador de Google por cómo maneja la IA.\n\nEste mes, Google fijó una política: para que los alumnos usen su buscador, las escuelas tienen que dejar activadas algunas funciones de IA. Según The New York Times, por eso esos distritos analizan pasarse a otro buscador.\n\nLa polémica llegó a Google: el sindicato Alphabet Workers Union criticó la decisión y, según Engadget, más de 500 empleados firmaron una petición para que las escuelas puedan apagar la IA sin perder el buscador.\n\n¿Y esto a mí qué? Si tienes hijos en edad escolar, se discute quién decide cuánta IA usan en clase: la escuela o Google.\n\n¿Debería una escuela poder apagar la IA de Google sin quedarse sin buscador?\n\nFuente: Engadget, ABC7 New York, The New York Times (vía Engadget)\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "GoogleSearch",
+   "IAenEducacion",
+   "NuevaYork"
+  ],
+  "image_prompts": [
+   "A 3D illustration of a school desk with an open laptop showing a glowing magnifying glass icon, surrounded by floating sparkling orbs symbolizing artificial intelligence, a classroom with an empty chalkboard behind, soft blue and violet light, no text",
+   "A 3D illustration of a giant two-sided power switch, one side glowing with sparkles symbolizing artificial intelligence and the other holding a simple magnifying glass, placed on a stack of school books, dramatic studio lighting, no text or letters",
+   "A 3D illustration of a city skyline at dusk with three small school buildings in the foreground, each sending a different colored beam of light upward, a crossroads path between them, cinematic wide angle view, no text"
+  ],
+  "reel_script": [
+   "Google condiciona su buscador en las escuelas: sin su IA, no hay búsqueda.",
+   "Google exige que las escuelas dejen activada parte de su *inteligencia artificial*. Más de 500 empleados de Google firmaron una petición para poder apagar esa IA.",
+   "Según The New York Times, Nueva York, Los Ángeles y Chicago evalúan *otro buscador*. Se discute quién decide cuánta IA usan los alumnos: la escuela o Google."
+  ]
+ },
+ "caption": "🏫 Las escuelas de Nueva York, Los Ángeles y Chicago evalúan dejar el buscador de Google por cómo maneja la IA.\n\nEste mes, Google fijó una política: para que los alumnos usen su buscador, las escuelas tienen que dejar activadas algunas funciones de IA. Según The New York Times, por eso esos distritos analizan pasarse a otro buscador.\n\nLa polémica llegó a Google: el sindicato Alphabet Workers Union criticó la decisión y, según Engadget, más de 500 empleados firmaron una petición para que las escuelas puedan apagar la IA sin perder el buscador.\n\n¿Y esto a mí qué? Si tienes hijos en edad escolar, se discute quién decide cuánta IA usan en clase: la escuela o Google.\n\n¿Debería una escuela poder apagar la IA de Google sin quedarse sin buscador?\n\nFuente: Engadget, ABC7 New York, The New York Times (vía Engadget)\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: The Pancake of Heaven! / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: Carol M. Highsmith / Wikimedia Commons (Public domain)\n\n#GoogleSearch #IAenEducacion #NuevaYork",
+ "slides": [
+  "posts/20261119-1915/slide_1.jpg",
+  "posts/20261119-1915/slide_2.jpg",
+  "posts/20261119-1915/slide_3.jpg",
+  "posts/20261119-1915/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Employees call out Google over AI Search in schools",
+   "link": "https://www.engadget.com/2322304/employees-call-out-google-over-ai-search-in-schools/",
+   "source": "Engadget"
+  },
+  {
+   "title": "NYC schools weigh alternatives to Google search amid AI dispute",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ3J5ejZuQ3lVa0pmdWpoV01hdWcxNWZZRWN5enRfMHIxT1BEZlNVME14blpyU0V2Zy1jUURYamZybXZ3OTc4WllYaUNmQ3JOLTdwbXFNTWhDZGdJNFFucnFsX2kzek5LNW1VcmZ2TkdKNG40Y0QxU09hUWc3XzV1OHA4RkpXMEtSN0ptOTJFU2hnWi05N20yc2hn0gGfAUFVX3lxTE5fWlp0eDV2d3h0a2M1QV9NVkhiR2VqcUJzcTlVdHNlQmg2ZkEwTXNHQXhmaUJVV3RqSzFYLWF4R2JlTUZHQUxYX05lVFNibDNGdEg3NWN4TkxSN25BV3lkUDlZZzFWM3ZDWVBoRjVqVUFxV3UwZ2NWVUo5Q0RUdkd6NWd6WFJORWVmZDctYjU2MURvQWNwTUZHcVREUXZ4OA?oc=5",
+   "source": "ABC7 New York"
+  }
+ ]
+}
