@@ -6,3 +6,8 @@
 **Revisor legal** — CAMBIOS, riesgo bajo. Foto "APEC summit" → "" (evita terceros); contexto sin respaldo fuera; sin etiqueta de IA.
 **Guionista** — CAMBIOS, gancho 6→7. Texto 3 reemplazado por consecuencia en condicional (lo de chatbots y datos no estaba en las notas).
 **Cazador de videos** — 1 clip: "President Trump Delivers Remarks, Oct. 6, 2025" (Casa Blanca, dominio público, Wikimedia Commons). No es del discurso de APEC. El video original está en Bloomberg (con derechos) → línea "🎬" en el caption.
+**Productor** — FORMATO: CARRUSEL. Postura política, no algo que se vea; el único clip es de archivo (Despacho Oval, oct. 2025) y no del discurso de APEC.
+**Director de arte** — OK, 8/10. Foto real solo de Trump; texto legible; ilustraciones 3D sin personas ni texto.
+**Editor de video** — CAMBIOS, 6/10. El clip trae un rótulo de la Casa Blanca y repite el mismo plano.
+
+**Decisión del jefe:** se sacó el clip (noclip) y se rearmó → va solo como carrusel, sin crédito de video. Se aplicaron los cambios del verificador, el revisor legal, el editor y el guionista. Etiqueta de IA: no (foto real de dominio público + ilustraciones 3D simbólicas). Ojo: las notas solo traían los titulares, así que el post es sobrio y no tiene citas ni detalles del discurso.

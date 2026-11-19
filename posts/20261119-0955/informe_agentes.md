@@ -1,0 +1,9 @@
+# Informe de agentes — 20261119-0955
+
+- **Analista de tendencias** (recomendó la 1, 33/50): 1) Arizona vs. OpenAI (33), 3) botón de Canva para apagar la IA (31), 2) IPO de Anthropic (22, repetida).
+- **Jefe de redacción**: descarté la 2 (repetida) y la 1 (solo hay un titular de Infobae, sin detalles ni fuente oficial: confianza baja). Elegí la 3: Canva (The Verge + Engadget, confianza alta, IA en la vida cotidiana).
+- **Verificador** (CAMBIOS, 9/10): todo respaldado; "toda su IA" exageraba → titular "APAGAR SU IA GENERATIVA" y reel "casi toda". Confianza alta.
+- **Editor de estilo** (CAMBIOS, 8/10): quitar voseo del caption, sacar los ">" de la ruta del menú, mejorar frase del slide 2. Aplicado.
+- **Revisor legal** (OK, riesgo bajo): sin rumores ni acusaciones; sugiere revisar que la foto de oficina no muestre personas. Etiqueta IA: no.
+- **Guionista de reels** (CAMBIOS, gancho 6/10): guion nuevo, más corto, sin exagerar. Aplicado.
+- **Cazador de videos**: sin clips con licencia libre (solo reseñas de terceros) → sin Reel, va carrusel.
