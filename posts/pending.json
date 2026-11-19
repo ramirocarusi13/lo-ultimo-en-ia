@@ -1,59 +1,54 @@
 {
- "id": "20261119-1105",
+ "id": "20261119-1135",
  "post": {
   "skip": false,
   "skip_reason": "",
   "confidence": "alta",
-  "headline": "HACKERS USARON *IA* PARA ATACAR A LA *COMISIÓN EUROPEA*",
-  "badge": "UE",
+  "headline": "SANTA FE SUMARÁ *INTELIGENCIA ARTIFICIAL* AL ESCRUTINIO DE *2027*",
+  "badge": "Santa Fe",
   "photos": [
-   "Berlaymont building",
-   "",
-   ""
+   "Santa Fe Government House",
+   "Universidad Tecnologica Nacional Argentina",
+   "Argentina election ballot"
   ],
   "slides": [
-   "Según un funcionario citado por Politico, hackers usaron *Artex*, una herramienta pública que usa IA para detectar fallas, contra la Comisión Europea. Sysper, la plataforma de sueldos y licencias del personal, quedó caída varios días, y *todavía no se sabe si robaron datos personales*.",
-   "Según Wired, Artex es un programa de código abierto que conecta modelos de IA externos con herramientas de pruebas de seguridad y recibe órdenes en *lenguaje cotidiano*. *El FBI advirtió* que se usa contra organizaciones de gobierno, finanzas, defensa y energía."
+   "La provincia de Santa Fe, en Argentina, va a *incorporar inteligencia artificial al escrutinio* de las elecciones de 2027. El proyecto se hará de la mano de la *Universidad Tecnológica Nacional*, según el diario El Litoral.",
+   "El escrutinio es el *conteo de los votos* que define quién gana una elección. Que una provincia sume IA a ese proceso muestra cómo esta tecnología empieza a llegar a tareas públicas clave, donde *la confianza y la transparencia* son fundamentales."
   ],
-  "caption": "🔐 Hackers atacaron a la Comisión Europea con una herramienta de IA y dejaron fuera de servicio sus sistemas de personal durante más de 10 días.\n\nSegún un funcionario europeo citado por Politico, CERT-EU, el servicio de ciberseguridad de las instituciones europeas, detectó que usaron Artex, un programa público que usa IA para encontrar puntos débiles en sistemas informáticos. El portavoz Thomas Regnier confirmó una campaña de ciberataques. Todavía no se sabe quién fue ni si se llevaron nombres, domicilios y datos de contacto de los funcionarios.\n\n¿Y esto a mí qué? Esta herramienta recibe órdenes en lenguaje cotidiano, y un investigador la definió como “un arma de apuntar y disparar”. El FBI advirtió que ya se usa contra organizaciones de gobierno, finanzas, defensa y energía.\n\n¿Deberían prohibirse las herramientas de IA de código abierto que sirven para hackear?\n\nFuente: Infobae, Clarín, Cadena 3\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "🗳️ Santa Fe va a usar inteligencia artificial en el escrutinio de las elecciones de 2027.\n\nLa provincia argentina sumará IA al escrutinio de los próximos comicios, según Radio Rafaela y El Litoral. El proyecto se hará de la mano de la Universidad Tecnológica Nacional, según El Litoral.\n\n¿Y esto a mí qué? El escrutinio es el momento en que se cuentan los votos y se sabe quién ganó. Que la IA entre en ese proceso muestra que la tecnología ya no está solo en el celular: también empieza a llegar a procesos públicos clave. Lo importante será que el sistema sea transparente y se pueda controlar.\n\n¿Confiarías en que una IA ayude en el escrutinio de tu provincia o preferirías el conteo tradicional?\n\nFuente: El Litoral, Radio Rafaela.\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "ciberseguridad",
-   "ComisionEuropea",
-   "Artex"
+   "SantaFe",
+   "InteligenciaArtificial",
+   "Elecciones2027"
   ],
   "image_prompts": [
-   "3D illustration of a glowing blue government building made of glass at night, surrounded by red digital warning lights and a translucent shield cracking apart, dramatic lighting, dark navy background, symbolic cyberattack scene, no people, no text.",
-   "3D illustration of a sleek robotic arm made of light probing a wall of server racks, small red alert lights blinking on some servers, cool blue and magenta tones, close-up angle, no people, no logos, no readable text.",
-   "3D illustration of an open digital padlock floating above a stack of blank employee file folders, data particles drifting away into darkness, soft purple and teal lighting, wide minimalist composition, no people, no text or letters."
+   "A translucent glass ballot box glowing with soft blue circuit lines inside, blank paper envelopes floating around it, clean pastel background, 3D illustration, soft studio lighting, centered composition, no text, no logos, no people",
+   "Close-up of a neat stack of blank paper ballots being scanned by a gentle beam of light from a sleek white machine, small digital particles rising into the air, 3D render, low angle view, no letters, no people",
+   "Isometric 3D illustration of a small classic government building linked by glowing data lines to a floating neural network sphere and a modern university campus, warm sunset colors, minimal style, wide shot, no text, no people"
   ],
   "reel_script": [
-   "Hackers usaron inteligencia artificial para tumbar los sistemas de la Comisión Europea.",
-   "Según un funcionario citado por Politico, usaron *Artex*, una herramienta pública que busca fallas con IA. Las plataformas del personal quedaron fuera de servicio más de *10 días*.",
-   "Aún no se sabe quién fue ni si robaron datos. El *FBI* advierte que ya se usa contra organizaciones de gobierno, finanzas, defensa y *energía*."
+   "En 2027, una provincia argentina sumará inteligencia artificial al escrutinio electoral.",
+   "Santa Fe incorporará *inteligencia artificial* al escrutinio de las elecciones de 2027. Lo hará junto a la *Universidad Tecnológica Nacional*, según el diario El Litoral.",
+   "El escrutinio define quién gana una elección. Que la inteligencia artificial llegue ahí muestra que ya entra en *procesos públicos clave*. Ahora, lo importante será que sea transparente y se pueda controlar."
   ]
  },
- "caption": "🔐 Hackers atacaron a la Comisión Europea con una herramienta de IA y dejaron fuera de servicio sus sistemas de personal durante más de 10 días.\n\nSegún un funcionario europeo citado por Politico, CERT-EU, el servicio de ciberseguridad de las instituciones europeas, detectó que usaron Artex, un programa público que usa IA para encontrar puntos débiles en sistemas informáticos. El portavoz Thomas Regnier confirmó una campaña de ciberataques. Todavía no se sabe quién fue ni si se llevaron nombres, domicilios y datos de contacto de los funcionarios.\n\n¿Y esto a mí qué? Esta herramienta recibe órdenes en lenguaje cotidiano, y un investigador la definió como “un arma de apuntar y disparar”. El FBI advirtió que ya se usa contra organizaciones de gobierno, finanzas, defensa y energía.\n\n¿Deberían prohibirse las herramientas de IA de código abierto que sirven para hackear?\n\nFuente: Infobae, Clarín, Cadena 3\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: acediscovery / Wikimedia Commons (CC BY 4.0)\n\n#ciberseguridad #ComisionEuropea #Artex",
+ "caption": "🗳️ Santa Fe va a usar inteligencia artificial en el escrutinio de las elecciones de 2027.\n\nLa provincia argentina sumará IA al escrutinio de los próximos comicios, según Radio Rafaela y El Litoral. El proyecto se hará de la mano de la Universidad Tecnológica Nacional, según El Litoral.\n\n¿Y esto a mí qué? El escrutinio es el momento en que se cuentan los votos y se sabe quién ganó. Que la IA entre en ese proceso muestra que la tecnología ya no está solo en el celular: también empieza a llegar a procesos públicos clave. Lo importante será que el sistema sea transparente y se pueda controlar.\n\n¿Confiarías en que una IA ayude en el escrutinio de tu provincia o preferirías el conteo tradicional?\n\nFuente: El Litoral, Radio Rafaela.\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n#SantaFe #InteligenciaArtificial #Elecciones2027",
  "slides": [
-  "posts/20261119-1105/slide_1.jpg",
-  "posts/20261119-1105/slide_2.jpg",
-  "posts/20261119-1105/slide_3.jpg",
-  "posts/20261119-1105/slide_4.jpg"
+  "posts/20261119-1135/slide_1.jpg",
+  "posts/20261119-1135/slide_2.jpg",
+  "posts/20261119-1135/slide_3.jpg",
+  "posts/20261119-1135/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "Hackers usaron una herramienta de IA para atacar los sistemas de personal de la Comisión Europea",
-   "link": "https://www.infobae.com/tecno/2026/11/19/hackers-usaron-una-herramienta-de-ia-para-atacar-los-sistemas-de-personal-de-la-comision-europea/",
-   "source": "Infobae"
+   "title": "Santa Fe implementará inteligencia artificial para el escrutinio de votos en 2027",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRGJsTlNNQ3VzWk4yS3hRWGNxVVM3WkVpNTJEMHJzcXE3bVBxMXZSYUdUbzdlZms1Q2hpX1RTb2RNN3NrQkxKaDJDaE5sVnRfWlplNXo5LWdDeE51SUFEb1hnN0M0MXNpNjQwdEhiZUZobHotNk1xaTdvNWhXLWxVZGJSM3hadDNxNjFMb2N5Q2Y1NHl1Y2g0TFgySXZsQzZJVGpFem1rd0RINWdIRGZNZ1dRTTdMQ2QyODRVbnRodw?oc=5",
+   "source": "Radio Rafaela"
   },
   {
-   "title": "Revelan que la Unión Europea fue víctima de un ciberataque potenciado con inteligencia artificial",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeG11V2RPM2FMZzhZeHBPVU51Zl9DUnFCLUtqclN2cG03b2UteDN0Sk9iY1RnQ1E1TWwxZWdCUUc3NkotTU9yMDJIZmI4cDJWbE9nSkNoOHF0T1ZMX2dzRE94YjdmZDZROXg4RVFld0hLT0hoOHo0bTlScF9XYU5URlVQOEZobnNtX1NXUlpSanhkdndnT3p5b2NsNXNhY1RGTFp2dE5EY211MF9uQV9CYThQc3cxdkRkQmVuSHBDWmw?oc=5",
-   "source": "Clarin.com"
-  },
-  {
-   "title": "La Unión Europea sufrió un ciberataque impulsado por inteligencia artificial en octubre",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNFFIN3YxbEtUNHJpME56MUFERmVMejFjM0w5UXNsWElGcWtGQ1ppeVZkeUdiVXNQMGZHRlA2cE5zR2hsMVZEWFV0YnNwaEhBNC1YVlFsUVMwMHBrQmNETE9WMEdRYXRsWFJCZHZocGJqdTI3LXdfNEJjSDlCdkxlQTVWWmMtYVdCakhkcld4eUJHRi1VV3FVMGtEdXhDeXNhcl9LT0NYakw3T3QwbGNRUE9XZ0Z0Q3ZoaVRoOTFndWFlbmNld25RNV9nTVrSAdIBQVVfeXFMTkU4WG5JZ29DeGVjdUcxOXBSM01SVjYwbEtLa0xaMlRmd0pJcFZDT0lmTWZHa2ZQczY1Vm5pU1ZWRVhNelNSWEE4bEh4MW9MVkdRYl8xOTBsZGxhZ2NIMlF0NmVKSXo5QTRaTlNFb1d3Y2VDYU9nWXV0MjNsS2lpNzE0X0I4Y2tmZDFRMHBxWXE5WHNvQ09UaEZFakNNSVFQQUc3bFRLbEd5LUdmNGdZWDBGaE51MUd1QlNSV2dLTUk0SFJwQjVKeDdfSEZhY1BSZHRB?oc=5",
-   "source": "Cadena 3 Argentina"
+   "title": "De la mano de la UTN, Santa Fe incorporará inteligencia artificial al próximo escrutinio",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVnFBNVpIaldmS05GaFFnclVwSS1IeXg2eUZkSmZyXzVqZlVXVzdiRWJlNFVSQUNhZ0NJR2ZCaHN4b0VrUThsMXVDZ0k1ZWxiVjBaNjdOT3YtVUZHQ0lGV1RERjFjbUVJbDIwSHJRSHhlSnQ1MXMwTEMwVTFwRExKQ1B3Ylh6Q0JUakRiaE0tYy02X3M5WWRTczkyMnVWS2ZlN2RhMDRONExrU2htb3JUaUd6bXNpWUl2QWxQYnBRS2RIdjdNVWo5cnFzdTUyYW92U2ROWTJic2pZbjUxZnYtdzVoMWU4QXhkT1hGVGJSODBZTTFz?oc=5",
+   "source": "El Litoral"
   }
  ]
 }
