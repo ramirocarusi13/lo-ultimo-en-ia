@@ -1,59 +1,54 @@
 {
- "id": "20261118-2045",
+ "id": "20261118-2105",
  "post": {
   "skip": false,
   "skip_reason": "",
-  "confidence": "media",
-  "headline": "NVIDIA ADELANTA LA REVISIÓN DE *SUELDOS*: ALGUNOS PIDEN QUE *VUELVA HUANG*",
-  "badge": "NVIDIA",
+  "confidence": "alta",
+  "headline": "PALO ALTO PAGARÁ *4.500 MILLONES* POR UNA STARTUP DE *IA*",
+  "badge": "Palo Alto",
   "photos": [
-   "Colette Kress",
-   "Jensen Huang#3",
-   "Nvidia headquarters"
+   "Nikesh Arora",
+   "Palo Alto Networks headquarters",
+   ""
   ],
   "slides": [
-   "Colette Kress, directora ejecutiva interina de Nvidia, hizo su primera reunión con todo el personal tras la renuncia de Jensen Huang. Según CNBC, pidió *seguir adelante* y movió de marzo a diciembre la revisión anual, cuando suelen llegar *aumentos y más acciones*.",
-   "Según un asistente citado por CNBC, muchos en la sala quieren que *Huang vuelva*, aunque otra fuente lo matiza. Él dijo estar listo si el directorio lo quiere, pero su presidente, Harvey Jones, *no planea reincorporarlo*."
+   "La empresa de ciberseguridad Palo Alto Networks acordó comprar *Applied Compute*, una startup que ayuda a las empresas a usar y ajustar sus propios modelos de IA. La operación vale *4.500 millones de dólares* y se paga con acciones.",
+   "Su director ejecutivo, Nikesh Arora, dijo que la compra ayudará a las empresas a *proteger los modelos abiertos* de IA. Y fue más lejos: si funciona, este negocio *podría ser más grande* que todo lo que hacen hoy en ciberseguridad."
   ],
-  "caption": "💼 La jefa interina de Nvidia adelantó la revisión de sueldos de sus empleados, mientras algunos piden el regreso de Jensen Huang.\n\nColette Kress, también directora financiera, encabezó la primera reunión con todo el personal desde la renuncia de Huang. Según CNBC, pidió \"seguir adelante\" y movió de marzo a diciembre la revisión anual, cuando suelen llegar aumentos y más acciones.\n\nUn asistente citado por CNBC dice que muchos quieren que Huang vuelva, y él dijo estar listo si el directorio lo quiere. Pero su presidente, Harvey Jones, lo descartó.\n\n¿Y esto a mí qué? Nvidia busca mantener su dominio en la era de la IA, y lo que pase con su liderazgo pesa en toda la industria.\n\n¿Debería el directorio de Nvidia devolverle el mando a Jensen Huang?\n\nFuente: CNBC, WIRED, The New York Times\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "💰 Palo Alto Networks, gigante de la ciberseguridad, va a pagar 4.500 millones de dólares por una startup de IA.\n\nLa empresa acordó comprar Applied Compute, que ayuda a otras compañías a usar y ajustar sus propios modelos de inteligencia artificial. El pago será en acciones. El anuncio llegó con resultados mejores de lo esperado y sus acciones subieron más de 7%.\n\nSu director ejecutivo, Nikesh Arora, dijo que la compra servirá para proteger los modelos abiertos y que, si funciona, \"podría ser más grande que lo que hacemos\".\n\n¿Y esto a mí qué? Cada vez más empresas usan su propia IA, y el miedo a ciberataques con IA lleva a las grandes de la seguridad a proteger esos modelos.\n\n¿Confiarías en una empresa que usa su propia IA para manejar tus datos?\n\nFuente: CNBC, The Wall Street Journal.\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "Nvidia",
-   "ColetteKress",
-   "JensenHuang"
+   "PaloAltoNetworks",
+   "Ciberseguridad",
+   "InteligenciaArtificial"
   ],
   "image_prompts": [
-   "3D illustration of a large empty corporate auditorium stage with a single spotlight on an empty chair, rows of glowing green seats, dramatic cinematic lighting, symbolic leadership transition, no people, no text",
-   "3D illustration of a giant computer chip on a pedestal split into two halves, one side bright green and one side dim, floating light particles, dark background, symbolic company crossroads, no text or markings",
-   "3D illustration of a futuristic glass headquarters building at dusk with a downward stock arrow made of light hovering above it, clean minimal style, soft reflections, no logos, no text or letters"
+   "3D illustration of a glowing digital shield wrapped around a stack of server racks, golden coins flowing toward it from the side, dark blue background with soft neon light, wide cinematic angle, no text",
+   "3D illustration of a small luminous neural network sphere being placed inside a large protective glass vault, circuit patterns on the floor, purple and teal lighting, close-up view, no text or logos",
+   "3D illustration of a padlock made of light hovering above an open box full of glowing AI model cubes, data streams rising around it, isometric view, deep night blue tones, no text"
   ],
   "reel_script": [
-   "Jensen Huang renunció a Nvidia, y según CNBC muchos empleados quieren que regrese.",
-   "Colette Kress, la directora ejecutiva interina, reunió a todo el personal. Les pidió *seguir adelante* y adelantó de marzo a diciembre la revisión de sueldos y acciones.",
-   "Huang dijo estar listo para volver si el directorio lo quiere. Pero el directorio *no planea reincorporarlo* y, según CNBC, ya habla de buscar un nuevo director ejecutivo."
+   "Un gigante de la ciberseguridad pagará 4.500 millones por una startup de IA.",
+   "Palo Alto Networks acordó comprar *Applied Compute*, que ayuda a las empresas a usar y ajustar sus propios modelos de IA. El pago será todo en acciones.",
+   "Su director ejecutivo dice que servirá para *proteger los modelos abiertos*. Y que, si funciona, este negocio podría ser más grande que todo lo que hacen hoy."
   ]
  },
- "caption": "💼 La jefa interina de Nvidia adelantó la revisión de sueldos de sus empleados, mientras algunos piden el regreso de Jensen Huang.\n\nColette Kress, también directora financiera, encabezó la primera reunión con todo el personal desde la renuncia de Huang. Según CNBC, pidió \"seguir adelante\" y movió de marzo a diciembre la revisión anual, cuando suelen llegar aumentos y más acciones.\n\nUn asistente citado por CNBC dice que muchos quieren que Huang vuelva, y él dijo estar listo si el directorio lo quiere. Pero su presidente, Harvey Jones, lo descartó.\n\n¿Y esto a mí qué? Nvidia busca mantener su dominio en la era de la IA, y lo que pase con su liderazgo pesa en toda la industria.\n\n¿Debería el directorio de Nvidia devolverle el mando a Jensen Huang?\n\nFuente: CNBC, WIRED, The New York Times\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: SiliconANGLE theCUBE / Wikimedia Commons (CC BY 4.0)\n📸 Foto: Anders Eidesvik / Wikimedia Commons (CC BY 4.0)\n📸 Foto: Coolcaesar / Wikimedia Commons (CC BY-SA 4.0)\n🎥 Video: Narendra Modi / Wikimedia Commons (CC BY 3.0)\n\n#Nvidia #ColetteKress #JensenHuang",
+ "caption": "💰 Palo Alto Networks, gigante de la ciberseguridad, va a pagar 4.500 millones de dólares por una startup de IA.\n\nLa empresa acordó comprar Applied Compute, que ayuda a otras compañías a usar y ajustar sus propios modelos de inteligencia artificial. El pago será en acciones. El anuncio llegó con resultados mejores de lo esperado y sus acciones subieron más de 7%.\n\nSu director ejecutivo, Nikesh Arora, dijo que la compra servirá para proteger los modelos abiertos y que, si funciona, \"podría ser más grande que lo que hacemos\".\n\n¿Y esto a mí qué? Cada vez más empresas usan su propia IA, y el miedo a ciberataques con IA lleva a las grandes de la seguridad a proteger esos modelos.\n\n¿Confiarías en una empresa que usa su propia IA para manejar tus datos?\n\nFuente: CNBC, The Wall Street Journal.\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: TechCrunch / Wikimedia Commons (CC BY 2.0)\n📸 Foto: Namaste jinx / Wikimedia Commons (CC BY-SA 4.0)\n\n#PaloAltoNetworks #Ciberseguridad #InteligenciaArtificial",
  "slides": [
-  "posts/20261118-2045/slide_1.jpg",
-  "posts/20261118-2045/slide_2.jpg",
-  "posts/20261118-2045/slide_3.jpg",
-  "posts/20261118-2045/slide_4.jpg"
+  "posts/20261118-2105/slide_1.jpg",
+  "posts/20261118-2105/slide_2.jpg",
+  "posts/20261118-2105/slide_3.jpg",
+  "posts/20261118-2105/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "What Nvidia’s Interim CEO, Colette Kress, Said to Employees After Jensen Huang’s Resignation",
-   "link": "https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html",
-   "source": "The New York Times"
-  },
-  {
-   "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
-   "link": "https://www.wired.com/story/guys-really-we-got-this/",
-   "source": "WIRED"
-  },
-  {
-   "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
-   "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+   "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
+   "link": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
    "source": "CNBC"
+  },
+  {
+   "title": "Exclusive | Palo Alto Networks to Buy AI-Startup Applied Compute for $4.5 Billion",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYzJMRVRpMDh6UlVrLWNaa0JYTmZhMkUxWWdweFJuWDdJZWE2NmVsSFczcFMwT3FVYzRxVV93TXlrSVhfWDBnRTBsSTNRcjMxUF9KMnp5UVNYOTRKSlJPa0tRMC1Mc2FTN3I4RGpZRVJxZ3FCOUVkaEZkQTlDUzNpZ1V2VS1UOXZRdEkyODVCMTJuMC1pSWd2QnN1Skw1eTFWS0Z3dzd1enk?oc=5",
+   "source": "WSJ"
   }
  ]
 }

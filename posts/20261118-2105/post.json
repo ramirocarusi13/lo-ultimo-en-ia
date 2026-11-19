@@ -1,0 +1,54 @@
+{
+ "id": "20261118-2105",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "PALO ALTO PAGARÁ *4.500 MILLONES* POR UNA STARTUP DE *IA*",
+  "badge": "Palo Alto",
+  "photos": [
+   "Nikesh Arora",
+   "Palo Alto Networks headquarters",
+   ""
+  ],
+  "slides": [
+   "La empresa de ciberseguridad Palo Alto Networks acordó comprar *Applied Compute*, una startup que ayuda a las empresas a usar y ajustar sus propios modelos de IA. La operación vale *4.500 millones de dólares* y se paga con acciones.",
+   "Su director ejecutivo, Nikesh Arora, dijo que la compra ayudará a las empresas a *proteger los modelos abiertos* de IA. Y fue más lejos: si funciona, este negocio *podría ser más grande* que todo lo que hacen hoy en ciberseguridad."
+  ],
+  "caption": "💰 Palo Alto Networks, gigante de la ciberseguridad, va a pagar 4.500 millones de dólares por una startup de IA.\n\nLa empresa acordó comprar Applied Compute, que ayuda a otras compañías a usar y ajustar sus propios modelos de inteligencia artificial. El pago será en acciones. El anuncio llegó con resultados mejores de lo esperado y sus acciones subieron más de 7%.\n\nSu director ejecutivo, Nikesh Arora, dijo que la compra servirá para proteger los modelos abiertos y que, si funciona, \"podría ser más grande que lo que hacemos\".\n\n¿Y esto a mí qué? Cada vez más empresas usan su propia IA, y el miedo a ciberataques con IA lleva a las grandes de la seguridad a proteger esos modelos.\n\n¿Confiarías en una empresa que usa su propia IA para manejar tus datos?\n\nFuente: CNBC, The Wall Street Journal.\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "PaloAltoNetworks",
+   "Ciberseguridad",
+   "InteligenciaArtificial"
+  ],
+  "image_prompts": [
+   "3D illustration of a glowing digital shield wrapped around a stack of server racks, golden coins flowing toward it from the side, dark blue background with soft neon light, wide cinematic angle, no text",
+   "3D illustration of a small luminous neural network sphere being placed inside a large protective glass vault, circuit patterns on the floor, purple and teal lighting, close-up view, no text or logos",
+   "3D illustration of a padlock made of light hovering above an open box full of glowing AI model cubes, data streams rising around it, isometric view, deep night blue tones, no text"
+  ],
+  "reel_script": [
+   "Un gigante de la ciberseguridad pagará 4.500 millones por una startup de IA.",
+   "Palo Alto Networks acordó comprar *Applied Compute*, que ayuda a las empresas a usar y ajustar sus propios modelos de IA. El pago será todo en acciones.",
+   "Su director ejecutivo dice que servirá para *proteger los modelos abiertos*. Y que, si funciona, este negocio podría ser más grande que todo lo que hacen hoy."
+  ]
+ },
+ "caption": "💰 Palo Alto Networks, gigante de la ciberseguridad, va a pagar 4.500 millones de dólares por una startup de IA.\n\nLa empresa acordó comprar Applied Compute, que ayuda a otras compañías a usar y ajustar sus propios modelos de inteligencia artificial. El pago será en acciones. El anuncio llegó con resultados mejores de lo esperado y sus acciones subieron más de 7%.\n\nSu director ejecutivo, Nikesh Arora, dijo que la compra servirá para proteger los modelos abiertos y que, si funciona, \"podría ser más grande que lo que hacemos\".\n\n¿Y esto a mí qué? Cada vez más empresas usan su propia IA, y el miedo a ciberataques con IA lleva a las grandes de la seguridad a proteger esos modelos.\n\n¿Confiarías en una empresa que usa su propia IA para manejar tus datos?\n\nFuente: CNBC, The Wall Street Journal.\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: TechCrunch / Wikimedia Commons (CC BY 2.0)\n📸 Foto: Namaste jinx / Wikimedia Commons (CC BY-SA 4.0)\n\n#PaloAltoNetworks #Ciberseguridad #InteligenciaArtificial",
+ "slides": [
+  "posts/20261118-2105/slide_1.jpg",
+  "posts/20261118-2105/slide_2.jpg",
+  "posts/20261118-2105/slide_3.jpg",
+  "posts/20261118-2105/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
+   "link": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
+   "source": "CNBC"
+  },
+  {
+   "title": "Exclusive | Palo Alto Networks to Buy AI-Startup Applied Compute for $4.5 Billion",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYzJMRVRpMDh6UlVrLWNaa0JYTmZhMkUxWWdweFJuWDdJZWE2NmVsSFczcFMwT3FVYzRxVV93TXlrSVhfWDBnRTBsSTNRcjMxUF9KMnp5UVNYOTRKSlJPa0tRMC1Mc2FTN3I4RGpZRVJxZ3FCOUVkaEZkQTlDUzNpZ1V2VS1UOXZRdEkyODVCMTJuMC1pSWd2QnN1Skw1eTFWS0Z3dzd1enk?oc=5",
+   "source": "WSJ"
+  }
+ ]
+}
