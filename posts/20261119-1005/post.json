@@ -1,0 +1,54 @@
+{
+ "id": "20261119-1005",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "*CANVA* AHORA TE DEJA *APAGAR SU IA* GENERATIVA CON UN BOTÓN",
+  "badge": "Canva",
+  "photos": [
+   "Canva headquarters",
+   "",
+   ""
+  ],
+  "slides": [
+   "Canva sumó un interruptor para *desactivar sus herramientas de IA generativa*, como Magic Write, Magic Design, Magic Expand o Dream Lab. Se apaga desde Perfil, Configuración y Permisos, y está disponible *para usuarios gratis y pagos*.",
+   "Desde 2023, algunos usuarios se quejaban de la avalancha de funciones de IA. Ahora también pueden *ver primero el contenido hecho por personas* en la biblioteca. El quitafondos y Magic Grab *siguen activos*, porque no generan contenido nuevo."
+  ],
+  "caption": "🎨 Canva ahora te deja apagar su inteligencia artificial generativa con un solo interruptor.\n\nLa plataforma de diseño sumó dos ajustes nuevos. El primero desactiva herramientas como Magic Write, Magic Design, Magic Expand, Dream Lab y Canva Code. El segundo hace que la biblioteca te muestre primero plantillas y gráficos hechos por personas y menos contenido hecho con IA, aunque no lo oculta del todo. Los dos están disponibles para usuarios gratis y pagos.\n\nOjo: el quitafondos y Magic Grab siguen funcionando, porque trabajan solo con lo que ya está en tu diseño.\n\n¿Y esto a mí qué? Si te cansó que cada app te empuje la IA, ahora puedes elegir. Se apaga en Perfil > Configuración > Permisos.\n\n¿Vas a apagar la IA de Canva o la usas para tus diseños?\n\nFuente: The Verge, Engadget\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "Canva",
+   "inteligenciaartificial",
+   "IAgenerativa"
+  ],
+  "image_prompts": [
+   "A glossy 3D illustration of a giant toggle switch flipped to the off position on a colorful design workspace, surrounded by floating paintbrushes, color swatches and blank canvas cards, soft studio lighting, pastel purple and teal palette.",
+   "A 3D isometric illustration of a laptop on a desk showing an abstract design editor with colorful shapes, while small glowing magic sparkles fade away into the air, warm lighting, clean minimal style, no text on screen.",
+   "A 3D illustration of a library of floating blank design cards, the handmade ones with paper texture and pencil marks moving to the front while shiny digital cards drift to the back, soft gradient background, playful style."
+  ],
+  "reel_script": [
+   "Canva acaba de darte un botón para apagar su inteligencia artificial generativa.",
+   "Canva sumó un interruptor para apagar su IA generativa. Apaga herramientas como Magic Write y Dream Lab. Funciona para *usuarios gratis y pagos*, pero el quitafondos sigue activo.",
+   "Además, puedes ver primero *contenido hecho por personas* en la biblioteca. Desde 2023, algunos usuarios se quejaban de tanta IA. Ahora tú decides cuánta quieres usar."
+  ]
+ },
+ "caption": "🎨 Canva ahora te deja apagar su inteligencia artificial generativa con un solo interruptor.\n\nLa plataforma de diseño sumó dos ajustes nuevos. El primero desactiva herramientas como Magic Write, Magic Design, Magic Expand, Dream Lab y Canva Code. El segundo hace que la biblioteca te muestre primero plantillas y gráficos hechos por personas y menos contenido hecho con IA, aunque no lo oculta del todo. Los dos están disponibles para usuarios gratis y pagos.\n\nOjo: el quitafondos y Magic Grab siguen funcionando, porque trabajan solo con lo que ya está en tu diseño.\n\n¿Y esto a mí qué? Si te cansó que cada app te empuje la IA, ahora puedes elegir. Se apaga en Perfil > Configuración > Permisos.\n\n¿Vas a apagar la IA de Canva o la usas para tus diseños?\n\nFuente: The Verge, Engadget\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n#Canva #inteligenciaartificial #IAgenerativa",
+ "slides": [
+  "posts/20261119-1005/slide_1.jpg",
+  "posts/20261119-1005/slide_2.jpg",
+  "posts/20261119-1005/slide_3.jpg",
+  "posts/20261119-1005/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Canva adds an AI ‘off’ button",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+   "source": "The Verge"
+  },
+  {
+   "title": "Canva will let users switch off most generative AI",
+   "link": "https://www.engadget.com/2321318/canva-will-let-users-switch-off-most-generative-ai/",
+   "source": "Engadget"
+  }
+ ]
+}
