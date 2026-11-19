@@ -1,54 +1,59 @@
 {
- "id": "20261119-0955",
+ "id": "20261119-1105",
  "post": {
   "skip": false,
   "skip_reason": "",
   "confidence": "alta",
-  "headline": "CANVA AHORA TE DEJA *APAGAR SU IA GENERATIVA* CON UN SOLO BOTÓN",
-  "badge": "Canva",
+  "headline": "HACKERS USARON *IA* PARA ATACAR A LA *COMISIÓN EUROPEA*",
+  "badge": "UE",
   "photos": [
-   "Canva office Sydney",
-   "",
+   "Berlaymont building",
+   "European Commission Brussels",
    ""
   ],
   "slides": [
-   "Canva sumó un interruptor para *apagar sus funciones de IA generativa*, como Magic Write, Magic Design, Dream Lab y la creación de imágenes con su chatbot. También agregó una opción para ver primero *contenido hecho por personas* en su biblioteca.",
-   "Desde 2023, algunos usuarios se quejaban por la avalancha de IA en la plataforma. Los controles *funcionan en cuentas gratis y pagas*, aunque el quitafondos y Magic Grab siguen activos porque solo usan lo que ya está en el diseño."
+   "Según un funcionario citado por Politico, hackers usaron *Artex*, una herramienta pública que usa IA para detectar fallas, contra la Comisión Europea. Sysper, la plataforma de sueldos y licencias del personal, quedó caída varios días, y *todavía no se sabe si robaron datos personales*.",
+   "Según Wired, Artex es un programa de código abierto que conecta modelos de IA externos con herramientas de pruebas de seguridad y recibe órdenes en *lenguaje cotidiano*. *El FBI advirtió* que se usa contra organizaciones de gobierno, finanzas, defensa y energía."
   ],
-  "caption": "🎨 Canva ahora te deja apagar su inteligencia artificial generativa con un solo interruptor.\n\nEl nuevo ajuste desactiva herramientas como Magic Write, Magic Design, Magic Expand, Dream Lab, Canva Code y la creación de imágenes con su chatbot. Está en la sección Permisos de la configuración del perfil, y sirve tanto para cuentas gratis como pagas.\n\nTambién hay una opción para ver menos contenido hecho con IA en la biblioteca: así aparecen primero las plantillas y gráficos creados por personas. Eso sí, el quitafondos y Magic Grab siguen funcionando, porque solo usan lo que ya está en tu diseño.\n\n¿Y esto a mí qué? Si usas Canva para trabajar o estudiar, ahora puedes elegir cuánta IA quieres en tus diseños.\n\n¿Vas a apagar la IA de Canva o la seguirás usando para tus diseños?\n\nFuente: The Verge, Engadget\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "🔐 Hackers atacaron a la Comisión Europea con una herramienta de IA y dejaron fuera de servicio sus sistemas de personal durante más de 10 días.\n\nSegún un funcionario europeo citado por Politico, CERT-EU, el servicio de ciberseguridad de las instituciones europeas, detectó que usaron Artex, un programa público que usa IA para encontrar puntos débiles en sistemas informáticos. El portavoz Thomas Regnier confirmó una campaña de ciberataques. Todavía no se sabe quién fue ni si se llevaron nombres, domicilios y datos de contacto de los funcionarios.\n\n¿Y esto a mí qué? Esta herramienta recibe órdenes en lenguaje cotidiano, y un investigador la definió como “un arma de apuntar y disparar”. El FBI advirtió que ya se usa contra organizaciones de gobierno, finanzas, defensa y energía.\n\n¿Deberían prohibirse las herramientas de IA de código abierto que sirven para hackear?\n\nFuente: Infobae, Clarín, Cadena 3\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "Canva",
-   "IAGenerativa",
-   "DisenoGrafico"
+   "ciberseguridad",
+   "ComisionEuropea",
+   "Artex"
   ],
   "image_prompts": [
-   "3D illustration of a giant glossy toggle switch being flipped to the off position on a pastel design workspace, surrounded by floating color palettes, brushes and blank template cards, soft studio lighting, playful modern style, no text",
-   "3D illustration of an open laptop showing an abstract graphic design canvas with colorful shapes, while sparkling magic wand icons dissolve into particles beside it, top-down angle, purple and teal tones, no letters or logos",
-   "3D illustration of two stacks of blank design cards on a wooden desk, hand-painted paper sketches glowing warmly in front and shimmering digital sparkles fading behind, side view, soft pastel lighting, no text or symbols"
+   "3D illustration of a glowing blue government building made of glass at night, surrounded by red digital warning lights and a translucent shield cracking apart, dramatic lighting, dark navy background, symbolic cyberattack scene, no people, no text.",
+   "3D illustration of a sleek robotic arm made of light probing a wall of server racks, small red alert lights blinking on some servers, cool blue and magenta tones, close-up angle, no people, no logos, no readable text.",
+   "3D illustration of an open digital padlock floating above a stack of blank employee file folders, data particles drifting away into darkness, soft purple and teal lighting, wide minimalist composition, no people, no text or letters."
   ],
   "reel_script": [
-   "Canva acaba de darte un botón para apagar casi toda su inteligencia artificial.",
-   "Con un interruptor en Permisos, puedes desactivar Magic Write, Magic Design y Dream Lab. Otra opción muestra primero el *contenido hecho por personas* en su biblioteca.",
-   "Desde 2023, algunos usuarios pedían poder apagarla. Ahora, en cuentas *gratis y pagas*, tú decides cuánta IA usar, aunque el quitafondos sigue activo."
+   "Hackers usaron inteligencia artificial para tumbar los sistemas de la Comisión Europea.",
+   "Según un funcionario citado por Politico, usaron *Artex*, una herramienta pública que busca fallas con IA. Las plataformas del personal quedaron fuera de servicio más de *10 días*.",
+   "Aún no se sabe quién fue ni si robaron datos. El *FBI* advierte que ya se usa contra organizaciones de gobierno, finanzas, defensa y *energía*."
   ]
  },
- "caption": "🎨 Canva ahora te deja apagar su inteligencia artificial generativa con un solo interruptor.\n\nEl nuevo ajuste desactiva herramientas como Magic Write, Magic Design, Magic Expand, Dream Lab, Canva Code y la creación de imágenes con su chatbot. Está en la sección Permisos de la configuración del perfil, y sirve tanto para cuentas gratis como pagas.\n\nTambién hay una opción para ver menos contenido hecho con IA en la biblioteca: así aparecen primero las plantillas y gráficos creados por personas. Eso sí, el quitafondos y Magic Grab siguen funcionando, porque solo usan lo que ya está en tu diseño.\n\n¿Y esto a mí qué? Si usas Canva para trabajar o estudiar, ahora puedes elegir cuánta IA quieres en tus diseños.\n\n¿Vas a apagar la IA de Canva o la seguirás usando para tus diseños?\n\nFuente: The Verge, Engadget\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n#Canva #IAGenerativa #DisenoGrafico",
+ "caption": "🔐 Hackers atacaron a la Comisión Europea con una herramienta de IA y dejaron fuera de servicio sus sistemas de personal durante más de 10 días.\n\nSegún un funcionario europeo citado por Politico, CERT-EU, el servicio de ciberseguridad de las instituciones europeas, detectó que usaron Artex, un programa público que usa IA para encontrar puntos débiles en sistemas informáticos. El portavoz Thomas Regnier confirmó una campaña de ciberataques. Todavía no se sabe quién fue ni si se llevaron nombres, domicilios y datos de contacto de los funcionarios.\n\n¿Y esto a mí qué? Esta herramienta recibe órdenes en lenguaje cotidiano, y un investigador la definió como “un arma de apuntar y disparar”. El FBI advirtió que ya se usa contra organizaciones de gobierno, finanzas, defensa y energía.\n\n¿Deberían prohibirse las herramientas de IA de código abierto que sirven para hackear?\n\nFuente: Infobae, Clarín, Cadena 3\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: acediscovery / Wikimedia Commons (CC BY 4.0)\n📸 Foto: Dr Murali Mohan Gurram / Wikimedia Commons (CC BY-SA 3.0)\n\n#ciberseguridad #ComisionEuropea #Artex",
  "slides": [
-  "posts/20261119-0955/slide_1.jpg",
-  "posts/20261119-0955/slide_2.jpg",
-  "posts/20261119-0955/slide_3.jpg",
-  "posts/20261119-0955/slide_4.jpg"
+  "posts/20261119-1105/slide_1.jpg",
+  "posts/20261119-1105/slide_2.jpg",
+  "posts/20261119-1105/slide_3.jpg",
+  "posts/20261119-1105/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "Canva adds an AI ‘off’ button",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
-   "source": "The Verge"
+   "title": "Hackers usaron una herramienta de IA para atacar los sistemas de personal de la Comisión Europea",
+   "link": "https://www.infobae.com/tecno/2026/11/19/hackers-usaron-una-herramienta-de-ia-para-atacar-los-sistemas-de-personal-de-la-comision-europea/",
+   "source": "Infobae"
   },
   {
-   "title": "Canva will let users switch off most generative AI",
-   "link": "https://www.engadget.com/2321318/canva-will-let-users-switch-off-most-generative-ai/",
-   "source": "Engadget"
+   "title": "Revelan que la Unión Europea fue víctima de un ciberataque potenciado con inteligencia artificial",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeG11V2RPM2FMZzhZeHBPVU51Zl9DUnFCLUtqclN2cG03b2UteDN0Sk9iY1RnQ1E1TWwxZWdCUUc3NkotTU9yMDJIZmI4cDJWbE9nSkNoOHF0T1ZMX2dzRE94YjdmZDZROXg4RVFld0hLT0hoOHo0bTlScF9XYU5URlVQOEZobnNtX1NXUlpSanhkdndnT3p5b2NsNXNhY1RGTFp2dE5EY211MF9uQV9CYThQc3cxdkRkQmVuSHBDWmw?oc=5",
+   "source": "Clarin.com"
+  },
+  {
+   "title": "La Unión Europea sufrió un ciberataque impulsado por inteligencia artificial en octubre",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNFFIN3YxbEtUNHJpME56MUFERmVMejFjM0w5UXNsWElGcWtGQ1ppeVZkeUdiVXNQMGZHRlA2cE5zR2hsMVZEWFV0YnNwaEhBNC1YVlFsUVMwMHBrQmNETE9WMEdRYXRsWFJCZHZocGJqdTI3LXdfNEJjSDlCdkxlQTVWWmMtYVdCakhkcld4eUJHRi1VV3FVMGtEdXhDeXNhcl9LT0NYakw3T3QwbGNRUE9XZ0Z0Q3ZoaVRoOTFndWFlbmNld25RNV9nTVrSAdIBQVVfeXFMTkU4WG5JZ29DeGVjdUcxOXBSM01SVjYwbEtLa0xaMlRmd0pJcFZDT0lmTWZHa2ZQczY1Vm5pU1ZWRVhNelNSWEE4bEh4MW9MVkdRYl8xOTBsZGxhZ2NIMlF0NmVKSXo5QTRaTlNFb1d3Y2VDYU9nWXV0MjNsS2lpNzE0X0I4Y2tmZDFRMHBxWXE5WHNvQ09UaEZFakNNSVFQQUc3bFRLbEd5LUdmNGdZWDBGaE51MUd1QlNSV2dLTUk0SFJwQjVKeDdfSEZhY1BSZHRB?oc=5",
+   "source": "Cadena 3 Argentina"
   }
  ]
 }
