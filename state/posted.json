@@ -208,7 +208,9 @@
   "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYUlPb1V1MVNTNVIyR3NlWmg5QV9qZ1FPbUY1OG9NeUFjcnBVbFpreml6M1VGM2c4OGd0ckkzR2JjSTFsbHM2cDFkRHpEMGx0RzM1dVdjMVZSak8tcXlaVDVCV0hIS1ZQY2xhdjdERnJSQ1lHSHRsc1FmM2VkbWtWNA?oc=5",
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYjhncHZEanhZT1N3aEtyem4xX0tDMzJOb3d2WUtQcW4wNjlYZUh0ZlRuanJQdDRnMGhTVExHUWtGQWNtZm1xZDhBbFN2SldqVGJULXlDLTJLbUxob1hobmcyZFhtNkJCeHNMbi1ZSllDaDFyVFRhTF81TjJRcDYzSmxOZ0o0VURTWmstc2lhNXBhdzROakZ4S2VVOHU2bGNSLU14U3doOXhBbjdHZGc4R09jOTdSYWt1NHc?oc=5",
   "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
-  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYzJMRVRpMDh6UlVrLWNaa0JYTmZhMkUxWWdweFJuWDdJZWE2NmVsSFczcFMwT3FVYzRxVV93TXlrSVhfWDBnRTBsSTNRcjMxUF9KMnp5UVNYOTRKSlJPa0tRMC1Mc2FTN3I4RGpZRVJxZ3FCOUVkaEZkQTlDUzNpZ1V2VS1UOXZRdEkyODVCMTJuMC1pSWd2QnN1Skw1eTFWS0Z3dzd1enk?oc=5"
+  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYzJMRVRpMDh6UlVrLWNaa0JYTmZhMkUxWWdweFJuWDdJZWE2NmVsSFczcFMwT3FVYzRxVV93TXlrSVhfWDBnRTBsSTNRcjMxUF9KMnp5UVNYOTRKSlJPa0tRMC1Mc2FTN3I4RGpZRVJxZ3FCOUVkaEZkQTlDUzNpZ1V2VS1UOXZRdEkyODVCMTJuMC1pSWd2QnN1Skw1eTFWS0Z3dzd1enk?oc=5",
+  "https://www.cnbc.com/2026/11/18/microsoft-put-the-ai-threat-to-software-behind-it-then-came-the-outage.html",
+  "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -289,7 +291,8 @@
   "NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I.",
   "What Nvidia’s Interim CEO, Colette Kress, Said to Employees After Jensen Huang’s Resignation",
   "A.I. Mistook a Bag of Chips for a Gun, Teenagers’ Lawsuit Says",
-  "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings"
+  "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
+  "Microsoft CEO Satya Nadella calls Outlook outage a 'perfect storm.' Here's what went wrong"
  ],
  "history": [
   {
@@ -758,6 +761,12 @@
   {
    "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
    "at": 1795047295,
+   "permalink": null,
+   "kind": "post"
+  },
+  {
+   "title": "Microsoft CEO Satya Nadella calls Outlook outage a 'perfect storm.' Here's what went wrong",
+   "at": 1795047740,
    "permalink": null,
    "kind": "post"
   }

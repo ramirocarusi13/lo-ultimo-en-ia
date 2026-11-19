@@ -1,0 +1,54 @@
+{
+ "id": "20261118-2115",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "media",
+  "headline": "NADELLA SOBRE LA *CAÍDA DE OUTLOOK*: \"DEBIMOS PROBARLO *ANTES*\"",
+  "badge": "Microsoft",
+  "photos": [
+   "Satya Nadella",
+   "Microsoft Redmond",
+   "Microsoft datacenter"
+  ],
+  "slides": [
+   "Satya Nadella, director ejecutivo de Microsoft, reconoció en CNBC que la caída de Outlook fue *una tormenta perfecta*: un error oculto que apareció con cierto patrón de tráfico. Admitió que *debieron hacer las pruebas antes* y preparar barreras para que la falla no fuera global.",
+   "Según Nadella, la IA permite *encontrar y corregir errores más rápido*, pero cada arreglo exige un parche, y tantos parches sobre *infraestructura vieja* generan inestabilidad. La caída de Outlook abrió una semana de fallas tecnológicas que afectaron a empresas, aerolíneas y bancos."
+  ],
+  "caption": "🧠 Satya Nadella admitió que Microsoft pudo hacer más para evitar la caída de Outlook de la semana pasada: \"Deberíamos haber hecho las pruebas antes\".\n\nEl director ejecutivo de Microsoft habló con CNBC y la llamó una \"tormenta perfecta\": un error escondido que solo apareció con un patrón de tráfico particular y terminó en una caída global que frenó a muchas empresas de Estados Unidos.\n\nSu explicación de fondo: la IA ayuda a encontrar y corregir errores más rápido, pero cada arreglo es un parche nuevo, y tantos parches sobre infraestructura vieja generan inestabilidad.\n\n¿Y esto a mí qué? Tu trabajo depende de pocos servicios en la nube. Cuando uno falla, se frena el trabajo de muchas empresas a la vez.\n\n¿Aceptarías más caídas a cambio de que la IA arregle los errores más rápido?\n\nFuente: CNBC\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "Microsoft",
+   "Outlook",
+   "SatyaNadella"
+  ],
+  "image_prompts": [
+   "3D illustration of a glowing envelope icon cracking apart above a dark skyline of cloud server towers, lightning bolts in a stormy purple sky, dramatic cinematic lighting, wide shot, no text, no logos, no people",
+   "3D illustration of a giant inbox tray with paper envelopes frozen mid-air, red warning lights flashing on rows of server racks behind it, moody blue tones, isometric view, no text, no logos, no people",
+   "3D illustration of an old stone wall covered in many colorful patches and bandages, small robotic arms adding more patches while new cracks spread, soft studio lighting, close-up angle, no text, no logos, no people"
+  ],
+  "reel_script": [
+   "Microsoft admite que pudo hacer más para evitar la gran caída de Outlook.",
+   "Satya Nadella dijo que fue una *tormenta perfecta*. Un error oculto apareció solo con cierto patrón de tráfico. Admitió que debieron hacer las pruebas antes.",
+   "Nadella explica que la IA encuentra errores más rápido, pero cada arreglo es un *parche* nuevo. Sobre sistemas viejos, eso genera inestabilidad. Arreglar rápido sin romper nada sigue siendo el reto."
+  ]
+ },
+ "caption": "🧠 Satya Nadella admitió que Microsoft pudo hacer más para evitar la caída de Outlook de la semana pasada: \"Deberíamos haber hecho las pruebas antes\".\n\nEl director ejecutivo de Microsoft habló con CNBC y la llamó una \"tormenta perfecta\": un error escondido que solo apareció con un patrón de tráfico particular y terminó en una caída global que frenó a muchas empresas de Estados Unidos.\n\nSu explicación de fondo: la IA ayuda a encontrar y corregir errores más rápido, pero cada arreglo es un parche nuevo, y tantos parches sobre infraestructura vieja generan inestabilidad.\n\n¿Y esto a mí qué? Tu trabajo depende de pocos servicios en la nube. Cuando uno falla, se frena el trabajo de muchas empresas a la vez.\n\n¿Aceptarías más caídas a cambio de que la IA arregle los errores más rápido?\n\nFuente: CNBC\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Brian Smale and Microsoft / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: Jiaqian AirplaneFan / Wikimedia Commons (CC BY 3.0)\n📸 Foto: Johan Wessman / News Oresund / Wikimedia Commons (CC BY 2.0)\n🎥 Video: Tech.Science.Society / Wikimedia Commons (CC BY 3.0)\n\n#Microsoft #Outlook #SatyaNadella",
+ "slides": [
+  "posts/20261118-2115/slide_1.jpg",
+  "posts/20261118-2115/slide_2.jpg",
+  "posts/20261118-2115/slide_3.jpg",
+  "posts/20261118-2115/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Microsoft CEO Satya Nadella calls Outlook outage a 'perfect storm.' Here's what went wrong",
+   "link": "https://www.cnbc.com/2026/11/18/microsoft-put-the-ai-threat-to-software-behind-it-then-came-the-outage.html",
+   "source": "CNBC"
+  },
+  {
+   "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+   "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+   "source": "TechCrunch"
+  }
+ ]
+}
