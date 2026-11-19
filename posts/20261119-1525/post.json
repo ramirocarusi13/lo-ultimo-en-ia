@@ -1,0 +1,54 @@
+{
+ "id": "20261119-1525",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "GOOGLE: *GEMINI* YA PUEDE *USAR TU MAC* POR TI",
+  "badge": "Gemini",
+  "photos": [
+   "MacBook",
+   "MacBook Pro keyboard",
+   "Googleplex"
+  ],
+  "slides": [
+   "Google anunció que *Gemini para Mac* ahora puede usar tu computadora: hace tareas de varios pasos por ti con tus archivos, las apps y la web, *mientras ves una vista previa en vivo* en el chat.",
+   "Tú decides a qué apps accede y puedes pausar, detener o aprobar sus acciones antes de que ocurran. Por ahora llega *solo en inglés en Estados Unidos*, con suscripción Google AI Plus, Pro o Ultra. Según TechCrunch, *OpenAI, Anthropic y Meta* ya ofrecían algo parecido."
+  ],
+  "caption": "🤖 Gemini ya puede usar tu Mac por ti: hace tareas de varios pasos entre tus archivos, apps y la web.\n\nGoogle anunció que la app de Gemini para macOS suma el control de la computadora. Mientras trabaja, ves una vista previa en vivo en el chat y tu pantalla y tu cursor quedan libres. Tú eliges a qué apps accede y puedes pausar, detener o aprobar sus acciones antes de que ocurran.\n\n¿Y esto a mí qué? Sirve para tareas pesadas: llenar formularios, ordenar archivos o armar presentaciones. Llega solo en inglés en Estados Unidos y pide suscripción Google AI Plus, Pro o Ultra. Según TechCrunch, Google llega tarde: OpenAI, Anthropic y Meta ya ofrecen funciones parecidas.\n\n¿Dejarías que una IA llene formularios en tu computadora sin que toques el mouse?\n\nFuente: The Verge, TechCrunch\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "Gemini",
+   "Google",
+   "AgentesIA"
+  ],
+  "image_prompts": [
+   "A sleek 3D illustration of an open laptop on a wooden desk, a glowing blue and purple AI sparkle orb floating above the keyboard, translucent blank windows and folders flying out of the screen, soft studio lighting, no text.",
+   "Isometric 3D scene of a desktop computer workspace where a small friendly robotic hand guides a mouse cursor across floating blank forms and file folders, pastel colors, clean minimal style, no logos, no letters.",
+   "Close-up 3D render of a glowing shield and toggle switches beside a laptop screen showing blank rounded app icons, symbolizing user control and permissions, dark background with neon blue accents, no text, no logos."
+  ],
+  "reel_script": [
+   "Gemini ya puede manejar tu Mac mientras tú haces otra cosa.",
+   "Google anunció que *Gemini* para Mac ya hace tareas de varios pasos por ti, como llenar formularios, ordenar archivos o armar presentaciones, y tú lo ves en vivo en el chat.",
+   "Tú eliges a qué apps entra y puedes *aprobar* sus acciones antes de que ocurran. Llega solo en inglés en Estados Unidos, y Apple ya prepara nuevos límites por sus riesgos."
+  ]
+ },
+ "caption": "🤖 Gemini ya puede usar tu Mac por ti: hace tareas de varios pasos entre tus archivos, apps y la web.\n\nGoogle anunció que la app de Gemini para macOS suma el control de la computadora. Mientras trabaja, ves una vista previa en vivo en el chat y tu pantalla y tu cursor quedan libres. Tú eliges a qué apps accede y puedes pausar, detener o aprobar sus acciones antes de que ocurran.\n\n¿Y esto a mí qué? Sirve para tareas pesadas: llenar formularios, ordenar archivos o armar presentaciones. Llega solo en inglés en Estados Unidos y pide suscripción Google AI Plus, Pro o Ultra. Según TechCrunch, Google llega tarde: OpenAI, Anthropic y Meta ya ofrecen funciones parecidas.\n\n¿Dejarías que una IA llene formularios en tu computadora sin que toques el mouse?\n\nFuente: The Verge, TechCrunch\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Perituss / Wikimedia Commons (CC0)\n📸 Foto: Fletcher / Wikimedia Commons (CC BY 4.0)\n📸 Foto: The Pancake of Heaven! / Wikimedia Commons (CC BY-SA 4.0)\n\n#Gemini #Google #AgentesIA",
+ "slides": [
+  "posts/20261119-1525/slide_1.jpg",
+  "posts/20261119-1525/slide_2.jpg",
+  "posts/20261119-1525/slide_3.jpg",
+  "posts/20261119-1525/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Gemini on Mac can now use your computer",
+   "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+   "source": "The Verge"
+  },
+  {
+   "title": "Google gives Gemini the ability to use your Mac for you",
+   "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+   "source": "TechCrunch"
+  }
+ ]
+}

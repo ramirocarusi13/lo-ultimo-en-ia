@@ -1,54 +1,54 @@
 {
- "id": "20261119-1135",
+ "id": "20261119-1525",
  "post": {
   "skip": false,
   "skip_reason": "",
   "confidence": "alta",
-  "headline": "SANTA FE SUMARÁ *INTELIGENCIA ARTIFICIAL* AL ESCRUTINIO DE *2027*",
-  "badge": "Santa Fe",
+  "headline": "GOOGLE: *GEMINI* YA PUEDE *USAR TU MAC* POR TI",
+  "badge": "Gemini",
   "photos": [
-   "Santa Fe Government House",
-   "Universidad Tecnologica Nacional Argentina",
-   "Argentina election ballot"
+   "MacBook",
+   "MacBook Pro keyboard",
+   "Googleplex"
   ],
   "slides": [
-   "La provincia de Santa Fe, en Argentina, va a *incorporar inteligencia artificial al escrutinio* de las elecciones de 2027. El proyecto se hará de la mano de la *Universidad Tecnológica Nacional*, según el diario El Litoral.",
-   "El escrutinio es el *conteo de los votos* que define quién gana una elección. Que una provincia sume IA a ese proceso muestra cómo esta tecnología empieza a llegar a tareas públicas clave, donde *la confianza y la transparencia* son fundamentales."
+   "Google anunció que *Gemini para Mac* ahora puede usar tu computadora: hace tareas de varios pasos por ti con tus archivos, las apps y la web, *mientras ves una vista previa en vivo* en el chat.",
+   "Tú decides a qué apps accede y puedes pausar, detener o aprobar sus acciones antes de que ocurran. Por ahora llega *solo en inglés en Estados Unidos*, con suscripción Google AI Plus, Pro o Ultra. Según TechCrunch, *OpenAI, Anthropic y Meta* ya ofrecían algo parecido."
   ],
-  "caption": "🗳️ Santa Fe va a usar inteligencia artificial en el escrutinio de las elecciones de 2027.\n\nLa provincia argentina sumará IA al escrutinio de los próximos comicios, según Radio Rafaela y El Litoral. El proyecto se hará de la mano de la Universidad Tecnológica Nacional, según El Litoral.\n\n¿Y esto a mí qué? El escrutinio es el momento en que se cuentan los votos y se sabe quién ganó. Que la IA entre en ese proceso muestra que la tecnología ya no está solo en el celular: también empieza a llegar a procesos públicos clave. Lo importante será que el sistema sea transparente y se pueda controlar.\n\n¿Confiarías en que una IA ayude en el escrutinio de tu provincia o preferirías el conteo tradicional?\n\nFuente: El Litoral, Radio Rafaela.\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "🤖 Gemini ya puede usar tu Mac por ti: hace tareas de varios pasos entre tus archivos, apps y la web.\n\nGoogle anunció que la app de Gemini para macOS suma el control de la computadora. Mientras trabaja, ves una vista previa en vivo en el chat y tu pantalla y tu cursor quedan libres. Tú eliges a qué apps accede y puedes pausar, detener o aprobar sus acciones antes de que ocurran.\n\n¿Y esto a mí qué? Sirve para tareas pesadas: llenar formularios, ordenar archivos o armar presentaciones. Llega solo en inglés en Estados Unidos y pide suscripción Google AI Plus, Pro o Ultra. Según TechCrunch, Google llega tarde: OpenAI, Anthropic y Meta ya ofrecen funciones parecidas.\n\n¿Dejarías que una IA llene formularios en tu computadora sin que toques el mouse?\n\nFuente: The Verge, TechCrunch\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "SantaFe",
-   "InteligenciaArtificial",
-   "Elecciones2027"
+   "Gemini",
+   "Google",
+   "AgentesIA"
   ],
   "image_prompts": [
-   "A translucent glass ballot box glowing with soft blue circuit lines inside, blank paper envelopes floating around it, clean pastel background, 3D illustration, soft studio lighting, centered composition, no text, no logos, no people",
-   "Close-up of a neat stack of blank paper ballots being scanned by a gentle beam of light from a sleek white machine, small digital particles rising into the air, 3D render, low angle view, no letters, no people",
-   "Isometric 3D illustration of a small classic government building linked by glowing data lines to a floating neural network sphere and a modern university campus, warm sunset colors, minimal style, wide shot, no text, no people"
+   "A sleek 3D illustration of an open laptop on a wooden desk, a glowing blue and purple AI sparkle orb floating above the keyboard, translucent blank windows and folders flying out of the screen, soft studio lighting, no text.",
+   "Isometric 3D scene of a desktop computer workspace where a small friendly robotic hand guides a mouse cursor across floating blank forms and file folders, pastel colors, clean minimal style, no logos, no letters.",
+   "Close-up 3D render of a glowing shield and toggle switches beside a laptop screen showing blank rounded app icons, symbolizing user control and permissions, dark background with neon blue accents, no text, no logos."
   ],
   "reel_script": [
-   "En 2027, una provincia argentina sumará inteligencia artificial al escrutinio electoral.",
-   "Santa Fe incorporará *inteligencia artificial* al escrutinio de las elecciones de 2027. Lo hará junto a la *Universidad Tecnológica Nacional*, según el diario El Litoral.",
-   "El escrutinio define quién gana una elección. Que la inteligencia artificial llegue ahí muestra que ya entra en *procesos públicos clave*. Ahora, lo importante será que sea transparente y se pueda controlar."
+   "Gemini ya puede manejar tu Mac mientras tú haces otra cosa.",
+   "Google anunció que *Gemini* para Mac ya hace tareas de varios pasos por ti, como llenar formularios, ordenar archivos o armar presentaciones, y tú lo ves en vivo en el chat.",
+   "Tú eliges a qué apps entra y puedes *aprobar* sus acciones antes de que ocurran. Llega solo en inglés en Estados Unidos, y Apple ya prepara nuevos límites por sus riesgos."
   ]
  },
- "caption": "🗳️ Santa Fe va a usar inteligencia artificial en el escrutinio de las elecciones de 2027.\n\nLa provincia argentina sumará IA al escrutinio de los próximos comicios, según Radio Rafaela y El Litoral. El proyecto se hará de la mano de la Universidad Tecnológica Nacional, según El Litoral.\n\n¿Y esto a mí qué? El escrutinio es el momento en que se cuentan los votos y se sabe quién ganó. Que la IA entre en ese proceso muestra que la tecnología ya no está solo en el celular: también empieza a llegar a procesos públicos clave. Lo importante será que el sistema sea transparente y se pueda controlar.\n\n¿Confiarías en que una IA ayude en el escrutinio de tu provincia o preferirías el conteo tradicional?\n\nFuente: El Litoral, Radio Rafaela.\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n#SantaFe #InteligenciaArtificial #Elecciones2027",
+ "caption": "🤖 Gemini ya puede usar tu Mac por ti: hace tareas de varios pasos entre tus archivos, apps y la web.\n\nGoogle anunció que la app de Gemini para macOS suma el control de la computadora. Mientras trabaja, ves una vista previa en vivo en el chat y tu pantalla y tu cursor quedan libres. Tú eliges a qué apps accede y puedes pausar, detener o aprobar sus acciones antes de que ocurran.\n\n¿Y esto a mí qué? Sirve para tareas pesadas: llenar formularios, ordenar archivos o armar presentaciones. Llega solo en inglés en Estados Unidos y pide suscripción Google AI Plus, Pro o Ultra. Según TechCrunch, Google llega tarde: OpenAI, Anthropic y Meta ya ofrecen funciones parecidas.\n\n¿Dejarías que una IA llene formularios en tu computadora sin que toques el mouse?\n\nFuente: The Verge, TechCrunch\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Perituss / Wikimedia Commons (CC0)\n📸 Foto: Fletcher / Wikimedia Commons (CC BY 4.0)\n📸 Foto: The Pancake of Heaven! / Wikimedia Commons (CC BY-SA 4.0)\n\n#Gemini #Google #AgentesIA",
  "slides": [
-  "posts/20261119-1135/slide_1.jpg",
-  "posts/20261119-1135/slide_2.jpg",
-  "posts/20261119-1135/slide_3.jpg",
-  "posts/20261119-1135/slide_4.jpg"
+  "posts/20261119-1525/slide_1.jpg",
+  "posts/20261119-1525/slide_2.jpg",
+  "posts/20261119-1525/slide_3.jpg",
+  "posts/20261119-1525/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "Santa Fe implementará inteligencia artificial para el escrutinio de votos en 2027",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRGJsTlNNQ3VzWk4yS3hRWGNxVVM3WkVpNTJEMHJzcXE3bVBxMXZSYUdUbzdlZms1Q2hpX1RTb2RNN3NrQkxKaDJDaE5sVnRfWlplNXo5LWdDeE51SUFEb1hnN0M0MXNpNjQwdEhiZUZobHotNk1xaTdvNWhXLWxVZGJSM3hadDNxNjFMb2N5Q2Y1NHl1Y2g0TFgySXZsQzZJVGpFem1rd0RINWdIRGZNZ1dRTTdMQ2QyODRVbnRodw?oc=5",
-   "source": "Radio Rafaela"
+   "title": "Gemini on Mac can now use your computer",
+   "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+   "source": "The Verge"
   },
   {
-   "title": "De la mano de la UTN, Santa Fe incorporará inteligencia artificial al próximo escrutinio",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVnFBNVpIaldmS05GaFFnclVwSS1IeXg2eUZkSmZyXzVqZlVXVzdiRWJlNFVSQUNhZ0NJR2ZCaHN4b0VrUThsMXVDZ0k1ZWxiVjBaNjdOT3YtVUZHQ0lGV1RERjFjbUVJbDIwSHJRSHhlSnQ1MXMwTEMwVTFwRExKQ1B3Ylh6Q0JUakRiaE0tYy02X3M5WWRTczkyMnVWS2ZlN2RhMDRONExrU2htb3JUaUd6bXNpWUl2QWxQYnBRS2RIdjdNVWo5cnFzdTUyYW92U2ROWTJic2pZbjUxZnYtdzVoMWU4QXhkT1hGVGJSODBZTTFz?oc=5",
-   "source": "El Litoral"
+   "title": "Google gives Gemini the ability to use your Mac for you",
+   "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+   "source": "TechCrunch"
   }
  ]
 }

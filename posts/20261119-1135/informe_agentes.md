@@ -11,3 +11,10 @@
 - Revisor legal: OK, riesgo bajo. Sin etiqueta de IA (solo ilustraciones 3D).
 - Guionista: CAMBIOS, gancho 6/10. Gancho nuevo con 2027 al inicio; oraciones partidas.
 - Cazador de videos: sin clips con licencia libre ni video oficial -> sin Reel, va carrusel.
+
+## Armado y revisión visual (pasos 4-5)
+- Armado OK: 4 slides, sin fotos reales (las 3 imágenes son ilustraciones 3D). Sin Reel.
+- Productor: CARRUSEL (decisión pública sin escena visible, sin clips).
+- Director de arte: OK, 8/10. Detalle menor: en slide 1 un sobre roza el @handle de arriba (contraste justo). No se rearmó.
+- Jefe de redacción: aplicados todos los cambios del verificador y del legal, más los de estilo y guion. Revisé los slides: se leen bien.
+- Etiqueta de IA: no hace falta (ilustraciones 3D, sin fotos realistas ni personas).
