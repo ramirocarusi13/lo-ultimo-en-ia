@@ -1,49 +1,54 @@
 {
- "id": "20261119-1725",
+ "id": "20261119-1905",
  "post": {
   "skip": false,
   "skip_reason": "",
-  "confidence": "alta",
-  "headline": "*NVIDIA* Y *MICROSOFT* LLEVAN SU IA DE LA NUBE A *WINDOWS*",
-  "badge": "NVIDIA",
+  "confidence": "media",
+  "headline": "EL *MUSE CHARM* DE META COSTARÍA *300 DÓLARES*, SEGÚN REPORTE",
+  "badge": "Meta",
   "photos": [
-   "Nvidia headquarters",
-   "Microsoft Redmond",
-   "Nvidia GPU"
+   "Mark Zuckerberg",
+   "",
+   "Meta headquarters Menlo Park"
   ],
   "slides": [
-   "En Microsoft Ignite, NVIDIA y Microsoft ampliaron su alianza: Azure amplía el acceso, en vista previa, a máquinas virtuales con los sistemas *Vera Rubin NVL72* de NVIDIA, y en PCs con Windows y tecnología RTX Spark mostrarán *modelos de lenguaje corriendo en el propio equipo*.",
-   "Además, los *modelos abiertos Nemotron* de NVIDIA llegan a Microsoft Foundry para que las empresas armen sus propios agentes. Según NVIDIA, EY los adaptó y mejoró un 55% la precisión en sus pruebas *con un costo 15 veces menor* que modelos cerrados de punta."
+   "Según el medio The Information, Meta planea vender el *Muse Charm a 300 dólares*. Es un pequeño aparato con pantalla, del tamaño de un llavero, para hablar con Muse, su agente de IA. Meta no lo negó: dijo que pronto compartirá más.",
+   "Mark Zuckerberg lo presentó este año y prometió que llegaría *para las fiestas de diciembre*. Según The Information, incluiría 12 meses de datos 5G gratis de Verizon. Sería más caro que otros: el de Friend cuesta 250 dólares y el *Bee de Amazon, 75 dólares*."
   ],
-  "caption": "🤖 NVIDIA y Microsoft amplían su alianza de inteligencia artificial: desde los centros de datos de Azure hasta las PCs con Windows.\n\nLo anunciaron en Microsoft Ignite. Azure amplía el acceso, en vista previa, a máquinas virtuales con los nuevos sistemas Vera Rubin NVL72 de NVIDIA. Además, los modelos abiertos Nemotron 3.5 llegan a Microsoft Foundry y, según NVIDIA, la consultora EY los adaptó para clasificar registros de compras con 55% más de precisión y un costo 15 veces menor.\n\n¿Y esto a mí qué? Las dos empresas mostrarán PCs con Windows y tecnología RTX Spark que corren modelos de lenguaje directo en el equipo. Y las PCs en la nube de Windows 365 con GPU podrán transmitir hasta dos pantallas 4K, por ahora en vista previa limitada.\n\n¿Usarías una IA que funcione directo en tu computadora en vez de en la nube?\n\nFuente: NVIDIA\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "📱 Meta le pondría precio a su gadget de IA: el Muse Charm costaría 300 dólares, según The Information.\n\nEs un aparatito con pantalla y sensor de huellas, del tamaño de un llavero, para hablar con Muse, el agente de IA de Meta, sin desbloquear el celular. Mark Zuckerberg prometió que llegaría para las fiestas de diciembre. Según el reporte, vendría con 12 meses de datos 5G gratis de Verizon.\n\n¿Y esto a mí qué? Es la apuesta de Meta para que su IA viva en tu bolsillo y no solo en una app. Como referencia, el dispositivo de Friend cuesta 250 dólares y el Bee de Amazon, 75 dólares.\n\n¿Pagarías 300 dólares por un aparatito con IA del tamaño de un llavero o te alcanza con la app del celular?\n\nFuente: TechCrunch, The Verge (según The Information)\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "NVIDIA",
-   "Microsoft",
-   "Windows"
+   "Meta",
+   "MuseCharm",
+   "GadgetsIA"
   ],
   "image_prompts": [
-   "3D illustration of a glowing cloud made of soft blue light sending luminous data streams down into a sleek open laptop on a desk, dark background with green and blue accents, cinematic wide shot, no text, no logos",
-   "3D render of a futuristic data center aisle with tall server racks glowing with green light, polished reflective floor, cool blue haze, low angle perspective, clean minimal style, no text, no letters, no logos",
-   "3D illustration of a desktop computer tower with a transparent side panel revealing a glowing abstract processor core and swirling neural network threads of light, cozy home office at night, close-up shot, no text, no logos"
+   "A tiny glossy keychain-sized gadget with a glowing blank screen showing a cute abstract smiling face, floating above a soft gradient background, 3D render illustration, warm pastel lighting, playful tech mood, no text, no logos",
+   "A small rounded AI companion device hanging from a keyring, its blank screen glowing softly, surrounded by floating sound wave ribbons and empty speech bubbles, 3D isometric illustration, purple and blue tones, no text",
+   "Three small wearable gadgets of different sizes on a white pedestal, one with a glowing blank screen, abstract blank price tag shapes floating around, festive holiday lights in the background, 3D illustration, no text, no logos"
   ],
   "reel_script": [
-   "NVIDIA y Microsoft mostrarán inteligencia artificial corriendo directo en computadoras con Windows.",
-   "En Microsoft Ignite ampliaron su alianza. Azure suma los sistemas *Vera Rubin* de NVIDIA, y los modelos abiertos Nemotron llegan a Microsoft Foundry para que las empresas armen agentes.",
-   "Esas computadoras corren modelos de lenguaje *en el propio equipo*. La idea es llevar la inteligencia artificial más cerca de los datos, no solo a la nube."
+   "Según un reporte, Meta cobraría 300 dólares por un aparatito de IA.",
+   "El *Muse Charm* es un aparato con pantalla del tamaño de un llavero. Sirve para hablar con Muse, el agente de Meta. Zuckerberg prometió que llegaría para las fiestas de diciembre.",
+   "Costaría más que el aparato de Friend, de 250 dólares, y que el de Amazon, de 75 dólares. Falta ver si la gente *pagará* por llevar la IA en el bolsillo."
   ]
  },
- "caption": "🤖 NVIDIA y Microsoft amplían su alianza de inteligencia artificial: desde los centros de datos de Azure hasta las PCs con Windows.\n\nLo anunciaron en Microsoft Ignite. Azure amplía el acceso, en vista previa, a máquinas virtuales con los nuevos sistemas Vera Rubin NVL72 de NVIDIA. Además, los modelos abiertos Nemotron 3.5 llegan a Microsoft Foundry y, según NVIDIA, la consultora EY los adaptó para clasificar registros de compras con 55% más de precisión y un costo 15 veces menor.\n\n¿Y esto a mí qué? Las dos empresas mostrarán PCs con Windows y tecnología RTX Spark que corren modelos de lenguaje directo en el equipo. Y las PCs en la nube de Windows 365 con GPU podrán transmitir hasta dos pantallas 4K, por ahora en vista previa limitada.\n\n¿Usarías una IA que funcione directo en tu computadora en vez de en la nube?\n\nFuente: NVIDIA\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Coolcaesar / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: Jiaqian AirplaneFan / Wikimedia Commons (CC BY 3.0)\n📸 Foto: ChrisDag / Wikimedia Commons (CC BY 2.0)\n\n#NVIDIA #Microsoft #Windows",
+ "caption": "📱 Meta le pondría precio a su gadget de IA: el Muse Charm costaría 300 dólares, según The Information.\n\nEs un aparatito con pantalla y sensor de huellas, del tamaño de un llavero, para hablar con Muse, el agente de IA de Meta, sin desbloquear el celular. Mark Zuckerberg prometió que llegaría para las fiestas de diciembre. Según el reporte, vendría con 12 meses de datos 5G gratis de Verizon.\n\n¿Y esto a mí qué? Es la apuesta de Meta para que su IA viva en tu bolsillo y no solo en una app. Como referencia, el dispositivo de Friend cuesta 250 dólares y el Bee de Amazon, 75 dólares.\n\n¿Pagarías 300 dólares por un aparatito con IA del tamaño de un llavero o te alcanza con la app del celular?\n\nFuente: TechCrunch, The Verge (según The Information)\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Anthony Quintano from Westminster, Unite / Wikimedia Commons (CC BY 2.0)\n\n#Meta #MuseCharm #GadgetsIA",
  "slides": [
-  "posts/20261119-1725/slide_1.jpg",
-  "posts/20261119-1725/slide_2.jpg",
-  "posts/20261119-1725/slide_3.jpg",
-  "posts/20261119-1725/slide_4.jpg"
+  "posts/20261119-1905/slide_1.jpg",
+  "posts/20261119-1905/slide_2.jpg",
+  "posts/20261119-1905/slide_3.jpg",
+  "posts/20261119-1905/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
-   "link": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
-   "source": "NVIDIA"
+   "title": "Meta’s new Muse Charm device may cost $300",
+   "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+   "source": "TechCrunch"
+  },
+  {
+   "title": "Meta’s Muse Charm might cost $300",
+   "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+   "source": "The Verge"
   }
  ]
 }

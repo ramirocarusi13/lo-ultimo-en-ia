@@ -10,3 +10,11 @@
 - Revisor legal: OK, riesgo bajo. Sin etiqueta de IA (ilustraciones 3D).
 - Guionista Reels: CAMBIOS, gancho 6/10. Aplicado el nuevo gancho ("mostrarán IA corriendo en computadoras con Windows").
 - Cazador de videos: sin clips con licencia libre, así que no hay Reel y va como carrusel. El video oficial está en los canales de NVIDIA/Microsoft (con derechos).
+
+## Revisión visual y formato
+- Productor: CARRUSEL (alianza empresarial, sin video real con licencia libre, así que no hay Reel).
+- Director de arte: OK, 7/10. El texto se lee bien, no hay personas reconocibles y las fotos son coherentes. Sugerencia opcional: una foto de Microsoft más reconocible en el slide 2. No se aplicó para no rearmar el post por un cambio menor.
+- Jefe de redacción: revisé los slides 1-3 y están bien.
+
+## Decisión
+- Formato: carrusel de 4 slides. Confianza alta (anuncio oficial de NVIDIA). Sin etiqueta de IA (fotos reales de Wikimedia, sin imágenes generadas que parezcan reales).

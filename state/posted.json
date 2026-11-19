@@ -291,7 +291,16 @@
   "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
   "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2VEdIVWJNXzFmelBNSEllVjQyOFlYX2FkSXZRaTh4YkFMUXFYbXlBaGdOSUR3eHpHSVp3STNnSHNRa3dHa1BWZkl3anNyUUJCQlRlbmJfeHZ3ZGFCX2xnbHlLNnFzX0Jac2tVYVhDb0lpMmpXSGtmQg?oc=5",
   "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html",
-  "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/"
+  "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+  "https://9to5mac.com/2026/11/19/roborocks-black-friday-deals-make-smarter-cleaning-more-affordable-than-ever/",
+  "https://9to5google.com/2026/11/19/roborocks-black-friday-deals-save-over-1650-on-select-robot-vacuums/",
+  "https://news.google.com/rss/articles/CBMipAFBVV95cUxORnhZWTVjTXZnbGNlMVU4Q1BjQUZTbUtTXzJVMTBRU2lHWENEa183UEYwUlVwRFZwdkV5UW1BOTNtNWEyd1N6aEhMMUJ5bGVvVjEtX0RkakhCbVpjRTBhc1Q1Uk5ubjcxSTNSUXdfN0JzSmFLZHFPNGVkTG9fb0FGbXM2MGx0cDNENWFNYVNKWUhhNzVzWDJ2TFJGVU1nc2huLVZzVQ?oc=5",
+  "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONXZESks1d0FfdVlWdDhaZkRSVEpYMk5XX2ZBbUQ5am8tbS1QRW43WWNfWWpiTG1CbG1Cd2Z3ODNlbnNLaXZOWllnaUEydll3Vk5xYWJVZGtTNFlkamZwbkloVmY2dzI3MkNCZHgwT3NRcDNxTzNDU2FsUDhIMnZqR2hyVGVfZURQVHQzVjhLRGYtdEtETDlmT24tdFd1ZDByclZrMU05azNrUW9iV1NqeFQ3RG9Nb0w0NEZzTlNLMElTWFVHcldYNWhpeUZUbWVMNFYwOXhHbExNNFJydGl2SlU4VlE1UDRSc0gtam00WktfcGJsZWYwWkxyQkU?oc=5",
+  "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+  "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+  "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6929322",
+  "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+  "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -408,7 +417,12 @@
   "Apple TV expands its racing coverage with the all-female F1 Academy",
   "Why Is the Stock Market Down After Anthropic’s Successful IPO?",
   "Opinion | No AI Company Is Too Big to Fail",
-  "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs"
+  "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+  "Roborock’s Black Friday deals make smarter cleaning more affordable than ever",
+  "ACIERA presenta observatorio para estudiar el impacto de la Inteligencia Artificial en la vida humana",
+  "What’s With All These Outages?",
+  "NVIDIA Announces Upcoming Event for Financial Community",
+  "Meta’s new Muse Charm device may cost $300"
  ],
  "history": [
   {
@@ -1093,6 +1107,36 @@
   {
    "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
    "at": 1795120148,
+   "permalink": null,
+   "kind": "post"
+  },
+  {
+   "title": "Roborock’s Black Friday deals make smarter cleaning more affordable than ever",
+   "at": 1795125349,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "ACIERA presenta observatorio para estudiar el impacto de la Inteligencia Artificial en la vida humana",
+   "at": 1795125350,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "What’s With All These Outages?",
+   "at": 1795125956,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "NVIDIA Announces Upcoming Event for Financial Community",
+   "at": 1795126550,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "Meta’s new Muse Charm device may cost $300",
+   "at": 1795126852,
    "permalink": null,
    "kind": "post"
   }
