@@ -18,3 +18,13 @@
 
 ## Cazador de videos — sin clips
 - Solo tutoriales de terceros y nada de Wikimedia relacionado. Sin video libre: va carrusel, sin Reel.
+
+## Director de arte — OK — 7/10
+- Texto legible, sin terceros ni logos; no hubo fotos reales (las 3 son ilustraciones). Opcional: en el slide 3 las manchas rojas pueden parecer sangre. No se rearmó (no bloqueante).
+
+## Productor — CARRUSEL
+- Cambio de configuración que se lee mejor en slides; sin clips válidos no hay Reel.
+
+## Decisión del jefe de redacción
+- Formato: CARRUSEL (4 slides). Cambios aplicados: titular 'APAGAR SU IA GENERATIVA', gancho del reel 'casi toda su IA generativa', foto 0 'Canva headquarters', guion con salvedad del quitafondos y de la biblioteca, hashtag 'DiseñoGráfico'.
+- Etiqueta de IA: sí, recomendada (las 3 imágenes son ilustraciones generadas con IA; no hubo fotos reales).

@@ -7,3 +7,8 @@
 - revisor-legal (sonnet): OK, riesgo bajo. Sugirió no usar la búsqueda genérica 'Canva' (podía dar el logo): foto 2 pasa a ilustración. Etiqueta IA: no.
 - guionista-reels (sonnet): CAMBIOS, gancho 7/10. Textos 2 y 3 reescritos (aplicados).
 - cazador-videos (sonnet): sin clips con licencia libre ni video oficial -> va como carrusel.
+
+## Armado (10:10)
+- FALLÓ: git push rechazado (otra corrida movió main al mismo tiempo). No se publica ni se avisa como post listo.
+- ComfyUI no respondía en 127.0.0.1:8188: los 4 slides salieron SIN imágenes (fondo liso); 'Canva headquarters' tampoco dio foto.
+- Sin Reel: no hay video real con licencia libre.
