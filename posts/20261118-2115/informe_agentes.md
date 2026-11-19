@@ -8,3 +8,9 @@
 - **verificador** — CAMBIOS, 8/10, confianza media. "Pudo hacer más para evitar" en vez de "se pudo evitar"; sin "mucho" más rápido; las barreras (no las pruebas) evitaban la caída global; fuente solo CNBC. Todo aplicado.
 - **editor-estilo** — CAMBIOS, 7/10. Titular con 4 palabras resaltadas (no 5), slide 1 a 45 palabras, caption recortado a 149 y gancho del Reel a 13. Aplicado. "Aerolíneas y bancos" y "empresas de EE.UU." sí están en la nota de CNBC.
 - **cazador-videos** — 1 clip: Nadella en Davos 2016 (World Economic Forum, Wikimedia Commons, CC BY 3.0); se ve solo a él. La entrevista de CNBC tiene derechos; no sumé la línea 🎬 para no pasar las 150 palabras del caption.
+- **productor** — FORMATO: CARRUSEL. Es una declaración corporativa y el único clip es de archivo (Davos 2016), sin relación con Outlook. Pide noclip.
+- **editor-video** — OK, 7/10. El Reel es técnicamente correcto, pero el clip de archivo se repite en las 3 escenas.
+- **director-arte** — CAMBIOS, 6/10. La foto del slide 3 era cielo y una valla, sin datacenter. Se reemplazó por la ilustración 3D del muro con parches (photos[2] = "").
+
+**Decisión final:** CARRUSEL. Saqué el clip con noclip (el caption queda sin crédito de video) y lo rearmé una vez.
+**Etiqueta de IA:** sí, el slide 3 es una ilustración generada con IA. Las fotos de los slides 1 y 2 son reales (Wikimedia Commons).

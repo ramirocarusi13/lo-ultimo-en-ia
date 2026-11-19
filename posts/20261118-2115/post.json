@@ -9,7 +9,7 @@
   "photos": [
    "Satya Nadella",
    "Microsoft Redmond",
-   "Microsoft datacenter"
+   ""
   ],
   "slides": [
    "Satya Nadella, director ejecutivo de Microsoft, reconoció en CNBC que la caída de Outlook fue *una tormenta perfecta*: un error oculto que apareció con cierto patrón de tráfico. Admitió que *debieron hacer las pruebas antes* y preparar barreras para que la falla no fuera global.",
@@ -32,7 +32,7 @@
    "Nadella explica que la IA encuentra errores más rápido, pero cada arreglo es un *parche* nuevo. Sobre sistemas viejos, eso genera inestabilidad. Arreglar rápido sin romper nada sigue siendo el reto."
   ]
  },
- "caption": "🧠 Satya Nadella admitió que Microsoft pudo hacer más para evitar la caída de Outlook de la semana pasada: \"Deberíamos haber hecho las pruebas antes\".\n\nEl director ejecutivo de Microsoft habló con CNBC y la llamó una \"tormenta perfecta\": un error escondido que solo apareció con un patrón de tráfico particular y terminó en una caída global que frenó a muchas empresas de Estados Unidos.\n\nSu explicación de fondo: la IA ayuda a encontrar y corregir errores más rápido, pero cada arreglo es un parche nuevo, y tantos parches sobre infraestructura vieja generan inestabilidad.\n\n¿Y esto a mí qué? Tu trabajo depende de pocos servicios en la nube. Cuando uno falla, se frena el trabajo de muchas empresas a la vez.\n\n¿Aceptarías más caídas a cambio de que la IA arregle los errores más rápido?\n\nFuente: CNBC\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Brian Smale and Microsoft / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: Jiaqian AirplaneFan / Wikimedia Commons (CC BY 3.0)\n📸 Foto: Johan Wessman / News Oresund / Wikimedia Commons (CC BY 2.0)\n🎥 Video: Tech.Science.Society / Wikimedia Commons (CC BY 3.0)\n\n#Microsoft #Outlook #SatyaNadella",
+ "caption": "🧠 Satya Nadella admitió que Microsoft pudo hacer más para evitar la caída de Outlook de la semana pasada: \"Deberíamos haber hecho las pruebas antes\".\n\nEl director ejecutivo de Microsoft habló con CNBC y la llamó una \"tormenta perfecta\": un error escondido que solo apareció con un patrón de tráfico particular y terminó en una caída global que frenó a muchas empresas de Estados Unidos.\n\nSu explicación de fondo: la IA ayuda a encontrar y corregir errores más rápido, pero cada arreglo es un parche nuevo, y tantos parches sobre infraestructura vieja generan inestabilidad.\n\n¿Y esto a mí qué? Tu trabajo depende de pocos servicios en la nube. Cuando uno falla, se frena el trabajo de muchas empresas a la vez.\n\n¿Aceptarías más caídas a cambio de que la IA arregle los errores más rápido?\n\nFuente: CNBC\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Brian Smale and Microsoft / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: Jiaqian AirplaneFan / Wikimedia Commons (CC BY 3.0)\n\n#Microsoft #Outlook #SatyaNadella",
  "slides": [
   "posts/20261118-2115/slide_1.jpg",
   "posts/20261118-2115/slide_2.jpg",
