@@ -286,7 +286,12 @@
   "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
   "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNlA1eWxqbHpCckhVTDdSZWFwUzlpVXg0UWJNdGZQd2h5VFo2Qi1HMk9pR1lMbW5yeklrWlVrZWFVZEdxU2wyQWNPVGdMT3l0OC1RM3pITmlDdEJzMTVIS0RjUEhpUDhNa1A5aE93YUF6ZzF6MUZSRGhOSHZSSlhJaTkwZXoySzhlZHlZamVsRWU5enlFVjZ5WmlYOElmVDQzd1lpMFFaQ01xbnFKWGxCcEE0UG8tVFhpaHJrQVUxMEl6QzVhMExKQjFmd2d3RWdhS2FLdUgwYUhzM2hUckRz0gH6AUFVX3lxTE1OeXR5d0FTczZSWTBUX09nQllNMVppbjFhMWJTbEtid1puT0xTOF9QWVdEeHR1Z0tfUy1CT1E4ZzBiS0ZRRFlVYW8wcW03R2pfRE1VQ2E2Y1h3SzYzV192QTVYczRJV3FGNHZ1T01vNWV6SEZvMHlUUUFLdmM1VkFzb3BsVlFxOWpmQ0JpTXl5YnU2UGpjNl9OQjBxRWx1Y3JqQ1N5OXpyQWYxc1UwVXMzLVc3ZVF3T2RIczFIMV9Oa3M1T0FaaXZ1MW5mRzNsTklhSWI3b1pxcmFmUjBNVUZqUEZCTTQxeDhQS2RvOGhfeFJWWmk1LWtza2c?oc=5",
   "https://www.engadget.com/2322221/apple-tv-expands-its-racing-coverage-with-the-all-female-f1-academy/",
-  "https://9to5mac.com/2026/11/19/apple-tv-f1-academy-stream-next-year/"
+  "https://9to5mac.com/2026/11/19/apple-tv-f1-academy-stream-next-year/",
+  "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-stock-market.html",
+  "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+  "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2VEdIVWJNXzFmelBNSEllVjQyOFlYX2FkSXZRaTh4YkFMUXFYbXlBaGdOSUR3eHpHSVp3STNnSHNRa3dHa1BWZkl3anNyUUJCQlRlbmJfeHZ3ZGFCX2xnbHlLNnFzX0Jac2tVYVhDb0lpMmpXSGtmQg?oc=5",
+  "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html",
+  "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -400,7 +405,10 @@
   "Gemini on Mac can now use your computer",
   "Introducing Tool Retrieval in the Gemini API",
   "Anthropic Debuts on Wall Street as a $2 Trillion Company",
-  "Apple TV expands its racing coverage with the all-female F1 Academy"
+  "Apple TV expands its racing coverage with the all-female F1 Academy",
+  "Why Is the Stock Market Down After Anthropic’s Successful IPO?",
+  "Opinion | No AI Company Is Too Big to Fail",
+  "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs"
  ],
  "history": [
   {
@@ -1069,6 +1077,24 @@
    "at": 1795116960,
    "permalink": null,
    "kind": "skip"
+  },
+  {
+   "title": "Why Is the Stock Market Down After Anthropic’s Successful IPO?",
+   "at": 1795119949,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "Opinion | No AI Company Is Too Big to Fail",
+   "at": 1795119950,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+   "at": 1795120148,
+   "permalink": null,
+   "kind": "post"
   }
  ]
 }

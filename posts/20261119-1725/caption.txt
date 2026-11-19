@@ -1,0 +1,16 @@
+🤖 NVIDIA y Microsoft amplían su alianza de inteligencia artificial: desde los centros de datos de Azure hasta las PCs con Windows.
+
+Lo anunciaron en Microsoft Ignite. Azure amplía el acceso, en vista previa, a máquinas virtuales con los nuevos sistemas Vera Rubin NVL72 de NVIDIA. Además, los modelos abiertos Nemotron 3.5 llegan a Microsoft Foundry y, según NVIDIA, la consultora EY los adaptó para clasificar registros de compras con 55% más de precisión y un costo 15 veces menor.
+
+¿Y esto a mí qué? Las dos empresas mostrarán PCs con Windows y tecnología RTX Spark que corren modelos de lenguaje directo en el equipo. Y las PCs en la nube de Windows 365 con GPU podrán transmitir hasta dos pantallas 4K, por ahora en vista previa limitada.
+
+¿Usarías una IA que funcione directo en tu computadora en vez de en la nube?
+
+Fuente: NVIDIA
+📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.
+
+📸 Foto: Coolcaesar / Wikimedia Commons (CC BY-SA 4.0)
+📸 Foto: Jiaqian AirplaneFan / Wikimedia Commons (CC BY 3.0)
+📸 Foto: ChrisDag / Wikimedia Commons (CC BY 2.0)
+
+#NVIDIA #Microsoft #Windows

@@ -1,0 +1,49 @@
+{
+ "id": "20261119-1725",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "*NVIDIA* Y *MICROSOFT* LLEVAN SU IA DE LA NUBE A *WINDOWS*",
+  "badge": "NVIDIA",
+  "photos": [
+   "Nvidia headquarters",
+   "Microsoft Redmond",
+   "Nvidia GPU"
+  ],
+  "slides": [
+   "En Microsoft Ignite, NVIDIA y Microsoft ampliaron su alianza: Azure amplía el acceso, en vista previa, a máquinas virtuales con los sistemas *Vera Rubin NVL72* de NVIDIA, y en PCs con Windows y tecnología RTX Spark mostrarán *modelos de lenguaje corriendo en el propio equipo*.",
+   "Además, los *modelos abiertos Nemotron* de NVIDIA llegan a Microsoft Foundry para que las empresas armen sus propios agentes. Según NVIDIA, EY los adaptó y mejoró un 55% la precisión en sus pruebas *con un costo 15 veces menor* que modelos cerrados de punta."
+  ],
+  "caption": "🤖 NVIDIA y Microsoft amplían su alianza de inteligencia artificial: desde los centros de datos de Azure hasta las PCs con Windows.\n\nLo anunciaron en Microsoft Ignite. Azure amplía el acceso, en vista previa, a máquinas virtuales con los nuevos sistemas Vera Rubin NVL72 de NVIDIA. Además, los modelos abiertos Nemotron 3.5 llegan a Microsoft Foundry y, según NVIDIA, la consultora EY los adaptó para clasificar registros de compras con 55% más de precisión y un costo 15 veces menor.\n\n¿Y esto a mí qué? Las dos empresas mostrarán PCs con Windows y tecnología RTX Spark que corren modelos de lenguaje directo en el equipo. Y las PCs en la nube de Windows 365 con GPU podrán transmitir hasta dos pantallas 4K, por ahora en vista previa limitada.\n\n¿Usarías una IA que funcione directo en tu computadora en vez de en la nube?\n\nFuente: NVIDIA\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "NVIDIA",
+   "Microsoft",
+   "Windows"
+  ],
+  "image_prompts": [
+   "3D illustration of a glowing cloud made of soft blue light sending luminous data streams down into a sleek open laptop on a desk, dark background with green and blue accents, cinematic wide shot, no text, no logos",
+   "3D render of a futuristic data center aisle with tall server racks glowing with green light, polished reflective floor, cool blue haze, low angle perspective, clean minimal style, no text, no letters, no logos",
+   "3D illustration of a desktop computer tower with a transparent side panel revealing a glowing abstract processor core and swirling neural network threads of light, cozy home office at night, close-up shot, no text, no logos"
+  ],
+  "reel_script": [
+   "NVIDIA y Microsoft mostrarán inteligencia artificial corriendo directo en computadoras con Windows.",
+   "En Microsoft Ignite ampliaron su alianza. Azure suma los sistemas *Vera Rubin* de NVIDIA, y los modelos abiertos Nemotron llegan a Microsoft Foundry para que las empresas armen agentes.",
+   "Esas computadoras corren modelos de lenguaje *en el propio equipo*. La idea es llevar la inteligencia artificial más cerca de los datos, no solo a la nube."
+  ]
+ },
+ "caption": "🤖 NVIDIA y Microsoft amplían su alianza de inteligencia artificial: desde los centros de datos de Azure hasta las PCs con Windows.\n\nLo anunciaron en Microsoft Ignite. Azure amplía el acceso, en vista previa, a máquinas virtuales con los nuevos sistemas Vera Rubin NVL72 de NVIDIA. Además, los modelos abiertos Nemotron 3.5 llegan a Microsoft Foundry y, según NVIDIA, la consultora EY los adaptó para clasificar registros de compras con 55% más de precisión y un costo 15 veces menor.\n\n¿Y esto a mí qué? Las dos empresas mostrarán PCs con Windows y tecnología RTX Spark que corren modelos de lenguaje directo en el equipo. Y las PCs en la nube de Windows 365 con GPU podrán transmitir hasta dos pantallas 4K, por ahora en vista previa limitada.\n\n¿Usarías una IA que funcione directo en tu computadora en vez de en la nube?\n\nFuente: NVIDIA\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Coolcaesar / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: Jiaqian AirplaneFan / Wikimedia Commons (CC BY 3.0)\n📸 Foto: ChrisDag / Wikimedia Commons (CC BY 2.0)\n\n#NVIDIA #Microsoft #Windows",
+ "slides": [
+  "posts/20261119-1725/slide_1.jpg",
+  "posts/20261119-1725/slide_2.jpg",
+  "posts/20261119-1725/slide_3.jpg",
+  "posts/20261119-1725/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+   "link": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+   "source": "NVIDIA"
+  }
+ ]
+}
