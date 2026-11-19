@@ -1,0 +1,54 @@
+{
+ "id": "20261119-2025",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "GOOGLE EMPIEZA A MOSTRAR TUS *CHATS CON IA* EN SU *PORTADA*",
+  "badge": "Google",
+  "photos": [
+   "Google Search",
+   "Google Gemini",
+   "Googleplex"
+  ],
+  "slides": [
+   "Google empezó a renovar su *página de inicio en computadoras* en todo el mundo. Ahora tiene una barra lateral plegable con tus *chats de IA recientes*, un botón para empezar una conversación nueva y atajos de Gemini para crear imágenes o analizar archivos.",
+   "Durante años, la portada de Google fue solo una barra de búsqueda. Según Robby Stein, vicepresidente de producto, la gente llega con *preguntas que no se resuelven en una sola búsqueda*, y en las pruebas la barra lateral ayudó a *seguir explorando*."
+  ],
+  "caption": "🧠 Google está cambiando su página de inicio: tus chats con IA van a aparecer al lado del buscador.\n\nEstá llegando a todo el mundo, en computadoras, una barra lateral plegable. Ahí se ven tus búsquedas recientes hechas con el Modo IA, un botón para abrir un chat nuevo y un buscador de conversaciones. Debajo del buscador también hay atajos de Gemini para crear imágenes o analizar archivos.\n\n¿Y esto a mí qué? La portada de Google, que por años fue solo una caja para buscar, ahora también funciona como un chat. Según Robby Stein, vicepresidente de producto, la gente llega con más preguntas que no se resuelven en una sola búsqueda, y en las pruebas la barra lateral ayudó a seguir explorando.\n\n¿Retomarías una conversación con la IA desde la portada de Google o prefieres la búsqueda clásica de enlaces?\n\nFuente: The Verge, 9to5Google\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "GoogleSearch",
+   "Gemini",
+   "InteligenciaArtificial"
+  ],
+  "image_prompts": [
+   "A glossy 3D illustration of a minimalist web browser window floating in a soft blue gradient space, a blank search bar in the center and a glowing collapsible side panel sliding out from the left edge, no text",
+   "Close-up 3D render of colorful speech bubbles stacking neatly inside a translucent vertical sidebar panel, connected by thin glowing lines to a magnifying glass icon, pastel lighting, clean background, no letters or symbols",
+   "Wide isometric 3D scene of a desk with a laptop showing an abstract interface of cards and chat bubbles, small floating icons of an image frame, a folder and a light bulb orbiting the screen, warm soft light, no text"
+  ],
+  "reel_script": [
+   "Google empezó a poner tus chats de inteligencia artificial en su portada.",
+   "Una barra lateral plegable muestra tus *chats recientes* y deja empezar uno nuevo. Debajo hay atajos de Gemini para crear imágenes o analizar archivos. Llega a todo el mundo en computadoras.",
+   "Según Google, la gente llega con más preguntas que no se resuelven de una vez. Ahora vas a poder *retomar la conversación* desde la portada."
+  ]
+ },
+ "caption": "🧠 Google está cambiando su página de inicio: tus chats con IA van a aparecer al lado del buscador.\n\nEstá llegando a todo el mundo, en computadoras, una barra lateral plegable. Ahí se ven tus búsquedas recientes hechas con el Modo IA, un botón para abrir un chat nuevo y un buscador de conversaciones. Debajo del buscador también hay atajos de Gemini para crear imágenes o analizar archivos.\n\n¿Y esto a mí qué? La portada de Google, que por años fue solo una caja para buscar, ahora también funciona como un chat. Según Robby Stein, vicepresidente de producto, la gente llega con más preguntas que no se resuelven en una sola búsqueda, y en las pruebas la barra lateral ayudó a seguir explorando.\n\n¿Retomarías una conversación con la IA desde la portada de Google o prefieres la búsqueda clásica de enlaces?\n\nFuente: The Verge, 9to5Google\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Geraki / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: Google / Wikimedia Commons (Public domain)\n📸 Foto: The Pancake of Heaven! / Wikimedia Commons (CC BY-SA 4.0)\n\n#GoogleSearch #Gemini #InteligenciaArtificial",
+ "slides": [
+  "posts/20261119-2025/slide_1.jpg",
+  "posts/20261119-2025/slide_2.jpg",
+  "posts/20261119-2025/slide_3.jpg",
+  "posts/20261119-2025/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Google homepage rolling out AI-focused redesign that includes your Gemini chats [Video]",
+   "link": "https://9to5google.com/2026/11/19/google-search-homepage-gemini-sidebar-update/",
+   "source": "9to5Google"
+  },
+  {
+   "title": "Google is putting AI chats right on the homepage",
+   "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+   "source": "The Verge"
+  }
+ ]
+}

@@ -307,7 +307,12 @@
   "https://news.google.com/rss/articles/CBMixwFBVV95cUxNREhTelFONDFNRG5ScHlmcWMwX2YxeHlsRlR0aHdfWnFTYlRSdmtPN3ZqdnI2SVpOTTR5MWhwZUY2M3Uxc3hVOTh0S2V3QVBXVXVrN1pFckNvR0dpdjVEOEg5MEhTbGs5ZHh5eWd1VkdIZGV3OUlmbFBwUHR5cG5DZENjaTVpODNNNzNBcFRHREc0blJBWklsdGVURElyMFdEekhtY2JVZHByVVhSbXhyOHctd3h4T0EybXN6R0VPU2cwSHpYaU00?oc=5",
   "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZFdxeHR3Z2p6V1RyMnB4R2tyaFBFVzBSWmlURm5uUDhPY1lBcnFLVG5YeTNubEJDZEpvYml5YS15N0ZucEE1SlVTaTlzejRRZUZPaUFpREhVdWZ2am5PWHMxMzUycWotc0w2R1BhS24zeFF3eUhHMTlUdFB4b0xWWWc5VUlrRC1fTV8wY3FTRmVwZnJ0b3F3TURnY3hGR3hudnItc2dadzVKcGNEVjY2aDlqOG8yakVLb3F5N3R6ODROalBVUE53M2dPc2RyYmRXTEUwUXlRbnNSNUhZMC1B0gHkAUFVX3lxTE45dGxKeDg4T1RDZkpBVnJYZExXVWc1c1BZdEJ6Wm9IdUxpQ3V0LUhDWF81SDlQSlRJWVEyTFdrODIzTllhQkpCaG1mbGRFZGNXWTIyWnExcExDQjAxcHlOSXRWTkUwTERPR283RG1mSm9Ea1pxY1ZBRjFTbkZuU3lWZ2p1Q1NOYWNVUG1ROTJSQ2lQbFBjdjRlTHVJd1V1OGE0YzRjTkMzelhVbFd6dnJ6eEItaExfcEh0LTgzRWJHTUFnOC14THhkU3Jqb0NCR1NySXhtWl9VYUQzUmVQU2Z0QjNCUA?oc=5",
   "https://9to5google.com/2026/11/19/google-search-homepage-gemini-sidebar-update/",
-  "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats"
+  "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+  "https://www.engadget.com/2322557/leaked-images-may-show-motorolas-answer-to-the-iphone-duo/",
+  "https://9to5google.com/2026/11/19/motorola-razr-flex-iphone-duo-leak/",
+  "https://9to5google.com/2026/11/19/motorola-razr-flex-leak-image-specs/",
+  "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+  "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -432,7 +437,9 @@
   "Meta’s new Muse Charm device may cost $300",
   "Employees call out Google over AI Search in schools",
   "La Comisión Europea sufrió ciberataques con inteligencia artificial: qué sistemas fueron afectados",
-  "Google homepage rolling out AI-focused redesign that includes your Gemini chats [Video]"
+  "Google homepage rolling out AI-focused redesign that includes your Gemini chats [Video]",
+  "Leaked images may show Motorola's answer to the iPhone Duo",
+  "Apple is hiring engineers to build its own AI agent"
  ],
  "history": [
   {
@@ -1167,6 +1174,18 @@
    "at": 1795130743,
    "permalink": null,
    "kind": "post"
+  },
+  {
+   "title": "Leaked images may show Motorola's answer to the iPhone Duo",
+   "at": 1795130755,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "Apple is hiring engineers to build its own AI agent",
+   "at": 1795130756,
+   "permalink": null,
+   "kind": "skip"
   }
  ]
 }
