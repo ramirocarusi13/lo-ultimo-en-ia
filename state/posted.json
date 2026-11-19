@@ -284,7 +284,9 @@
   "https://www.nytimes.com/2026/11/19/technology/anthropic-2-trillion.html",
   "https://www.engadget.com/2322144/anthropic-is-now-a-public-company-worth-more-than-1-trillion/",
   "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
-  "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNlA1eWxqbHpCckhVTDdSZWFwUzlpVXg0UWJNdGZQd2h5VFo2Qi1HMk9pR1lMbW5yeklrWlVrZWFVZEdxU2wyQWNPVGdMT3l0OC1RM3pITmlDdEJzMTVIS0RjUEhpUDhNa1A5aE93YUF6ZzF6MUZSRGhOSHZSSlhJaTkwZXoySzhlZHlZamVsRWU5enlFVjZ5WmlYOElmVDQzd1lpMFFaQ01xbnFKWGxCcEE0UG8tVFhpaHJrQVUxMEl6QzVhMExKQjFmd2d3RWdhS2FLdUgwYUhzM2hUckRz0gH6AUFVX3lxTE1OeXR5d0FTczZSWTBUX09nQllNMVppbjFhMWJTbEtid1puT0xTOF9QWVdEeHR1Z0tfUy1CT1E4ZzBiS0ZRRFlVYW8wcW03R2pfRE1VQ2E2Y1h3SzYzV192QTVYczRJV3FGNHZ1T01vNWV6SEZvMHlUUUFLdmM1VkFzb3BsVlFxOWpmQ0JpTXl5YnU2UGpjNl9OQjBxRWx1Y3JqQ1N5OXpyQWYxc1UwVXMzLVc3ZVF3T2RIczFIMV9Oa3M1T0FaaXZ1MW5mRzNsTklhSWI3b1pxcmFmUjBNVUZqUEZCTTQxeDhQS2RvOGhfeFJWWmk1LWtza2c?oc=5"
+  "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNlA1eWxqbHpCckhVTDdSZWFwUzlpVXg0UWJNdGZQd2h5VFo2Qi1HMk9pR1lMbW5yeklrWlVrZWFVZEdxU2wyQWNPVGdMT3l0OC1RM3pITmlDdEJzMTVIS0RjUEhpUDhNa1A5aE93YUF6ZzF6MUZSRGhOSHZSSlhJaTkwZXoySzhlZHlZamVsRWU5enlFVjZ5WmlYOElmVDQzd1lpMFFaQ01xbnFKWGxCcEE0UG8tVFhpaHJrQVUxMEl6QzVhMExKQjFmd2d3RWdhS2FLdUgwYUhzM2hUckRz0gH6AUFVX3lxTE1OeXR5d0FTczZSWTBUX09nQllNMVppbjFhMWJTbEtid1puT0xTOF9QWVdEeHR1Z0tfUy1CT1E4ZzBiS0ZRRFlVYW8wcW03R2pfRE1VQ2E2Y1h3SzYzV192QTVYczRJV3FGNHZ1T01vNWV6SEZvMHlUUUFLdmM1VkFzb3BsVlFxOWpmQ0JpTXl5YnU2UGpjNl9OQjBxRWx1Y3JqQ1N5OXpyQWYxc1UwVXMzLVc3ZVF3T2RIczFIMV9Oa3M1T0FaaXZ1MW5mRzNsTklhSWI3b1pxcmFmUjBNVUZqUEZCTTQxeDhQS2RvOGhfeFJWWmk1LWtza2c?oc=5",
+  "https://www.engadget.com/2322221/apple-tv-expands-its-racing-coverage-with-the-all-female-f1-academy/",
+  "https://9to5mac.com/2026/11/19/apple-tv-f1-academy-stream-next-year/"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -397,7 +399,8 @@
   "La Comisión Europea alerta sobre ciberataques impulsados por inteligencia artificial",
   "Gemini on Mac can now use your computer",
   "Introducing Tool Retrieval in the Gemini API",
-  "Anthropic Debuts on Wall Street as a $2 Trillion Company"
+  "Anthropic Debuts on Wall Street as a $2 Trillion Company",
+  "Apple TV expands its racing coverage with the all-female F1 Academy"
  ],
  "history": [
   {
@@ -1060,6 +1063,12 @@
    "at": 1795116958,
    "permalink": null,
    "kind": "post"
+  },
+  {
+   "title": "Apple TV expands its racing coverage with the all-female F1 Academy",
+   "at": 1795116960,
+   "permalink": null,
+   "kind": "skip"
   }
  ]
 }
