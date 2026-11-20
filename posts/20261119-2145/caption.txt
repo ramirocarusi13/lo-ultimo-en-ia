@@ -1,0 +1,15 @@
+🤖 Google construyó un enorme internet falso para poner a prueba a sus agentes de IA antes de soltarlos en la web real.
+
+Según WIRED, el equipo de Chrome creó la "Mirror Dimension": un ecosistema aislado con redes sociales, tiendas y paneles bancarios que imitan sitios reales. Ahí los agentes de Gemini navegan y completan tareas mientras enfrentan ataques ocultos de inyección de instrucciones. Para armarlo usaron otros agentes que fabricaron los sitios rápidamente.
+
+¿Y esto a mí qué? Los navegadores que hacen compras o trámites por ti tienen que aprender a no caer en trampas escondidas en una página. Según Charles Qian, ingeniero de seguridad de IA de Chrome, el agente empieza a reconocer cuándo debe pedirte confirmación.
+
+¿Dejarías que un agente de IA pague una compra por ti desde el navegador?
+
+Fuente: WIRED
+📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.
+
+📸 Foto: Noah Wulf / Wikimedia Commons (CC BY-SA 4.0)
+📸 Foto: The Pancake of Heaven! / Wikimedia Commons (CC BY-SA 4.0)
+
+#GoogleChrome #Gemini #AgentesDeIA
