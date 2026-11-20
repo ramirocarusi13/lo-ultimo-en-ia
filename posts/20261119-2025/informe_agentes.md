@@ -11,3 +11,13 @@
 **Verificador:** CAMBIOS, 8/10, confianza alta. Pidió dejar claro que el cambio se está desplegando todavía y corregir la cita de Stein (más preguntas, no más gente). Aplicado en el titular, el caption y el guion.
 
 **Cazador de videos:** no encontró clips con licencia libre (descartó tutoriales de YouTube CC y archivos de Commons que no tenían relación). El video original de Robby Stein en X tiene derechos y no se usa. Sin clips no hay Reel: va carrusel.
+
+**Productor:** CARRUSEL. No hay ningún clip que muestre la portada nueva de Google, así que no hay Reel.
+
+**Director de arte:** CAMBIOS, 3/10 en el primer armado. Las 3 fotos de Commons estaban mal: una captura de Wikipedia en griego con la foto de una persona ajena a la noticia, una captura de Gemini que solo decía "Hello, John" y un auto de Street View. Pidió cambiarlas o usar ilustraciones.
+
+## Decisión del jefe de redacción
+- Cambios aplicados: los del verificador (el despliegue sigue en curso y la cita de Stein habla de "más preguntas"), los del editor de estilo (asteriscos del titular, caption por debajo de 150 palabras, "enlaces") y el guion nuevo del Reel. No cambié los hashtags. El guion igual no se usa porque no hay Reel.
+- Fotos: las 3 se cambiaron por ilustraciones generadas y se rearmó una vez. ComfyUI dejó de responder después de la primera imagen, así que la portada tiene ilustración 3D y los slides 2 y 3 salieron con fondo liso oscuro. El texto se lee bien.
+- Formato: CARRUSEL (4 slides). Etiqueta de IA: no hace falta según el revisor legal, porque la portada es una ilustración 3D y no una foto realista. Ponerla igual es opcional.
+- Equipo: tendencias 36/50 · verificador 8 · estilo 8 · legal OK · guion 5 (gancho reescrito) · arte 3 → corregido.

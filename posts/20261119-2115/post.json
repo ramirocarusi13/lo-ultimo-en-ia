@@ -1,0 +1,54 @@
+{
+ "id": "20261119-2115",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "EE.UU. APROBÓ CASI *900.000 CHIPS DE IA* PARA CHINA, DICE UN COMITÉ",
+  "badge": "",
+  "photos": [
+   "United States Capitol",
+   "",
+   ""
+  ],
+  "slides": [
+   "Según un comité de la Cámara de Representantes de Estados Unidos, el gobierno de Donald Trump *aprobó la venta de casi 900.000 chips de IA a China* en solo seis meses. Lo informaron Reuters y The Hill.",
+   "Los chips de IA son la base para entrenar y usar modelos como los chatbots. Por eso, *cuántos llegan a China* es uno de los temas más sensibles en la competencia tecnológica entre las dos potencias."
+  ],
+  "caption": "🌏 Estados Unidos aprobó la venta de casi 900.000 chips de inteligencia artificial a China en apenas seis meses.\n\nEl dato lo dio a conocer un comité de la Cámara de Representantes, y lo publicaron Reuters y The Hill. Las aprobaciones las firmó la administración de Donald Trump.\n\n¿Y esto a mí qué? Los chips de IA son el motor que hace funcionar a los chatbots y a los modelos más avanzados. Quién puede comprarlos, y en qué cantidad, define qué países avanzan más rápido en esta carrera. Por eso cada envío a China es un tema sensible en la competencia tecnológica.\n\n¿Crees que Estados Unidos debería vender chips de IA a China o cerrarle por completo la puerta?\n\nFuente: Reuters, The Hill\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "ChipsIA",
+   "China",
+   "InteligenciaArtificial"
+  ],
+  "image_prompts": [
+   "A glossy 3D illustration of a huge stack of blank shipping crates filled with glowing green circuit boards on a cargo dock at dusk, a large cargo ship in the background, dramatic lighting, no text or symbols",
+   "Close-up 3D render of a single smooth unmarked computer chip floating above a world map made of light, thin glowing lines arcing across an ocean between two continents, dark blue background, no letters",
+   "Isometric 3D scene of a long conveyor belt carrying hundreds of identical blank microchips toward a glowing gate, a large balance scale beside it, soft studio lighting, clean pastel background, no text"
+  ],
+  "reel_script": [
+   "Estados Unidos aprobó casi 900.000 chips de IA para China en seis meses.",
+   "Lo reveló un comité de la Cámara de Representantes. Las ventas las firmó el *gobierno de Donald Trump*, según informaron Reuters y The Hill.",
+   "Los chips de IA son el motor de los chatbots y los modelos más avanzados. Cuántos lleguen a China ayuda a decidir *quién gana la carrera* de la inteligencia artificial."
+  ]
+ },
+ "caption": "🌏 Estados Unidos aprobó la venta de casi 900.000 chips de inteligencia artificial a China en apenas seis meses.\n\nEl dato lo dio a conocer un comité de la Cámara de Representantes, y lo publicaron Reuters y The Hill. Las aprobaciones las firmó la administración de Donald Trump.\n\n¿Y esto a mí qué? Los chips de IA son el motor que hace funcionar a los chatbots y a los modelos más avanzados. Quién puede comprarlos, y en qué cantidad, define qué países avanzan más rápido en esta carrera. Por eso cada envío a China es un tema sensible en la competencia tecnológica.\n\n¿Crees que Estados Unidos debería vender chips de IA a China o cerrarle por completo la puerta?\n\nFuente: Reuters, The Hill\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Raydann / Wikimedia Commons (CC BY-SA 4.0)\n🎥 Video: Transition 2017 / Wikimedia Commons (CC BY 4.0)\n\n#ChipsIA #China #InteligenciaArtificial",
+ "slides": [
+  "posts/20261119-2115/slide_1.jpg",
+  "posts/20261119-2115/slide_2.jpg",
+  "posts/20261119-2115/slide_3.jpg",
+  "posts/20261119-2115/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFRrWXhLbGJZcHVKYzUycHNKbTdKZUE2clNGYUp5WFFBOTdaWndZbVdDZW0xSTQzUi1EZlRsRElldE00bktXMUFMaG1Sclo4eGdCVnZab1JUbWJwZHQ4cGFSTzgyNkZSZmF0WHAzR0hTa1B3eUQ5cmJRTGRfd1ZBdkFiSzNpU1RDeF8wU0pmbXBqWXYxeFNuaWdmV01QLWk0MWdrclJDV2ZYNVFFN0puWU9B?oc=5",
+   "source": "Reuters"
+  },
+  {
+   "title": "Trump administration approved shipment of nearly 900,000 AI chips to China",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU21ybUlsOHNXaXhtcDgwZDhSUHZVNVZNaW9ycDJVQThjcHFwc2IwbS1fN3czVHJnMksyZEpadmh6R2gyQU5lWlZOdUVfSzdoUHN5ZVZJMXFNWkZFTE51enRlOU9RVzZjeHpBUHBSSFVhT0R2RHNpRFVZazcxdFM3ctIBhgFBVV95cUxNQmd1aDAzVWFnVmNtRmZfU1k3V1ZvLUNUd2hPWmNoclBMZWh6Q0RDb2d0eTNJRDRNUnZfUm56aGZXVGo4SHc4VlFiT3E4b3lvRUtvMWwzQ2kyZ3pFR1BENjFlLTFvbFJOWi1jdzlxdVFJMFZCTVllNV9CRnQwaDhzcWxVSjExQQ?oc=5",
+   "source": "The Hill"
+  }
+ ]
+}
