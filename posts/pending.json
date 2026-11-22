@@ -1,54 +1,64 @@
 {
- "id": "20261119-2145",
+ "id": "20261122-2045",
  "post": {
   "skip": false,
   "skip_reason": "",
-  "confidence": "media",
-  "headline": "GOOGLE CREÓ UN *INTERNET ESPEJO* PARA ENTRENAR SUS *AGENTES* DE IA",
-  "badge": "Chrome",
+  "confidence": "alta",
+  "headline": "ESCÁNDALO DE *TRAMPAS CON IA*: RENUNCIÓ EL *MINISTRO* DE EDUCACIÓN DE COREA",
+  "badge": "Corea",
   "photos": [
-   "Google Chrome",
-   "",
-   "Googleplex"
+   "Choi Kyo-jin",
+   "College Scholastic Ability Test",
+   "Government Complex Sejong"
   ],
   "slides": [
-   "Según WIRED, el equipo de Chrome armó la *Mirror Dimension*, un internet paralelo y aislado bajo su control. Tiene redes sociales, tiendas y paneles bancarios como sitios reales, y ahí los agentes de Gemini hacen tareas mientras enfrentan *ataques ocultos de inyección de instrucciones*.",
-   "Soltar agentes sin pulir en la web real es riesgoso, y en pruebas limitadas los modelos pueden notar que los evalúan y *portarse distinto*. Para poblar este mundo, Google usó otros agentes que crearon sitios realistas. Ahora quiere *abrirlo a más equipos* de la empresa."
+   "El ministro de Educación de Corea del Sur, *Choi Kyo-jin*, renunció este domingo. Una persona que logró el mejor puntaje del examen nacional de contador tributario admitió haber usado una cámara diminuta y un teléfono, y el país quedó con *temor a trampas con IA*.",
+   "Para el examen universitario se anunció bloquear el wifi en las sedes y tapar botones de la ropa. Choi, de 72 años, dijo en el Parlamento que *por su edad no confiaba* en atrapar tramposos. Hubo *111 casos* de mala conducta con dispositivos."
   ],
-  "caption": "🤖 Google construyó un enorme internet falso para poner a prueba a sus agentes de IA antes de soltarlos en la web real.\n\nSegún WIRED, el equipo de Chrome creó la \"Mirror Dimension\": un ecosistema aislado con redes sociales, tiendas y paneles bancarios que imitan sitios reales. Ahí los agentes de Gemini navegan y completan tareas mientras enfrentan ataques ocultos de inyección de instrucciones. Para armarlo usaron otros agentes que fabricaron los sitios rápidamente.\n\n¿Y esto a mí qué? Los navegadores que hacen compras o trámites por ti tienen que aprender a no caer en trampas escondidas en una página. Según Charles Qian, ingeniero de seguridad de IA de Chrome, el agente empieza a reconocer cuándo debe pedirte confirmación.\n\n¿Dejarías que un agente de IA pague una compra por ti desde el navegador?\n\nFuente: WIRED\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "🎓 Corea del Sur se quedó sin ministro de Educación en medio del miedo a las trampas con inteligencia artificial.\n\nChoi Kyo-jin, de 72 años, renunció este domingo y el presidente Lee Jae Myung aceptó su salida. Antes, una persona que logró el mejor puntaje del examen nacional de contador tributario admitió haber usado una cámara diminuta y un teléfono. En el Parlamento, Choi dijo que por su edad no confiaba en atrapar a los tramposos.\n\nEn el examen de ingreso a la universidad se detectaron 111 casos de mala conducta con dispositivos. ¿Y esto a mí qué? Con la IA en el celular, cuidar que un examen sea justo es cada vez más difícil.\n\n¿Tu escuela o universidad ya cambió cómo toma exámenes por la IA?\n\nFuente: AFP, Página|12, Diario El Norte\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "GoogleChrome",
-   "Gemini",
-   "AgentesDeIA"
+   "CoreaDelSur",
+   "TrampasConIA",
+   "Educacion"
   ],
   "image_prompts": [
-   "3D illustration of a glowing glass sphere containing a miniature city of floating browser windows and web pages, mirrored perfectly on a reflective dark floor, blue and violet neon lighting, symbolic isolated digital world, no text",
-   "3D illustration of small friendly robot drones navigating between colorful floating storefronts, social feed cards and bank dashboards made of blank glowing panels, hidden red trap icons among them, isometric view, soft studio lighting, no text or letters",
-   "3D illustration of a large translucent shield dome protecting a network of connected web page panels, red warning sparks bouncing off its surface, dark blue background with violet glow, wide cinematic angle, no logos or text"
+   "3D illustration of an empty exam desk with a blank answer sheet and a pencil, a glowing smartphone hidden under the paper emitting a faint blue AI aura, dramatic spotlight, dark navy background, no text or letters",
+   "3D illustration of a classroom of empty wooden desks seen from above, tiny red warning signal icons floating over a few of them, a large wifi symbol crossed out glowing in the air, soft violet lighting, isometric view, no text",
+   "3D illustration of an empty official office chair beside a tidy desk with a closed folder and a small plain flag without any symbols, warm evening light through tall windows, symbolic resignation scene, wide cinematic angle, no logos or text"
   ],
   "reel_script": [
-   "Google construyó un enorme internet falso solo para entrenar a sus agentes de IA.",
-   "Se llama *Dimensión Espejo* y lo armó el equipo de Chrome. Tiene redes sociales, tiendas y bancos simulados, donde los agentes de Gemini enfrentan trampas escondidas.",
-   "Así ponen a prueba sus defensas antes de llegar a la web real. Y empiezan a saber cuándo *pedirte confirmación*."
+   "Un ministro renunció tras un escándalo por trampas con inteligencia artificial.",
+   "Es *Choi Kyo-jin*, de 72 años. Antes del examen universitario dijo que, por su edad, no confiaba en atrapar a los tramposos. Ese día hubo *111 casos* de mala conducta.",
+   "El presidente aceptó su renuncia. Con la IA en el celular, cuidar que un examen sea justo es *cada vez más difícil*, en Corea y en cualquier país."
   ]
  },
- "caption": "🤖 Google construyó un enorme internet falso para poner a prueba a sus agentes de IA antes de soltarlos en la web real.\n\nSegún WIRED, el equipo de Chrome creó la \"Mirror Dimension\": un ecosistema aislado con redes sociales, tiendas y paneles bancarios que imitan sitios reales. Ahí los agentes de Gemini navegan y completan tareas mientras enfrentan ataques ocultos de inyección de instrucciones. Para armarlo usaron otros agentes que fabricaron los sitios rápidamente.\n\n¿Y esto a mí qué? Los navegadores que hacen compras o trámites por ti tienen que aprender a no caer en trampas escondidas en una página. Según Charles Qian, ingeniero de seguridad de IA de Chrome, el agente empieza a reconocer cuándo debe pedirte confirmación.\n\n¿Dejarías que un agente de IA pague una compra por ti desde el navegador?\n\nFuente: WIRED\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Noah Wulf / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: The Pancake of Heaven! / Wikimedia Commons (CC BY-SA 4.0)\n\n#GoogleChrome #Gemini #AgentesDeIA",
+ "caption": "🎓 Corea del Sur se quedó sin ministro de Educación en medio del miedo a las trampas con inteligencia artificial.\n\nChoi Kyo-jin, de 72 años, renunció este domingo y el presidente Lee Jae Myung aceptó su salida. Antes, una persona que logró el mejor puntaje del examen nacional de contador tributario admitió haber usado una cámara diminuta y un teléfono. En el Parlamento, Choi dijo que por su edad no confiaba en atrapar a los tramposos.\n\nEn el examen de ingreso a la universidad se detectaron 111 casos de mala conducta con dispositivos. ¿Y esto a mí qué? Con la IA en el celular, cuidar que un examen sea justo es cada vez más difícil.\n\n¿Tu escuela o universidad ya cambió cómo toma exámenes por la IA?\n\nFuente: AFP, Página|12, Diario El Norte\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Republic of Korea from Seoul, Republic o / Wikimedia Commons (CC BY-SA 2.0)\n📸 Foto: Minseong Kim / Wikimedia Commons (CC BY-SA 4.0)\n\n#CoreaDelSur #TrampasConIA #Educacion",
  "slides": [
-  "posts/20261119-2145/slide_1.jpg",
-  "posts/20261119-2145/slide_2.jpg",
-  "posts/20261119-2145/slide_3.jpg",
-  "posts/20261119-2145/slide_4.jpg"
+  "posts/20261122-2045/slide_1.jpg",
+  "posts/20261122-2045/slide_2.jpg",
+  "posts/20261122-2045/slide_3.jpg",
+  "posts/20261122-2045/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
-   "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
-   "source": "WIRED"
+   "title": "Corea del Sur: renunció el ministro de Educación tras un escándalo por trampas con inteligencia artificial",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaHZuYzVGSDJ6R3RqYVVfNlloQzBsMkJkMWZyN3hyamNQUm5EMnFqYkdpRS03OXhWTTZ4ZDVHSVdyOURxZjZIX1Bsa1ZTWktzTUdQeGpBdlRwVmgzeE52RXpiYTg5b19nQVZHTmZpbXMxWmRTT1p2MU42cUNpM2pRX0J1d29zUzVqeHRkNFExd0lEamxESXMtM0FrRFpDYmhlNzFtUk5YSVh2VS01eUg5SnRrYVZnazB1dnNPaFNrb1NYczM3UmgwaGxSSTNLaENkNmF1b3VoU2gyaU9jdDhr?oc=5",
+   "source": "El Litoral"
   },
   {
-   "title": "Putting Google's AI hurricane model to the test",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tQUZmWmhITW1GZ1VXdkVVUGQxb2EzRG93ZUV0RFgyREVfWXZUMVhrY2oyWVpvNnhNNkEwOUFnTUlTYW1FOVF6bjFmR3U0WHN2dFh0aEFqMnBUaVgxcEFtdS04WDg?oc=5",
-   "source": "Phys.org"
+   "title": "Corea del Sur: renunció el ministro de Educación por un escándalo de trampas con IA",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWHAxdG1OaC02TU8xX1NENVo3ZHNBdEhfR2FXT0RaQkd1TC1nUnRkdWhXVlFzMExTMHpvUjZra0RiczR3amZ1ZWJOeWZsRzlaQ0JvN2REaGNhTnRNTkY0WkIxc1Y3UGZKZUl4eWFHbFpCc2RScHZfMHY2bDBXRC1JZmlPMjVjaUtLYTFLMHJxNjFBd3pZcFgtaVYzbHQ1WVNRWks4c0NiTTVvdDR2T1haakNZUFRlVlVSMEx2RTIwYw?oc=5",
+   "source": "Página|12"
+  },
+  {
+   "title": "Corea del Sur: renunció el ministro de Educación tras el escándalo por los controles contra el fraude con IA",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTjEyVlZLZE16cmFSX0xzXzA4ZFV1c294OG5SRXlsNUVUazN5MWl4S2g1d1pVaFh4OTlhdE81SEpaXzdDUGVSTmFZWDlkN0RsSGpGelp6bm5IRmg0Z1ZpX3RGWXFvRWRieXRVLW9LXy1yaEhaSHB5Q2hzSmpabC0yTUU5MlBzSGxuUTdqR2gtR2FQaFMxUVl3T1pqejBwSk5wN2hkaEpRTl8xZGVMRXplazVKZFJWcC1HT0ozbTk1eXRDYWxnZGVULTg1WUJzdjZvVHZsTWZLMTJQcTZWeXMzYzRFMmpBcW_SAdcBQVVfeXFMT0htQnRVak5BSVVJWUtnWlNIQjd0dUc2dkttcnJYekJqTG83QW0tdVVjY2ZHRzUwMmpjR1FOdkZWdVJLUWdvRGJJb3BMdERxblYwcVU2bWVXN0FhZGlSQTdYTFJXMXNKcjBfZHhZY0x0cjIyNjRVdzR4UHRMNUgyM1N5M2NidWp0TzJPc25PVFk2VC1VR3pFa3BnS2xlamI1dE0yUkQ5R0RTVFRFQ0hLU3lYT3hna1dlRHhXYzhsTFRveFY3NXY2NTUxUF94OVBZV3dSbEh1NzQ?oc=5",
+   "source": "Diario Mendoza Today"
+  },
+  {
+   "title": "Corea del Sur: renunció el ministro de Educación tras un escándalo por el uso de inteligencia artificial en exámenes - Diario El Norte",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNWctbzdLbjJxTjRzem9tS2ZOYzZHU2FlSV80OWZEUGdndGR5Z2N6cGl6YmM2ZkQxRVlsLUFXRks3dFd6ZHd1dUpjOG54YURNS3BpU2hGQmd5NlJ3eU1aLUUxOWFzMExhc3ZwREtLcnQ3SlpZNlBpN0hGNHRVc3A3OTRSTUJwM2JRS0t3UTh3aHY3cl9pdUt1eVJuT2E5cEdmbTRaZ0h2VTNsQlVCNlcyOXYwSkF4NUdnbWlvekJuSFBielMxdk5NY1Z4ZERPdTg3M255TmVfQkd6Um1hQXc?oc=5",
+   "source": "Diario El Norte - San Nicolás"
   }
  ]
 }
