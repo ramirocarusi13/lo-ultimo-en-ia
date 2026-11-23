@@ -1,0 +1,59 @@
+{
+ "id": "20261123-1005",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "LAS GOLPEADAS ACCIONES DE IA *RECUPERAN TERRENO* TRAS UNA SEMANA DE *PESADILLA*",
+  "badge": "Nvidia",
+  "photos": [
+   "New York Stock Exchange",
+   "Nvidia headquarters",
+   "Nasdaq MarketSite"
+  ],
+  "slides": [
+   "Después de una semana de fuertes caídas, los futuros de Wall Street suben este lunes y las acciones de inteligencia artificial *recuperan terreno*. Según CNBC, Nvidia sube en la previa tras caer *cerca de 14%* el viernes, y Anthropic repunta tras perder 8,5%.",
+   "El viernes, el S&P 500 y el Dow Jones cerraron *en corrección*, más de 10% por debajo de sus récords, y el Nasdaq-100 llegó a tocar *mercado bajista* durante la jornada. Según NPR, la IA ya afecta la economía, de Wall Street a la calle."
+  ],
+  "caption": "📉 Tras una semana de pesadilla en Wall Street, las golpeadas acciones de inteligencia artificial recuperan terreno este lunes, antes de la apertura.\n\nSegún CNBC, los futuros del Dow Jones suben más de 1,5%. Nvidia, en el ojo de la tormenta, repunta en la previa después de caer cerca de 14% el viernes, y Anthropic sube tras perder 8,5%.\n\nEl viernes, el S&P 500 y el Dow Jones cerraron en corrección, más de 10% por debajo de sus récords.\n\n¿Y esto a mí qué? La IA ya mueve a Wall Street y, según NPR, llega a la economía de todos los días. Un rebote de un día no asegura el fin de la caída.\n\n¿Crees que la caída de las acciones de IA fue un tropiezo pasajero o la señal de una burbuja?\n\nFuente: CNBC, TradingView, NPR\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "Nvidia",
+   "WallStreet",
+   "InteligenciaArtificial"
+  ],
+  "image_prompts": [
+   "3D illustration of a glowing stock market line chart bouncing upward after a steep drop, floating above a stylized city financial district at dawn, neon blue and green tones, dramatic lighting, no text or numbers",
+   "3D illustration of a giant glowing computer chip on a pedestal surrounded by rising green arrows and falling red arrows, symbolic metaphor of market volatility, dark background with soft purple glow, clean surfaces without inscriptions",
+   "3D illustration of a roller coaster track shaped like a market chart, running through server racks and data center towers, small cart climbing up again after a big dip, cinematic wide shot, cool blue lighting, no text"
+  ],
+  "reel_script": [
+   "Nvidia cayó casi 14 por ciento en un día y hoy intenta levantarse.",
+   "Antes de la apertura, las acciones de IA *repuntan*. Anthropic sube tras perder ocho y medio por ciento, y los futuros del Dow suben más de uno y medio por ciento.",
+   "El viernes, el Dow Jones y el S y P 500 cerraron *en corrección*, más de 10 por ciento bajo sus récords. Un rebote no asegura el fin de la caída."
+  ]
+ },
+ "caption": "📉 Tras una semana de pesadilla en Wall Street, las golpeadas acciones de inteligencia artificial recuperan terreno este lunes, antes de la apertura.\n\nSegún CNBC, los futuros del Dow Jones suben más de 1,5%. Nvidia, en el ojo de la tormenta, repunta en la previa después de caer cerca de 14% el viernes, y Anthropic sube tras perder 8,5%.\n\nEl viernes, el S&P 500 y el Dow Jones cerraron en corrección, más de 10% por debajo de sus récords.\n\n¿Y esto a mí qué? La IA ya mueve a Wall Street y, según NPR, llega a la economía de todos los días. Un rebote de un día no asegura el fin de la caída.\n\n¿Crees que la caída de las acciones de IA fue un tropiezo pasajero o la señal de una burbuja?\n\nFuente: CNBC, TradingView, NPR\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Jeffrey Zeldman from Manhattan, USA / Wikimedia Commons (CC BY 2.0)\n📸 Foto: Coolcaesar / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: NASA Headquarters / NASA/Emma Howells / Wikimedia Commons (Public domain)\n🎥 Video: ZMASLO / Wikimedia Commons (CC BY 3.0)\n\n#Nvidia #WallStreet #InteligenciaArtificial",
+ "slides": [
+  "posts/20261123-1005/slide_1.jpg",
+  "posts/20261123-1005/slide_2.jpg",
+  "posts/20261123-1005/slide_3.jpg",
+  "posts/20261123-1005/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Futures rally after Wall Street's nightmare week",
+   "link": "https://www.cnbc.com/2026/11/23/futures-rally-after-wall-streets-nightmare-week-.html",
+   "source": "CNBC"
+  },
+  {
+   "title": "Los futuros de Wall Street repuntan a medida que las maltrechas acciones del sector de la inteligencia artificial recuperan terreno",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE04U1RHUUNNOVM5ZU9IbnV4WElsdWtZVzhkckFNNWJEM2N5ZlpPcWhiS3BUQnpiem1FYTJjZG5qal9BcGFTNlB1LXlhNy1tQnBxWnQ5OTNxYnp1RzdzdnFmRWY2amNfbUYwTTI2YWlESTJ1dUp0NzRj?oc=5",
+   "source": "TradingView"
+  },
+  {
+   "title": "From Wall Street to Main Street, how artificial intelligence is affecting the economy",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZkFxTm5xRXoxcFMzaS02cWhMTzhSME1sN1RMQTVmM0dMc1U1U1JBemYzWVNZVjZ5RUY5SEJLVEU5MUl3elR1Tjh0Yy1lbGg0Z2hDVXliaHZCdnFHNmlGcFh3emJHYnBhcTBwOG5XMG1KZ0h1T3FxRmc0TWN0V3ZzbGo3bV9NQ3ZxMi1HMDZCek1menV3TzdFZmpVNFpNcEJoamt4VjluMzh2UGJ1NGpBNzI1Q3E4SXJQZmVQeWI4VnJDSS1RVC1uRA?oc=5",
+   "source": "NPR"
+  }
+ ]
+}
