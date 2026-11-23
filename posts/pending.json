@@ -1,54 +1,49 @@
 {
- "id": "20261123-1234",
+ "id": "20261123-1405",
  "post": {
   "skip": false,
   "skip_reason": "",
-  "confidence": "media",
-  "headline": "JEFE DE IA DE *META* ALERTA: LA INDUSTRIA *NO ESTÁ LISTA*",
-  "badge": "Meta",
+  "confidence": "alta",
+  "headline": "GOOGLE YA DEJA CONECTAR *TUS GASTOS* A SU BÚSQUEDA, PRONTO *DOCUMENTOS*",
+  "badge": "Google",
   "photos": [
-   "Alexandr Wang",
-   "",
+   "Googleplex",
+   "Google Wallet",
    ""
   ],
   "slides": [
-   "Alexandr Wang, jefe de inteligencia artificial de Meta, publicó un mensaje que se volvió viral. Según The Decoder, lo escribió tras un *esbozo de demostración de la hipótesis de Riemann* asistido por IA, un problema matemático sin resolver desde hace 150 años.",
-   "Para Wang, la inteligencia ya no es el límite: la IA podría *mejorarse a sí misma* y acelerar la investigación en biología o economía. Advierte que la industria debe asegurar que la IA *dé más poder a las personas* en vez de controlar la sociedad."
+   "Google empezó a permitir que conectes *Google Wallet* al Modo IA de su buscador, dentro de la función Personal Intelligence. En las próximas semanas sumará Drive y la app de Gemini, que se agregan a Gmail, Calendar y Fotos.",
+   "Así, la Búsqueda podrá responder según *tus gastos, documentos y chats*. Es opcional: tú eliges qué apps conectar y puedes apagarlo cuando quieras desde la configuración. Además, las respuestas con IA tendrán en cuenta *tus búsquedas recientes*."
   ],
-  "caption": "🧠 El jefe de inteligencia artificial de Meta, Alexandr Wang, advierte que la industria no está lista para lo que viene.\n\nSegún The Decoder, Wang ve en un esbozo de demostración de la hipótesis de Riemann, hecho con ayuda de IA, una señal de que la superinteligencia está cerca. Ese problema lleva 150 años sin resolverse. En un post que se volvió viral, según Forbes, advirtió contra entregarle la sociedad a la IA.\n\nPara Wang, a los modelos ya no les falta inteligencia, sino conocimiento específico e infraestructura. Cree que pronto podrían automatizar su propio desarrollo.\n\n¿Y esto a mí qué? Wang pide que la IA dé más control a las personas, no que se lo quite.\n\n¿Quién debería decidir hasta dónde llega la IA: las empresas, los gobiernos o la gente?\n\nFuente: The Decoder, Forbes\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "🔎 Google ya deja conectar Google Wallet a su buscador con IA para darte respuestas basadas en tus gastos.\n\nLa función se llama Personal Intelligence y funciona en el Modo IA de la Búsqueda. Wallet empezó a llegar hoy, y en las próximas semanas se suman Google Drive y la app de Gemini. Se agregan a Gmail, Calendar y Fotos, que ya se podían conectar.\n\n¿Y esto a ti qué? Podrías preguntarle al buscador por tus gastos o por los documentos de un proyecto, y retomar una búsqueda, como la de un viaje, sin repetir todo. Es opcional: lo activas en Personalización de la Búsqueda, en Apps conectadas, y lo puedes apagar cuando quieras.\n\n¿Le darías acceso a tus gastos a Google a cambio de respuestas más útiles?\n\nFuente: Blog de Google\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "Meta",
-   "AlexandrWang",
-   "Superinteligencia"
+   "Google",
+   "GoogleSearch",
+   "PersonalIntelligence"
   ],
   "image_prompts": [
-   "A glowing 3D sculpture of an abstract digital brain hovering above a miniature city at dusk, soft neon purple and blue light, cinematic lighting, symbolic illustration of artificial intelligence shaping society, clean composition",
-   "A 3D illustration of a floating dark slate covered in abstract glowing curves and geometric shapes without any symbols or letters, a small robotic arm reaching toward it, deep blue background, dramatic soft lighting",
-   "A 3D illustration of a giant balance scale weighing a glowing artificial intelligence core against a cluster of tiny houses, contrasting warm and cool light, minimalist studio background, symbolic of control and human agency"
+   "3D illustration of a glowing magnifying glass hovering over a personalized digital dashboard, with floating abstract cards, a wallet, folders and chat bubbles connected to it by light trails, soft blue and purple lighting, clean modern style, no text",
+   "3D illustration of a smartphone lying on a desk with colorful glowing lines linking a leather wallet, a stack of document folders and speech bubbles to its blank screen, warm studio lighting, isometric view, no text or logos",
+   "3D illustration close-up of a large toggle switch and a small padlock floating beside a translucent shield, surrounded by abstract app icons without symbols, representing user control over personal data, soft gradient background, no text"
   ],
   "reel_script": [
-   "Una IA ayudó a avanzar en un problema matemático de 150 años.",
-   "Según The Decoder, el jefe de IA de Meta, Alexandr Wang, vio en ese *esbozo de demostración* de la hipótesis de Riemann una señal: la inteligencia ya no es el límite.",
-   "Wang advierte que la industria no está lista. Los modelos podrían *mejorarse solos*, y pide que la IA dé más poder a las personas y no controle la sociedad."
+   "Tu buscador de Google ya puede leer tus gastos, si tú lo permites.",
+   "Google empezó a dejar conectar *Google Wallet* a su Búsqueda con inteligencia artificial. En las próximas semanas llegan Drive y la app de Gemini, junto a Gmail, Calendar y Fotos.",
+   "Así podrías preguntar por tus gastos o retomar una búsqueda sin empezar de cero. Es *opcional*. Tú decides qué conectar y puedes apagarlo cuando quieras."
   ]
  },
- "caption": "🧠 El jefe de inteligencia artificial de Meta, Alexandr Wang, advierte que la industria no está lista para lo que viene.\n\nSegún The Decoder, Wang ve en un esbozo de demostración de la hipótesis de Riemann, hecho con ayuda de IA, una señal de que la superinteligencia está cerca. Ese problema lleva 150 años sin resolverse. En un post que se volvió viral, según Forbes, advirtió contra entregarle la sociedad a la IA.\n\nPara Wang, a los modelos ya no les falta inteligencia, sino conocimiento específico e infraestructura. Cree que pronto podrían automatizar su propio desarrollo.\n\n¿Y esto a mí qué? Wang pide que la IA dé más control a las personas, no que se lo quite.\n\n¿Quién debería decidir hasta dónde llega la IA: las empresas, los gobiernos o la gente?\n\nFuente: The Decoder, Forbes\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Meta Platforms, Inc. / Wikimedia Commons (CC BY-SA 4.0)\n\n#Meta #AlexandrWang #Superinteligencia",
+ "caption": "🔎 Google ya deja conectar Google Wallet a su buscador con IA para darte respuestas basadas en tus gastos.\n\nLa función se llama Personal Intelligence y funciona en el Modo IA de la Búsqueda. Wallet empezó a llegar hoy, y en las próximas semanas se suman Google Drive y la app de Gemini. Se agregan a Gmail, Calendar y Fotos, que ya se podían conectar.\n\n¿Y esto a ti qué? Podrías preguntarle al buscador por tus gastos o por los documentos de un proyecto, y retomar una búsqueda, como la de un viaje, sin repetir todo. Es opcional: lo activas en Personalización de la Búsqueda, en Apps conectadas, y lo puedes apagar cuando quieras.\n\n¿Le darías acceso a tus gastos a Google a cambio de respuestas más útiles?\n\nFuente: Blog de Google\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: The Pancake of Heaven! / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: Steven Walling / Wikimedia Commons (CC BY-SA 3.0)\n\n#Google #GoogleSearch #PersonalIntelligence",
  "slides": [
-  "posts/20261123-1234/slide_1.jpg",
-  "posts/20261123-1234/slide_2.jpg",
-  "posts/20261123-1234/slide_3.jpg",
-  "posts/20261123-1234/slide_4.jpg"
+  "posts/20261123-1405/slide_1.jpg",
+  "posts/20261123-1405/slide_2.jpg",
+  "posts/20261123-1405/slide_3.jpg",
+  "posts/20261123-1405/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "Meta's Alexandr Wang warns the AI industry isn't ready for what's coming after Riemann breakthrough",
-   "link": "https://the-decoder.com/metas-alexandr-wang-warns-the-ai-industry-isnt-ready-for-whats-coming-after-riemann-breakthrough/",
-   "source": "The Decoder"
-  },
-  {
-   "title": "Meta’s AI Chief Alexandr Wang Warns Against ‘Handover Of Society To AI’ In Viral Post",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcVg2N1RwM0I1eXctaFNvNE1QRUpnVHlTUVVfSW5DYXlSMzRqcHN5eUhkZXBhN0Z0WDZvMWNRbF9NTkU3UGd2MEd6SnpnbHM2VDcyN3VfZEpEWEZnNy1sdFlXanZKbTFhc3puUUhURS1SdFp1Q2lrMkU2X3ZJUFJLSXk0SW1rV3Z0MGluTko3REM1U2ZqaWpyTDIwRkt4TmphVEEtRDZ3Qk5YeHJOVTFDUkJMbkNQd1VmQ2NNMTZDaXQwX3J1anZaYkdoMDhDVkx1VUZ3blRyUjNRYVVfd3RkV0NsZllwYUNfRDltUXhn?oc=5",
-   "source": "Forbes"
+   "title": "A more tailored Google Search that’s uniquely yours",
+   "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+   "source": "Google"
   }
  ]
 }

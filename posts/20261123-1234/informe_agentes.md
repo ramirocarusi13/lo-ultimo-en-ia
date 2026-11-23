@@ -8,4 +8,8 @@
 - **revisor-legal** — CAMBIOS, riesgo medio. La frase de Forbes iba como cita textual sin verificar → parafraseada y atribuida "según Forbes". Etiqueta IA: no.
 - **guionista-reels** — CAMBIOS, gancho 5→8. Nuevo gancho con el problema de 150 años (aplicado, adaptado con atribución).
 - **cazador-videos** — sin clips válidos (solo reseñas y comentarios de terceros). Sin video original con derechos → va CARRUSEL.
+- **productor** — FORMATO: CARRUSEL (es una advertencia/opinión, sin video real).
+- **director-arte** — CAMBIOS, 5/10. Slide 2 (página escaneada de Riemann) con texto de fondo que se pisa con el slide; slide 3 ("Meta headquarters") era solo cielo y semáforos. Portada con Wang OK.
+- Cambios aplicados: reel_script con "esbozo de demostración" y atribución; caption recortado y cita de Forbes parafraseada; fotos 2 y 3 → "" (ilustraciones 3D) y rearmado una vez. Revisé los slides nuevos: legibles y sin texto ni personas.
+- Etiqueta de IA: no (según el revisor legal: ilustraciones simbólicas, sin personas).
 - Jefe de redacción: se publica con confianza "media"; el contexto Riemann se atribuye "según The Decoder".

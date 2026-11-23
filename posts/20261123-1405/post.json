@@ -1,0 +1,49 @@
+{
+ "id": "20261123-1405",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "GOOGLE YA DEJA CONECTAR *TUS GASTOS* A SU BÚSQUEDA, PRONTO *DOCUMENTOS*",
+  "badge": "Google",
+  "photos": [
+   "Googleplex",
+   "Google Wallet",
+   ""
+  ],
+  "slides": [
+   "Google empezó a permitir que conectes *Google Wallet* al Modo IA de su buscador, dentro de la función Personal Intelligence. En las próximas semanas sumará Drive y la app de Gemini, que se agregan a Gmail, Calendar y Fotos.",
+   "Así, la Búsqueda podrá responder según *tus gastos, documentos y chats*. Es opcional: tú eliges qué apps conectar y puedes apagarlo cuando quieras desde la configuración. Además, las respuestas con IA tendrán en cuenta *tus búsquedas recientes*."
+  ],
+  "caption": "🔎 Google ya deja conectar Google Wallet a su buscador con IA para darte respuestas basadas en tus gastos.\n\nLa función se llama Personal Intelligence y funciona en el Modo IA de la Búsqueda. Wallet empezó a llegar hoy, y en las próximas semanas se suman Google Drive y la app de Gemini. Se agregan a Gmail, Calendar y Fotos, que ya se podían conectar.\n\n¿Y esto a ti qué? Podrías preguntarle al buscador por tus gastos o por los documentos de un proyecto, y retomar una búsqueda, como la de un viaje, sin repetir todo. Es opcional: lo activas en Personalización de la Búsqueda, en Apps conectadas, y lo puedes apagar cuando quieras.\n\n¿Le darías acceso a tus gastos a Google a cambio de respuestas más útiles?\n\nFuente: Blog de Google\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "Google",
+   "GoogleSearch",
+   "PersonalIntelligence"
+  ],
+  "image_prompts": [
+   "3D illustration of a glowing magnifying glass hovering over a personalized digital dashboard, with floating abstract cards, a wallet, folders and chat bubbles connected to it by light trails, soft blue and purple lighting, clean modern style, no text",
+   "3D illustration of a smartphone lying on a desk with colorful glowing lines linking a leather wallet, a stack of document folders and speech bubbles to its blank screen, warm studio lighting, isometric view, no text or logos",
+   "3D illustration close-up of a large toggle switch and a small padlock floating beside a translucent shield, surrounded by abstract app icons without symbols, representing user control over personal data, soft gradient background, no text"
+  ],
+  "reel_script": [
+   "Tu buscador de Google ya puede leer tus gastos, si tú lo permites.",
+   "Google empezó a dejar conectar *Google Wallet* a su Búsqueda con inteligencia artificial. En las próximas semanas llegan Drive y la app de Gemini, junto a Gmail, Calendar y Fotos.",
+   "Así podrías preguntar por tus gastos o retomar una búsqueda sin empezar de cero. Es *opcional*. Tú decides qué conectar y puedes apagarlo cuando quieras."
+  ]
+ },
+ "caption": "🔎 Google ya deja conectar Google Wallet a su buscador con IA para darte respuestas basadas en tus gastos.\n\nLa función se llama Personal Intelligence y funciona en el Modo IA de la Búsqueda. Wallet empezó a llegar hoy, y en las próximas semanas se suman Google Drive y la app de Gemini. Se agregan a Gmail, Calendar y Fotos, que ya se podían conectar.\n\n¿Y esto a ti qué? Podrías preguntarle al buscador por tus gastos o por los documentos de un proyecto, y retomar una búsqueda, como la de un viaje, sin repetir todo. Es opcional: lo activas en Personalización de la Búsqueda, en Apps conectadas, y lo puedes apagar cuando quieras.\n\n¿Le darías acceso a tus gastos a Google a cambio de respuestas más útiles?\n\nFuente: Blog de Google\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: The Pancake of Heaven! / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: Steven Walling / Wikimedia Commons (CC BY-SA 3.0)\n\n#Google #GoogleSearch #PersonalIntelligence",
+ "slides": [
+  "posts/20261123-1405/slide_1.jpg",
+  "posts/20261123-1405/slide_2.jpg",
+  "posts/20261123-1405/slide_3.jpg",
+  "posts/20261123-1405/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "A more tailored Google Search that’s uniquely yours",
+   "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+   "source": "Google"
+  }
+ ]
+}
