@@ -1,0 +1,49 @@
+{
+ "id": "20261123-1605",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "EQUIPOS DE *AGENTES* DE IA MEJORAN *ALGORITMOS CUÁNTICOS*",
+  "badge": "DeepMind",
+  "photos": [
+   "Google DeepMind",
+   "Google Quantum AI",
+   ""
+  ],
+  "slides": [
+   "Google DeepMind puso a *equipos de agentes Gemini 4* a mejorar algoritmos cuánticos conocidos. Cada equipo buscaba ideas por separado, las demostraba matemáticamente con Lean y cada cuatro horas se reunían en una *conferencia virtual* para debatirlas y compararlas.",
+   "Los circuitos que lograron podrían ayudar algún día a simular *energía de fusión, química y diseño de fármacos*. Todavía exigen más recursos que las primeras computadoras cuánticas con corrección de errores, pero DeepMind dice que la IA *comprime trabajo que antes llevaba años*."
+  ],
+  "caption": "🔬 Google DeepMind puso a equipos de agentes de IA a mejorar algoritmos cuánticos, y cada idea quedó demostrada con matemática.\n\nUsaron equipos de agentes Gemini 4 que trabajaban por separado y verificaban sus ideas con Lean, un demostrador formal de teoremas. Cada cuatro horas se reunían en una \"conferencia virtual\" para debatirlas. Así lograron circuitos cuánticos más eficientes. Lo hicieron junto a Google Quantum AI y liberaron el código en GitHub.\n\n¿Y esto a mí qué? Estos algoritmos podrían ayudar algún día a simular energía de fusión, química y diseño de fármacos. Todavía piden más recursos que las primeras computadoras cuánticas con corrección de errores, pero, según DeepMind, la IA verificada comprime trabajo que antes llevaba años.\n\n¿Confiarías en un descubrimiento científico hecho por agentes de IA si viene con una prueba matemática?\n\nFuente: Google DeepMind\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "GoogleDeepMind",
+   "ComputacionCuantica",
+   "Gemini4"
+  ],
+  "image_prompts": [
+   "Glowing 3D illustration of a futuristic quantum processor suspended inside a golden cryogenic chandelier, surrounded by floating luminous circuit paths, deep blue and violet lighting, clean studio render, no text, no logos, no people",
+   "Isometric 3D scene of several small friendly robot assistants gathered around a round holographic table, exchanging glowing geometric idea cubes, soft neon lighting, playful tech style, wide angle view, no text, no logos, no people",
+   "Close-up 3D illustration of a miniature fusion reactor and floating colorful molecule models connected by streams of light to a plain unmarked quantum chip, symbolic of future science, warm and cool contrasting colors, no text, no logos, no people"
+  ],
+  "reel_script": [
+   "Agentes de inteligencia artificial hicieron una conferencia entre ellos para mejorar algoritmos cuánticos.",
+   "Google DeepMind usó equipos de *agentes Gemini 4*. Cada cuatro horas debatían ideas en una conferencia virtual, y cada mejora se comprobó con matemática formal.",
+   "Esto podría ayudar algún día a simular *energía de fusión* y nuevos fármacos. Aún falta potencia de cálculo, pero según DeepMind, la IA ya acorta trabajo que antes llevaba años."
+  ]
+ },
+ "caption": "🔬 Google DeepMind puso a equipos de agentes de IA a mejorar algoritmos cuánticos, y cada idea quedó demostrada con matemática.\n\nUsaron equipos de agentes Gemini 4 que trabajaban por separado y verificaban sus ideas con Lean, un demostrador formal de teoremas. Cada cuatro horas se reunían en una \"conferencia virtual\" para debatirlas. Así lograron circuitos cuánticos más eficientes. Lo hicieron junto a Google Quantum AI y liberaron el código en GitHub.\n\n¿Y esto a mí qué? Estos algoritmos podrían ayudar algún día a simular energía de fusión, química y diseño de fármacos. Todavía piden más recursos que las primeras computadoras cuánticas con corrección de errores, pero, según DeepMind, la IA verificada comprime trabajo que antes llevaba años.\n\n¿Confiarías en un descubrimiento científico hecho por agentes de IA si viene con una prueba matemática?\n\nFuente: Google DeepMind\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: DeepMind Technologies Limited (Alphabet, / Wikimedia Commons (Public domain)\n\n#GoogleDeepMind #ComputacionCuantica #Gemini4",
+ "slides": [
+  "posts/20261123-1605/slide_1.jpg",
+  "posts/20261123-1605/slide_2.jpg",
+  "posts/20261123-1605/slide_3.jpg",
+  "posts/20261123-1605/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Finding faster quantum algorithms with agents and formal verification",
+   "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+   "source": "Google DeepMind"
+  }
+ ]
+}
