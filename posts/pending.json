@@ -1,49 +1,54 @@
 {
- "id": "20261123-1615",
+ "id": "20261123-1705",
  "post": {
   "skip": false,
   "skip_reason": "",
   "confidence": "alta",
-  "headline": "LA IA DE GOOGLE YA MEJORA *ALGORITMOS CUÁNTICOS* CON *PRUEBAS MATEMÁTICAS*",
-  "badge": "DeepMind",
+  "headline": "EL HACKER DE *GTA 6* QUEDA LIBRE EL DÍA DE SU *CONDENA*",
+  "badge": "Rockstar",
   "photos": [
-   "",
-   "",
-   "quantum computer"
+   "Rockstar Games",
+   "Woolwich Crown Court",
+   "Amazon Fire TV Stick"
   ],
   "slides": [
-   "Google DeepMind usó *equipos de agentes de Gemini 4* para mejorar algoritmos cuánticos conocidos y crear circuitos más eficientes. Como no se pueden probar en las computadoras actuales, los agentes *demostraron matemáticamente* que cada resultado funciona, usando el verificador Lean.",
-   "Los equipos se reunían cada cuatro horas en una *conferencia virtual* para debatir ideas. El objetivo: acercar simulaciones de *energía de fusión, química y fármacos*. Esas simulaciones aún exigen más recursos que las primeras computadoras cuánticas con corrección de errores, pero el avance es importante."
+   "Arion Kurtaj, de 21 años, fue condenado a *7 años de prisión* por hackear a Rockstar Games y otras empresas con el grupo Lapsus$. Pero el juez lo dejó *en libertad condicional* el mismo día, con una advertencia: \"No dejes que esto vuelva a pasar\".",
+   "En 2022 robó *90 clips del GTA 6* sin terminar desde un hotel, usando un Amazon Fire Stick conectado al televisor. Rockstar dice que recuperarse le costó *5 millones de dólares*. Ahora, durante cinco años, tendrá restringida su actividad en internet."
   ],
-  "caption": "🔬 Google puso a equipos de agentes de IA a mejorar algoritmos cuánticos, y cada resultado viene con prueba matemática.\n\nGoogle DeepMind y Google Quantum AI usaron equipos de agentes de Gemini 4 para optimizar algoritmos cuánticos conocidos y crear circuitos más eficientes. Como no se pueden probar en las computadoras de hoy, los agentes demostraron que funcionan con Lean, un verificador formal. Cada cuatro horas se reunían en una conferencia virtual para comparar ideas.\n\n¿Y esto a mí qué? La meta es que las futuras computadoras cuánticas puedan simular energía de fusión, química y diseño de medicamentos. Todavía falta hardware, pero según DeepMind este método acorta un trabajo de diseño que antes llevaba años.\n\n¿Confiarías en un descubrimiento científico hecho por agentes de IA si viene con su prueba matemática?\n\nFuente: Google DeepMind\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "🎮 El hacker que filtró GTA 6 fue condenado a 7 años de prisión… y salió libre el mismo día.\n\nArion Kurtaj, de 21 años, se declaró culpable de hackear a Rockstar Games y otras empresas con el grupo Lapsus$. El juez consideró suficiente el tiempo que ya pasó detenido y lo dejó cumplir la condena fuera de la cárcel.\n\nEn 2022 robó 90 clips del juego sin terminar usando un Amazon Fire Stick en la tele de un hotel, y amenazó con publicar el código fuente. Según Rockstar, recuperarse le costó 5 millones de dólares.\n\nLo que te toca: su grupo usaba engaños simples, como enlaces falsos, para entrar a grandes empresas. Cuidado con dónde haces clic.\n\n¿Crees que prohibirle Telegram y Discord por cinco años alcanza como castigo?\n\nFuente: BBC, Engadget\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "GoogleDeepMind",
-   "ComputacionCuantica",
-   "Gemini"
+   "GTA6",
+   "RockstarGames",
+   "Ciberseguridad"
   ],
   "image_prompts": [
-   "A glowing 3D quantum processor floating in a dark blue laboratory, surrounded by swirling orbits of light particles and small robotic assistant drones examining it, cinematic lighting, clean futuristic illustration style",
-   "Several clusters of glowing abstract light nodes connected by luminous threads, floating around round holographic tables in a dark virtual hall, passing bright geometric puzzle pieces between clusters, no figures, no floor reflections, isometric 3D illustration",
-   "A giant glowing checkmark made of interlocking crystal blocks rising above a miniature fusion reactor and a floating molecule model, symbolic scientific discovery scene, vibrant 3D render, wide angle view"
+   "3D illustration of a dark hotel room at night, a television glowing with abstract streams of light, a small streaming stick plugged into it, a wireless keyboard and mouse on the bed, moody neon pink and blue lighting, cinematic angle",
+   "3D illustration of an empty classic courtroom with a wooden judge bench and a gavel in the foreground, a glowing digital padlock hologram floating above the bench, soft dramatic lighting, deep blue palette, wide shot",
+   "3D illustration of a cracked glowing padlock floating above rows of server racks, translucent video frames and film strips spilling out of it into the air, futuristic night skyline in the background, neon purple light, low angle"
   ],
   "reel_script": [
-   "Agentes de inteligencia artificial acaban de mejorar algoritmos cuánticos, y lo demostraron con matemáticas.",
-   "Los agentes de *Gemini 4* de Google DeepMind se reunían cada cuatro horas en una conferencia virtual. Cada mejora quedó *demostrada matemáticamente*, porque aún no pueden probarse en máquinas reales.",
-   "La meta es simular *energía de fusión* y diseñar medicamentos. Todavía faltan computadoras cuánticas capaces de correrlos, pero según DeepMind la IA ya *acorta* un trabajo de diseño que antes llevaba años."
+   "Filtró GTA 6, lo condenaron a siete años y salió libre ese mismo día.",
+   "Arion Kurtaj robó *90 clips* del GTA 6 sin terminar. Lo hizo con un dispositivo de streaming en la tele de un hotel. A Rockstar le costó cinco millones de dólares.",
+   "El juez consideró suficiente el tiempo que ya estuvo detenido. Pero durante *cinco años* tendrá prohibido usar Telegram y Discord. Su advertencia: no dejes que esto vuelva a pasar."
   ]
  },
- "caption": "🔬 Google puso a equipos de agentes de IA a mejorar algoritmos cuánticos, y cada resultado viene con prueba matemática.\n\nGoogle DeepMind y Google Quantum AI usaron equipos de agentes de Gemini 4 para optimizar algoritmos cuánticos conocidos y crear circuitos más eficientes. Como no se pueden probar en las computadoras de hoy, los agentes demostraron que funcionan con Lean, un verificador formal. Cada cuatro horas se reunían en una conferencia virtual para comparar ideas.\n\n¿Y esto a mí qué? La meta es que las futuras computadoras cuánticas puedan simular energía de fusión, química y diseño de medicamentos. Todavía falta hardware, pero según DeepMind este método acorta un trabajo de diseño que antes llevaba años.\n\n¿Confiarías en un descubrimiento científico hecho por agentes de IA si viene con su prueba matemática?\n\nFuente: Google DeepMind\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Ragsxl / Wikimedia Commons (CC BY-SA 4.0)\n\n#GoogleDeepMind #ComputacionCuantica #Gemini",
+ "caption": "🎮 El hacker que filtró GTA 6 fue condenado a 7 años de prisión… y salió libre el mismo día.\n\nArion Kurtaj, de 21 años, se declaró culpable de hackear a Rockstar Games y otras empresas con el grupo Lapsus$. El juez consideró suficiente el tiempo que ya pasó detenido y lo dejó cumplir la condena fuera de la cárcel.\n\nEn 2022 robó 90 clips del juego sin terminar usando un Amazon Fire Stick en la tele de un hotel, y amenazó con publicar el código fuente. Según Rockstar, recuperarse le costó 5 millones de dólares.\n\nLo que te toca: su grupo usaba engaños simples, como enlaces falsos, para entrar a grandes empresas. Cuidado con dónde haces clic.\n\n¿Crees que prohibirle Telegram y Discord por cinco años alcanza como castigo?\n\nFuente: BBC, Engadget\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Sergey Galyonkin from Raleigh, USA / Wikimedia Commons (CC BY-SA 2.0)\n📸 Foto: N Chadwick / Wikimedia Commons (CC BY-SA 2.0)\n📸 Foto: Paowee / Wikimedia Commons (CC BY-SA 4.0)\n\n#GTA6 #RockstarGames #Ciberseguridad",
  "slides": [
-  "posts/20261123-1615/slide_1.jpg",
-  "posts/20261123-1615/slide_2.jpg",
-  "posts/20261123-1615/slide_3.jpg",
-  "posts/20261123-1615/slide_4.jpg"
+  "posts/20261123-1705/slide_1.jpg",
+  "posts/20261123-1705/slide_2.jpg",
+  "posts/20261123-1705/slide_3.jpg",
+  "posts/20261123-1705/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "Finding faster quantum algorithms with agents and formal verification",
-   "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
-   "source": "Google DeepMind"
+   "title": "The infamous GTA 6 hacker has been released after pleading guilty",
+   "link": "https://www.engadget.com/2325643/the-infamous-gta-6-hacker-has-been-released-after-pleading-guilty/",
+   "source": "Engadget"
+  },
+  {
+   "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
+   "link": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC"
   }
  ]
 }

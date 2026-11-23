@@ -394,7 +394,15 @@
   "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSGNsclN1blA4Q1o2ZllxWEFqeXE1VUlmMF9TTU1PTmRsRFAxSEpJaG1Kalp1MFlHQW11clJ6WkotZVZINGF4ZjBMeHNmQXd4RDNNZndaZ1NibDg1WlhfbGdkdXAyS3pENUFiM2NSLVNHNDJ1Wl9MZ2cwbVBhYTdnZF9YRm1tbl9sQmdQaUJlRXRsOU55RDBqX2VjWVpPNmxOc0VpU1RBaEdUT29DV0NrODFwUk44YURubkZ1bC1lVXlsWDZGLURiV0N3?oc=5",
   "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQWVHLWI2RnpUOEpLdGVnTkRidUdXUmVZMHJmaTk5QmM0c2E1U0FWNjZzTnRfVWtxcDA1V1EyTjNjUi1oTjV0YUpBVWFBaVNiY0YzR2szN2hubkgyUzJwQk9hTVdoSm5zRTZtZzY2S2ZRLWc5dWNJSUxiQkpIWXpuRXlNZnZQNS1LbF8xalVWUEJidlFsYTFMYnNLMXVLSUU?oc=5",
   "https://www.xataka.com/seleccion/samsung-galaxy-watch8-a-preciazo-black-friday-back-market-cae-a-218-euros-reacondicionado-dos-anos-garantia",
-  "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
+  "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+  "https://es.wired.com/articulos/estas-son-las-mejores-ofertas-anticipadas-para-black-friday",
+  "https://www.xataka.com/seleccion/ipad-air-se-apunta-a-ofertas-black-friday-uno-sus-mejores-descuentos-fecha",
+  "https://www.xataka.com/seleccion/mejores-ofertas-moviles-durante-black-friday-2026-descuentos-samsung-xiaomi-google",
+  "https://www.xataka.com/seleccion/black-friday-2026-mejores-chollos-portatiles-pc-ano-que-precios-hardware-no-han-dejado-subir",
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQWQ3c3ZZdkIwWkUwSTJBa0tEOTZxOWJwb3JFVjhvcnZYWlQ4ZExLUFNOaU9RbXdoQkJpZjQxUkNOSG9hZjhZZUk1RVFZOS1CLXI0cDBkRUllTDV4QVJnV3FhMFY0SVpIODNQX3lURmVnSzdIRVlmbUZXeVZXWU1ORFNYZUlubm9yemxQZ1BDbEpycC05TmloRHF5MkhHVW1H0gGmAUFVX3lxTE4wMmgtbzVuNUdicERTbzlTRUVaOXFtX1dMSGFtWVJzNnY1T284d1hyMDRkVkZqNHlmSTZzRFhZSFZWRXl5TmZJS3RxXzFMZDJ4dTdlUjNPWi1DWGhlVGxZN0JGQkpUT1BOM0ZLVldCNk1UcV9jRFdyeGRWSzdUVTMtUHQyMXVjSXdSMFo0NHRDX0tlUGM4ZHpDT2FPT3REbnZpN0xsTWc?oc=5",
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVktVcUhsMWstVUFHTjliWkVMMTY3Wl9lX2ljVHFySzMzN3NkazNIek5mRmFESk1QVXh2N3VqSlNXeUtrVDAzOUd5U3Jjel8zZ3RzRllnSVptRk5wV2M4NTNyYzhtaFBzamhFOFQwV0FndngyUFdNeDgyd2dlbFhoVmd5dnJlRmctNEZHMjFuYjM2UTR4eDRDVFVETTNVOG1GbFNUNnBNY3dWRUU?oc=5",
+  "https://www.engadget.com/2325643/the-infamous-gta-6-hacker-has-been-released-after-pleading-guilty/",
+  "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -559,7 +567,10 @@
   "You won’t see a Galaxy Watch 10 until 2028 – here’s why",
   "Voces clonadas y fotos falsas: cómo detectar estafas con IA en las fiestas",
   "Inside the Black Market for America’s Artificial Intelligence",
-  "Finding faster quantum algorithms with agents and formal verification"
+  "Finding faster quantum algorithms with agents and formal verification",
+  "Ya viene el Black Friday 2026: Estas son las mejores ofertas anticipadas",
+  "10 años después: del \"rust belt\" a los nodos de la inteligencia artificial - El Economista",
+  "The infamous GTA 6 hacker has been released after pleading guilty"
  ],
  "history": [
   {
@@ -1532,6 +1543,24 @@
   {
    "title": "Finding faster quantum algorithms with agents and formal verification",
    "at": 1795461498,
+   "permalink": null,
+   "kind": "post"
+  },
+  {
+   "title": "Ya viene el Black Friday 2026: Estas son las mejores ofertas anticipadas",
+   "at": 1795464330,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "10 años después: del \"rust belt\" a los nodos de la inteligencia artificial - El Economista",
+   "at": 1795464330,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "The infamous GTA 6 hacker has been released after pleading guilty",
+   "at": 1795464533,
    "permalink": null,
    "kind": "post"
   }
