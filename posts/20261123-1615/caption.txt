@@ -1,0 +1,16 @@
+🔬 Google puso a equipos de agentes de IA a mejorar algoritmos cuánticos, y cada resultado viene con prueba matemática.
+
+Google DeepMind y Google Quantum AI usaron equipos de agentes de Gemini 4 para optimizar algoritmos cuánticos conocidos y crear circuitos más eficientes. Como no se pueden probar en las computadoras de hoy, los agentes demostraron que funcionan con Lean, un verificador formal. Cada cuatro horas se reunían en una conferencia virtual para comparar ideas.
+
+¿Y esto a mí qué? La meta es que las futuras computadoras cuánticas puedan simular energía de fusión, química y diseño de medicamentos. Todavía falta hardware, pero según DeepMind este método acorta un trabajo de diseño que antes llevaba años.
+
+¿Confiarías en un descubrimiento científico hecho por agentes de IA si viene con su prueba matemática?
+
+Fuente: Google DeepMind
+
+📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.
+
+📸 Foto: DeepMind Technologies Limited (Alphabet, / Wikimedia Commons (Public domain)
+📸 Foto: Ragsxl / Wikimedia Commons (CC BY-SA 4.0)
+
+#GoogleDeepMind #ComputacionCuantica #Gemini
