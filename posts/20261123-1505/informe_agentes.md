@@ -8,3 +8,8 @@
 - **verificador** (opus): CAMBIOS, 8/10. No encontró datos sin respaldo. Pidió atribuir la cifra (sale de una sola fuente), tratar "competirle a Nvidia" como un análisis y no como algo que declaró Amazon, separar "equipo fundador" de "investigadores e ingenieros" y corregir la línea de fuentes. Confianza: media.
 - **editor-estilo** (sonnet): CAMBIOS, 8/10. Había 6 palabras resaltadas en el titular (máximo 4), el reel 2 quedaba largo y la foto "AWS Trainium" no iba a aparecer en Commons. Los largos están dentro de la regla.
 - **cazador-videos** (sonnet): no hay clips. Descartó canales de comentario, una animación hecha con IA (le aplicó noclip) y material no relacionado. No hay video oficial de la noticia, así que sale sin Reel.
+- **productor** (sonnet): CARRUSEL. No hay video real (el clip de AWS ya se había sacado con noclip).
+- **director-arte** (sonnet): CAMBIOS, 6/10. La foto del slide 3 mostraba un stand de Amazon Games con personas reconocibles y una pantalla con texto ajeno a la noticia. La portada (skyline de Seattle) se aceptó, aunque no identifica mucho a Amazon.
+
+**Cambios aplicados:** el titular, el gancho del caption y el gancho del Reel atribuyen la cifra a Bloomberg y usan condicional. "Competirle a Nvidia" quedó como posibilidad. Se separaron el equipo fundador y los investigadores, la línea de fuentes dice "cifra según Bloomberg", el titular quedó con 4 palabras resaltadas y el guion se partió en oraciones cortas. En el slide 3 se reemplazó la foto con gente por una ilustración y se rearmó.
+**Formato:** CARRUSEL (sin Reel por falta de video real). **Etiqueta de IA:** no (son ilustraciones 3D, no fotos realistas). Confianza: media.
