@@ -381,7 +381,11 @@
   "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
   "https://www.nytimes.com/2026/11/23/technology/jensen-huangs-return-brings-a-sense-of-deja-vu.html",
   "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
-  "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
+  "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+  "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+  "https://huggingface.co/blog/allenai/robotrack",
+  "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+  "https://news.google.com/rss/articles/CBMixgFBVV95cUxORW5Dd2o3Ty1RU2Rmbl9tMi1pcS1DUTlFY0x0c1d5czk4R2Z0YXZObUJyRkFTYk1yMlhyYk5YUGIwOFg0dUotVGR1cU15VjhOVVNzYmVxQlVQN1hPeDBPOHdGZ1FjS21BRVdWYkF5azRKdzBWLVh2WnV4YWp5dlFtRFpPSHdZNkx4V2syeHpOOXV0RHBSUnFjRkZEc3RHR2gtUFZuNVVPWm9YOW84VmM5dnpXMGt6OHpNalpiTlBpM1ZIcE1JSlE?oc=5"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -538,7 +542,10 @@
   "Meta's Alexandr Wang warns the AI industry isn't ready for what's coming after Riemann breakthrough",
   "Virginia, Oregon sue Musk's SpaceX over Grok AI's creation of child sexual abuse images",
   "Jensen Huang’s Return Brings a Sense of Déjà Vu",
-  "A more tailored Google Search that’s uniquely yours"
+  "A more tailored Google Search that’s uniquely yours",
+  "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+  "RoboTrack: Point tracking for real-world robotic manipulation",
+  "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips"
  ],
  "history": [
   {
@@ -1463,6 +1470,24 @@
   {
    "title": "A more tailored Google Search that’s uniquely yours",
    "at": 1795454030,
+   "permalink": null,
+   "kind": "post"
+  },
+  {
+   "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+   "at": 1795457126,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+   "at": 1795457127,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+   "at": 1795457595,
    "permalink": null,
    "kind": "post"
   }

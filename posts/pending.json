@@ -1,49 +1,54 @@
 {
- "id": "20261123-1405",
+ "id": "20261123-1505",
  "post": {
   "skip": false,
   "skip_reason": "",
-  "confidence": "alta",
-  "headline": "GOOGLE YA DEJA CONECTAR *TUS GASTOS* A SU BÚSQUEDA, PRONTO *DOCUMENTOS*",
-  "badge": "Google",
+  "confidence": "media",
+  "headline": "SEGÚN BLOOMBERG, AMAZON PAGARÍA *USD 7.500 MILLONES* POR LA TECNOLOGÍA DE *DECART*",
+  "badge": "Amazon",
   "photos": [
-   "Google headquarters Mountain View",
-   "",
-   ""
+   "Amazon headquarters",
+   "Amazon Web Services data center",
+   "Amazon Web Services"
   ],
   "slides": [
-   "Google empezó a permitir que conectes *Google Wallet* al Modo IA de su buscador, dentro de la función Personal Intelligence. En las próximas semanas sumará Drive y la app de Gemini, que se agregan a Gmail, Calendar y Fotos.",
-   "Así, la Búsqueda podrá responder según *tus gastos, documentos y chats*. Es opcional: tú eliges qué apps conectar y puedes apagarlo cuando quieras desde la configuración. Además, las respuestas con IA tendrán en cuenta *tus búsquedas recientes*."
+   "Amazon acordó quedarse con la tecnología y el equipo de la startup israelí *Decart*. Según Bloomberg, paga *7.500 millones de dólares*. Decart creó DOS, un software que hace funcionar los modelos de IA de forma más eficiente en chips de Nvidia, Amazon y Google.",
+   "Amazon usaba sus chips *Trainium* solo en sus propios centros de datos, pero se prepara para vendérselos a clientes. Con DOS, sería más fácil usar chips de Amazon en lugar de los de Nvidia, hasta ahora *el estándar del mercado*."
   ],
-  "caption": "🔎 Google ya deja conectar Google Wallet a su buscador con IA para darte respuestas basadas en tus gastos.\n\nLa función se llama Personal Intelligence y funciona en el Modo IA de la Búsqueda. Wallet empezó a llegar hoy, y en las próximas semanas se suman Google Drive y la app de Gemini. Se agregan a Gmail, Calendar y Fotos, que ya se podían conectar.\n\n¿Y esto a ti qué? Podrías preguntarle al buscador por tus gastos o por los documentos de un proyecto, y retomar una búsqueda, como la de un viaje, sin repetir todo. Es opcional: lo activas en Personalización de la Búsqueda, en Apps conectadas, y lo puedes apagar cuando quieras.\n\n¿Le darías acceso a tus gastos a Google a cambio de respuestas más útiles?\n\nFuente: Blog de Google\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "💰 Según Bloomberg, Amazon pagaría 7.500 millones de dólares por la tecnología de Decart, que podría ayudar a sus chips de IA a competirle a Nvidia.\n\nEl acuerdo incluye la tecnología de esta startup israelí, su equipo fundador y sus investigadores e ingenieros de IA. La pieza clave es DOS, un software que hace rendir más a los modelos de IA en chips de Nvidia, Amazon y Google.\n\n¿Y esto a mí qué? Amazon se prepara para vender sus chips Trainium, que hasta ahora usaba solo en sus centros de datos. Si más empresas los adoptan, Nvidia tendría más competencia. Peter DeSantis, de Amazon, dijo que un cómputo más eficiente significa mejores modelos a menor costo.\n\n¿Crees que los chips de Amazon pueden quitarle clientes a Nvidia?\n\nFuente: TechCrunch, Reuters (cifra según Bloomberg)\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "Google",
-   "GoogleSearch",
-   "PersonalIntelligence"
+   "Amazon",
+   "Trainium",
+   "ChipsDeIA"
   ],
   "image_prompts": [
-   "3D illustration of a glowing magnifying glass hovering over a personalized digital dashboard, with floating abstract cards, a wallet, folders and chat bubbles connected to it by light trails, soft blue and purple lighting, clean modern style, no text",
-   "3D illustration of a smartphone lying on a desk with colorful glowing lines linking a leather wallet, a stack of document folders and speech bubbles to its blank screen, warm studio lighting, isometric view, no text or logos",
-   "3D illustration close-up of a large toggle switch and a small padlock floating beside a translucent shield, surrounded by abstract app icons without symbols, representing user control over personal data, soft gradient background, no text"
+   "3D illustration of a giant glowing AI processor chip without any markings sitting on a pedestal, surrounded by golden coins and floating stacks of cash, dramatic blue and orange lighting, dark futuristic background",
+   "3D illustration of rows of server racks in a vast data center, glowing cables flowing like rivers of light between them, a translucent gear mechanism above optimizing the flow, cool teal lighting, wide angle view",
+   "3D illustration of two blank unmarked computer chips facing each other on a chessboard like rival kings, one glowing orange and one glowing green, tense cinematic lighting, low angle close-up, no text"
   ],
   "reel_script": [
-   "Tu buscador de Google ya puede leer tus gastos, si tú lo permites.",
-   "Google empezó a dejar conectar *Google Wallet* a su Búsqueda con inteligencia artificial. En las próximas semanas llegan Drive y la app de Gemini, junto a Gmail, Calendar y Fotos.",
-   "Así podrías preguntar por tus gastos o retomar una búsqueda sin empezar de cero. Es *opcional*. Tú decides qué conectar y puedes apagarlo cuando quieras."
+   "Según Bloomberg, Amazon pagaría 7.500 millones de dólares en una jugada contra Nvidia.",
+   "Amazon compra la tecnología y el equipo de la startup israelí *Decart*. Su software hace que la inteligencia artificial rinda más en cada chip.",
+   "Amazon se prepara para vender sus chips *Trainium* a clientes. Hasta ahora Nvidia es el estándar del mercado. Con este software, cambiarse a Amazon sería más fácil."
   ]
  },
- "caption": "🔎 Google ya deja conectar Google Wallet a su buscador con IA para darte respuestas basadas en tus gastos.\n\nLa función se llama Personal Intelligence y funciona en el Modo IA de la Búsqueda. Wallet empezó a llegar hoy, y en las próximas semanas se suman Google Drive y la app de Gemini. Se agregan a Gmail, Calendar y Fotos, que ya se podían conectar.\n\n¿Y esto a ti qué? Podrías preguntarle al buscador por tus gastos o por los documentos de un proyecto, y retomar una búsqueda, como la de un viaje, sin repetir todo. Es opcional: lo activas en Personalización de la Búsqueda, en Apps conectadas, y lo puedes apagar cuando quieras.\n\n¿Le darías acceso a tus gastos a Google a cambio de respuestas más útiles?\n\nFuente: Blog de Google\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Carol M. Highsmith / Wikimedia Commons (Public domain)\n\n#Google #GoogleSearch #PersonalIntelligence",
+ "caption": "💰 Según Bloomberg, Amazon pagaría 7.500 millones de dólares por la tecnología de Decart, que podría ayudar a sus chips de IA a competirle a Nvidia.\n\nEl acuerdo incluye la tecnología de esta startup israelí, su equipo fundador y sus investigadores e ingenieros de IA. La pieza clave es DOS, un software que hace rendir más a los modelos de IA en chips de Nvidia, Amazon y Google.\n\n¿Y esto a mí qué? Amazon se prepara para vender sus chips Trainium, que hasta ahora usaba solo en sus centros de datos. Si más empresas los adoptan, Nvidia tendría más competencia. Peter DeSantis, de Amazon, dijo que un cómputo más eficiente significa mejores modelos a menor costo.\n\n¿Crees que los chips de Amazon pueden quitarle clientes a Nvidia?\n\nFuente: TechCrunch, Reuters (cifra según Bloomberg)\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: SounderBruce from Seattle, United States / Wikimedia Commons (CC BY-SA 2.0)\n📸 Foto: dronepicr / Wikimedia Commons (CC BY 2.0)\n\n#Amazon #Trainium #ChipsDeIA",
  "slides": [
-  "posts/20261123-1405/slide_1.jpg",
-  "posts/20261123-1405/slide_2.jpg",
-  "posts/20261123-1405/slide_3.jpg",
-  "posts/20261123-1405/slide_4.jpg"
+  "posts/20261123-1505/slide_1.jpg",
+  "posts/20261123-1505/slide_2.jpg",
+  "posts/20261123-1505/slide_3.jpg",
+  "posts/20261123-1505/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "A more tailored Google Search that’s uniquely yours",
-   "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
-   "source": "Google"
+   "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+   "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+   "source": "TechCrunch"
+  },
+  {
+   "title": "Amazon to buy Decart's AI chip optimization tech in latest AI talent grab",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORW5Dd2o3Ty1RU2Rmbl9tMi1pcS1DUTlFY0x0c1d5czk4R2Z0YXZObUJyRkFTYk1yMlhyYk5YUGIwOFg0dUotVGR1cU15VjhOVVNzYmVxQlVQN1hPeDBPOHdGZ1FjS21BRVdWYkF5azRKdzBWLVh2WnV4YWp5dlFtRFpPSHdZNkx4V2syeHpOOXV0RHBSUnFjRkZEc3RHR2gtUFZuNVVPWm9YOW84VmM5dnpXMGt6OHpNalpiTlBpM1ZIcE1JSlE?oc=5",
+   "source": "Reuters"
   }
  ]
 }

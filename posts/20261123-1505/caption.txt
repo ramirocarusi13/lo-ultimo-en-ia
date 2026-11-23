@@ -1,0 +1,16 @@
+💰 Según Bloomberg, Amazon pagaría 7.500 millones de dólares por la tecnología de Decart, que podría ayudar a sus chips de IA a competirle a Nvidia.
+
+El acuerdo incluye la tecnología de esta startup israelí, su equipo fundador y sus investigadores e ingenieros de IA. La pieza clave es DOS, un software que hace rendir más a los modelos de IA en chips de Nvidia, Amazon y Google.
+
+¿Y esto a mí qué? Amazon se prepara para vender sus chips Trainium, que hasta ahora usaba solo en sus centros de datos. Si más empresas los adoptan, Nvidia tendría más competencia. Peter DeSantis, de Amazon, dijo que un cómputo más eficiente significa mejores modelos a menor costo.
+
+¿Crees que los chips de Amazon pueden quitarle clientes a Nvidia?
+
+Fuente: TechCrunch, Reuters (cifra según Bloomberg)
+
+📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.
+
+📸 Foto: SounderBruce from Seattle, United States / Wikimedia Commons (CC BY-SA 2.0)
+📸 Foto: dronepicr / Wikimedia Commons (CC BY 2.0)
+
+#Amazon #Trainium #ChipsDeIA
