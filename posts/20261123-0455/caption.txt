@@ -1,0 +1,18 @@
+🧠 El científico jefe de OpenAI propone que todas las empresas de IA acuerden un límite común para sus modelos.
+
+Jakub Pachocki publicó un texto en el que sugiere medir el avance de la IA con la "perplejidad", un número que mide qué tan bien un modelo predice el texto siguiente. Según TechCrunch, Sam Altman lo describió como lo más importante que OpenAI publicó en un tiempo.
+
+La propuesta: que las compañías no pasen cierto umbral hasta poder entender y vigilar mejor cómo se comporta la IA. Llega tras el plan de Dario Amodei, de Anthropic, para ponerle ritmo al avance.
+
+¿Y esto a mí qué? Habría una regla común para decidir hasta dónde llega la IA antes de entenderla mejor.
+
+¿Confiarías en que las empresas de IA se pongan sus propios límites, o deberían hacerlo los gobiernos?
+
+Fuente: TechCrunch, The Next Web
+
+📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.
+
+📸 Foto: ICPCNews / Wikimedia Commons (CC BY 2.0)
+📸 Foto: TechCrunch / Wikimedia Commons (CC BY 2.0)
+
+#OpenAI #SeguridadIA #InteligenciaArtificial

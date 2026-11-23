@@ -8,3 +8,6 @@
 - **Guionista de Reels** (CAMBIOS, gancho 5 a 8): gancho más concreto. Se tomó el ritmo, pero el gancho quedó como pidió el verificador.
 - **Cazador de videos**: no hay clips con licencia libre (los de YouTube CC eran material ajeno de SBS o del Parlamento). Va CARRUSEL, sin Reel.
 - Jefe de redacción: la corrida anterior (20261122-2035) se cortó durante el armado; en esta se reusó el mismo borrador ya revisado por los 5 agentes (misma noticia, re-elegida como candidata 1, 33/50).
+- **Productor**: CARRUSEL (no hay clips con licencia libre; renuncia y cifras se leen mejor en carrusel).
+- **Director de arte** (OK, 7/10): textos legibles, sin terceros reconocibles, ilustración sin texto ni logos. Opcionales: la foto del slide 2 (paisaje en Seúl) conecta poco con el examen; poco contraste del logo arriba en slides 2 y 3; salto de línea irregular en slide 3. No se rearmó (cambios cosméticos).
+- Jefe de redacción: cambios aplicados = los del verificador, revisor legal y estilo (corrida anterior). Formato final: carrusel de 4 slides. Etiqueta de IA: no (la portada es ilustración, pero no simula hechos reales).

@@ -1,0 +1,54 @@
+{
+ "id": "20261123-0455",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "EL CIENTÍFICO JEFE DE *OPENAI* PIDE *LÍMITES COMUNES* A LA IA",
+  "badge": "OpenAI",
+  "photos": [
+   "Jakub Pachocki",
+   "OpenAI headquarters",
+   "Dario Amodei"
+  ],
+  "slides": [
+   "Jakub Pachocki, científico jefe de OpenAI, publicó un texto donde propone que las empresas de IA acuerden *límites comunes* para sus modelos. Para medir el avance sugiere usar la *perplejidad*, que mide qué tan bien un modelo predice el siguiente fragmento de texto.",
+   "La idea: que las compañías se comprometan a *no pasar cierto umbral* hasta entender y vigilar mejor la IA. Llega tras el plan de Dario Amodei, de Anthropic, para *ponerle ritmo* al avance, que según TechCrunch Sam Altman y Elon Musk parecieron respaldar."
+  ],
+  "caption": "🧠 El científico jefe de OpenAI propone que todas las empresas de IA acuerden un límite común para sus modelos.\n\nJakub Pachocki publicó un texto en el que sugiere medir el avance de la IA con la \"perplejidad\", un número que mide qué tan bien un modelo predice el texto siguiente. Según TechCrunch, Sam Altman lo describió como lo más importante que OpenAI publicó en un tiempo.\n\nLa propuesta: que las compañías no pasen cierto umbral hasta poder entender y vigilar mejor cómo se comporta la IA. Llega tras el plan de Dario Amodei, de Anthropic, para ponerle ritmo al avance.\n\n¿Y esto a mí qué? Habría una regla común para decidir hasta dónde llega la IA antes de entenderla mejor.\n\n¿Confiarías en que las empresas de IA se pongan sus propios límites, o deberían hacerlo los gobiernos?\n\nFuente: TechCrunch, The Next Web\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "OpenAI",
+   "SeguridadIA",
+   "InteligenciaArtificial"
+  ],
+  "image_prompts": [
+   "A glowing 3D illustration of a giant futuristic speedometer made of light, its needle stopped just before a red limit zone, set inside a dark data center with blue server racks, cinematic lighting, no text.",
+   "Close-up 3D illustration of a translucent neural network sphere floating above a smooth pedestal, thin glowing lines flowing into it and fading, a soft barrier of light ring around it, dark background, clean minimal style, no text.",
+   "Wide 3D illustration of several sleek abstract server towers standing in a row on a reflective floor, all stopped behind one shared glowing horizontal line of light, purple and blue tones, symbolic and calm, no text."
+  ],
+  "reel_script": [
+   "El científico jefe de OpenAI pide un límite común para toda la IA.",
+   "Jakub Pachocki propone medir el avance con la *perplejidad*, que mide qué tan bien un modelo predice lo siguiente. Y que las empresas acuerden un *tope común*.",
+   "Nadie pasaría ese tope hasta poder *entender y vigilar* mejor a la IA. Según TechCrunch, Sam Altman lo llamó lo más importante que OpenAI publicó en un tiempo."
+  ]
+ },
+ "caption": "🧠 El científico jefe de OpenAI propone que todas las empresas de IA acuerden un límite común para sus modelos.\n\nJakub Pachocki publicó un texto en el que sugiere medir el avance de la IA con la \"perplejidad\", un número que mide qué tan bien un modelo predice el texto siguiente. Según TechCrunch, Sam Altman lo describió como lo más importante que OpenAI publicó en un tiempo.\n\nLa propuesta: que las compañías no pasen cierto umbral hasta poder entender y vigilar mejor cómo se comporta la IA. Llega tras el plan de Dario Amodei, de Anthropic, para ponerle ritmo al avance.\n\n¿Y esto a mí qué? Habría una regla común para decidir hasta dónde llega la IA antes de entenderla mejor.\n\n¿Confiarías en que las empresas de IA se pongan sus propios límites, o deberían hacerlo los gobiernos?\n\nFuente: TechCrunch, The Next Web\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: ICPCNews / Wikimedia Commons (CC BY 2.0)\n📸 Foto: TechCrunch / Wikimedia Commons (CC BY 2.0)\n\n#OpenAI #SeguridadIA #InteligenciaArtificial",
+ "slides": [
+  "posts/20261123-0455/slide_1.jpg",
+  "posts/20261123-0455/slide_2.jpg",
+  "posts/20261123-0455/slide_3.jpg",
+  "posts/20261123-0455/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+   "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+   "source": "TechCrunch"
+  },
+  {
+   "title": "OpenAI’s chief scientist calls for industry-wide limits on AI models",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZdEhfTmNpZ1BYSFY4RUJ3ay1faURYM0o2Zi1ZR3ZzRjhFU2w5cktjenVnNEppaEFyaUgwb2pmMGcxLXBtMDl3MjIwQWc4M19YZXFVZUdXa3hXdkZEU1VMNFJtQ3NiNm51ZUNCV25DLXVTUXEyOEE?oc=5",
+   "source": "The Next Web"
+  }
+ ]
+}
