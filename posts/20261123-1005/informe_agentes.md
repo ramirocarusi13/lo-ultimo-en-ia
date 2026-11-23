@@ -16,4 +16,5 @@
 - Apliqué todas las correcciones del verificador y el revisor legal: "en la previa", cifras atribuidas a CNBC, S&P 500 y Dow nombrados, NPR citado y quitado "Asia a Europa".
 - Estilo: titular con 3 palabras resaltadas, caption recortado a menos de 150 palabras, gancho del guion con la caída de Nvidia. Confianza: alta.
 - Saqué la foto del slide 3 (aviso de NASA) y ahora va la ilustración. El clip quedó fuera (noclip) y el post sale solo como carrusel.
-- Etiqueta de IA: no. Las fotos son reales y con licencia libre; la del slide 3 es una ilustración 3D sin personas ni texto, mencionada en el caption si el armado la marca.
+- Etiqueta de IA: no. Los slides 1 y 2 son fotos reales con licencia libre. El slide 3 es una ilustración 3D generada (servidores y montaña rusa), no fotorrealista y sin personas ni texto.
+- Rearmado verificado: el slide 3 ya no tiene la foto de NASA y el caption no lleva crédito de video. Formato final: CARRUSEL (4 slides).

@@ -1,0 +1,49 @@
+{
+ "id": "20261123-1105",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "*JENSEN HUANG* VUELVE A SER EL CEO DE *NVIDIA*",
+  "badge": "NVIDIA",
+  "photos": [
+   "Jensen Huang",
+   "Jensen Huang#2",
+   "Nvidia headquarters"
+  ],
+  "slides": [
+   "El directorio de NVIDIA votó *por unanimidad* reincorporar a Jensen Huang como presidente, director ejecutivo y miembro del directorio, con efecto inmediato. Tras varias reuniones con él, quedó conforme con su franqueza y su capacidad para liderar la empresa.",
+   "Un comité independiente investiga informes de prensa que dicen que Huang fue *blanco de una operación de inteligencia extranjera*. Con la opinión de altos niveles del gobierno de Estados Unidos, el directorio confía en que su regreso no es un riesgo de seguridad nacional."
+  ],
+  "caption": "🤖 Jensen Huang vuelve a ser el director ejecutivo de NVIDIA, por decisión unánime del directorio.\n\nEl regreso es con efecto inmediato: recupera también los cargos de presidente y miembro del directorio. Colette Kress, directora ejecutiva interina, sigue como directora financiera.\n\nUn comité de directores independientes investiga informes de prensa según los cuales Huang fue blanco de una operación de inteligencia extranjera. El directorio recibió la opinión de altos niveles del gobierno de Estados Unidos y confía en que su regreso no es un riesgo para la seguridad nacional. La investigación seguirá hasta el final.\n\n¿Y esto a mí qué? NVIDIA es una de las empresas clave de la inteligencia artificial, y quién la dirige pesa en toda la industria.\n\n¿Te parece bien que Huang vuelva antes de que termine la investigación?\n\nFuente: NVIDIA (comunicado oficial)\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "NVIDIA",
+   "JensenHuang",
+   "InteligenciaArtificial"
+  ],
+  "image_prompts": [
+   "A glowing 3D illustration of an empty executive chair returning to the head of a sleek boardroom table, green ambient light, floating abstract circuit patterns, dramatic low angle, clean modern style, no text",
+   "3D illustration of a long boardroom table seen from above with several raised hands made of soft green light voting together, minimal geometric style, dark background, cinematic lighting, no text or symbols",
+   "3D illustration of a shield shape made of glowing circuit lines protecting a stylized server tower, subtle magnifying glass hovering nearby, deep blue and green palette, wide shot, clean render, no text"
+  ],
+  "reel_script": [
+   "NVIDIA acaba de devolverle el mando a Jensen Huang, con una investigación aún abierta.",
+   "El directorio de NVIDIA votó por *unanimidad* devolverle a Jensen Huang sus cargos de presidente y director ejecutivo. Vuelve con efecto inmediato, tras varias reuniones.",
+   "Con la opinión del gobierno de Estados Unidos, el directorio confía en que no hay *riesgo de seguridad nacional*. La investigación sigue, y NVIDIA creará un cargo de director de cumplimiento."
+  ]
+ },
+ "caption": "🤖 Jensen Huang vuelve a ser el director ejecutivo de NVIDIA, por decisión unánime del directorio.\n\nEl regreso es con efecto inmediato: recupera también los cargos de presidente y miembro del directorio. Colette Kress, directora ejecutiva interina, sigue como directora financiera.\n\nUn comité de directores independientes investiga informes de prensa según los cuales Huang fue blanco de una operación de inteligencia extranjera. El directorio recibió la opinión de altos niveles del gobierno de Estados Unidos y confía en que su regreso no es un riesgo para la seguridad nacional. La investigación seguirá hasta el final.\n\n¿Y esto a mí qué? NVIDIA es una de las empresas clave de la inteligencia artificial, y quién la dirige pesa en toda la industria.\n\n¿Te parece bien que Huang vuelva antes de que termine la investigación?\n\nFuente: NVIDIA (comunicado oficial)\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Anders Eidesvik / Wikimedia Commons (CC BY 4.0)\n📸 Foto: Coolcaesar / Wikimedia Commons (CC BY-SA 4.0)\n🎥 Video: Narendra Modi / Wikimedia Commons (CC BY 3.0)\n\n#NVIDIA #JensenHuang #InteligenciaArtificial",
+ "slides": [
+  "posts/20261123-1105/slide_1.jpg",
+  "posts/20261123-1105/slide_2.jpg",
+  "posts/20261123-1105/slide_3.jpg",
+  "posts/20261123-1105/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+   "link": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+   "source": "NVIDIA"
+  }
+ ]
+}

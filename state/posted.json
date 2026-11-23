@@ -370,7 +370,8 @@
   "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUUN6YVVpZmg5aXRYZFZWNGEtQU1lcXNNdXZfTXMxWVJHNTdHbG9sMThaNThwb2lxa1hlU2tHRWthd2VCZDM4Vlc3NkpLSnVFQ3hVaVZremNKRG9UT0hEbW9zTENPZlVqbHBvbFY3MUhtV3hucnpFcGhUdW1MOXk4WmVkdW9wbHpwNWc2Z0J2ZEpHRXBKQW1VWUpyeTE5dTVWeUswN1ZrdjNzS1FhY20yVm5YUnJIVHVaaWpkcEk4d1JJZ29ZWEHSAcsBQVVfeXFMT21QOWsyaFZqcUdTb0VINWFoRjZIdXpYYXlKWGZwc2k5RGhQcFdWX3drdVV5TWoxV2w3ZzUzbkVIMmt3VEYxdlN1MVk2TE0zWDBaLU93UVRfcDVXQlVtVkF0TDEwZ1VuSEctU2JfcG1BaW5SOWFINmN2aFNFbHo0QXg4M25yVW5UOU93UklmTWQ4eWFra1MxR2h4bDhlby1YU3pHWWpBNFVVeDlhQXNkNUFBT0JkRGtvR3VSa2FzbGdYemNqU015Ri1xakE?oc=5",
   "https://www.cnbc.com/2026/11/23/futures-rally-after-wall-streets-nightmare-week-.html",
   "https://news.google.com/rss/articles/CBMid0FVX3lxTE04U1RHUUNNOVM5ZU9IbnV4WElsdWtZVzhkckFNNWJEM2N5ZlpPcWhiS3BUQnpiem1FYTJjZG5qal9BcGFTNlB1LXlhNy1tQnBxWnQ5OTNxYnp1RzdzdnFmRWY2amNfbUYwTTI2YWlESTJ1dUp0NzRj?oc=5",
-  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZkFxTm5xRXoxcFMzaS02cWhMTzhSME1sN1RMQTVmM0dMc1U1U1JBemYzWVNZVjZ5RUY5SEJLVEU5MUl3elR1Tjh0Yy1lbGg0Z2hDVXliaHZCdnFHNmlGcFh3emJHYnBhcTBwOG5XMG1KZ0h1T3FxRmc0TWN0V3ZzbGo3bV9NQ3ZxMi1HMDZCek1menV3TzdFZmpVNFpNcEJoamt4VjluMzh2UGJ1NGpBNzI1Q3E4SXJQZmVQeWI4VnJDSS1RVC1uRA?oc=5"
+  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZkFxTm5xRXoxcFMzaS02cWhMTzhSME1sN1RMQTVmM0dMc1U1U1JBemYzWVNZVjZ5RUY5SEJLVEU5MUl3elR1Tjh0Yy1lbGg0Z2hDVXliaHZCdnFHNmlGcFh3emJHYnBhcTBwOG5XMG1KZ0h1T3FxRmc0TWN0V3ZzbGo3bV9NQ3ZxMi1HMDZCek1menV3TzdFZmpVNFpNcEJoamt4VjluMzh2UGJ1NGpBNzI1Q3E4SXJQZmVQeWI4VnJDSS1RVC1uRA?oc=5",
+  "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -521,7 +522,8 @@
   "States Sue SpaceX Over Grok Deepfakes",
   "“La confianza en la IA no se establece en la ejecución, sino en la construcción”: Mark Wanish, CIO de Salesforce, a empresas",
   "Inteligencia artificial en medicina: cinco formas en las que está transformando la atención médica",
-  "Futures rally after Wall Street's nightmare week"
+  "Futures rally after Wall Street's nightmare week",
+  "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director"
  ],
  "history": [
   {
@@ -1410,6 +1412,12 @@
   {
    "title": "Futures rally after Wall Street's nightmare week",
    "at": 1795439416,
+   "permalink": null,
+   "kind": "post"
+  },
+  {
+   "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+   "at": 1795442984,
    "permalink": null,
    "kind": "post"
   }
