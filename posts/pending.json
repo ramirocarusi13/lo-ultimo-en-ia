@@ -1,54 +1,54 @@
 {
- "id": "20261123-2115",
+ "id": "20261123-2105",
  "post": {
   "skip": false,
   "skip_reason": "",
   "confidence": "alta",
-  "headline": "NOTHING CONFIRMA *AURICULARES CON IA* QUE *GRABAN* TUS CONVERSACIONES",
-  "badge": "Nothing",
+  "headline": "ANTHROPIC LANZA *CLAUDE SHIP*: AGENTES DE IA QUE *APRUEBAN CÓDIGO*",
+  "badge": "Anthropic",
   "photos": [
-   "Carl Pei",
-   "Nothing Ear",
+   "Anthropic headquarters",
+   "",
    ""
   ],
   "slides": [
-   "Nothing confirmó su nuevo producto de IA: los *Ear (note)*, unos auriculares cuyo estuche funciona como grabadora. Con un botón graba y *transcribe conversaciones*, y como también graban los auriculares, sirve en persona o por teléfono. Una app guarda todo con resúmenes de IA.",
-   "Salen el *8 de diciembre* y todavía no tienen precio; según 9to5Google, podría haber una suscripción. Compiten con Plaud y Amazon, y Carl Pei resume la apuesta: *poner la IA en algo que ya usas*."
+   "Anthropic presentó *Claude Ship*, un conjunto de tres agentes de IA para programadores: Code Review revisa los cambios, PR Steward arregla errores y conflictos, y Claude Approvals *aprueba los cambios de rutina* según las reglas que escribe cada equipo.",
+   "La IA ya escribe tanto código que *revisarlo se volvió el cuello de botella*. Anthropic dice que en su equipo de Claude Code, la propia IA escribe la mayor parte del código. *PR Steward y Claude Approvals están en beta*, para planes Team y Enterprise en GitHub."
   ],
-  "caption": "🎧 Nothing confirmó los Ear (note): auriculares cuyo estuche graba y transcribe tus conversaciones con IA.\n\nEl director ejecutivo de Nothing, Carl Pei, los mostró a Bloomberg. El estuche tiene micrófonos y un botón para grabar y transcribir charlas; además se puede grabar desde los propios auriculares, así que sirve en persona o por teléfono. Una app guarda las grabaciones, las transcripciones y resúmenes hechos con IA.\n\nSalen el 8 de diciembre, todavía sin precio, y según 9to5Google podría haber una suscripción.\n\n¿Qué cambia para ti? Reuniones, clases o llamadas podrían quedar resumidas sin sacar el celular. Pero también hay dudas de privacidad para quien está del otro lado.\n\n¿Te molestaría que alguien te grabe con sus auriculares mientras conversan?\n\nFuente: The Verge, 9to5Google\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "🤖 Anthropic lanzó Claude Ship: agentes de IA que revisan, corrigen y aprueban cambios de código.\n\nSon tres: Code Review revisa cada cambio, PR Steward arregla pruebas fallidas y conflictos, y Claude Approvals decide qué se aprueba según una política que el equipo escribe en lenguaje natural. Los cambios delicados se pueden derivar a una persona.\n\nLa IA escribe tanto código que revisarlo se volvió el cuello de botella. Según Anthropic, en su equipo de Claude Code, Claude escribe la mayor parte del código.\n\n¿Y esto a mí qué? Las apps que usas podrían actualizarse más rápido, con menos revisión humana en los cambios de rutina. Llega a planes Team y Enterprise en GitHub, en parte en beta.\n\n¿Dejarías que una IA apruebe sola los cambios en el código de tu app?\n\nFuente: TechCrunch, 9to5Mac\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "Nothing",
-   "NothingEarNote",
-   "AuricularesIA"
+   "ClaudeShip",
+   "Anthropic",
+   "Programación"
   ],
   "image_prompts": [
-   "A sleek pair of white wireless earbuds resting in an open charging case on a dark glossy table, soft glowing sound waves rising from the case turning into floating abstract speech bubbles, 3D illustration, cinematic lighting",
-   "Close-up 3D illustration of a transparent earbud charging case with a single round glowing button, colorful audio waveforms flowing out of it into a stack of floating blank paper sheets, soft purple and blue gradient background",
-   "Wide 3D illustration of a cozy meeting table seen from above with two coffee cups and a small earbud case in the center, translucent glowing rings of sound spreading across the table, minimal, warm lighting, no people"
+   "3D illustration of a futuristic assembly line where glowing code blocks travel on a conveyor belt past small friendly robotic arms that inspect and stamp them with a green check mark symbol, soft purple and blue lighting, wide angle",
+   "3D illustration of a small robot mechanic repairing a cracked glowing puzzle piece that connects two branching paths of light, tools floating around it, clean workshop background, warm orange accent light, close-up shot",
+   "3D illustration of a large glowing gate at the end of a bridge made of light, a translucent shield with a check mark floating in front of it, tiny cube packages passing through, night sky with stars, low angle cinematic view"
   ],
   "reel_script": [
-   "Estos auriculares graban tus conversaciones y las convierten en texto con inteligencia artificial.",
-   "Nothing confirmó los *Ear note*. Los auriculares graban desde el estuche o desde ellos mismos, en persona o por teléfono. Una app transcribe y resume todo con IA.",
-   "Salen el *8 de diciembre*, sin precio todavía, y podrían llevar suscripción. Es poner la IA en algo que ya llevas puesto, pero abre dudas de *privacidad*."
+   "Una inteligencia artificial ya puede decidir sola qué cambios de código se aprueban.",
+   "Anthropic lanzó *Claude Ship*. Son tres agentes que revisan el código, arreglan errores y aprueban los cambios de rutina, según las reglas de cada equipo.",
+   "La IA ya escribe tanto código que revisarlo es el cuello de botella. Dos de los tres agentes están *en beta*, y cada equipo decide qué cambios aún necesitan a una persona."
   ]
  },
- "caption": "🎧 Nothing confirmó los Ear (note): auriculares cuyo estuche graba y transcribe tus conversaciones con IA.\n\nEl director ejecutivo de Nothing, Carl Pei, los mostró a Bloomberg. El estuche tiene micrófonos y un botón para grabar y transcribir charlas; además se puede grabar desde los propios auriculares, así que sirve en persona o por teléfono. Una app guarda las grabaciones, las transcripciones y resúmenes hechos con IA.\n\nSalen el 8 de diciembre, todavía sin precio, y según 9to5Google podría haber una suscripción.\n\n¿Qué cambia para ti? Reuniones, clases o llamadas podrían quedar resumidas sin sacar el celular. Pero también hay dudas de privacidad para quien está del otro lado.\n\n¿Te molestaría que alguien te grabe con sus auriculares mientras conversan?\n\nFuente: The Verge, 9to5Google\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: TechCrunch / Wikimedia Commons (CC BY 2.0)\n📸 Foto: Premeditated / Wikimedia Commons (CC BY-SA 4.0)\n\n#Nothing #NothingEarNote #AuricularesIA",
+ "caption": "🤖 Anthropic lanzó Claude Ship: agentes de IA que revisan, corrigen y aprueban cambios de código.\n\nSon tres: Code Review revisa cada cambio, PR Steward arregla pruebas fallidas y conflictos, y Claude Approvals decide qué se aprueba según una política que el equipo escribe en lenguaje natural. Los cambios delicados se pueden derivar a una persona.\n\nLa IA escribe tanto código que revisarlo se volvió el cuello de botella. Según Anthropic, en su equipo de Claude Code, Claude escribe la mayor parte del código.\n\n¿Y esto a mí qué? Las apps que usas podrían actualizarse más rápido, con menos revisión humana en los cambios de rutina. Llega a planes Team y Enterprise en GitHub, en parte en beta.\n\n¿Dejarías que una IA apruebe sola los cambios en el código de tu app?\n\nFuente: TechCrunch, 9to5Mac\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n#ClaudeShip #Anthropic #Programación",
  "slides": [
-  "posts/20261123-2115/slide_1.jpg",
-  "posts/20261123-2115/slide_2.jpg",
-  "posts/20261123-2115/slide_3.jpg",
-  "posts/20261123-2115/slide_4.jpg"
+  "posts/20261123-2105/slide_1.jpg",
+  "posts/20261123-2105/slide_2.jpg",
+  "posts/20261123-2105/slide_3.jpg",
+  "posts/20261123-2105/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "Nothing Ear (note) is yet another AI recorder, but with earbuds inside",
-   "link": "https://9to5google.com/2026/11/23/nothing-ear-note-ai-recorder-teaser/",
-   "source": "9to5Google"
+   "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+   "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+   "source": "TechCrunch"
   },
   {
-   "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
-   "link": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
-   "source": "The Verge"
+   "title": "Anthropic launches new Claude Ship feature for builders",
+   "link": "https://9to5mac.com/2026/11/23/anthropic-launches-new-claude-ship-feature-for-builders/",
+   "source": "9to5Mac"
   }
  ]
 }
