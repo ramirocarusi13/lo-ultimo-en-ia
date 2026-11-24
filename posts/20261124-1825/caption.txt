@@ -1,0 +1,16 @@
+⚠️ Microsoft activó un "Código Rojo" interno tras la caída de mayor impacto en la historia de Exchange Online, según la empresa: casi 24 horas de fallas en Outlook, Teams y Copilot.
+
+Según memorandos citados por Reuters, el apagón del 12 y 13 de noviembre afectó a empresas y gobiernos de Australia, Japón y Estados Unidos. La causa fue un defecto de Windows introducido en julio que pasó meses sin detectarse. Microsoft descartó un ciberataque.
+
+¿Y esto a mí qué? Si tu trabajo o tus trámites dependen de estas herramientas, una sola falla puede frenarlo todo. Microsoft se fija como meta resolver futuras caídas globales en menos de una hora, con ayuda de agentes de IA.
+
+¿Tu trabajo pudo seguir el día que se cayó Outlook o se frenó todo?
+
+Fuente: Xataka, Infobae (vía Reuters)
+
+📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.
+
+📸 Foto: Jiaqian AirplaneFan / Wikimedia Commons (CC BY 3.0)
+📸 Foto: Hay Kranen / Wikimedia Commons (CC BY 4.0)
+
+#Microsoft #Outlook #MicrosoftTeams

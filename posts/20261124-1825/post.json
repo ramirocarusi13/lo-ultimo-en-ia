@@ -1,0 +1,54 @@
+{
+ "id": "20261124-1825",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "MICROSOFT DECLARA *CÓDIGO ROJO* TRAS UNA *CAÍDA GLOBAL* DE 24 HORAS",
+  "badge": "Microsoft",
+  "photos": [
+   "Microsoft Redmond",
+   "",
+   "Microsoft data center"
+  ],
+  "slides": [
+   "Entre el 12 y el 13 de noviembre, *Outlook, Teams y Copilot* fallaron durante casi 24 horas en todo el mundo. Según memorandos revelados por Reuters, Microsoft activó un *Código Rojo* interno: una movilización de máxima prioridad para reformar su ingeniería.",
+   "La causa fue un *defecto de Windows* introducido en julio que pasó meses oculto; Microsoft descartó un ciberataque. Afectó a gobiernos de Australia, Japón y Estados Unidos. Ahora quiere resolver futuras caídas *en menos de una hora*, con ayuda de agentes de IA."
+  ],
+  "caption": "⚠️ Microsoft activó un \"Código Rojo\" interno tras la caída de mayor impacto en la historia de Exchange Online, según la empresa: casi 24 horas de fallas en Outlook, Teams y Copilot.\n\nSegún memorandos citados por Reuters, el apagón del 12 y 13 de noviembre afectó a empresas y gobiernos de Australia, Japón y Estados Unidos. La causa fue un defecto de Windows introducido en julio que pasó meses sin detectarse. Microsoft descartó un ciberataque.\n\n¿Y esto a mí qué? Si tu trabajo o tus trámites dependen de estas herramientas, una sola falla puede frenarlo todo. Microsoft se fija como meta resolver futuras caídas globales en menos de una hora, con ayuda de agentes de IA.\n\n¿Tu trabajo pudo seguir el día que se cayó Outlook o se frenó todo?\n\nFuente: Xataka, Infobae (vía Reuters)\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "Microsoft",
+   "Outlook",
+   "MicrosoftTeams"
+  ],
+  "image_prompts": [
+   "A 3D illustration of a giant glowing red alarm light on top of a dark server room, rows of server racks with red warning lights, dramatic cinematic lighting, deep blue and red tones, no text.",
+   "A 3D illustration of a stack of floating email envelopes and chat bubbles frozen mid-air above a cracked cloud icon, red warning glow, dark background, isometric view, no letters or symbols.",
+   "A 3D illustration of a calm control room desk with glowing holographic network nodes being repaired by small robotic arms, a stopwatch floating nearby, soft blue lighting, wide angle shot, no text."
+  ],
+  "reel_script": [
+   "Outlook y Teams cayeron casi 24 horas y Microsoft declaró Código Rojo.",
+   "Entre el 12 y el 13 de noviembre, Outlook, Teams y Copilot fallaron. Según Microsoft, fue el incidente de mayor impacto en la historia de *Exchange Online*.",
+   "La causa fue un defecto de Windows escondido desde julio, no un ciberataque. Ahora Microsoft quiere resolver futuras caídas en menos de *una hora*, con ayuda de agentes de inteligencia artificial."
+  ]
+ },
+ "caption": "⚠️ Microsoft activó un \"Código Rojo\" interno tras la caída de mayor impacto en la historia de Exchange Online, según la empresa: casi 24 horas de fallas en Outlook, Teams y Copilot.\n\nSegún memorandos citados por Reuters, el apagón del 12 y 13 de noviembre afectó a empresas y gobiernos de Australia, Japón y Estados Unidos. La causa fue un defecto de Windows introducido en julio que pasó meses sin detectarse. Microsoft descartó un ciberataque.\n\n¿Y esto a mí qué? Si tu trabajo o tus trámites dependen de estas herramientas, una sola falla puede frenarlo todo. Microsoft se fija como meta resolver futuras caídas globales en menos de una hora, con ayuda de agentes de IA.\n\n¿Tu trabajo pudo seguir el día que se cayó Outlook o se frenó todo?\n\nFuente: Xataka, Infobae (vía Reuters)\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Jiaqian AirplaneFan / Wikimedia Commons (CC BY 3.0)\n📸 Foto: Hay Kranen / Wikimedia Commons (CC BY 4.0)\n\n#Microsoft #Outlook #MicrosoftTeams",
+ "slides": [
+  "posts/20261124-1825/slide_1.jpg",
+  "posts/20261124-1825/slide_2.jpg",
+  "posts/20261124-1825/slide_3.jpg",
+  "posts/20261124-1825/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Microsoft declara un \"Código Rojo\" tras la caída global de 24 horas que afectó a Outlook, Teams y otros servicios",
+   "link": "https://www.xataka.com/aplicaciones/microsoft-declara-codigo-rojo-caida-global-24-horas-que-afecto-a-outlook-teams-otros-servicios",
+   "source": "Xataka"
+  },
+  {
+   "title": "Microsoft activa un Código Rojo tras caída global de 24 horas en sus aplicaciones laborales",
+   "link": "https://www.infobae.com/tecno/2026/11/24/microsoft-activa-un-codigo-rojo-tras-una-caida-global-de-24-horas-en-sus-aplicaciones-laborales/",
+   "source": "Infobae"
+  }
+ ]
+}
