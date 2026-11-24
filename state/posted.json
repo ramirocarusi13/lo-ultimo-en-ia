@@ -402,7 +402,22 @@
   "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQWQ3c3ZZdkIwWkUwSTJBa0tEOTZxOWJwb3JFVjhvcnZYWlQ4ZExLUFNOaU9RbXdoQkJpZjQxUkNOSG9hZjhZZUk1RVFZOS1CLXI0cDBkRUllTDV4QVJnV3FhMFY0SVpIODNQX3lURmVnSzdIRVlmbUZXeVZXWU1ORFNYZUlubm9yemxQZ1BDbEpycC05TmloRHF5MkhHVW1H0gGmAUFVX3lxTE4wMmgtbzVuNUdicERTbzlTRUVaOXFtX1dMSGFtWVJzNnY1T284d1hyMDRkVkZqNHlmSTZzRFhZSFZWRXl5TmZJS3RxXzFMZDJ4dTdlUjNPWi1DWGhlVGxZN0JGQkpUT1BOM0ZLVldCNk1UcV9jRFdyeGRWSzdUVTMtUHQyMXVjSXdSMFo0NHRDX0tlUGM4ZHpDT2FPT3REbnZpN0xsTWc?oc=5",
   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVktVcUhsMWstVUFHTjliWkVMMTY3Wl9lX2ljVHFySzMzN3NkazNIek5mRmFESk1QVXh2N3VqSlNXeUtrVDAzOUd5U3Jjel8zZ3RzRllnSVptRk5wV2M4NTNyYzhtaFBzamhFOFQwV0FndngyUFdNeDgyd2dlbFhoVmd5dnJlRmctNEZHMjFuYjM2UTR4eDRDVFVETTNVOG1GbFNUNnBNY3dWRUU?oc=5",
   "https://www.engadget.com/2325643/the-infamous-gta-6-hacker-has-been-released-after-pleading-guilty/",
-  "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss"
+  "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss",
+  "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+  "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UWmFFQUd3NWtmLW9aWW1MZWI4M0VFa3lBWk5remd1ODRiUjk3VVBodk9nbDhjbU96cEdqVHhYYnk3YjZ4Zkc2dlB0ZlhKWW9ORndOcGRsTGl4Sjg?oc=5",
+  "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+  "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQWRzSVl5NXdtMlRvTWxOYmItRm53SkNyVGdNOVhPSkZGMV82cHJhdWNYeDRrLVlUaUxPTC1QX0IyX2d4UkNKTkF1NVd3d21tcUc5QWk4Wm1qUWl3QlVxOFBJV3lpaWxreUxWaEdpRXZpR29YcUpsa1dJYkVGMDh4a0llVUZJaDBYa3ZsbWNR?oc=5",
+  "https://openai.com/index/introducing-shirudo",
+  "https://9to5google.com/2026/11/23/which-2026-samsung-galaxy-tab-should-you-buy/",
+  "https://9to5mac.com/2026/11/23/apple-watch-se-3-vs-series-12-which-should-you-buy-this-holiday-season/",
+  "https://9to5google.com/2026/11/23/samsung-folding-phone-guide/",
+  "https://www.engadget.com/2325713/grand-theft-auto/",
+  "https://www.genbeta.com/actualidad/diez-anos-miles-empleados-mil-millones-dolares-estimados-historia-grand-theft-auto-vi-dentro",
+  "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+  "https://9to5mac.com/2026/11/23/anthropic-launches-new-claude-ship-feature-for-builders/",
+  "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+  "https://www.zdnet.com/innovation/claude-ship-code-how-to-try/"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -570,7 +585,13 @@
   "Finding faster quantum algorithms with agents and formal verification",
   "Ya viene el Black Friday 2026: Estas son las mejores ofertas anticipadas",
   "10 años después: del \"rust belt\" a los nodos de la inteligencia artificial - El Economista",
-  "The infamous GTA 6 hacker has been released after pleading guilty"
+  "The infamous GTA 6 hacker has been released after pleading guilty",
+  "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+  "Cisco, OpenAI Launch Project to Safeguard Agentic AI",
+  "Which 2026 Samsung Galaxy Tab should you buy?",
+  "Grand Theft Auto 6 is really about the death of the American Dream",
+  "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+  "Claude AI can review pull requests and ship fixes on its own now"
  ],
  "history": [
   {
@@ -1563,6 +1584,42 @@
    "at": 1795464533,
    "permalink": null,
    "kind": "post"
+  },
+  {
+   "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+   "at": 1795478128,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "Cisco, OpenAI Launch Project to Safeguard Agentic AI",
+   "at": 1795478128,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "Which 2026 Samsung Galaxy Tab should you buy?",
+   "at": 1795478740,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "Grand Theft Auto 6 is really about the death of the American Dream",
+   "at": 1795478741,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+   "at": 1795479354,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "Claude AI can review pull requests and ship fixes on its own now",
+   "at": 1795479355,
+   "permalink": null,
+   "kind": "skip"
   }
  ]
 }

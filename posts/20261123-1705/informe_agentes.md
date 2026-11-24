@@ -8,3 +8,10 @@
 - **Revisor legal** — OK, riesgo bajo. Lenguaje neutral (condena firme y declaración de culpabilidad), sin mención de salud. Gancho del Reel: "filtró" en vez de "hackeó GTA 6" (aplicado).
 - **Guionista** — CAMBIOS, gancho 7→8. Abre con la condena; frases cortas (aplicado, combinado con legal y estilo).
 - **Cazador de videos** — ninguno: solo había comentario/reacciones o el tráiler oficial con derechos (Rockstar, YouTube estándar). Va como carrusel.
+
+## Armado y revisión visual
+- **Productor** — FORMATO: CARRUSEL (noticia judicial, sin video real con licencia libre; no hay Reel).
+- **Director de arte** — CAMBIOS, 5/10: la portada mostraba a dos personas ajenas a la noticia, el slide 3 era una captura de error de TV y el slide 2 tenía el cielo quemado.
+- **Cambios aplicados (jefe de redacción):** photos[0] y photos[2] → "" (ilustraciones 3D generadas), se mantiene Woolwich Crown Court en el slide 2. Carrusel rearmado una vez; revisé los slides 1 y 3 y quedaron bien.
+- **Texto:** titular de 12 palabras, caption y guion ajustados según estilo, legal y guionista. Datos verificados (verificador 9/10).
+- **Etiqueta de IA:** sí, conviene activarla porque la portada y el slide 3 son ilustraciones generadas con IA (sin personas reales). El revisor legal la había marcado como no obligatoria.

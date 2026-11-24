@@ -1,0 +1,54 @@
+{
+ "id": "20261123-2055",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "ANTHROPIC LANZA *CLAUDE SHIP*: AGENTES DE IA QUE *APRUEBAN CÓDIGO* SEGÚN TUS REGLAS",
+  "badge": "Anthropic",
+  "photos": [
+   "Anthropic",
+   "",
+   ""
+  ],
+  "slides": [
+   "Anthropic presentó *Claude Ship*, un conjunto de agentes de IA que revisan cambios de código, corrigen errores y *aprueban automáticamente* los que permite la política de cada equipo. Está en beta para los planes Team y Enterprise, en repositorios de GitHub.",
+   "Hoy la IA escribe tanto código que revisarlo se volvió el cuello de botella. Aun así, *el equipo decide qué cambios necesitan a una persona*. Anthropic recomienda empezar en modo solo observación, y se pueden fijar límites de gasto mensuales."
+  ],
+  "caption": "🤖 Anthropic lanzó Claude Ship: agentes de IA que no solo revisan código, también lo aprueban.\n\nSon tres piezas: Code Review, que ya estaba disponible; PR Steward, que arregla pruebas fallidas y conflictos; y Claude Approvals, que aprueba cambios según una política que el equipo escribe en lenguaje natural. Las dos últimas están en beta para los planes Team y Enterprise, en GitHub.\n\nLo que te toca: la IA ya escribe tanto código que revisarlo se volvió el cuello de botella. Ahora la pregunta es quién da el visto bueno final, y cada equipo decide qué cambios siguen necesitando a una persona. Anthropic recomienda empezar en modo solo observación.\n\n¿Dejarías que una IA apruebe código sin que lo mire una persona?\n\n🎬 El video completo está en la cuenta de Anthropic.\n\nFuente: TechCrunch, 9to5Mac\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "ClaudeShip",
+   "Anthropic",
+   "ProgramacionConIA"
+  ],
+  "image_prompts": [
+   "3D illustration of a glowing robotic arm stamping a large green checkmark onto a floating translucent code panel made of abstract colored bars, dark blue background, soft neon lighting, no text or letters",
+   "3D illustration of three small friendly robots on a conveyor belt inspecting, repairing and approving glowing abstract document blocks, isometric view, purple and teal palette, clean studio lighting, no text",
+   "3D illustration of a balance scale with a glowing AI orb on one side and an empty chair on the other, abstract server racks in the background, cinematic wide shot, moody blue light, no text"
+  ],
+  "reel_script": [
+   "Anthropic acaba de darle a una inteligencia artificial el poder de aprobar código.",
+   "Se llama *Claude Ship*: tres agentes que revisan cambios de código y arreglan errores. Aprueban los que permiten las reglas que escribe cada equipo.",
+   "La IA ya escribe tanto código que revisarlo frena todo. Está en *beta*, y cada equipo decide qué cambios todavía necesitan a una persona."
+  ]
+ },
+ "caption": "🤖 Anthropic lanzó Claude Ship: agentes de IA que no solo revisan código, también lo aprueban.\n\nSon tres piezas: Code Review, que ya estaba disponible; PR Steward, que arregla pruebas fallidas y conflictos; y Claude Approvals, que aprueba cambios según una política que el equipo escribe en lenguaje natural. Las dos últimas están en beta para los planes Team y Enterprise, en GitHub.\n\nLo que te toca: la IA ya escribe tanto código que revisarlo se volvió el cuello de botella. Ahora la pregunta es quién da el visto bueno final, y cada equipo decide qué cambios siguen necesitando a una persona. Anthropic recomienda empezar en modo solo observación.\n\n¿Dejarías que una IA apruebe código sin que lo mire una persona?\n\n🎬 El video completo está en la cuenta de Anthropic.\n\nFuente: TechCrunch, 9to5Mac\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n#ClaudeShip #Anthropic #ProgramacionConIA",
+ "slides": [
+  "posts/20261123-2055/slide_1.jpg",
+  "posts/20261123-2055/slide_2.jpg",
+  "posts/20261123-2055/slide_3.jpg",
+  "posts/20261123-2055/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+   "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+   "source": "TechCrunch"
+  },
+  {
+   "title": "Anthropic launches new Claude Ship feature for builders",
+   "link": "https://9to5mac.com/2026/11/23/anthropic-launches-new-claude-ship-feature-for-builders/",
+   "source": "9to5Mac"
+  }
+ ]
+}
