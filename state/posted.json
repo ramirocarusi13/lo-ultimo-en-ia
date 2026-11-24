@@ -495,7 +495,9 @@
   "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
   "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeThkY1VXRWlRdllqcUJKbF9CUVVrTDlkMHZ4VldvTGpuX2ViVFBlcWpEQTJucllJcU5rRUNaTENSWmV5a1Jsei1CQkJtNjJjbW5ibUMzXzlxUFlIWVNtMjZpRF9JcEpEUExVdjBVTkNCYkNHUTBnQkFYc25Md0lDcW5UN2tvck5HSi1jSFBSaGZFUHhBWm5TUzBEbkh4NU9Cd3lCVTdodjI5cEExZkRz?oc=5",
   "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQa0tzRWZZY3ZyYTZ4ZlV0OWR5eGhOMHVpZ0xBd25IX00zRnVsXy1HdS01Y2RQWnJqRjdsWnRVZzlEVlI1Y1RqcUpKSWpra1RZaGhaR3FaLUVKWjdvcHBneWVLdTBYdkRITThCT0ZSbWJ2Y0JhczZubVdCTE9Pc1RlUnZ2VTVpbFpWYjhONVdRcTd1X21hZ19ydjI0S1Z3Q2dUX1BhcERoS01HTm1SLUJpTHAzZFBhU3BPbXEwdHlac0RsOElUQ2E4eGZLTU00bWZSVVpZ?oc=5",
-  "https://openai.com/index/searching-for-distant-planets-with-astra/"
+  "https://openai.com/index/searching-for-distant-planets-with-astra/",
+  "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdE5rRG9VOTdRTjluYUNjdl9waUotNm1wak5naGhHS01GZkkyeV9ORU9WTWtCMlBiTVNsOGV4a0FmRld4S1JsMHhrZEpNLUVRdENPQ0tFZExFVzE5WG9XMEdQX0ZPdnhmYWkyQjFuZUNteFpjZDRKRzB6cklMN2VTSXo2dGxueWs1Y0d3WWRsc3FTVEHSAZgBQVVfeXFMUFRXdVFkaWdUTHlEU3JwNDVFX044T0xwMlJ4VENNOXhqVGl3UlJ1VHMyckpKcGxCQTJaYVpSV0NBT0NUS0hLSGhHT0l1dWVFYnF2MndvNHdibXlBVjZFemhqMjlmZ3gwZGRWR2pTRjB5Q3cwR1Qwd0lxSTFMRFBJaDR1RUU0VURwWHJCMGsxRWJWYUZTajBmTEU?oc=5",
+  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZTMwWnlHWkItRm5PQ0xzX1FUSVFTdUFMbE9hZkFmYkpfSElfZ3Z2TVNSbldKcUJ1TTJjY3M2M0ZVZWFnWWpaMEVlNXY4WHNzMHYxY3RXQ2s3bEVDM2FVRy1oN3NMLVllZWVfaTVBRjQxNGkxQXBVU01LR0FzdnlSNWV4YUV4NnJFOVJRTTdEVzB1T0ZTcDhZOXdNYkRXNDRyYmdrUmxRTzc2NUpOTnBZTzF2WXpYOVRWamVqQXhwdHlsQ3c?oc=5"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -697,7 +699,8 @@
   "Tidal will ban fully AI-generated music on December 9",
   "Anthropic shares fall below IPO price, a worrying sign for AI startups",
   "Capacitarán a 70 municipios del Chaco en el uso de inteligencia artificial",
-  "Searching for distant planets with Astra"
+  "Searching for distant planets with Astra",
+  "New York institutes five-year ban on AI chatbot toys"
  ],
  "history": [
   {
@@ -1894,6 +1897,12 @@
    "at": 1795549477,
    "permalink": null,
    "kind": "post"
+  },
+  {
+   "title": "New York institutes five-year ban on AI chatbot toys",
+   "at": 1795554753,
+   "permalink": null,
+   "kind": "skip"
   }
  ]
 }
