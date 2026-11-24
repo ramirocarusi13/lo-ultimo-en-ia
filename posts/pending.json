@@ -1,54 +1,54 @@
 {
- "id": "20261124-0515",
+ "id": "20261124-0955",
  "post": {
   "skip": false,
   "skip_reason": "",
   "confidence": "media",
-  "headline": "EL BOOM DE LA *IA* COMPLICA LA *CUMBRE DEL CLIMA*",
-  "badge": "COP31",
+  "headline": "*META* LANZA *MUSE* EN REINO UNIDO: SU AGENTE DE IA PARA TAREAS",
+  "badge": "Meta",
   "photos": [
-   "Data center servers",
-   "Antalya",
-   ""
+   "Meta Platforms headquarters",
+   "",
+   "Information Commissioner's Office"
   ],
   "slides": [
-   "La cumbre del clima de la ONU, COP31, terminó el domingo en Antalya, Turquía, *sin aprobar el pacto final*. Según la Global Renewables Alliance, los centros de datos fueron un tema clave: disparan la demanda de electricidad justo cuando el mundo intenta electrificarlo todo.",
-   "Meta informó un *aumento del 45%* en sus emisiones y reevalúa el plazo de su meta de cero emisiones. La Agencia Internacional de Energía prevé que el consumo de los centros de datos *se duplique para 2030*."
+   "Meta lanzó en el Reino Unido *Muse, su agente de inteligencia artificial*. No solo responde preguntas: busca vacaciones, resume correos, propone respuestas y hasta puede comprar, pero *por defecto pide permiso* cada vez que quiere enviar, publicar o hacer algo.",
+   "Según la BBC, que lo probó una semana, es útil pero a veces incómodo. *Amazon lo bloqueó en su tienda* por seguridad de datos, y el regulador británico de privacidad advirtió que *los agentes pueden equivocarse*. Es gratis hasta cierto punto; después, se paga suscripción."
   ],
-  "caption": "🌍 Los centros de datos de IA se metieron en la cumbre del clima de la ONU, que cerró sin aprobar su pacto final.\n\nLa COP31 terminó el domingo en Antalya. La Unión Europea, el Reino Unido y varios países vulnerables rechazaron el pacto por débil. Un compromiso voluntario para centros de datos más limpios casi no tuvo apoyo.\n\nLa IA dispara la demanda de electricidad. Meta reportó 45% más de emisiones en un año, y la Agencia Internacional de Energía prevé que el consumo de los centros de datos se duplique para 2030.\n\n¿Y esto a mí qué? Según la Global Renewables Alliance, los centros de datos compiten por la energía limpia con la calefacción, el aire acondicionado y el transporte eléctrico.\n\n¿Debería limitarse la energía que usan los centros de datos de IA?\n\nFuente: The Verge\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "🤖 Meta lanzó Muse en el Reino Unido: un agente de IA que no solo responde, sino que hace tareas por ti.\n\nSegún la BBC, que lo usó una semana, Muse resume correos, propone respuestas, busca opciones de vacaciones y puede comprar, pero, por defecto, pide permiso cada vez que quiere enviar, publicar o hacer algo. Es para mayores de 18 años y es gratis hasta cierto punto; después llegan las suscripciones.\n\n¿Y esto a ti qué? Para ayudarte, puede conectarse a tu correo, tu calendario y tus mensajes. Amazon lo bloqueó en su tienda por seguridad de datos, y el regulador británico de privacidad pidió cautela: los agentes pueden equivocarse.\n\n¿Le darías acceso a tu correo y tu calendario a un agente de IA para que haga trámites por ti?\n\nFuente: BBC\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "COP31",
-   "CentrosDeDatos",
-   "CambioClimatico"
+   "MetaAI",
+   "Muse",
+   "AgentesDeIA"
   ],
   "image_prompts": [
-   "3D illustration of a huge glowing data center building beside a small cracked planet Earth, thick power cables pulling energy from the globe, dramatic dusk lighting, blue and violet tones, symbolic and clean composition",
-   "3D illustration of a long empty conference table with scattered blank papers and an overturned gavel under a green globe sculpture, soft warm lights, symbolizing failed climate negotiations, wide angle view, no text anywhere",
-   "3D illustration of rows of server racks with glowing energy gauges without markings and grey smoke clouds above them, next to wind turbines and solar panels on the horizon, high angle view, cool blue and orange palette"
+   "Glossy 3D illustration of a friendly floating holographic assistant orb hovering above a smartphone, surrounded by small floating icons of a blank envelope, a blank calendar and a shopping bag, soft purple and blue neon lighting, dark background",
+   "3D isometric illustration of a tidy desk with a laptop and a smartphone, glowing translucent lines connecting them to blank floating envelopes, empty chat bubbles and a ticket shape, warm evening light, clean minimal style",
+   "Wide 3D illustration of a large glowing padlock and a shield standing beside a small cute robotic assistant holding a clipboard with empty checkboxes, cool blue tones, dramatic lighting, symbolic privacy and control concept"
   ],
   "reel_script": [
-   "La contaminación climática de Meta subió 45 por ciento en solo un año.",
-   "Meta reevalúa el plazo de su meta de cero emisiones. La cumbre del clima de la ONU cerró sin pacto, y un compromiso para *centros de datos* más limpios fracasó.",
-   "Según la Agencia Internacional de Energía, su consumo se *duplicaría para 2030*. Y un grupo de energías renovables advierte que compite con la calefacción y el transporte."
+   "Meta lanzó un agente de IA que puede comprar por ti, con tu permiso.",
+   "Se llama *Muse* y ya llegó al Reino Unido. Resume tus correos, propone respuestas y busca vacaciones. Por defecto, te pregunta antes de enviar, publicar o comprar algo.",
+   "Para ayudarte se conecta a tu correo, tu calendario y tus mensajes. *Amazon ya lo bloqueó* en su tienda por seguridad, y el regulador británico advierte que los agentes pueden equivocarse."
   ]
  },
- "caption": "🌍 Los centros de datos de IA se metieron en la cumbre del clima de la ONU, que cerró sin aprobar su pacto final.\n\nLa COP31 terminó el domingo en Antalya. La Unión Europea, el Reino Unido y varios países vulnerables rechazaron el pacto por débil. Un compromiso voluntario para centros de datos más limpios casi no tuvo apoyo.\n\nLa IA dispara la demanda de electricidad. Meta reportó 45% más de emisiones en un año, y la Agencia Internacional de Energía prevé que el consumo de los centros de datos se duplique para 2030.\n\n¿Y esto a mí qué? Según la Global Renewables Alliance, los centros de datos compiten por la energía limpia con la calefacción, el aire acondicionado y el transporte eléctrico.\n\n¿Debería limitarse la energía que usan los centros de datos de IA?\n\nFuente: The Verge\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Janabaevazizbek / Wikimedia Commons (CC BY-SA 4.0)\n\n#COP31 #CentrosDeDatos #CambioClimatico",
+ "caption": "🤖 Meta lanzó Muse en el Reino Unido: un agente de IA que no solo responde, sino que hace tareas por ti.\n\nSegún la BBC, que lo usó una semana, Muse resume correos, propone respuestas, busca opciones de vacaciones y puede comprar, pero, por defecto, pide permiso cada vez que quiere enviar, publicar o hacer algo. Es para mayores de 18 años y es gratis hasta cierto punto; después llegan las suscripciones.\n\n¿Y esto a ti qué? Para ayudarte, puede conectarse a tu correo, tu calendario y tus mensajes. Amazon lo bloqueó en su tienda por seguridad de datos, y el regulador británico de privacidad pidió cautela: los agentes pueden equivocarse.\n\n¿Le darías acceso a tu correo y tu calendario a un agente de IA para que haga trámites por ti?\n\nFuente: BBC\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: LPS.1 / Wikimedia Commons (CC0)\n\n#MetaAI #Muse #AgentesDeIA",
  "slides": [
-  "posts/20261124-0515/slide_1.jpg",
-  "posts/20261124-0515/slide_2.jpg",
-  "posts/20261124-0515/slide_3.jpg",
-  "posts/20261124-0515/slide_4.jpg"
+  "posts/20261124-0955/slide_1.jpg",
+  "posts/20261124-0955/slide_2.jpg",
+  "posts/20261124-0955/slide_3.jpg",
+  "posts/20261124-0955/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "AI data centers throw another wrench into chaotic UN climate talks",
-   "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-   "source": "The Verge"
+   "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
+   "link": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC"
   },
   {
-   "title": "The hidden environmental cost of AI data centers",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWUpYbjhCemF4MnFWUVZVY1BoSlIzZGhaMFhoaW5lX01rek9Oc0otYWZhcW0zenZHRWpISjNVUTlONncxSVNRR0pfUE5aZmZpcl9NRjJsRW5TMmZWOTJ5RDEtREdhZndkdWliVU1BN3VuNlhHWjdXS01QX2ZTMWhiS0txaExpclNJ0gGIAUFVX3lxTE14UGg0b2FyUW5pVW1PNF9LYnlkVVhIVElxeHE2bzVwazQ0ZVZGUkRFRHcwcFlZVGx5OWVMTnRwdGlVMThpRkRzd2FzMGZQajNid09wVmxITUwtRjNrVVppaFc5Z2ZuVXk4TnN3aVZIckN5aUFXN3RyV1Z5NHBZWU5YcWVwdURoUGE?oc=5",
-   "source": "DW.com"
+   "title": "Have you downloaded Meta’s AI assistant Muse or do you plan to?",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYURUekJ6Ym94MHJ2TlVhUlpyeVh2NW5yeFdCU0VMU3hBUEZ3MjluaFlPeEFCaXBCQWYwS0tGVGlEQTBndVRJYUptYXFDV0h6R3VkR3FSZHk3bGRpZ1UydGJYU3JpUzZXZWE1NHpNTjI3eUtDSFdfZkpxR2hEMHFKZ3BoMnEzaUFNVWg4WXBpeXVhUGFfM3JkOU9LQmNxdVU1TUlwNUhCQUw1aU1uS1VqSmF3?oc=5",
+   "source": "The Guardian"
   }
  ]
 }

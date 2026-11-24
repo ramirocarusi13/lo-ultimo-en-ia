@@ -1,0 +1,54 @@
+{
+ "id": "20261124-0955",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "media",
+  "headline": "*META* LANZA *MUSE* EN REINO UNIDO: SU AGENTE DE IA PARA TAREAS",
+  "badge": "Meta",
+  "photos": [
+   "Meta Platforms headquarters",
+   "",
+   "Information Commissioner's Office"
+  ],
+  "slides": [
+   "Meta lanzó en el Reino Unido *Muse, su agente de inteligencia artificial*. No solo responde preguntas: busca vacaciones, resume correos, propone respuestas y hasta puede comprar, pero *por defecto pide permiso* cada vez que quiere enviar, publicar o hacer algo.",
+   "Según la BBC, que lo probó una semana, es útil pero a veces incómodo. *Amazon lo bloqueó en su tienda* por seguridad de datos, y el regulador británico de privacidad advirtió que *los agentes pueden equivocarse*. Es gratis hasta cierto punto; después, se paga suscripción."
+  ],
+  "caption": "🤖 Meta lanzó Muse en el Reino Unido: un agente de IA que no solo responde, sino que hace tareas por ti.\n\nSegún la BBC, que lo usó una semana, Muse resume correos, propone respuestas, busca opciones de vacaciones y puede comprar, pero, por defecto, pide permiso cada vez que quiere enviar, publicar o hacer algo. Es para mayores de 18 años y es gratis hasta cierto punto; después llegan las suscripciones.\n\n¿Y esto a ti qué? Para ayudarte, puede conectarse a tu correo, tu calendario y tus mensajes. Amazon lo bloqueó en su tienda por seguridad de datos, y el regulador británico de privacidad pidió cautela: los agentes pueden equivocarse.\n\n¿Le darías acceso a tu correo y tu calendario a un agente de IA para que haga trámites por ti?\n\nFuente: BBC\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "MetaAI",
+   "Muse",
+   "AgentesDeIA"
+  ],
+  "image_prompts": [
+   "Glossy 3D illustration of a friendly floating holographic assistant orb hovering above a smartphone, surrounded by small floating icons of a blank envelope, a blank calendar and a shopping bag, soft purple and blue neon lighting, dark background",
+   "3D isometric illustration of a tidy desk with a laptop and a smartphone, glowing translucent lines connecting them to blank floating envelopes, empty chat bubbles and a ticket shape, warm evening light, clean minimal style",
+   "Wide 3D illustration of a large glowing padlock and a shield standing beside a small cute robotic assistant holding a clipboard with empty checkboxes, cool blue tones, dramatic lighting, symbolic privacy and control concept"
+  ],
+  "reel_script": [
+   "Meta lanzó un agente de IA que puede comprar por ti, con tu permiso.",
+   "Se llama *Muse* y ya llegó al Reino Unido. Resume tus correos, propone respuestas y busca vacaciones. Por defecto, te pregunta antes de enviar, publicar o comprar algo.",
+   "Para ayudarte se conecta a tu correo, tu calendario y tus mensajes. *Amazon ya lo bloqueó* en su tienda por seguridad, y el regulador británico advierte que los agentes pueden equivocarse."
+  ]
+ },
+ "caption": "🤖 Meta lanzó Muse en el Reino Unido: un agente de IA que no solo responde, sino que hace tareas por ti.\n\nSegún la BBC, que lo usó una semana, Muse resume correos, propone respuestas, busca opciones de vacaciones y puede comprar, pero, por defecto, pide permiso cada vez que quiere enviar, publicar o hacer algo. Es para mayores de 18 años y es gratis hasta cierto punto; después llegan las suscripciones.\n\n¿Y esto a ti qué? Para ayudarte, puede conectarse a tu correo, tu calendario y tus mensajes. Amazon lo bloqueó en su tienda por seguridad de datos, y el regulador británico de privacidad pidió cautela: los agentes pueden equivocarse.\n\n¿Le darías acceso a tu correo y tu calendario a un agente de IA para que haga trámites por ti?\n\nFuente: BBC\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: LPS.1 / Wikimedia Commons (CC0)\n\n#MetaAI #Muse #AgentesDeIA",
+ "slides": [
+  "posts/20261124-0955/slide_1.jpg",
+  "posts/20261124-0955/slide_2.jpg",
+  "posts/20261124-0955/slide_3.jpg",
+  "posts/20261124-0955/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
+   "link": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC"
+  },
+  {
+   "title": "Have you downloaded Meta’s AI assistant Muse or do you plan to?",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYURUekJ6Ym94MHJ2TlVhUlpyeVh2NW5yeFdCU0VMU3hBUEZ3MjluaFlPeEFCaXBCQWYwS0tGVGlEQTBndVRJYUptYXFDV0h6R3VkR3FSZHk3bGRpZ1UydGJYU3JpUzZXZWE1NHpNTjI3eUtDSFdfZkpxR2hEMHFKZ3BoMnEzaUFNVWg4WXBpeXVhUGFfM3JkOU9LQmNxdVU1TUlwNUhCQUw1aU1uS1VqSmF3?oc=5",
+   "source": "The Guardian"
+  }
+ ]
+}

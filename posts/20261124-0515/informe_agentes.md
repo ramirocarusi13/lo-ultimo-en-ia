@@ -11,3 +11,10 @@
 - Guionista (sonnet): CAMBIOS, gancho de 5 a 8 con el dato de Meta (+45%).
 - Cazador de videos (sonnet): no encontró clips con licencia libre ni video oficial, así que va como CARRUSEL.
 - Confianza: se dejó en "media" (decisión del jefe). La nota única es de The Verge, pero las cifras vienen de fuentes oficiales que cita (informe de Meta, AIE) y el cierre de la COP31 es un hecho público. Conviene revisarlo.
+
+## Formato y revisión visual
+- Productor (sonnet): CARRUSEL. No hay clips válidos, así que no hay Reel.
+- Director de arte (sonnet): CAMBIOS, 6/10. El slide 3 tenía una foto de "Meta headquarters" que solo mostraba nubes y semáforos. Se puso "" y se rearmó: ahora va la ilustración de servidores con humo y turbinas. Slides 1, 2 y 4 OK.
+- Cambios aplicados: titular más corto, "sin aprobar el pacto final", "reevalúa el plazo", frases de la Global Renewables Alliance atribuidas, "Fuente: The Verge", caption de 150 palabras, nuevo gancho de guion y foto 3 cambiada por ilustración.
+- Etiqueta de IA: no. Las ilustraciones 3D son simbólicas, y las fotos reales son de Wikimedia (Antalya).
+- Puntaje del equipo: verificador 7, estilo 7, arte 6, legal riesgo bajo. Confianza "media" (una sola nota con contenido: revisar).

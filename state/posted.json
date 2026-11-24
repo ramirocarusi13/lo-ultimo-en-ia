@@ -451,7 +451,11 @@
   "https://www.engadget.com/2326238/apple-confirms-ted-lasso-will-return-for-season-5/",
   "https://9to5mac.com/2026/11/23/apple-announces-ted-lasso-season-5-is-coming/",
   "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWUpYbjhCemF4MnFWUVZVY1BoSlIzZGhaMFhoaW5lX01rek9Oc0otYWZhcW0zenZHRWpISjNVUTlONncxSVNRR0pfUE5aZmZpcl9NRjJsRW5TMmZWOTJ5RDEtREdhZndkdWliVU1BN3VuNlhHWjdXS01QX2ZTMWhiS0txaExpclNJ0gGIAUFVX3lxTE14UGg0b2FyUW5pVW1PNF9LYnlkVVhIVElxeHE2bzVwazQ0ZVZGUkRFRHcwcFlZVGx5OWVMTnRwdGlVMThpRkRzd2FzMGZQajNid09wVmxITUwtRjNrVVppaFc5Z2ZuVXk4TnN3aVZIckN5aUFXN3RyV1Z5NHBZWU5YcWVwdURoUGE?oc=5"
+  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWUpYbjhCemF4MnFWUVZVY1BoSlIzZGhaMFhoaW5lX01rek9Oc0otYWZhcW0zenZHRWpISjNVUTlONncxSVNRR0pfUE5aZmZpcl9NRjJsRW5TMmZWOTJ5RDEtREdhZndkdWliVU1BN3VuNlhHWjdXS01QX2ZTMWhiS0txaExpclNJ0gGIAUFVX3lxTE14UGg0b2FyUW5pVW1PNF9LYnlkVVhIVElxeHE2bzVwazQ0ZVZGUkRFRHcwcFlZVGx5OWVMTnRwdGlVMThpRkRzd2FzMGZQajNid09wVmxITUwtRjNrVVppaFc5Z2ZuVXk4TnN3aVZIckN5aUFXN3RyV1Z5NHBZWU5YcWVwdURoUGE?oc=5",
+  "https://www.engadget.com/2326288/openai-employee-recorded-meetings-allegedly-affiliated-saudi-government/",
+  "https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html",
+  "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYURUekJ6Ym94MHJ2TlVhUlpyeVh2NW5yeFdCU0VMU3hBUEZ3MjluaFlPeEFCaXBCQWYwS0tGVGlEQTBndVRJYUptYXFDV0h6R3VkR3FSZHk3bGRpZ1UydGJYU3JpUzZXZWE1NHpNTjI3eUtDSFdfZkpxR2hEMHFKZ3BoMnEzaUFNVWg4WXBpeXVhUGFfM3JkOU9LQmNxdVU1TUlwNUhCQUw1aU1uS1VqSmF3?oc=5"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -632,7 +636,9 @@
   "Anthropic lanzó Claude Ship, una inteligencia artificial que revisa, corrige y aprueba código de programación",
   "Ricoh lanza Private AI in a Box: IA privada llave en mano",
   "Apple confirms Ted Lasso will return for Season 5",
-  "AI data centers throw another wrench into chaotic UN climate talks"
+  "AI data centers throw another wrench into chaotic UN climate talks",
+  "OpenAI employee who secretly recorded meetings allegedly affiliated with the Saudi government",
+  "Helpful but awkward: My week with Meta's Muse ahead of its UK launch"
  ],
  "history": [
   {
@@ -1701,6 +1707,18 @@
   {
    "title": "AI data centers throw another wrench into chaotic UN climate talks",
    "at": 1795508722,
+   "permalink": null,
+   "kind": "post"
+  },
+  {
+   "title": "OpenAI employee who secretly recorded meetings allegedly affiliated with the Saudi government",
+   "at": 1795523147,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
+   "at": 1795525711,
    "permalink": null,
    "kind": "post"
   }
