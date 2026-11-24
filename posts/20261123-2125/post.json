@@ -1,0 +1,54 @@
+{
+ "id": "20261123-2125",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "*NOTHING* ANUNCIA AURICULARES QUE *GRABAN Y TRANSCRIBEN* TUS CONVERSACIONES CON IA",
+  "badge": "Nothing",
+  "photos": [
+   "Carl Pei",
+   "Nothing Ear",
+   "Nothing Phone"
+  ],
+  "slides": [
+   "Nothing confirmó su nuevo producto de IA: los *Ear (note)*, unos auriculares cuyo estuche funciona como grabadora. Con un botón pueden *grabar y transcribir conversaciones*, en persona o por teléfono, y una app guarda las transcripciones y resúmenes hechos con IA.",
+   "Salen el *8 de diciembre* y el precio todavía no está definido. Competirán con grabadoras de IA de Plaud, Amazon y Anker. Según su director, Carl Pei, es *el primero de muchos productos* que suman IA a cosas que ya usamos."
+  ],
+  "caption": "🎧 Nothing confirmó su nuevo aparato de IA: los Ear (note), auriculares que graban y transcriben tus conversaciones.\n\nEl estuche de carga tiene micrófonos y un botón para grabar charlas en persona o llamadas, y una app guarda las transcripciones y los resúmenes hechos con IA. Su director, Carl Pei, se los mostró a Bloomberg: salen el 8 de diciembre, pero todavía no tienen precio. Según 9to5Google, podría haber algún tipo de suscripción.\n\n¿Y esto a mí qué? En vez de cargar una grabadora aparte, la IA vendría en algo que muchos ya usan todos los días. Pei dice que es el primero de muchos productos así. Eso sí, Plaud, Amazon y Anker ya venden equipos parecidos.\n\n¿Usarías auriculares que graben tus reuniones o llamadas para tener el resumen automático?\n\nFuente: The Verge, 9to5Google (con datos de Bloomberg)\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "Nothing",
+   "AuricularesIA",
+   "EarNote"
+  ],
+  "image_prompts": [
+   "A sleek pair of white wireless earbuds resting in an open translucent charging case, with glowing soft sound waves rising from the case, 3D illustration, clean studio lighting, pastel blue and white background, centered composition",
+   "Two abstract chat bubbles floating above an open earbud charging case, transforming into flowing lines that form a neat stack of blank paper sheets, 3D illustration, soft purple and teal lighting, side angle view",
+   "Close-up of a minimalist earbud charging case with a single round glowing button, surrounded by floating microphone icons and sound wave ribbons, 3D illustration, dark background with neon cyan accents, low angle perspective"
+  ],
+  "reel_script": [
+   "Nothing anuncia unos auriculares que graban tus conversaciones con un solo botón.",
+   "Se llaman *Ear Note*. El estuche tiene micrófonos para grabar charlas en persona o llamadas. Una app las transcribe y arma resúmenes con inteligencia artificial.",
+   "Salen el 8 de diciembre, aún sin precio. Su director ejecutivo, Carl Pei, dice que es el *primero de muchos* productos así."
+  ]
+ },
+ "caption": "🎧 Nothing confirmó su nuevo aparato de IA: los Ear (note), auriculares que graban y transcriben tus conversaciones.\n\nEl estuche de carga tiene micrófonos y un botón para grabar charlas en persona o llamadas, y una app guarda las transcripciones y los resúmenes hechos con IA. Su director, Carl Pei, se los mostró a Bloomberg: salen el 8 de diciembre, pero todavía no tienen precio. Según 9to5Google, podría haber algún tipo de suscripción.\n\n¿Y esto a mí qué? En vez de cargar una grabadora aparte, la IA vendría en algo que muchos ya usan todos los días. Pei dice que es el primero de muchos productos así. Eso sí, Plaud, Amazon y Anker ya venden equipos parecidos.\n\n¿Usarías auriculares que graben tus reuniones o llamadas para tener el resumen automático?\n\nFuente: The Verge, 9to5Google (con datos de Bloomberg)\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: TechCrunch / Wikimedia Commons (CC BY 2.0)\n📸 Foto: Premeditated / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: NOTH PHONE / Wikimedia Commons (CC BY-SA 4.0)\n\n#Nothing #AuricularesIA #EarNote",
+ "slides": [
+  "posts/20261123-2125/slide_1.jpg",
+  "posts/20261123-2125/slide_2.jpg",
+  "posts/20261123-2125/slide_3.jpg",
+  "posts/20261123-2125/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Nothing Ear (note) is yet another AI recorder, but with earbuds inside",
+   "link": "https://9to5google.com/2026/11/23/nothing-ear-note-ai-recorder-teaser/",
+   "source": "9to5Google"
+  },
+  {
+   "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+   "link": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+   "source": "The Verge"
+  }
+ ]
+}

@@ -417,7 +417,12 @@
   "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
   "https://9to5mac.com/2026/11/23/anthropic-launches-new-claude-ship-feature-for-builders/",
   "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-  "https://www.zdnet.com/innovation/claude-ship-code-how-to-try/"
+  "https://www.zdnet.com/innovation/claude-ship-code-how-to-try/",
+  "https://9to5mac.com/2026/11/23/kodak-slidetag-e-ink-iphone-tracker-airtag/",
+  "https://www.engadget.com/2325598/kodak-slidetag-combines-a-digital-photo-frame-and-an-airtag/",
+  "https://9to5google.com/2026/11/23/kodak-slidetag-android-iphone-e-ink-tracker/",
+  "https://9to5google.com/2026/11/23/nothing-ear-note-ai-recorder-teaser/",
+  "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -591,7 +596,9 @@
   "Which 2026 Samsung Galaxy Tab should you buy?",
   "Grand Theft Auto 6 is really about the death of the American Dream",
   "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-  "Claude AI can review pull requests and ship fixes on its own now"
+  "Claude AI can review pull requests and ship fixes on its own now",
+  "Kodak SlideTag is a $35 AirTag alternative with an E-Ink display for your photos",
+  "Nothing Ear (note) is yet another AI recorder, but with earbuds inside"
  ],
  "history": [
   {
@@ -1620,6 +1627,18 @@
    "at": 1795479355,
    "permalink": null,
    "kind": "skip"
+  },
+  {
+   "title": "Kodak SlideTag is a $35 AirTag alternative with an E-Ink display for your photos",
+   "at": 1795479940,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "Nothing Ear (note) is yet another AI recorder, but with earbuds inside",
+   "at": 1795480207,
+   "permalink": null,
+   "kind": "post"
   }
  ]
 }
