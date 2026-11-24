@@ -1,59 +1,64 @@
 {
- "id": "20261124-1345",
+ "id": "20261124-1435",
  "post": {
   "skip": false,
   "skip_reason": "",
   "confidence": "alta",
-  "headline": "*JENSEN HUANG* VUELVE A NVIDIA Y VA A RESPONDER ANTE EL *CONGRESO*",
-  "badge": "NVIDIA",
+  "headline": "TIDAL VA A BORRAR *29 MILLONES* DE CANCIONES HECHAS *100% CON IA*",
+  "badge": "Tidal",
   "photos": [
-   "Jensen Huang",
-   "United States Capitol",
-   "Nvidia headquarters"
+   "",
+   "music streaming headphones",
+   "recording studio mixing console"
   ],
   "slides": [
-   "El consejo de Nvidia *devolvió a Jensen Huang* los cargos de presidente y director ejecutivo, tras su salida del 12 de noviembre. Según WIRED, las acciones subieron más de 30% y la empresa sumó *más de un billón de dólares* en valor.",
-   "El *1 de diciembre*, el mismo día del evento GTC de Nvidia en Washington, Huang hablará ante tres comités de la Cámara de Representantes. El 3, será el único testigo en una audiencia del Senado *sobre controles de exportación*."
+   "Desde el 9 de diciembre, *Tidal prohíbe la música generada 100% con IA*. Va a borrar unos 29 millones de canciones antes de fin de año y rechazará entre 80.000 y 85.000 temas por día.",
+   "El motivo: *el 43% de las canciones recibidas en los últimos 90 días fueron hechas con IA*, y el 96% de ellas no tiene ni una reproducción. *Las canciones hechas con ayuda de IA seguirán permitidas*. Bandcamp ya había tomado una medida similar."
   ],
-  "caption": "⚖️ Jensen Huang volvió a ser el director ejecutivo de Nvidia, y en una semana tiene que dar explicaciones ante el Congreso de Estados Unidos.\n\nEl consejo lo reincorporó tras su salida del 12 de noviembre, con aportes de \"altos niveles\" del gobierno estadounidense. Según WIRED, las acciones subieron más de 30%.\n\nEl 1 de diciembre, el mismo día del evento GTC de Nvidia, Huang responderá a tres comités de la Cámara de Representantes. El 3 será el único testigo en una audiencia del Senado sobre controles de exportación.\n\n¿Y esto a mí qué? Los chips de Nvidia mueven buena parte de la IA actual: lo que pase con la empresa sacude a toda la industria.\n\n¿Crees que una empresa tan clave para la IA puede depender tanto de una sola persona?\n\nFuente: CNBC, The Verge, WIRED en Español.\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "🎵 Tidal va a borrar unos 29 millones de canciones generadas 100% con inteligencia artificial.\n\nDesde el 9 de diciembre, la plataforma de streaming prohíbe la música hecha solo con IA. Según la empresa, el 43% de los temas que recibió en los últimos 90 días eran de IA, y el 96% de esas canciones no tiene ni una reproducción. Además, va a rechazar entre 80.000 y 85.000 temas por día.\n\n¿Y esto a mí qué? Si escuchas música en Tidal, deberías encontrar más artistas reales y menos relleno hecho por IA. Las canciones hechas con ayuda de IA siguen permitidas: lo que se prohíbe es que la IA lo haga todo.\n\n¿Te gustaría que Spotify también borre las canciones hechas 100% con IA?\n\nFuente: The Verge, TechCrunch, The Hollywood Reporter, Variety\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "Nvidia",
-   "JensenHuang",
-   "InteligenciaArtificial"
+   "Tidal",
+   "MusicaIA",
+   "Streaming"
   ],
   "image_prompts": [
-   "A glossy 3D illustration of a giant green-glowing computer chip standing on a marble pedestal inside a grand government hearing room with empty wooden desks and microphones, dramatic spotlight, no text, no people.",
-   "A 3D illustration of a stock market chart arrow shooting sharply upward made of glowing green circuit lines, over a dark city skyline at night, floating coins and chips around it, cinematic lighting, no text, no people.",
-   "A 3D illustration of a domed government building made of translucent glass with glowing server racks and graphics cards inside, set against a dusk sky, isometric view, soft volumetric light, no text, no people."
+   "3D illustration of a giant glowing music note made of circuit lines being swept into a dark digital trash bin, floating vinyl records around, deep blue and purple neon lighting, dramatic centered composition",
+   "3D illustration of an endless conveyor belt carrying thousands of identical glowing audio cassettes toward a red barrier gate that blocks them, futuristic factory setting, cool blue tones, wide angle view",
+   "3D illustration of a pair of wireless headphones resting on a wooden desk next to a real acoustic guitar, warm soft light, a faint holographic sound wave rising above, cozy close-up composition"
   ],
   "reel_script": [
-   "Nvidia sumó más de un billón de dólares en valor cuando volvió su jefe.",
-   "Jensen Huang fue reincorporado como *director ejecutivo* tras su salida del 12 de noviembre. Según WIRED, las acciones subieron *más de 30 por ciento*.",
-   "El *1 de diciembre* responderá ante tres comités de la Cámara. Dos días después, será el único testigo en el Senado sobre controles de exportación."
+   "Tidal va a borrar 29 millones de canciones hechas solo con inteligencia artificial.",
+   "Desde el 9 de diciembre, *Tidal* prohíbe la música generada totalmente con IA. El 43 por ciento de lo que recibió en tres meses era de IA.",
+   "Las canciones hechas *con ayuda* de IA seguirán permitidas. El 96 por ciento de la *música pura de IA* no tiene reproducciones. Spotify y YouTube, en cambio, solo la etiquetan."
   ]
  },
- "caption": "⚖️ Jensen Huang volvió a ser el director ejecutivo de Nvidia, y en una semana tiene que dar explicaciones ante el Congreso de Estados Unidos.\n\nEl consejo lo reincorporó tras su salida del 12 de noviembre, con aportes de \"altos niveles\" del gobierno estadounidense. Según WIRED, las acciones subieron más de 30%.\n\nEl 1 de diciembre, el mismo día del evento GTC de Nvidia, Huang responderá a tres comités de la Cámara de Representantes. El 3 será el único testigo en una audiencia del Senado sobre controles de exportación.\n\n¿Y esto a mí qué? Los chips de Nvidia mueven buena parte de la IA actual: lo que pase con la empresa sacude a toda la industria.\n\n¿Crees que una empresa tan clave para la IA puede depender tanto de una sola persona?\n\nFuente: CNBC, The Verge, WIRED en Español.\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Anders Eidesvik / Wikimedia Commons (CC BY 4.0)\n📸 Foto: Raydann / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: Coolcaesar / Wikimedia Commons (CC BY-SA 4.0)\n🎥 Video: Narendra Modi / Wikimedia Commons (CC BY 3.0)\n\n#Nvidia #JensenHuang #InteligenciaArtificial",
+ "caption": "🎵 Tidal va a borrar unos 29 millones de canciones generadas 100% con inteligencia artificial.\n\nDesde el 9 de diciembre, la plataforma de streaming prohíbe la música hecha solo con IA. Según la empresa, el 43% de los temas que recibió en los últimos 90 días eran de IA, y el 96% de esas canciones no tiene ni una reproducción. Además, va a rechazar entre 80.000 y 85.000 temas por día.\n\n¿Y esto a mí qué? Si escuchas música en Tidal, deberías encontrar más artistas reales y menos relleno hecho por IA. Las canciones hechas con ayuda de IA siguen permitidas: lo que se prohíbe es que la IA lo haga todo.\n\n¿Te gustaría que Spotify también borre las canciones hechas 100% con IA?\n\nFuente: The Verge, TechCrunch, The Hollywood Reporter, Variety\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n#Tidal #MusicaIA #Streaming",
  "slides": [
-  "posts/20261124-1345/slide_1.jpg",
-  "posts/20261124-1345/slide_2.jpg",
-  "posts/20261124-1345/slide_3.jpg",
-  "posts/20261124-1345/slide_4.jpg"
+  "posts/20261124-1435/slide_1.jpg",
+  "posts/20261124-1435/slide_2.jpg",
+  "posts/20261124-1435/slide_3.jpg",
+  "posts/20261124-1435/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
-   "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
-   "source": "CNBC"
-  },
-  {
-   "title": "Jensen Huang deepfakes are the hot new AI slop",
-   "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+   "title": "Tidal will start banning AI-generated music next month",
+   "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
    "source": "The Verge"
   },
   {
-   "title": "Wall Street y Trump acaban de ponerle precio a Jensen Huang: más de 1 billón de dólares",
-   "link": "https://es.wired.com/articulos/wall-street-y-trump-acaban-de-ponerle-precio-a-jensen-huang-mas-de-1-billon-de-dolares",
-   "source": "WIRED en Español"
+   "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+   "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+   "source": "TechCrunch"
+  },
+  {
+   "title": "Tidal Bans Wholly AI-Generated Music: “Serious Problem That Has Only Increased in Scale”",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ1FIUlNGQ2pVRE5Wc29SNnJSYUYxUUdiNG9UQjBucWNEWnVqUkhlLVctRGFKcmVsSWFEdW9kSFFUdmRKZV8yaVo1Qy1TNHZZXzhLYjZzdHJIcGlFc1ZqeElCNzg3Y3ozWkhSYVowSGlEWkhXNmMya0I4ODFfeC1QTW81bkR4VGV4WmF5NkNLQ2lPNVVCVUJ6bzZZVUJSR19hTVF5bDZCMmhJOHhI?oc=5",
+   "source": "The Hollywood Reporter"
+  },
+  {
+   "title": "Tidal Bans AI-Generated Music",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRVBQbW1odFFRMnlGclYtMmE0VU9lMzdYUGxaeXNJNm94aDBoWHNuT0RsWDBXMWFXOHNhNkRiWnVWUzNmWGZkVHBTQ2xuMkJVM3d3SzhTazVHaUNVVlNRa1lwSHRMVzNWX1RzMUFwdUR1NlY0UWppbFJFQjI3QXlaeXJwYw?oc=5",
+   "source": "Variety"
   }
  ]
 }

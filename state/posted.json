@@ -482,7 +482,11 @@
   "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
   "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
   "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-  "https://es.wired.com/articulos/wall-street-y-trump-acaban-de-ponerle-precio-a-jensen-huang-mas-de-1-billon-de-dolares"
+  "https://es.wired.com/articulos/wall-street-y-trump-acaban-de-ponerle-precio-a-jensen-huang-mas-de-1-billon-de-dolares",
+  "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+  "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ1FIUlNGQ2pVRE5Wc29SNnJSYUYxUUdiNG9UQjBucWNEWnVqUkhlLVctRGFKcmVsSWFEdW9kSFFUdmRKZV8yaVo1Qy1TNHZZXzhLYjZzdHJIcGlFc1ZqeElCNzg3Y3ozWkhSYVowSGlEWkhXNmMya0I4ODFfeC1QTW81bkR4VGV4WmF5NkNLQ2lPNVVCVUJ6bzZZVUJSR19hTVF5bDZCMmhJOHhI?oc=5",
+  "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRVBQbW1odFFRMnlGclYtMmE0VU9lMzdYUGxaeXNJNm94aDBoWHNuT0RsWDBXMWFXOHNhNkRiWnVWUzNmWGZkVHBTQ2xuMkJVM3d3SzhTazVHaUNVVlNRa1lwSHRMVzNWX1RzMUFwdUR1NlY0UWppbFJFQjI3QXlaeXJwYw?oc=5"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -679,7 +683,8 @@
   "Es oficial, el Gobierno amplía hasta las 20 semanas los permisos por nacimiento y a 10 días los permisos por duelo",
   "¿Es momento de invertir en acciones de inteligencia artificial tras el rally de Nvidia?",
   "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-  "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC"
+  "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
+  "Tidal will start banning AI-generated music next month"
  ],
  "history": [
   {
@@ -1844,6 +1849,12 @@
   {
    "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
    "at": 1795538995,
+   "permalink": null,
+   "kind": "post"
+  },
+  {
+   "title": "Tidal will start banning AI-generated music next month",
+   "at": 1795542799,
    "permalink": null,
    "kind": "post"
   }
