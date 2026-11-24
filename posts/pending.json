@@ -1,54 +1,54 @@
 {
- "id": "20261124-0955",
+ "id": "20261124-1215",
  "post": {
   "skip": false,
   "skip_reason": "",
   "confidence": "media",
-  "headline": "*META* LANZA *MUSE* EN REINO UNIDO: SU AGENTE DE IA PARA TAREAS",
-  "badge": "Meta",
+  "headline": "*ANTHROPIC* CAE POR DEBAJO DE SU *PRECIO DE SALIDA* A BOLSA",
+  "badge": "Anthropic",
   "photos": [
-   "Meta Platforms headquarters",
-   "",
-   "Information Commissioner's Office"
+   "Anthropic office San Francisco",
+   "Wall Street sign",
+   "Nvidia headquarters"
   ],
   "slides": [
-   "Meta lanzó en el Reino Unido *Muse, su agente de inteligencia artificial*. No solo responde preguntas: busca vacaciones, resume correos, propone respuestas y hasta puede comprar, pero *por defecto pide permiso* cada vez que quiere enviar, publicar o hacer algo.",
-   "Según la BBC, que lo probó una semana, es útil pero a veces incómodo. *Amazon lo bloqueó en su tienda* por seguridad de datos, y el regulador británico de privacidad advirtió que *los agentes pueden equivocarse*. Es gratis hasta cierto punto; después, se paga suscripción."
+   "Antes de la apertura de Wall Street de este martes, las acciones de *Anthropic*, la creadora de Claude, cayeron por debajo de los *83 dólares* de su salida a bolsa. Nvidia también caía cerca de un 5%, un día después de subir 31%.",
+   "Anthropic había subido 17% en su debut del 19 de noviembre. Según Infobae, preocupa cómo financiará los *cerca de 900.000 millones de dólares* que comprometió en infraestructura y computación por dos décadas. La gran duda: si la IA *dará ingresos suficientes*."
   ],
-  "caption": "🤖 Meta lanzó Muse en el Reino Unido: un agente de IA que no solo responde, sino que hace tareas por ti.\n\nSegún la BBC, que lo usó una semana, Muse resume correos, propone respuestas, busca opciones de vacaciones y puede comprar, pero, por defecto, pide permiso cada vez que quiere enviar, publicar o hacer algo. Es para mayores de 18 años y es gratis hasta cierto punto; después llegan las suscripciones.\n\n¿Y esto a ti qué? Para ayudarte, puede conectarse a tu correo, tu calendario y tus mensajes. Amazon lo bloqueó en su tienda por seguridad de datos, y el regulador británico de privacidad pidió cautela: los agentes pueden equivocarse.\n\n¿Le darías acceso a tu correo y tu calendario a un agente de IA para que haga trámites por ti?\n\nFuente: BBC\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "📉 Anthropic, la empresa detrás de Claude, cayó por debajo de los 83 dólares de su salida a bolsa antes de la apertura de este martes.\n\nSus acciones borraron el margen que conservaban sobre el precio de salida. En su debut del 19 de noviembre habían subido 17%, pero el viernes cerraron con una caída de 9%. Nvidia también caía cerca de un 5%, un día después de saltar 31%.\n\nSegún Infobae, preocupa cómo financiará Anthropic los cerca de 900.000 millones de dólares que comprometió en infraestructura y computación para las próximas dos décadas.\n\nEn simple: el mercado duda de que la inversión en centros de datos para IA se convierta en ingresos suficientes.\n\n¿Crees que las empresas de IA podrán recuperar todo lo que gastan en centros de datos?\n\nFuente: Infobae, Diario Neuquino\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "MetaAI",
-   "Muse",
-   "AgentesDeIA"
+   "Anthropic",
+   "Nvidia",
+   "WallStreet"
   ],
   "image_prompts": [
-   "Glossy 3D illustration of a friendly floating holographic assistant orb hovering above a smartphone, surrounded by small floating icons of a blank envelope, a blank calendar and a shopping bag, soft purple and blue neon lighting, dark background",
-   "3D isometric illustration of a tidy desk with a laptop and a smartphone, glowing translucent lines connecting them to blank floating envelopes, empty chat bubbles and a ticket shape, warm evening light, clean minimal style",
-   "Wide 3D illustration of a large glowing padlock and a shield standing beside a small cute robotic assistant holding a clipboard with empty checkboxes, cool blue tones, dramatic lighting, symbolic privacy and control concept"
+   "3D illustration of a glowing stock chart arrow bending downward over a stylized glass city skyline at dusk, floating abstract data cubes, soft purple and blue lighting, dramatic low angle, no text, no logos",
+   "3D illustration of a giant translucent piggy bank filled with glowing server racks and chips, small cracks appearing on its surface, dark studio background with neon blue rim light, close-up view, no text",
+   "3D illustration of a vast data center hall with rows of glowing servers, a large balance scale in the foreground weighing a stack of coins against a server block, cinematic wide shot, no text, no logos"
   ],
   "reel_script": [
-   "Meta lanzó un agente de IA que puede comprar por ti, con tu permiso.",
-   "Se llama *Muse* y ya llegó al Reino Unido. Resume tus correos, propone respuestas y busca vacaciones. Por defecto, te pregunta antes de enviar, publicar o comprar algo.",
-   "Para ayudarte se conecta a tu correo, tu calendario y tus mensajes. *Amazon ya lo bloqueó* en su tienda por seguridad, y el regulador británico advierte que los agentes pueden equivocarse."
+   "Anthropic acaba de borrar toda su ganancia desde que salió a bolsa.",
+   "Este martes, antes de la apertura, *Anthropic* cayó bajo los 83 dólares de su salida a bolsa. Nvidia caía cerca de 5 por ciento, tras subir 31 por ciento el lunes.",
+   "Según Infobae, preocupa cómo financiará los *cerca de 900.000 millones de dólares* que comprometió en computación. La gran pregunta es si la inteligencia artificial generará ingresos suficientes."
   ]
  },
- "caption": "🤖 Meta lanzó Muse en el Reino Unido: un agente de IA que no solo responde, sino que hace tareas por ti.\n\nSegún la BBC, que lo usó una semana, Muse resume correos, propone respuestas, busca opciones de vacaciones y puede comprar, pero, por defecto, pide permiso cada vez que quiere enviar, publicar o hacer algo. Es para mayores de 18 años y es gratis hasta cierto punto; después llegan las suscripciones.\n\n¿Y esto a ti qué? Para ayudarte, puede conectarse a tu correo, tu calendario y tus mensajes. Amazon lo bloqueó en su tienda por seguridad de datos, y el regulador británico de privacidad pidió cautela: los agentes pueden equivocarse.\n\n¿Le darías acceso a tu correo y tu calendario a un agente de IA para que haga trámites por ti?\n\nFuente: BBC\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: LPS.1 / Wikimedia Commons (CC0)\n\n#MetaAI #Muse #AgentesDeIA",
+ "caption": "📉 Anthropic, la empresa detrás de Claude, cayó por debajo de los 83 dólares de su salida a bolsa antes de la apertura de este martes.\n\nSus acciones borraron el margen que conservaban sobre el precio de salida. En su debut del 19 de noviembre habían subido 17%, pero el viernes cerraron con una caída de 9%. Nvidia también caía cerca de un 5%, un día después de saltar 31%.\n\nSegún Infobae, preocupa cómo financiará Anthropic los cerca de 900.000 millones de dólares que comprometió en infraestructura y computación para las próximas dos décadas.\n\nEn simple: el mercado duda de que la inversión en centros de datos para IA se convierta en ingresos suficientes.\n\n¿Crees que las empresas de IA podrán recuperar todo lo que gastan en centros de datos?\n\nFuente: Infobae, Diario Neuquino\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: David Shankbone / Wikimedia Commons (CC BY 3.0)\n📸 Foto: Coolcaesar / Wikimedia Commons (CC BY-SA 4.0)\n\n#Anthropic #Nvidia #WallStreet",
  "slides": [
-  "posts/20261124-0955/slide_1.jpg",
-  "posts/20261124-0955/slide_2.jpg",
-  "posts/20261124-0955/slide_3.jpg",
-  "posts/20261124-0955/slide_4.jpg"
+  "posts/20261124-1215/slide_1.jpg",
+  "posts/20261124-1215/slide_2.jpg",
+  "posts/20261124-1215/slide_3.jpg",
+  "posts/20261124-1215/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
-   "link": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC"
+   "title": "Nvidia cae antes de la apertura y Anthropic baja de su precio de salida a bolsa",
+   "link": "https://www.infobae.com/tecno/2026/11/24/nvidia-cae-antes-de-la-apertura-y-anthropic-baja-de-su-precio-de-salida-a-bolsa/",
+   "source": "Infobae"
   },
   {
-   "title": "Have you downloaded Meta’s AI assistant Muse or do you plan to?",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYURUekJ6Ym94MHJ2TlVhUlpyeVh2NW5yeFdCU0VMU3hBUEZ3MjluaFlPeEFCaXBCQWYwS0tGVGlEQTBndVRJYUptYXFDV0h6R3VkR3FSZHk3bGRpZ1UydGJYU3JpUzZXZWE1NHpNTjI3eUtDSFdfZkpxR2hEMHFKZ3BoMnEzaUFNVWg4WXBpeXVhUGFfM3JkOU9LQmNxdVU1TUlwNUhCQUw1aU1uS1VqSmF3?oc=5",
-   "source": "The Guardian"
+   "title": "Volatilidad en los mercados de la IA: se enfría el entusiasmo por Nvidia y Anthropic cae por debajo de su precio de oferta inicial",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRnd2bFBodnA5X3ZKRzZvaTlVYUVFTjMtaGstYUZBdHBBQVdxa3haak1yZXd5RGM4Y3VzaVNULXVtZjVZd1RjLWhac01uZ0pIVW9zZ0JrOURod2FvZUpFb3hvVGhPWGd1dHh5Tm55bDFOel9UQndpUmNJZjBDdHZ3dWNNNzZaandJMVh0N3JNRzJDNzU2WkIzWGlaSWRWelBtY21ubXVlZVdoTTFJZFpPMVZrdzVOcVkxUHFPOWJCLXJCWEg5RWVoekxpbkZhUWNKN2lCWWl1bExFNWlNRTAtaXd2ZmZxeFdCU1A4UWFmbC1Udw?oc=5",
+   "source": "Diario Neuquino"
   }
  ]
 }
