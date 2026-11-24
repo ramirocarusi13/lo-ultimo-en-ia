@@ -9,7 +9,7 @@
   "photos": [
    "Microsoft Redmond",
    "",
-   "Microsoft data center"
+   ""
   ],
   "slides": [
    "Entre el 12 y el 13 de noviembre, *Outlook, Teams y Copilot* fallaron durante casi 24 horas en todo el mundo. Según memorandos revelados por Reuters, Microsoft activó un *Código Rojo* interno: una movilización de máxima prioridad para reformar su ingeniería.",
@@ -32,7 +32,7 @@
    "La causa fue un defecto de Windows escondido desde julio, no un ciberataque. Ahora Microsoft quiere resolver futuras caídas en menos de *una hora*, con ayuda de agentes de inteligencia artificial."
   ]
  },
- "caption": "⚠️ Microsoft activó un \"Código Rojo\" interno tras la caída de mayor impacto en la historia de Exchange Online, según la empresa: casi 24 horas de fallas en Outlook, Teams y Copilot.\n\nSegún memorandos citados por Reuters, el apagón del 12 y 13 de noviembre afectó a empresas y gobiernos de Australia, Japón y Estados Unidos. La causa fue un defecto de Windows introducido en julio que pasó meses sin detectarse. Microsoft descartó un ciberataque.\n\n¿Y esto a mí qué? Si tu trabajo o tus trámites dependen de estas herramientas, una sola falla puede frenarlo todo. Microsoft se fija como meta resolver futuras caídas globales en menos de una hora, con ayuda de agentes de IA.\n\n¿Tu trabajo pudo seguir el día que se cayó Outlook o se frenó todo?\n\nFuente: Xataka, Infobae (vía Reuters)\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Jiaqian AirplaneFan / Wikimedia Commons (CC BY 3.0)\n📸 Foto: Hay Kranen / Wikimedia Commons (CC BY 4.0)\n\n#Microsoft #Outlook #MicrosoftTeams",
+ "caption": "⚠️ Microsoft activó un \"Código Rojo\" interno tras la caída de mayor impacto en la historia de Exchange Online, según la empresa: casi 24 horas de fallas en Outlook, Teams y Copilot.\n\nSegún memorandos citados por Reuters, el apagón del 12 y 13 de noviembre afectó a empresas y gobiernos de Australia, Japón y Estados Unidos. La causa fue un defecto de Windows introducido en julio que pasó meses sin detectarse. Microsoft descartó un ciberataque.\n\n¿Y esto a mí qué? Si tu trabajo o tus trámites dependen de estas herramientas, una sola falla puede frenarlo todo. Microsoft se fija como meta resolver futuras caídas globales en menos de una hora, con ayuda de agentes de IA.\n\n¿Tu trabajo pudo seguir el día que se cayó Outlook o se frenó todo?\n\nFuente: Xataka, Infobae (vía Reuters)\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Jiaqian AirplaneFan / Wikimedia Commons (CC BY 3.0)\n\n#Microsoft #Outlook #MicrosoftTeams",
  "slides": [
   "posts/20261124-1825/slide_1.jpg",
   "posts/20261124-1825/slide_2.jpg",
