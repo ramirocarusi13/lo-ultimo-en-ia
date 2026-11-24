@@ -1,43 +1,43 @@
 {
- "id": "20261123-2055",
+ "id": "20261123-2105",
  "post": {
   "skip": false,
   "skip_reason": "",
   "confidence": "alta",
-  "headline": "ANTHROPIC LANZA *CLAUDE SHIP*: AGENTES DE IA QUE *APRUEBAN CÓDIGO* SEGÚN TUS REGLAS",
+  "headline": "ANTHROPIC LANZA *CLAUDE SHIP*: AGENTES DE IA QUE *APRUEBAN CÓDIGO*",
   "badge": "Anthropic",
   "photos": [
-   "Anthropic",
+   "Anthropic headquarters",
    "",
    ""
   ],
   "slides": [
-   "Anthropic presentó *Claude Ship*, un conjunto de agentes de IA que revisan cambios de código, corrigen errores y *aprueban automáticamente* los que permite la política de cada equipo. Está en beta para los planes Team y Enterprise, en repositorios de GitHub.",
-   "Hoy la IA escribe tanto código que revisarlo se volvió el cuello de botella. Aun así, *el equipo decide qué cambios necesitan a una persona*. Anthropic recomienda empezar en modo solo observación, y se pueden fijar límites de gasto mensuales."
+   "Anthropic presentó *Claude Ship*, un conjunto de tres agentes de IA para programadores: Code Review revisa los cambios, PR Steward arregla errores y conflictos, y Claude Approvals *aprueba los cambios de rutina* según las reglas que escribe cada equipo.",
+   "La IA ya escribe tanto código que *revisarlo se volvió el cuello de botella*. Anthropic dice que en su equipo de Claude Code, la propia IA escribe la mayor parte del código. *PR Steward y Claude Approvals están en beta*, para planes Team y Enterprise en GitHub."
   ],
-  "caption": "🤖 Anthropic lanzó Claude Ship: agentes de IA que no solo revisan código, también lo aprueban.\n\nSon tres piezas: Code Review, que ya estaba disponible; PR Steward, que arregla pruebas fallidas y conflictos; y Claude Approvals, que aprueba cambios según una política que el equipo escribe en lenguaje natural. Las dos últimas están en beta para los planes Team y Enterprise, en GitHub.\n\nLo que te toca: la IA ya escribe tanto código que revisarlo se volvió el cuello de botella. Ahora la pregunta es quién da el visto bueno final, y cada equipo decide qué cambios siguen necesitando a una persona. Anthropic recomienda empezar en modo solo observación.\n\n¿Dejarías que una IA apruebe código sin que lo mire una persona?\n\n🎬 El video completo está en la cuenta de Anthropic.\n\nFuente: TechCrunch, 9to5Mac\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "🤖 Anthropic lanzó Claude Ship: agentes de IA que revisan, corrigen y aprueban cambios de código.\n\nSon tres: Code Review revisa cada cambio, PR Steward arregla pruebas fallidas y conflictos, y Claude Approvals decide qué se aprueba según una política que el equipo escribe en lenguaje natural. Los cambios delicados se pueden derivar a una persona.\n\nLa IA escribe tanto código que revisarlo se volvió el cuello de botella. Según Anthropic, en su equipo de Claude Code, Claude escribe la mayor parte del código.\n\n¿Y esto a mí qué? Las apps que usas podrían actualizarse más rápido, con menos revisión humana en los cambios de rutina. Llega a planes Team y Enterprise en GitHub, en parte en beta.\n\n¿Dejarías que una IA apruebe sola los cambios en el código de tu app?\n\nFuente: TechCrunch, 9to5Mac\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
    "ClaudeShip",
    "Anthropic",
-   "ProgramacionConIA"
+   "Programación"
   ],
   "image_prompts": [
-   "3D illustration of a glowing robotic arm stamping a large green checkmark onto a floating translucent code panel made of abstract colored bars, dark blue background, soft neon lighting, no text or letters",
-   "3D illustration of three small friendly robots on a conveyor belt inspecting, repairing and approving glowing abstract document blocks, isometric view, purple and teal palette, clean studio lighting, no text",
-   "3D illustration of a balance scale with a glowing AI orb on one side and an empty chair on the other, abstract server racks in the background, cinematic wide shot, moody blue light, no text"
+   "3D illustration of a futuristic assembly line where glowing code blocks travel on a conveyor belt past small friendly robotic arms that inspect and stamp them with a green check mark symbol, soft purple and blue lighting, wide angle",
+   "3D illustration of a small robot mechanic repairing a cracked glowing puzzle piece that connects two branching paths of light, tools floating around it, clean workshop background, warm orange accent light, close-up shot",
+   "3D illustration of a large glowing gate at the end of a bridge made of light, a translucent shield with a check mark floating in front of it, tiny cube packages passing through, night sky with stars, low angle cinematic view"
   ],
   "reel_script": [
-   "Anthropic acaba de darle a una inteligencia artificial el poder de aprobar código.",
-   "Se llama *Claude Ship*: tres agentes que revisan cambios de código y arreglan errores. Aprueban los que permiten las reglas que escribe cada equipo.",
-   "La IA ya escribe tanto código que revisarlo frena todo. Está en *beta*, y cada equipo decide qué cambios todavía necesitan a una persona."
+   "Una inteligencia artificial ya puede decidir sola qué cambios de código se aprueban.",
+   "Anthropic lanzó *Claude Ship*. Son tres agentes que revisan el código, arreglan errores y aprueban los cambios de rutina, según las reglas de cada equipo.",
+   "La IA ya escribe tanto código que revisarlo es el cuello de botella. Dos de los tres agentes están *en beta*, y cada equipo decide qué cambios aún necesitan a una persona."
   ]
  },
- "caption": "🤖 Anthropic lanzó Claude Ship: agentes de IA que no solo revisan código, también lo aprueban.\n\nSon tres piezas: Code Review, que ya estaba disponible; PR Steward, que arregla pruebas fallidas y conflictos; y Claude Approvals, que aprueba cambios según una política que el equipo escribe en lenguaje natural. Las dos últimas están en beta para los planes Team y Enterprise, en GitHub.\n\nLo que te toca: la IA ya escribe tanto código que revisarlo se volvió el cuello de botella. Ahora la pregunta es quién da el visto bueno final, y cada equipo decide qué cambios siguen necesitando a una persona. Anthropic recomienda empezar en modo solo observación.\n\n¿Dejarías que una IA apruebe código sin que lo mire una persona?\n\n🎬 El video completo está en la cuenta de Anthropic.\n\nFuente: TechCrunch, 9to5Mac\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n#ClaudeShip #Anthropic #ProgramacionConIA",
+ "caption": "🤖 Anthropic lanzó Claude Ship: agentes de IA que revisan, corrigen y aprueban cambios de código.\n\nSon tres: Code Review revisa cada cambio, PR Steward arregla pruebas fallidas y conflictos, y Claude Approvals decide qué se aprueba según una política que el equipo escribe en lenguaje natural. Los cambios delicados se pueden derivar a una persona.\n\nLa IA escribe tanto código que revisarlo se volvió el cuello de botella. Según Anthropic, en su equipo de Claude Code, Claude escribe la mayor parte del código.\n\n¿Y esto a mí qué? Las apps que usas podrían actualizarse más rápido, con menos revisión humana en los cambios de rutina. Llega a planes Team y Enterprise en GitHub, en parte en beta.\n\n¿Dejarías que una IA apruebe sola los cambios en el código de tu app?\n\nFuente: TechCrunch, 9to5Mac\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n#ClaudeShip #Anthropic #Programación",
  "slides": [
-  "posts/20261123-2055/slide_1.jpg",
-  "posts/20261123-2055/slide_2.jpg",
-  "posts/20261123-2055/slide_3.jpg",
-  "posts/20261123-2055/slide_4.jpg"
+  "posts/20261123-2105/slide_1.jpg",
+  "posts/20261123-2105/slide_2.jpg",
+  "posts/20261123-2105/slide_3.jpg",
+  "posts/20261123-2105/slide_4.jpg"
  ],
  "sources": [
   {

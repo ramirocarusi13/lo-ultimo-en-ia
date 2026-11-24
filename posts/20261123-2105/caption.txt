@@ -1,0 +1,14 @@
+🤖 Anthropic lanzó Claude Ship: agentes de IA que revisan, corrigen y aprueban cambios de código.
+
+Son tres: Code Review revisa cada cambio, PR Steward arregla pruebas fallidas y conflictos, y Claude Approvals decide qué se aprueba según una política que el equipo escribe en lenguaje natural. Los cambios delicados se pueden derivar a una persona.
+
+La IA escribe tanto código que revisarlo se volvió el cuello de botella. Según Anthropic, en su equipo de Claude Code, Claude escribe la mayor parte del código.
+
+¿Y esto a mí qué? Las apps que usas podrían actualizarse más rápido, con menos revisión humana en los cambios de rutina. Llega a planes Team y Enterprise en GitHub, en parte en beta.
+
+¿Dejarías que una IA apruebe sola los cambios en el código de tu app?
+
+Fuente: TechCrunch, 9to5Mac
+📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.
+
+#ClaudeShip #Anthropic #Programación
