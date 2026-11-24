@@ -486,7 +486,11 @@
   "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
   "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
   "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ1FIUlNGQ2pVRE5Wc29SNnJSYUYxUUdiNG9UQjBucWNEWnVqUkhlLVctRGFKcmVsSWFEdW9kSFFUdmRKZV8yaVo1Qy1TNHZZXzhLYjZzdHJIcGlFc1ZqeElCNzg3Y3ozWkhSYVowSGlEWkhXNmMya0I4ODFfeC1QTW81bkR4VGV4WmF5NkNLQ2lPNVVCVUJ6bzZZVUJSR19hTVF5bDZCMmhJOHhI?oc=5",
-  "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRVBQbW1odFFRMnlGclYtMmE0VU9lMzdYUGxaeXNJNm94aDBoWHNuT0RsWDBXMWFXOHNhNkRiWnVWUzNmWGZkVHBTQ2xuMkJVM3d3SzhTazVHaUNVVlNRa1lwSHRMVzNWX1RzMUFwdUR1NlY0UWppbFJFQjI3QXlaeXJwYw?oc=5"
+  "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRVBQbW1odFFRMnlGclYtMmE0VU9lMzdYUGxaeXNJNm94aDBoWHNuT0RsWDBXMWFXOHNhNkRiWnVWUzNmWGZkVHBTQ2xuMkJVM3d3SzhTazVHaUNVVlNRa1lwSHRMVzNWX1RzMUFwdUR1NlY0UWppbFJFQjI3QXlaeXJwYw?oc=5",
+  "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+  "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+  "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ1FIUlNGQ2pVRE5Wc29SNnJSYUYxUUdiNG9UQjBucWNEWnVqUkhlLVctRGFKcmVsSWFEdW9kSFFUdmRKZV8yaVo1Qy1TNHZZXzhLYjZzdHJIcGlFc1ZqeElCNzg3Y3ozWkhSYVowSGlEWkhXNmMya0I4ODFfeC1QTW81bkR4VGV4WmF5NkNLQ2lPNVVCVUJ6bzZZVUJSR19hTVF5bDZCMmhJOHhI?oc=5"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -684,7 +688,8 @@
   "¿Es momento de invertir en acciones de inteligencia artificial tras el rally de Nvidia?",
   "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
   "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
-  "Tidal will start banning AI-generated music next month"
+  "Tidal will start banning AI-generated music next month",
+  "Tidal will ban fully AI-generated music on December 9"
  ],
  "history": [
   {
@@ -1855,6 +1860,12 @@
   {
    "title": "Tidal will start banning AI-generated music next month",
    "at": 1795542799,
+   "permalink": null,
+   "kind": "post"
+  },
+  {
+   "title": "Tidal will ban fully AI-generated music on December 9",
+   "at": 1795542806,
    "permalink": null,
    "kind": "post"
   }
