@@ -1,0 +1,59 @@
+{
+ "id": "20261124-1925",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "LA IA *MUSE* DE META LLEGA A LOS *MENSAJES DE INSTAGRAM*",
+  "badge": "Meta",
+  "photos": [
+   "Instagram app",
+   "Mark Zuckerberg",
+   "Meta Platforms headquarters"
+  ],
+  "slides": [
+   "Meta empezó a sumar a *Muse*, su agente personal de IA, dentro de los mensajes directos de Instagram. Se le puede preguntar por una publicación, un lugar o un producto, y pedirle que *organice tus guardados* en colecciones.",
+   "Además es negocio: según Mark Zuckerberg, *el 25% de los usuarios de Muse compra* con el agente, con una compra promedio de más de 200 dólares. Y según Forter, Muse hizo *el 51% de los pedidos con agentes* en la semana al 22 de noviembre."
+  ],
+  "caption": "📱 Muse, el agente de IA de Meta, empieza a llegar a los mensajes de Instagram.\n\nEl lanzamiento arrancó este martes en Estados Unidos, Canadá, México, Japón y Singapur. Puedes mandarle una publicación y pedirle que agregue un café a tu itinerario, que busque una oferta de Black Friday o que convierta un video de receta en una lista de compras. Según Meta, no comparte ni envía nada sin tu aprobación.\n\n¿Y esto a mí qué? Según Zuckerberg, el 25% de los usuarios de Muse compra con el agente, y Meta planea cobrar una pequeña comisión por esas compras. Y según un ejecutivo de Meta citado por CNBC, Muse ya ayuda a sus anuncios porque sube las conversiones.\n\n¿Dejarías que una IA organice tus guardados y compre por ti en Instagram?\n\nFuente: TechCrunch, Engadget, CNBC\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "Instagram",
+   "MetaMuse",
+   "AgentesDeIA"
+  ],
+  "image_prompts": [
+   "3D illustration of a glowing smartphone floating in a dark violet space, an abstract conversation of rounded chat bubbles beside a friendly glowing orb assistant, soft neon pink and blue lighting, cinematic depth, no text, no logos",
+   "3D illustration of colorful blank photo cards and video thumbnails flying out of a phone and sorting themselves into floating folders, simple food, travel and clothing shapes, soft studio lighting, clean pastel background, no text",
+   "Isometric 3D illustration of a small shopping bag and gift boxes riding on glowing message bubbles toward a storefront made of light, sparkling coins around, pastel neon colors, wide shot, no text or logos"
+  ],
+  "reel_script": [
+   "Meta empieza a meter su agente Muse en tus mensajes de Instagram.",
+   "Empieza a llegar a cinco países, entre ellos *México*. Le mandas una publicación y te ayuda a armar un itinerario, buscar ofertas o convertir una receta en *lista de compras*.",
+   "Y aquí está el negocio: según Zuckerberg, *uno de cada cuatro* usuarios de Muse ya compra con el agente. Meta planea cobrar una pequeña *comisión* por cada compra."
+  ]
+ },
+ "caption": "📱 Muse, el agente de IA de Meta, empieza a llegar a los mensajes de Instagram.\n\nEl lanzamiento arrancó este martes en Estados Unidos, Canadá, México, Japón y Singapur. Puedes mandarle una publicación y pedirle que agregue un café a tu itinerario, que busque una oferta de Black Friday o que convierta un video de receta en una lista de compras. Según Meta, no comparte ni envía nada sin tu aprobación.\n\n¿Y esto a mí qué? Según Zuckerberg, el 25% de los usuarios de Muse compra con el agente, y Meta planea cobrar una pequeña comisión por esas compras. Y según un ejecutivo de Meta citado por CNBC, Muse ya ayuda a sus anuncios porque sube las conversiones.\n\n¿Dejarías que una IA organice tus guardados y compre por ti en Instagram?\n\nFuente: TechCrunch, Engadget, CNBC\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Anthony Quintano from Westminster, Unite / Wikimedia Commons (CC BY 2.0)\n📸 Foto: LPS.1 / Wikimedia Commons (CC0)\n\n#Instagram #MetaMuse #AgentesDeIA",
+ "slides": [
+  "posts/20261124-1925/slide_1.jpg",
+  "posts/20261124-1925/slide_2.jpg",
+  "posts/20261124-1925/slide_3.jpg",
+  "posts/20261124-1925/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
+   "link": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html",
+   "source": "CNBC"
+  },
+  {
+   "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+   "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+   "source": "TechCrunch"
+  },
+  {
+   "title": "Meta is bringing Muse to Instagram",
+   "link": "https://www.engadget.com/2326663/meta-is-bringing-muse-to-instagram/",
+   "source": "Engadget"
+  }
+ ]
+}

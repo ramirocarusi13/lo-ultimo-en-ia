@@ -499,7 +499,11 @@
   "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdE5rRG9VOTdRTjluYUNjdl9waUotNm1wak5naGhHS01GZkkyeV9ORU9WTWtCMlBiTVNsOGV4a0FmRld4S1JsMHhrZEpNLUVRdENPQ0tFZExFVzE5WG9XMEdQX0ZPdnhmYWkyQjFuZUNteFpjZDRKRzB6cklMN2VTSXo2dGxueWs1Y0d3WWRsc3FTVEHSAZgBQVVfeXFMUFRXdVFkaWdUTHlEU3JwNDVFX044T0xwMlJ4VENNOXhqVGl3UlJ1VHMyckpKcGxCQTJaYVpSV0NBT0NUS0hLSGhHT0l1dWVFYnF2MndvNHdibXlBVjZFemhqMjlmZ3gwZGRWR2pTRjB5Q3cwR1Qwd0lxSTFMRFBJaDR1RUU0VURwWHJCMGsxRWJWYUZTajBmTEU?oc=5",
   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZTMwWnlHWkItRm5PQ0xzX1FUSVFTdUFMbE9hZkFmYkpfSElfZ3Z2TVNSbldKcUJ1TTJjY3M2M0ZVZWFnWWpaMEVlNXY4WHNzMHYxY3RXQ2s3bEVDM2FVRy1oN3NMLVllZWVfaTVBRjQxNGkxQXBVU01LR0FzdnlSNWV4YUV4NnJFOVJRTTdEVzB1T0ZTcDhZOXdNYkRXNDRyYmdrUmxRTzc2NUpOTnBZTzF2WXpYOVRWamVqQXhwdHlsQ3c?oc=5",
   "https://www.xataka.com/aplicaciones/microsoft-declara-codigo-rojo-caida-global-24-horas-que-afecto-a-outlook-teams-otros-servicios",
-  "https://www.infobae.com/tecno/2026/11/24/microsoft-activa-un-codigo-rojo-tras-una-caida-global-de-24-horas-en-sus-aplicaciones-laborales/"
+  "https://www.infobae.com/tecno/2026/11/24/microsoft-activa-un-codigo-rojo-tras-una-caida-global-de-24-horas-en-sus-aplicaciones-laborales/",
+  "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+  "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html",
+  "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+  "https://www.engadget.com/2326663/meta-is-bringing-muse-to-instagram/"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -703,7 +707,9 @@
   "Capacitarán a 70 municipios del Chaco en el uso de inteligencia artificial",
   "Searching for distant planets with Astra",
   "New York institutes five-year ban on AI chatbot toys",
-  "Microsoft declara un \"Código Rojo\" tras la caída global de 24 horas que afectó a Outlook, Teams y otros servicios"
+  "Microsoft declara un \"Código Rojo\" tras la caída global de 24 horas que afectó a Outlook, Teams y otros servicios",
+  "GPT-6 models demonstrate intrinsic protein-design capabilities",
+  "How Meta is using Instagram to get an ad boost from its Muse personal AI agent"
  ],
  "history": [
   {
@@ -1910,6 +1916,18 @@
   {
    "title": "Microsoft declara un \"Código Rojo\" tras la caída global de 24 horas que afectó a Outlook, Teams y otros servicios",
    "at": 1795556044,
+   "permalink": null,
+   "kind": "post"
+  },
+  {
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "at": 1795559144,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
+   "at": 1795559658,
    "permalink": null,
    "kind": "post"
   }

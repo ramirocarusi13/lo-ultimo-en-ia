@@ -1,54 +1,59 @@
 {
- "id": "20261124-1825",
+ "id": "20261124-1925",
  "post": {
   "skip": false,
   "skip_reason": "",
   "confidence": "alta",
-  "headline": "MICROSOFT DECLARA *CÓDIGO ROJO* TRAS UNA *CAÍDA GLOBAL* DE 24 HORAS",
-  "badge": "Microsoft",
+  "headline": "LA IA *MUSE* DE META LLEGA A LOS *MENSAJES DE INSTAGRAM*",
+  "badge": "Meta",
   "photos": [
-   "Microsoft Redmond",
-   "",
-   ""
+   "Instagram app",
+   "Mark Zuckerberg",
+   "Meta Platforms headquarters"
   ],
   "slides": [
-   "Entre el 12 y el 13 de noviembre, *Outlook, Teams y Copilot* fallaron durante casi 24 horas en todo el mundo. Según memorandos revelados por Reuters, Microsoft activó un *Código Rojo* interno: una movilización de máxima prioridad para reformar su ingeniería.",
-   "La causa fue un *defecto de Windows* introducido en julio que pasó meses oculto; Microsoft descartó un ciberataque. Afectó a gobiernos de Australia, Japón y Estados Unidos. Ahora quiere resolver futuras caídas *en menos de una hora*, con ayuda de agentes de IA."
+   "Meta empezó a sumar a *Muse*, su agente personal de IA, dentro de los mensajes directos de Instagram. Se le puede preguntar por una publicación, un lugar o un producto, y pedirle que *organice tus guardados* en colecciones.",
+   "Además es negocio: según Mark Zuckerberg, *el 25% de los usuarios de Muse compra* con el agente, con una compra promedio de más de 200 dólares. Y según Forter, Muse hizo *el 51% de los pedidos con agentes* en la semana al 22 de noviembre."
   ],
-  "caption": "⚠️ Microsoft activó un \"Código Rojo\" interno tras la caída de mayor impacto en la historia de Exchange Online, según la empresa: casi 24 horas de fallas en Outlook, Teams y Copilot.\n\nSegún memorandos citados por Reuters, el apagón del 12 y 13 de noviembre afectó a empresas y gobiernos de Australia, Japón y Estados Unidos. La causa fue un defecto de Windows introducido en julio que pasó meses sin detectarse. Microsoft descartó un ciberataque.\n\n¿Y esto a mí qué? Si tu trabajo o tus trámites dependen de estas herramientas, una sola falla puede frenarlo todo. Microsoft se fija como meta resolver futuras caídas globales en menos de una hora, con ayuda de agentes de IA.\n\n¿Tu trabajo pudo seguir el día que se cayó Outlook o se frenó todo?\n\nFuente: Xataka, Infobae (vía Reuters)\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "📱 Muse, el agente de IA de Meta, empieza a llegar a los mensajes de Instagram.\n\nEl lanzamiento arrancó este martes en Estados Unidos, Canadá, México, Japón y Singapur. Puedes mandarle una publicación y pedirle que agregue un café a tu itinerario, que busque una oferta de Black Friday o que convierta un video de receta en una lista de compras. Según Meta, no comparte ni envía nada sin tu aprobación.\n\n¿Y esto a mí qué? Según Zuckerberg, el 25% de los usuarios de Muse compra con el agente, y Meta planea cobrar una pequeña comisión por esas compras. Y según un ejecutivo de Meta citado por CNBC, Muse ya ayuda a sus anuncios porque sube las conversiones.\n\n¿Dejarías que una IA organice tus guardados y compre por ti en Instagram?\n\nFuente: TechCrunch, Engadget, CNBC\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "Microsoft",
-   "Outlook",
-   "MicrosoftTeams"
+   "Instagram",
+   "MetaMuse",
+   "AgentesDeIA"
   ],
   "image_prompts": [
-   "A 3D illustration of a giant glowing red alarm light on top of a dark server room, rows of server racks with red warning lights, dramatic cinematic lighting, deep blue and red tones, no text.",
-   "A 3D illustration of a stack of floating email envelopes and chat bubbles frozen mid-air above a cracked cloud icon, red warning glow, dark background, isometric view, no letters or symbols.",
-   "A 3D illustration of a calm control room desk with glowing holographic network nodes being repaired by small robotic arms, a stopwatch floating nearby, soft blue lighting, wide angle shot, no text."
+   "3D illustration of a glowing smartphone floating in a dark violet space, an abstract conversation of rounded chat bubbles beside a friendly glowing orb assistant, soft neon pink and blue lighting, cinematic depth, no text, no logos",
+   "3D illustration of colorful blank photo cards and video thumbnails flying out of a phone and sorting themselves into floating folders, simple food, travel and clothing shapes, soft studio lighting, clean pastel background, no text",
+   "Isometric 3D illustration of a small shopping bag and gift boxes riding on glowing message bubbles toward a storefront made of light, sparkling coins around, pastel neon colors, wide shot, no text or logos"
   ],
   "reel_script": [
-   "Outlook y Teams cayeron casi 24 horas y Microsoft declaró Código Rojo.",
-   "Entre el 12 y el 13 de noviembre, Outlook, Teams y Copilot fallaron. Según Microsoft, fue el incidente de mayor impacto en la historia de *Exchange Online*.",
-   "La causa fue un defecto de Windows escondido desde julio, no un ciberataque. Ahora Microsoft quiere resolver futuras caídas en menos de *una hora*, con ayuda de agentes de inteligencia artificial."
+   "Meta empieza a meter su agente Muse en tus mensajes de Instagram.",
+   "Empieza a llegar a cinco países, entre ellos *México*. Le mandas una publicación y te ayuda a armar un itinerario, buscar ofertas o convertir una receta en *lista de compras*.",
+   "Y aquí está el negocio: según Zuckerberg, *uno de cada cuatro* usuarios de Muse ya compra con el agente. Meta planea cobrar una pequeña *comisión* por cada compra."
   ]
  },
- "caption": "⚠️ Microsoft activó un \"Código Rojo\" interno tras la caída de mayor impacto en la historia de Exchange Online, según la empresa: casi 24 horas de fallas en Outlook, Teams y Copilot.\n\nSegún memorandos citados por Reuters, el apagón del 12 y 13 de noviembre afectó a empresas y gobiernos de Australia, Japón y Estados Unidos. La causa fue un defecto de Windows introducido en julio que pasó meses sin detectarse. Microsoft descartó un ciberataque.\n\n¿Y esto a mí qué? Si tu trabajo o tus trámites dependen de estas herramientas, una sola falla puede frenarlo todo. Microsoft se fija como meta resolver futuras caídas globales en menos de una hora, con ayuda de agentes de IA.\n\n¿Tu trabajo pudo seguir el día que se cayó Outlook o se frenó todo?\n\nFuente: Xataka, Infobae (vía Reuters)\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Jiaqian AirplaneFan / Wikimedia Commons (CC BY 3.0)\n\n#Microsoft #Outlook #MicrosoftTeams",
+ "caption": "📱 Muse, el agente de IA de Meta, empieza a llegar a los mensajes de Instagram.\n\nEl lanzamiento arrancó este martes en Estados Unidos, Canadá, México, Japón y Singapur. Puedes mandarle una publicación y pedirle que agregue un café a tu itinerario, que busque una oferta de Black Friday o que convierta un video de receta en una lista de compras. Según Meta, no comparte ni envía nada sin tu aprobación.\n\n¿Y esto a mí qué? Según Zuckerberg, el 25% de los usuarios de Muse compra con el agente, y Meta planea cobrar una pequeña comisión por esas compras. Y según un ejecutivo de Meta citado por CNBC, Muse ya ayuda a sus anuncios porque sube las conversiones.\n\n¿Dejarías que una IA organice tus guardados y compre por ti en Instagram?\n\nFuente: TechCrunch, Engadget, CNBC\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Anthony Quintano from Westminster, Unite / Wikimedia Commons (CC BY 2.0)\n📸 Foto: LPS.1 / Wikimedia Commons (CC0)\n\n#Instagram #MetaMuse #AgentesDeIA",
  "slides": [
-  "posts/20261124-1825/slide_1.jpg",
-  "posts/20261124-1825/slide_2.jpg",
-  "posts/20261124-1825/slide_3.jpg",
-  "posts/20261124-1825/slide_4.jpg"
+  "posts/20261124-1925/slide_1.jpg",
+  "posts/20261124-1925/slide_2.jpg",
+  "posts/20261124-1925/slide_3.jpg",
+  "posts/20261124-1925/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "Microsoft declara un \"Código Rojo\" tras la caída global de 24 horas que afectó a Outlook, Teams y otros servicios",
-   "link": "https://www.xataka.com/aplicaciones/microsoft-declara-codigo-rojo-caida-global-24-horas-que-afecto-a-outlook-teams-otros-servicios",
-   "source": "Xataka"
+   "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
+   "link": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html",
+   "source": "CNBC"
   },
   {
-   "title": "Microsoft activa un Código Rojo tras caída global de 24 horas en sus aplicaciones laborales",
-   "link": "https://www.infobae.com/tecno/2026/11/24/microsoft-activa-un-codigo-rojo-tras-una-caida-global-de-24-horas-en-sus-aplicaciones-laborales/",
-   "source": "Infobae"
+   "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+   "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+   "source": "TechCrunch"
+  },
+  {
+   "title": "Meta is bringing Muse to Instagram",
+   "link": "https://www.engadget.com/2326663/meta-is-bringing-muse-to-instagram/",
+   "source": "Engadget"
   }
  ]
 }

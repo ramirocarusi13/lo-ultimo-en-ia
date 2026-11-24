@@ -8,3 +8,9 @@
 - **editor-estilo** (sonnet): CAMBIOS — 9/10. Cambiar voseo "hacés" por neutro; caption al tope de 150 palabras.
 - **guionista-reels** (sonnet): CAMBIOS — gancho 7 → 8 con la cifra de 24 h; texto 3 aclara que no fue ciberataque.
 - **cazador-videos** (sonnet): sin clips (solo resúmenes de terceros o material sin relación). No hay video oficial → va CARRUSEL, sin Reel.
+- **productor** (sonnet): FORMATO CARRUSEL (sin clips no hay Reel; noticia de empresa y causas técnicas).
+- **director-arte** (sonnet): CAMBIOS — 7/10. Texto legible, sin personas; logo de Microsoft tapado en portada (aceptable); foto del centro de datos genérica, no identificable como de Microsoft.
+
+**Cambios aplicados:** atribución "según la empresa" en el caption y "según Microsoft" en el guion; "meta" en vez de "promete"; "fallaron"; voseo → neutro; gancho del guion con la cifra de 24 h; foto de Outlook quitada (logo de marca); foto del centro de datos del slide 3 reemplazada por ilustración 3D (no se podía confirmar que fuera de Microsoft) y carrusel rearmado una vez. Caption: 149 palabras.
+**Etiqueta de IA:** no hace falta (portada con foto real de Wikimedia; slides 2 y 3 son ilustraciones 3D sin personas).
+**Veredicto del jefe:** APROBADO para revisión — carrusel de 4 slides.
