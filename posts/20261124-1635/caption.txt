@@ -1,0 +1,17 @@
+🔬 Dos astrónomos aficionados usaron inteligencia artificial para buscar planetas fuera del sistema solar, y encontraron posibles candidatos.
+
+Según contó OpenAI, Kevin Bond, ingeniero de la empresa, usó Codex para revisar datos de unas 100.000 estrellas del telescopio Kepler. Por su lado, Ethan Byrd, fundador de la empresa emergente Primitive, usó Astra para analizar unos 19 millones de estrellas. Un astrónomo del Instituto SETI encontró por su cuenta dos de las señales de Bond, y un candidato de Byrd espera análisis en la misión TESS.
+
+¿Y esto a mí qué? Los datos de los telescopios son públicos: con IA, un aficionado puede ayudar a la ciencia. Eso sí, todavía no son planetas confirmados y comprobarlo puede llevar meses o años.
+
+¿Te animarías a usar IA para buscar un planeta desde tu casa?
+
+Fuente: OpenAI
+
+📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.
+
+📸 Foto: Photo credit: NASA/Troy Cryder / Wikimedia Commons (Public domain)
+📸 Foto: NASA / Wikimedia Commons (Public domain)
+🎥 Video: NASA's Scientific Visualization Studio - / Wikimedia Commons (Public domain)
+
+#OpenAI #exoplanetas #astronomia

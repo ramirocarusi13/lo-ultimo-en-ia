@@ -1,64 +1,49 @@
 {
- "id": "20261124-1445",
+ "id": "20261124-1635",
  "post": {
   "skip": false,
   "skip_reason": "",
   "confidence": "alta",
-  "headline": "TIDAL VA A BORRAR *29 MILLONES* DE CANCIONES HECHAS *100% CON IA*",
-  "badge": "Tidal",
+  "headline": "DOS AFICIONADOS USAN *IA DE OPENAI* PARA BUSCAR *PLANETAS NUEVOS*",
+  "badge": "OpenAI",
   "photos": [
-   "",
-   "Recording studio",
-   ""
+   "Kepler space telescope",
+   "Transiting Exoplanet Survey Satellite",
+   "Kepler field of view"
   ],
   "slides": [
-   "Desde el *9 de diciembre*, Tidal prohibirá la música generada por completo con inteligencia artificial. Estima que borrará *más de 29 millones de canciones* antes de fin de año y rechazará entre 80.000 y 85.000 temas por día.",
-   "En los últimos 90 días, *el 43% de lo que llegó* a Tidal fue hecho con IA, y el 96% de las canciones de IA del catálogo no tiene reproducciones. Las que usan IA solo como ayuda seguirán permitidas. *Bandcamp ya las había prohibido*."
+   "OpenAI contó que dos astrónomos aficionados usaron IA para revisar datos públicos de telescopios. Kevin Bond analizó con *Codex* unas 100.000 estrellas del telescopio Kepler, y Ethan Byrd, con Astra, unos 19 millones de estrellas de TESS y otros archivos. *Ambos encontraron posibles planetas*.",
+   "Un astrónomo del *Instituto SETI* hizo su propia búsqueda y encontró dos de las mismas señales. Uno de los mejores candidatos de Byrd espera análisis en la misión TESS de la NASA. *Confirmar qué causa esas señales puede llevar meses o años*."
   ],
-  "caption": "🎵 Tidal va a borrar más de 29 millones de canciones hechas por completo con inteligencia artificial.\n\nDesde el 9 de diciembre, la plataforma de streaming prohibirá la música 100% generada con IA y rechazará entre 80.000 y 85.000 temas por día.\n\nLa razón: en los últimos 90 días, el 43% de lo que recibió fue hecho con IA, y el 96% de las canciones de IA de su catálogo no tiene reproducciones. Las canciones hechas con ayuda de la IA seguirán permitidas.\n\n¿Y esto a mí qué? Si escuchas música en streaming, la idea es que sea más fácil encontrar artistas reales. Bandcamp ya prohibió la música de IA; Spotify y YouTube, por ahora, la etiquetan en lugar de prohibirla.\n\n¿Te molestaría que tu app de música te recomiende canciones hechas por IA?\n\nFuente: Ars Technica, The Verge, TechCrunch, The Hollywood Reporter.\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "🔬 Dos astrónomos aficionados usaron inteligencia artificial para buscar planetas fuera del sistema solar, y encontraron posibles candidatos.\n\nSegún contó OpenAI, Kevin Bond, ingeniero de la empresa, usó Codex para revisar datos de unas 100.000 estrellas del telescopio Kepler. Por su lado, Ethan Byrd, fundador de la empresa emergente Primitive, usó Astra para analizar unos 19 millones de estrellas. Un astrónomo del Instituto SETI encontró por su cuenta dos de las señales de Bond, y un candidato de Byrd espera análisis en la misión TESS.\n\n¿Y esto a mí qué? Los datos de los telescopios son públicos: con IA, un aficionado puede ayudar a la ciencia. Eso sí, todavía no son planetas confirmados y comprobarlo puede llevar meses o años.\n\n¿Te animarías a usar IA para buscar un planeta desde tu casa?\n\nFuente: OpenAI\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "Tidal",
-   "MusicaIA",
-   "InteligenciaArtificial"
+   "OpenAI",
+   "exoplanetas",
+   "astronomia"
   ],
   "image_prompts": [
-   "A glossy 3D illustration of a giant pair of headphones resting over a huge pile of glowing vinyl records and floating music notes that dissolve into digital pixels, a red stop barrier in front, dramatic purple lighting, no text, no people.",
-   "A 3D illustration of an endless conveyor belt carrying thousands of small glowing robot-made cassette tapes toward a large gate that blocks them, soft blue lighting, isometric view, cinematic depth of field, no text, no people.",
-   "A 3D illustration of a warm cozy recording studio with an acoustic guitar, a microphone and a piano under a soft spotlight, while cold metallic digital waveforms fade away outside the window, gentle lighting, no text, no people."
+   "3D illustration of a glowing distant star with a small dark planet crossing in front of it, deep space background full of stars, soft blue and purple lighting, cinematic wide shot, no text",
+   "3D illustration of a space telescope floating in orbit pointing at a dense star field, a faint dotted light curve with a small dip glowing beside it, clean futuristic style, no letters or labels",
+   "3D illustration of a cozy home desk at night with a laptop showing an abstract glowing wave graph, a window open to a starry sky, small telescope nearby, warm and cool lighting, no readable text"
   ],
   "reel_script": [
-   "Tidal va a borrar más de 29 millones de canciones hechas 100% con IA.",
-   "Desde el *9 de diciembre*, Tidal prohibirá la música generada por completo con inteligencia artificial. En los últimos 90 días, el *43 por ciento* de lo que recibió fue hecho con IA.",
-   "Las canciones hechas con ayuda de la IA seguirán permitidas. *Bandcamp* ya prohibió la música de IA, mientras Spotify y YouTube por ahora la *etiquetan* en lugar de prohibirla."
+   "Con inteligencia artificial, dos aficionados encontraron posibles planetas fuera del sistema solar.",
+   "Kevin Bond revisó unas 100.000 estrellas del telescopio Kepler con *Codex*. Ethan Byrd analizó unos 19 millones con Astra. Los dos encontraron *posibles planetas*.",
+   "Un astrónomo del Instituto SETI halló dos de las señales de Bond. Aún no son planetas confirmados, y comprobarlo puede llevar *meses o años*."
   ]
  },
- "caption": "🎵 Tidal va a borrar más de 29 millones de canciones hechas por completo con inteligencia artificial.\n\nDesde el 9 de diciembre, la plataforma de streaming prohibirá la música 100% generada con IA y rechazará entre 80.000 y 85.000 temas por día.\n\nLa razón: en los últimos 90 días, el 43% de lo que recibió fue hecho con IA, y el 96% de las canciones de IA de su catálogo no tiene reproducciones. Las canciones hechas con ayuda de la IA seguirán permitidas.\n\n¿Y esto a mí qué? Si escuchas música en streaming, la idea es que sea más fácil encontrar artistas reales. Bandcamp ya prohibió la música de IA; Spotify y YouTube, por ahora, la etiquetan en lugar de prohibirla.\n\n¿Te molestaría que tu app de música te recomiende canciones hechas por IA?\n\nFuente: Ars Technica, The Verge, TechCrunch, The Hollywood Reporter.\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Shixart1985 / Wikimedia Commons (CC BY 2.0)\n\n#Tidal #MusicaIA #InteligenciaArtificial",
+ "caption": "🔬 Dos astrónomos aficionados usaron inteligencia artificial para buscar planetas fuera del sistema solar, y encontraron posibles candidatos.\n\nSegún contó OpenAI, Kevin Bond, ingeniero de la empresa, usó Codex para revisar datos de unas 100.000 estrellas del telescopio Kepler. Por su lado, Ethan Byrd, fundador de la empresa emergente Primitive, usó Astra para analizar unos 19 millones de estrellas. Un astrónomo del Instituto SETI encontró por su cuenta dos de las señales de Bond, y un candidato de Byrd espera análisis en la misión TESS.\n\n¿Y esto a mí qué? Los datos de los telescopios son públicos: con IA, un aficionado puede ayudar a la ciencia. Eso sí, todavía no son planetas confirmados y comprobarlo puede llevar meses o años.\n\n¿Te animarías a usar IA para buscar un planeta desde tu casa?\n\nFuente: OpenAI\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Photo credit: NASA/Troy Cryder / Wikimedia Commons (Public domain)\n📸 Foto: NASA / Wikimedia Commons (Public domain)\n🎥 Video: NASA's Scientific Visualization Studio - / Wikimedia Commons (Public domain)\n\n#OpenAI #exoplanetas #astronomia",
  "slides": [
-  "posts/20261124-1445/slide_1.jpg",
-  "posts/20261124-1445/slide_2.jpg",
-  "posts/20261124-1445/slide_3.jpg",
-  "posts/20261124-1445/slide_4.jpg"
+  "posts/20261124-1635/slide_1.jpg",
+  "posts/20261124-1635/slide_2.jpg",
+  "posts/20261124-1635/slide_3.jpg",
+  "posts/20261124-1635/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "Tidal will ban fully AI-generated music on December 9",
-   "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
-   "source": "Ars Technica"
-  },
-  {
-   "title": "Tidal will start banning AI-generated music next month",
-   "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-   "source": "The Verge"
-  },
-  {
-   "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-   "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-   "source": "TechCrunch"
-  },
-  {
-   "title": "Tidal Bans Wholly AI-Generated Music: “Serious Problem That Has Only Increased in Scale”",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ1FIUlNGQ2pVRE5Wc29SNnJSYUYxUUdiNG9UQjBucWNEWnVqUkhlLVctRGFKcmVsSWFEdW9kSFFUdmRKZV8yaVo1Qy1TNHZZXzhLYjZzdHJIcGlFc1ZqeElCNzg3Y3ozWkhSYVowSGlEWkhXNmMya0I4ODFfeC1QTW81bkR4VGV4WmF5NkNLQ2lPNVVCVUJ6bzZZVUJSR19hTVF5bDZCMmhJOHhI?oc=5",
-   "source": "The Hollywood Reporter"
+   "title": "Searching for distant planets with Astra",
+   "link": "https://openai.com/index/searching-for-distant-planets-with-astra/",
+   "source": "OpenAI"
   }
  ]
 }
