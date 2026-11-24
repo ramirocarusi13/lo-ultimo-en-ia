@@ -12,3 +12,11 @@
 - revisor-legal (sonnet): OK, riesgo bajo; sin etiqueta de IA (ilustraciones 3D, sin personas). Ojo con peatones en "Wall Street sign".
 - guionista-reels (sonnet): CAMBIOS, gancho 5 -> 8: "Anthropic acaba de borrar toda su ganancia desde que salió a bolsa." Aplicado.
 - cazador-videos (sonnet): sin clips con licencia libre -> va como CARRUSEL (sin Reel).
+
+## Revisión visual
+- productor (sonnet): FORMATO CARRUSEL (noticia de datos, sin video real).
+- director-arte (sonnet): CAMBIOS, 4/10 — portada con flecha hacia arriba (contradecía la caída) y foto real de Wall Street con un manifestante de Occupy (tercero reconocible). Aplicado: portada regenerada con flecha roja hacia abajo y photos -> ["", "", ""] (3 ilustraciones 3D). Rearmado una vez; revisado por el jefe: OK.
+
+## Decisión final
+- Va como CARRUSEL, confianza "media", sin etiqueta de IA obligatoria (ilustraciones 3D simbólicas, sin personas ni fotos realistas).
+- Fuentes: Infobae, Diario Neuquino.

@@ -1,54 +1,59 @@
 {
- "id": "20261124-1215",
+ "id": "20261124-1345",
  "post": {
   "skip": false,
   "skip_reason": "",
-  "confidence": "media",
-  "headline": "*ANTHROPIC* CAE POR DEBAJO DE SU *PRECIO DE SALIDA* A BOLSA",
-  "badge": "Anthropic",
+  "confidence": "alta",
+  "headline": "*JENSEN HUANG* VUELVE A NVIDIA Y VA A RESPONDER ANTE EL *CONGRESO*",
+  "badge": "NVIDIA",
   "photos": [
-   "",
-   "",
-   ""
+   "Jensen Huang",
+   "United States Capitol",
+   "Nvidia headquarters"
   ],
   "slides": [
-   "Antes de la apertura de Wall Street de este martes, las acciones de *Anthropic*, la creadora de Claude, cayeron por debajo de los *83 dólares* de su salida a bolsa. Nvidia también caía cerca de un 5%, un día después de subir 31%.",
-   "Anthropic había subido 17% en su debut del 19 de noviembre. Según Infobae, preocupa cómo financiará los *cerca de 900.000 millones de dólares* que comprometió en infraestructura y computación por dos décadas. La gran duda: si la IA *dará ingresos suficientes*."
+   "El consejo de Nvidia *devolvió a Jensen Huang* los cargos de presidente y director ejecutivo, tras su salida del 12 de noviembre. Según WIRED, las acciones subieron más de 30% y la empresa sumó *más de un billón de dólares* en valor.",
+   "El *1 de diciembre*, el mismo día del evento GTC de Nvidia en Washington, Huang hablará ante tres comités de la Cámara de Representantes. El 3, será el único testigo en una audiencia del Senado *sobre controles de exportación*."
   ],
-  "caption": "📉 Anthropic, la empresa detrás de Claude, cayó por debajo de los 83 dólares de su salida a bolsa antes de la apertura de este martes.\n\nSus acciones borraron el margen que conservaban sobre el precio de salida. En su debut del 19 de noviembre habían subido 17%, pero el viernes cerraron con una caída de 9%. Nvidia también caía cerca de un 5%, un día después de saltar 31%.\n\nSegún Infobae, preocupa cómo financiará Anthropic los cerca de 900.000 millones de dólares que comprometió en infraestructura y computación para las próximas dos décadas.\n\nEn simple: el mercado duda de que la inversión en centros de datos para IA se convierta en ingresos suficientes.\n\n¿Crees que las empresas de IA podrán recuperar todo lo que gastan en centros de datos?\n\nFuente: Infobae, Diario Neuquino\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "⚖️ Jensen Huang volvió a ser el director ejecutivo de Nvidia, y en una semana tiene que dar explicaciones ante el Congreso de Estados Unidos.\n\nEl consejo lo reincorporó tras su salida del 12 de noviembre, con aportes de \"altos niveles\" del gobierno estadounidense. Según WIRED, las acciones subieron más de 30%.\n\nEl 1 de diciembre, el mismo día del evento GTC de Nvidia, Huang responderá a tres comités de la Cámara de Representantes. El 3 será el único testigo en una audiencia del Senado sobre controles de exportación.\n\n¿Y esto a mí qué? Los chips de Nvidia mueven buena parte de la IA actual: lo que pase con la empresa sacude a toda la industria.\n\n¿Crees que una empresa tan clave para la IA puede depender tanto de una sola persona?\n\nFuente: CNBC, The Verge, WIRED en Español.\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "Anthropic",
    "Nvidia",
-   "WallStreet"
+   "JensenHuang",
+   "InteligenciaArtificial"
   ],
   "image_prompts": [
-   "3D illustration of a glowing red and magenta stock chart arrow plunging steeply downward from top left to bottom right, crashing into a stylized glass city skyline at dusk, falling abstract data cubes, purple lighting, no text, no logos",
-   "3D illustration of a giant translucent piggy bank filled with glowing server racks and chips, small cracks appearing on its surface, dark studio background with neon blue rim light, close-up view, no text",
-   "3D illustration of a vast data center hall with rows of glowing servers, a large balance scale in the foreground weighing a stack of coins against a server block, cinematic wide shot, no text, no logos"
+   "A glossy 3D illustration of a giant green-glowing computer chip standing on a marble pedestal inside a grand government hearing room with empty wooden desks and microphones, dramatic spotlight, no text, no people.",
+   "A 3D illustration of a stock market chart arrow shooting sharply upward made of glowing green circuit lines, over a dark city skyline at night, floating coins and chips around it, cinematic lighting, no text, no people.",
+   "A 3D illustration of a domed government building made of translucent glass with glowing server racks and graphics cards inside, set against a dusk sky, isometric view, soft volumetric light, no text, no people."
   ],
   "reel_script": [
-   "Anthropic acaba de borrar toda su ganancia desde que salió a bolsa.",
-   "Este martes, antes de la apertura, *Anthropic* cayó bajo los 83 dólares de su salida a bolsa. Nvidia caía cerca de 5 por ciento, tras subir 31 por ciento el lunes.",
-   "Según Infobae, preocupa cómo financiará los *cerca de 900.000 millones de dólares* que comprometió en computación. La gran pregunta es si la inteligencia artificial generará ingresos suficientes."
+   "Nvidia sumó más de un billón de dólares en valor cuando volvió su jefe.",
+   "Jensen Huang fue reincorporado como *director ejecutivo* tras su salida del 12 de noviembre. Según WIRED, las acciones subieron *más de 30 por ciento*.",
+   "El *1 de diciembre* responderá ante tres comités de la Cámara. Dos días después, será el único testigo en el Senado sobre controles de exportación."
   ]
  },
- "caption": "📉 Anthropic, la empresa detrás de Claude, cayó por debajo de los 83 dólares de su salida a bolsa antes de la apertura de este martes.\n\nSus acciones borraron el margen que conservaban sobre el precio de salida. En su debut del 19 de noviembre habían subido 17%, pero el viernes cerraron con una caída de 9%. Nvidia también caía cerca de un 5%, un día después de saltar 31%.\n\nSegún Infobae, preocupa cómo financiará Anthropic los cerca de 900.000 millones de dólares que comprometió en infraestructura y computación para las próximas dos décadas.\n\nEn simple: el mercado duda de que la inversión en centros de datos para IA se convierta en ingresos suficientes.\n\n¿Crees que las empresas de IA podrán recuperar todo lo que gastan en centros de datos?\n\nFuente: Infobae, Diario Neuquino\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n#Anthropic #Nvidia #WallStreet",
+ "caption": "⚖️ Jensen Huang volvió a ser el director ejecutivo de Nvidia, y en una semana tiene que dar explicaciones ante el Congreso de Estados Unidos.\n\nEl consejo lo reincorporó tras su salida del 12 de noviembre, con aportes de \"altos niveles\" del gobierno estadounidense. Según WIRED, las acciones subieron más de 30%.\n\nEl 1 de diciembre, el mismo día del evento GTC de Nvidia, Huang responderá a tres comités de la Cámara de Representantes. El 3 será el único testigo en una audiencia del Senado sobre controles de exportación.\n\n¿Y esto a mí qué? Los chips de Nvidia mueven buena parte de la IA actual: lo que pase con la empresa sacude a toda la industria.\n\n¿Crees que una empresa tan clave para la IA puede depender tanto de una sola persona?\n\nFuente: CNBC, The Verge, WIRED en Español.\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Anders Eidesvik / Wikimedia Commons (CC BY 4.0)\n📸 Foto: Raydann / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: Coolcaesar / Wikimedia Commons (CC BY-SA 4.0)\n🎥 Video: Narendra Modi / Wikimedia Commons (CC BY 3.0)\n\n#Nvidia #JensenHuang #InteligenciaArtificial",
  "slides": [
-  "posts/20261124-1215/slide_1.jpg",
-  "posts/20261124-1215/slide_2.jpg",
-  "posts/20261124-1215/slide_3.jpg",
-  "posts/20261124-1215/slide_4.jpg"
+  "posts/20261124-1345/slide_1.jpg",
+  "posts/20261124-1345/slide_2.jpg",
+  "posts/20261124-1345/slide_3.jpg",
+  "posts/20261124-1345/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "Nvidia cae antes de la apertura y Anthropic baja de su precio de salida a bolsa",
-   "link": "https://www.infobae.com/tecno/2026/11/24/nvidia-cae-antes-de-la-apertura-y-anthropic-baja-de-su-precio-de-salida-a-bolsa/",
-   "source": "Infobae"
+   "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
+   "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
+   "source": "CNBC"
   },
   {
-   "title": "Volatilidad en los mercados de la IA: se enfría el entusiasmo por Nvidia y Anthropic cae por debajo de su precio de oferta inicial",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRnd2bFBodnA5X3ZKRzZvaTlVYUVFTjMtaGstYUZBdHBBQVdxa3haak1yZXd5RGM4Y3VzaVNULXVtZjVZd1RjLWhac01uZ0pIVW9zZ0JrOURod2FvZUpFb3hvVGhPWGd1dHh5Tm55bDFOel9UQndpUmNJZjBDdHZ3dWNNNzZaandJMVh0N3JNRzJDNzU2WkIzWGlaSWRWelBtY21ubXVlZVdoTTFJZFpPMVZrdzVOcVkxUHFPOWJCLXJCWEg5RWVoekxpbkZhUWNKN2lCWWl1bExFNWlNRTAtaXd2ZmZxeFdCU1A4UWFmbC1Udw?oc=5",
-   "source": "Diario Neuquino"
+   "title": "Jensen Huang deepfakes are the hot new AI slop",
+   "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+   "source": "The Verge"
+  },
+  {
+   "title": "Wall Street y Trump acaban de ponerle precio a Jensen Huang: más de 1 billón de dólares",
+   "link": "https://es.wired.com/articulos/wall-street-y-trump-acaban-de-ponerle-precio-a-jensen-huang-mas-de-1-billon-de-dolares",
+   "source": "WIRED en Español"
   }
  ]
 }

@@ -1,0 +1,59 @@
+{
+ "id": "20261124-1345",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "*JENSEN HUANG* VUELVE A NVIDIA Y VA A RESPONDER ANTE EL *CONGRESO*",
+  "badge": "NVIDIA",
+  "photos": [
+   "Jensen Huang",
+   "United States Capitol",
+   "Nvidia headquarters"
+  ],
+  "slides": [
+   "El consejo de Nvidia *devolvió a Jensen Huang* los cargos de presidente y director ejecutivo, tras su salida del 12 de noviembre. Según WIRED, las acciones subieron más de 30% y la empresa sumó *más de un billón de dólares* en valor.",
+   "El *1 de diciembre*, el mismo día del evento GTC de Nvidia en Washington, Huang hablará ante tres comités de la Cámara de Representantes. El 3, será el único testigo en una audiencia del Senado *sobre controles de exportación*."
+  ],
+  "caption": "⚖️ Jensen Huang volvió a ser el director ejecutivo de Nvidia, y en una semana tiene que dar explicaciones ante el Congreso de Estados Unidos.\n\nEl consejo lo reincorporó tras su salida del 12 de noviembre, con aportes de \"altos niveles\" del gobierno estadounidense. Según WIRED, las acciones subieron más de 30%.\n\nEl 1 de diciembre, el mismo día del evento GTC de Nvidia, Huang responderá a tres comités de la Cámara de Representantes. El 3 será el único testigo en una audiencia del Senado sobre controles de exportación.\n\n¿Y esto a mí qué? Los chips de Nvidia mueven buena parte de la IA actual: lo que pase con la empresa sacude a toda la industria.\n\n¿Crees que una empresa tan clave para la IA puede depender tanto de una sola persona?\n\nFuente: CNBC, The Verge, WIRED en Español.\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "Nvidia",
+   "JensenHuang",
+   "InteligenciaArtificial"
+  ],
+  "image_prompts": [
+   "A glossy 3D illustration of a giant green-glowing computer chip standing on a marble pedestal inside a grand government hearing room with empty wooden desks and microphones, dramatic spotlight, no text, no people.",
+   "A 3D illustration of a stock market chart arrow shooting sharply upward made of glowing green circuit lines, over a dark city skyline at night, floating coins and chips around it, cinematic lighting, no text, no people.",
+   "A 3D illustration of a domed government building made of translucent glass with glowing server racks and graphics cards inside, set against a dusk sky, isometric view, soft volumetric light, no text, no people."
+  ],
+  "reel_script": [
+   "Nvidia sumó más de un billón de dólares en valor cuando volvió su jefe.",
+   "Jensen Huang fue reincorporado como *director ejecutivo* tras su salida del 12 de noviembre. Según WIRED, las acciones subieron *más de 30 por ciento*.",
+   "El *1 de diciembre* responderá ante tres comités de la Cámara. Dos días después, será el único testigo en el Senado sobre controles de exportación."
+  ]
+ },
+ "caption": "⚖️ Jensen Huang volvió a ser el director ejecutivo de Nvidia, y en una semana tiene que dar explicaciones ante el Congreso de Estados Unidos.\n\nEl consejo lo reincorporó tras su salida del 12 de noviembre, con aportes de \"altos niveles\" del gobierno estadounidense. Según WIRED, las acciones subieron más de 30%.\n\nEl 1 de diciembre, el mismo día del evento GTC de Nvidia, Huang responderá a tres comités de la Cámara de Representantes. El 3 será el único testigo en una audiencia del Senado sobre controles de exportación.\n\n¿Y esto a mí qué? Los chips de Nvidia mueven buena parte de la IA actual: lo que pase con la empresa sacude a toda la industria.\n\n¿Crees que una empresa tan clave para la IA puede depender tanto de una sola persona?\n\nFuente: CNBC, The Verge, WIRED en Español.\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Anders Eidesvik / Wikimedia Commons (CC BY 4.0)\n📸 Foto: Raydann / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: Coolcaesar / Wikimedia Commons (CC BY-SA 4.0)\n🎥 Video: Narendra Modi / Wikimedia Commons (CC BY 3.0)\n\n#Nvidia #JensenHuang #InteligenciaArtificial",
+ "slides": [
+  "posts/20261124-1345/slide_1.jpg",
+  "posts/20261124-1345/slide_2.jpg",
+  "posts/20261124-1345/slide_3.jpg",
+  "posts/20261124-1345/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
+   "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
+   "source": "CNBC"
+  },
+  {
+   "title": "Jensen Huang deepfakes are the hot new AI slop",
+   "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+   "source": "The Verge"
+  },
+  {
+   "title": "Wall Street y Trump acaban de ponerle precio a Jensen Huang: más de 1 billón de dólares",
+   "link": "https://es.wired.com/articulos/wall-street-y-trump-acaban-de-ponerle-precio-a-jensen-huang-mas-de-1-billon-de-dolares",
+   "source": "WIRED en Español"
+  }
+ ]
+}
