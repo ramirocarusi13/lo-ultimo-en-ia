@@ -1,0 +1,54 @@
+{
+ "id": "20261124-0515",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "media",
+  "headline": "EL BOOM DE LA *IA* COMPLICA LA *CUMBRE DEL CLIMA*",
+  "badge": "COP31",
+  "photos": [
+   "Data center servers",
+   "Antalya",
+   "Meta Platforms headquarters"
+  ],
+  "slides": [
+   "La cumbre del clima de la ONU, COP31, terminó el domingo en Antalya, Turquía, *sin aprobar el pacto final*. Según la Global Renewables Alliance, los centros de datos fueron un tema clave: disparan la demanda de electricidad justo cuando el mundo intenta electrificarlo todo.",
+   "Meta informó un *aumento del 45%* en sus emisiones y reevalúa el plazo de su meta de cero emisiones. La Agencia Internacional de Energía prevé que el consumo de los centros de datos *se duplique para 2030*."
+  ],
+  "caption": "🌍 Los centros de datos de IA se metieron en la cumbre del clima de la ONU, que cerró sin aprobar su pacto final.\n\nLa COP31 terminó el domingo en Antalya. La Unión Europea, el Reino Unido y varios países vulnerables rechazaron el pacto por débil. Un compromiso voluntario para centros de datos más limpios casi no tuvo apoyo.\n\nLa IA dispara la demanda de electricidad. Meta reportó 45% más de emisiones en un año, y la Agencia Internacional de Energía prevé que el consumo de los centros de datos se duplique para 2030.\n\n¿Y esto a mí qué? Según la Global Renewables Alliance, los centros de datos compiten por la energía limpia con la calefacción, el aire acondicionado y el transporte eléctrico.\n\n¿Debería limitarse la energía que usan los centros de datos de IA?\n\nFuente: The Verge\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "COP31",
+   "CentrosDeDatos",
+   "CambioClimatico"
+  ],
+  "image_prompts": [
+   "3D illustration of a huge glowing data center building beside a small cracked planet Earth, thick power cables pulling energy from the globe, dramatic dusk lighting, blue and violet tones, symbolic and clean composition",
+   "3D illustration of a long empty conference table with scattered blank papers and an overturned gavel under a green globe sculpture, soft warm lights, symbolizing failed climate negotiations, wide angle view, no text anywhere",
+   "3D illustration of rows of server racks with glowing energy gauges without markings and grey smoke clouds above them, next to wind turbines and solar panels on the horizon, high angle view, cool blue and orange palette"
+  ],
+  "reel_script": [
+   "La contaminación climática de Meta subió 45 por ciento en solo un año.",
+   "Meta reevalúa el plazo de su meta de cero emisiones. La cumbre del clima de la ONU cerró sin pacto, y un compromiso para *centros de datos* más limpios fracasó.",
+   "Según la Agencia Internacional de Energía, su consumo se *duplicaría para 2030*. Y un grupo de energías renovables advierte que compite con la calefacción y el transporte."
+  ]
+ },
+ "caption": "🌍 Los centros de datos de IA se metieron en la cumbre del clima de la ONU, que cerró sin aprobar su pacto final.\n\nLa COP31 terminó el domingo en Antalya. La Unión Europea, el Reino Unido y varios países vulnerables rechazaron el pacto por débil. Un compromiso voluntario para centros de datos más limpios casi no tuvo apoyo.\n\nLa IA dispara la demanda de electricidad. Meta reportó 45% más de emisiones en un año, y la Agencia Internacional de Energía prevé que el consumo de los centros de datos se duplique para 2030.\n\n¿Y esto a mí qué? Según la Global Renewables Alliance, los centros de datos compiten por la energía limpia con la calefacción, el aire acondicionado y el transporte eléctrico.\n\n¿Debería limitarse la energía que usan los centros de datos de IA?\n\nFuente: The Verge\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Janabaevazizbek / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: LPS.1 / Wikimedia Commons (CC0)\n\n#COP31 #CentrosDeDatos #CambioClimatico",
+ "slides": [
+  "posts/20261124-0515/slide_1.jpg",
+  "posts/20261124-0515/slide_2.jpg",
+  "posts/20261124-0515/slide_3.jpg",
+  "posts/20261124-0515/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "AI data centers throw another wrench into chaotic UN climate talks",
+   "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+   "source": "The Verge"
+  },
+  {
+   "title": "The hidden environmental cost of AI data centers",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWUpYbjhCemF4MnFWUVZVY1BoSlIzZGhaMFhoaW5lX01rek9Oc0otYWZhcW0zenZHRWpISjNVUTlONncxSVNRR0pfUE5aZmZpcl9NRjJsRW5TMmZWOTJ5RDEtREdhZndkdWliVU1BN3VuNlhHWjdXS01QX2ZTMWhiS0txaExpclNJ0gGIAUFVX3lxTE14UGg0b2FyUW5pVW1PNF9LYnlkVVhIVElxeHE2bzVwazQ0ZVZGUkRFRHcwcFlZVGx5OWVMTnRwdGlVMThpRkRzd2FzMGZQajNid09wVmxITUwtRjNrVVppaFc5Z2ZuVXk4TnN3aVZIckN5aUFXN3RyV1Z5NHBZWU5YcWVwdURoUGE?oc=5",
+   "source": "DW.com"
+  }
+ ]
+}

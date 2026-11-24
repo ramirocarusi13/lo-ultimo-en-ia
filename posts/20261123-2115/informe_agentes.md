@@ -8,3 +8,10 @@
 - **revisor-legal** — OK, riesgo bajo. Apliqué atribuir "poner la IA en algo que ya usas" a Carl Pei. Revisar que la foto de Carl Pei lo muestre solo a él. Sin etiqueta de IA.
 - **guionista-reels** — CAMBIOS, gancho 6 → 8. Apliqué la escena 2 partida y la escena 3 con "podrían llevar suscripción". El gancho con "un botón… incluso por teléfono" lo cambié por la versión del editor, porque mezclaba el botón con las llamadas.
 - **cazador-videos** — sin clips con licencia libre. La demo está en Bloomberg y en X, con derechos. No hay Reel, va carrusel.
+
+## Formato y revisión visual
+- **productor** — CARRUSEL: no hay video real con licencia libre.
+- **director-arte** — CAMBIOS, 7/10. La foto del slide 2 era un primer plano borroso de un estuche Nothing anterior, con texto medio ilegible. La cambié por la ilustración del estuche y rearmé. Los slides 1, 3 y 4 están OK (Carl Pei sale solo).
+- **editor-video** — no corrió porque no hay Reel.
+
+**Cambios del jefe:** apliqué los cambios del verificador, del revisor legal, de estilo y del guion. Cambié la foto 2 por una ilustración. **Etiqueta de IA:** no lleva (los slides 2 y 3 son ilustraciones 3D sin personas, como en los posts anteriores).
