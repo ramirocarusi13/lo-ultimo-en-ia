@@ -7,9 +7,9 @@
   "headline": "*ANTHROPIC* CAE POR DEBAJO DE SU *PRECIO DE SALIDA* A BOLSA",
   "badge": "Anthropic",
   "photos": [
-   "Anthropic office San Francisco",
-   "Wall Street sign",
-   "Nvidia headquarters"
+   "",
+   "",
+   ""
   ],
   "slides": [
    "Antes de la apertura de Wall Street de este martes, las acciones de *Anthropic*, la creadora de Claude, cayeron por debajo de los *83 dólares* de su salida a bolsa. Nvidia también caía cerca de un 5%, un día después de subir 31%.",
@@ -22,7 +22,7 @@
    "WallStreet"
   ],
   "image_prompts": [
-   "3D illustration of a glowing stock chart arrow bending downward over a stylized glass city skyline at dusk, floating abstract data cubes, soft purple and blue lighting, dramatic low angle, no text, no logos",
+   "3D illustration of a glowing red and magenta stock chart arrow plunging steeply downward from top left to bottom right, crashing into a stylized glass city skyline at dusk, falling abstract data cubes, purple lighting, no text, no logos",
    "3D illustration of a giant translucent piggy bank filled with glowing server racks and chips, small cracks appearing on its surface, dark studio background with neon blue rim light, close-up view, no text",
    "3D illustration of a vast data center hall with rows of glowing servers, a large balance scale in the foreground weighing a stack of coins against a server block, cinematic wide shot, no text, no logos"
   ],
@@ -32,7 +32,7 @@
    "Según Infobae, preocupa cómo financiará los *cerca de 900.000 millones de dólares* que comprometió en computación. La gran pregunta es si la inteligencia artificial generará ingresos suficientes."
   ]
  },
- "caption": "📉 Anthropic, la empresa detrás de Claude, cayó por debajo de los 83 dólares de su salida a bolsa antes de la apertura de este martes.\n\nSus acciones borraron el margen que conservaban sobre el precio de salida. En su debut del 19 de noviembre habían subido 17%, pero el viernes cerraron con una caída de 9%. Nvidia también caía cerca de un 5%, un día después de saltar 31%.\n\nSegún Infobae, preocupa cómo financiará Anthropic los cerca de 900.000 millones de dólares que comprometió en infraestructura y computación para las próximas dos décadas.\n\nEn simple: el mercado duda de que la inversión en centros de datos para IA se convierta en ingresos suficientes.\n\n¿Crees que las empresas de IA podrán recuperar todo lo que gastan en centros de datos?\n\nFuente: Infobae, Diario Neuquino\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: David Shankbone / Wikimedia Commons (CC BY 3.0)\n📸 Foto: Coolcaesar / Wikimedia Commons (CC BY-SA 4.0)\n\n#Anthropic #Nvidia #WallStreet",
+ "caption": "📉 Anthropic, la empresa detrás de Claude, cayó por debajo de los 83 dólares de su salida a bolsa antes de la apertura de este martes.\n\nSus acciones borraron el margen que conservaban sobre el precio de salida. En su debut del 19 de noviembre habían subido 17%, pero el viernes cerraron con una caída de 9%. Nvidia también caía cerca de un 5%, un día después de saltar 31%.\n\nSegún Infobae, preocupa cómo financiará Anthropic los cerca de 900.000 millones de dólares que comprometió en infraestructura y computación para las próximas dos décadas.\n\nEn simple: el mercado duda de que la inversión en centros de datos para IA se convierta en ingresos suficientes.\n\n¿Crees que las empresas de IA podrán recuperar todo lo que gastan en centros de datos?\n\nFuente: Infobae, Diario Neuquino\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n#Anthropic #Nvidia #WallStreet",
  "slides": [
   "posts/20261124-1215/slide_1.jpg",
   "posts/20261124-1215/slide_2.jpg",
