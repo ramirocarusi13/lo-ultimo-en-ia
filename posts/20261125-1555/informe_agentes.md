@@ -8,3 +8,9 @@
 - **revisor-legal** — OK, riesgo bajo. Sugirió atribuir "primera constelación completa" a The Verge (aplicado en el slide 2; en el caption se quitó la frase).
 - **guionista-reels** — CAMBIOS, gancho 8/10. Tomé su texto 3 (remate "la carrera de la IA ya salió del planeta"); el gancho propuesto pasaba de 14 palabras y su texto 2 perdía la cifra, así que quedaron los míos.
 - **cazador-videos** — 2 clips libres: despegue nocturno de Falcon 9 (U.S. Space Force, dominio público) y Elon Musk en el Foro Económico Mundial 2026 (WEF, CC BY 4.0). Sin video libre de la FCC ni de Starmind.
+- **productor** — FORMATO: CARRUSEL. Noticia de regulación y cifras; los clips (Falcon 9 de un Starlink común, Musk en Davos) no muestran Starmind.
+- **director-arte** — CAMBIOS, 6/10. Slide 2 casi negro (foto de Starlink): pasado a ilustración. Ilustración 3 parecía lluvia de meteoros: ajustado el prompt. Portada con Musk OK (cabeza desenfocada de espaldas, no reconocible).
+- **editor-video** — CAMBIOS, 6/10 (arranque oscuro, falta Musk en pantalla, poca variedad). No se aplicó: el formato es carrusel y el Reel no se envía.
+
+**Cambios aplicados:** titular con "HASTA"; slide 1 y caption acortados; atribuciones a The Verge y SpaceX; guion del Reel retocado; foto 2 cambiada a ilustración y foto 3 a "Federal Communications Commission"; rearmado una vez.
+**Etiqueta de IA:** no hace falta (ilustraciones 3D, no fotos realistas; fotos reales con licencia libre).
