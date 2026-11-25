@@ -1,0 +1,54 @@
+{
+ "id": "20261125-0745",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "EA RECREA CON *IA* LA VOZ DEL FALLECIDO *JOHN MOTSON*",
+  "badge": "EA",
+  "photos": [
+   "John Motson",
+   "Electronic Arts headquarters",
+   ""
+  ],
+  "slides": [
+   "EA anunció que *EA Sports FC 27* tendrá la voz recreada de John Motson, el relator de la BBC que murió en 2023. La crearon con *grabaciones antiguas e inteligencia artificial*, con permiso de su viuda y su hijo, y llega el 26 de noviembre.",
+   "Es la primera vez que la saga, antes llamada Fifa, usa la voz de un comentarista fallecido. Peter Caulfield, fundador de *Save Our Voices Now*, advierte que Motson no pudo dar su consentimiento, y EA asegura que *no planea reemplazar relatores* con IA."
+  ],
+  "caption": "🎮 EA recreó con inteligencia artificial la voz de John Motson, el legendario relator de la BBC que murió en 2023, para EA Sports FC 27.\n\nMotson fue la primera voz de la saga, de Fifa 96 a Fifa 2005. Su voz se sintetizó combinando grabaciones viejas con IA generativa, con permiso de su viuda y de su hijo Fred. Estará disponible desde el 26 de noviembre. EA no dijo si le pagó a la familia.\n\n¿Y esto a mí qué? La IA ya puede \"devolver\" la voz de personas que murieron. La campaña Save Our Voices Now advierte que eso solo debería permitirse si la persona lo autorizó en vida.\n\n¿Te parece bien que la familia autorice una voz clonada, o debería decidirlo solo la persona antes de morir?\n\nFuente: BBC, DiarioBitcoin\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "EASportsFC",
+   "JohnMotson",
+   "ClonacionDeVoz"
+  ],
+  "image_prompts": [
+   "3D illustration of a vintage studio microphone glowing in the middle of an empty football stadium pitch at night, luminous blue sound waves dissolving into digital particles that float toward the floodlights, cinematic lighting, soft depth of field, no text, no logos",
+   "3D illustration of an old reel-to-reel tape recorder connected by glowing cables to a futuristic translucent neural network sphere, contrast of warm and cool light, dark studio background, symbolic concept of voice synthesis, no text, no logos",
+   "3D illustration of a blank game controller and retro headphones resting on a wooden desk, a soft holographic football field and a glowing sound waveform floating above them, cozy warm lamp light, nostalgic mood, no text"
+  ],
+  "reel_script": [
+   "Un relator murió en 2023, pero su voz narrará un videojuego nuevo.",
+   "EA recreó con *inteligencia artificial* la voz de John Motson, histórico relator de la BBC. Mezcló grabaciones viejas con IA, con permiso de su viuda y su hijo.",
+   "Llega el 26 de noviembre. Un activista advierte que Motson no pudo dar su *consentimiento*. Queda abierta la duda de quién decide por quien ya no está."
+  ]
+ },
+ "caption": "🎮 EA recreó con inteligencia artificial la voz de John Motson, el legendario relator de la BBC que murió en 2023, para EA Sports FC 27.\n\nMotson fue la primera voz de la saga, de Fifa 96 a Fifa 2005. Su voz se sintetizó combinando grabaciones viejas con IA generativa, con permiso de su viuda y de su hijo Fred. Estará disponible desde el 26 de noviembre. EA no dijo si le pagó a la familia.\n\n¿Y esto a mí qué? La IA ya puede \"devolver\" la voz de personas que murieron. La campaña Save Our Voices Now advierte que eso solo debería permitirse si la persona lo autorizó en vida.\n\n¿Te parece bien que la familia autorice una voz clonada, o debería decidirlo solo la persona antes de morir?\n\nFuente: BBC, DiarioBitcoin\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Everton Football Club / Wikimedia Commons (CC BY 3.0)\n📸 Foto: User:Coolcaesar / Wikimedia Commons (CC BY-SA 3.0)\n\n#EASportsFC #JohnMotson #ClonacionDeVoz",
+ "slides": [
+  "posts/20261125-0745/slide_1.jpg",
+  "posts/20261125-0745/slide_2.jpg",
+  "posts/20261125-0745/slide_3.jpg",
+  "posts/20261125-0745/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "EA adds AI-generated John Motson to FC 27 video game",
+   "link": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC"
+  },
+  {
+   "title": "EA recrea con inteligencia artificial la voz de John Motson para FC 27",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcExYZGpleXozTURPUE9GYVpsNDhMZFJFRmloYnF2VWhBRkVzV01LTDdEc2w0d052c2thMlFLaG5xbGo0R0pWRmdlMlB0VHBfZXB3VlZfWjRNX0VZMmNnTnI5RFlNWG5GS0s3YkNJRW15VWg1MnNycjdQZVJwaVNiend2eFVGa0FHUzVMUjItYnl2UHU3TWRxdkt6M3B0V2ZrODBiWHB3bU5GY1BZb3BvTzFB?oc=5",
+   "source": "DiarioBitcoin"
+  }
+ ]
+}
