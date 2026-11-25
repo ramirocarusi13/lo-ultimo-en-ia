@@ -1,0 +1,54 @@
+{
+ "id": "20261125-1025",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "media",
+  "headline": "EUROPA PREPARARÍA HASTA *50.000 MILLONES DE EUROS* PARA COMPETIR EN *IA*",
+  "badge": "UE",
+  "photos": [
+   "Berlaymont building",
+   "European Investment Bank",
+   "quantum computer"
+  ],
+  "slides": [
+   "Según el *Financial Times*, Bruselas prepara un fondo de hasta 50.000 millones de euros llamado STEF. No dará subvenciones: comprará *participaciones en tecnológicas europeas* de inteligencia artificial y computación cuántica, para que no queden bajo control de capital de EEUU o China.",
+   "¿Alcanza? Según Xataka, no. Solo el proyecto *Stargate* de EEUU prevé 500.000 millones de dólares, y China ya lanzó un fondo tecnológico de unos 144.000 millones de dólares. El problema de Europa no es inventar, sino *convertir su ciencia en grandes empresas*."
+  ],
+  "caption": "💰 Según el Financial Times, la Unión Europea prepara un fondo de hasta 50.000 millones de euros para que sus empresas de inteligencia artificial y computación cuántica no terminen en manos de capital de EEUU o China.\n\nEl fondo se llamaría STEF y no daría subvenciones: compraría participaciones en tecnológicas europeas y compartiría riesgos y ganancias. Todavía no está claro de dónde saldría el dinero; el Banco Europeo de Inversiones podría participar.\n\n¿Y esto a mí qué? Europa tiene talento y ciencia de punta, pero a sus empresas emergentes les cuesta conseguir dinero para crecer. Y la comparación duele: el proyecto Stargate de EEUU prevé 500.000 millones de dólares.\n\n¿Crees que Latinoamérica debería armar un fondo propio para no depender de la IA de EEUU y China?\n\nFuente: Xataka (con datos del Financial Times)\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "UnionEuropea",
+   "InteligenciaArtificial",
+   "ComputacionCuantica"
+  ],
+  "image_prompts": [
+   "3D illustration of a giant glowing vault door opening on a blue map of Europe, golden coins turning into luminous circuit lines that flow toward small futuristic buildings, cinematic lighting, dark background, no text, no logos",
+   "3D illustration of a balance scale with a small stack of glowing blue cubes on one side and two towering stacks of golden cubes on the other side, soft studio lighting, minimal dark backdrop, symbolic economic competition, no text, no logos",
+   "3D illustration of a sleek quantum computer chandelier of golden tubes and cables hanging in a clean laboratory, next to a glowing neural network sphere, cool blue and warm gold lights, wide angle, no text, no logos"
+  ],
+  "reel_script": [
+   "Europa prepararía hasta 50.000 millones para la IA; Estados Unidos, nueve veces más.",
+   "Según el Financial Times, Bruselas prepara un fondo de hasta 50.000 millones de euros. No dará subvenciones: comprará *participaciones* en empresas europeas de inteligencia artificial y computación cuántica.",
+   "Stargate, el plan de Estados Unidos, prevé *500.000* millones de dólares, y China lanzó un fondo de unos 144.000 millones. El problema de Europa no es inventar, sino convertir su *ciencia* en grandes empresas."
+  ]
+ },
+ "caption": "💰 Según el Financial Times, la Unión Europea prepara un fondo de hasta 50.000 millones de euros para que sus empresas de inteligencia artificial y computación cuántica no terminen en manos de capital de EEUU o China.\n\nEl fondo se llamaría STEF y no daría subvenciones: compraría participaciones en tecnológicas europeas y compartiría riesgos y ganancias. Todavía no está claro de dónde saldría el dinero; el Banco Europeo de Inversiones podría participar.\n\n¿Y esto a mí qué? Europa tiene talento y ciencia de punta, pero a sus empresas emergentes les cuesta conseguir dinero para crecer. Y la comparación duele: el proyecto Stargate de EEUU prevé 500.000 millones de dólares.\n\n¿Crees que Latinoamérica debería armar un fondo propio para no depender de la IA de EEUU y China?\n\nFuente: Xataka (con datos del Financial Times)\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: acediscovery / Wikimedia Commons (CC BY 4.0)\n📸 Foto: Caroline Martin / Wikimedia Commons (CC BY-SA 3.0 igo)\n📸 Foto: Ragsxl / Wikimedia Commons (CC BY-SA 4.0)\n🎥 Video: European Commission / YouTube (CC BY)\n\n#UnionEuropea #InteligenciaArtificial #ComputacionCuantica",
+ "slides": [
+  "posts/20261125-1025/slide_1.jpg",
+  "posts/20261125-1025/slide_2.jpg",
+  "posts/20261125-1025/slide_3.jpg",
+  "posts/20261125-1025/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Europa prepara 50.000 millones de euros para sus empresas de tecnología. La pregunta es si es suficiente para competir con EEUU y China",
+   "link": "https://www.xataka.com/empresas-y-economia/europa-prepara-50-000-millones-euros-para-sus-empresas-tecnologia-pregunta-suficiente-para-competir-eeuu-china",
+   "source": "Xataka"
+  },
+  {
+   "title": "La UE planea invertir 50.000 millones de euros en inteligencia artificial y computación cuántica",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMFF6LU1WLWlhajl4a3BPTEN5VFBHNWQta3NNR2F2TGhON3k5N2xvRlhMX0FfenYxR2xtZVp0dHdvaHgxa2tIaVpzZlpoNUIxd2YxejRLNXpiUjE1VVAyRnMxMHp1WmlnNVpST0hJQUdDbTdKa21HT3o1TlJ4akp3QzNwbTF6NE02cWc?oc=5",
+   "source": "Yahoo Finanzas"
+  }
+ ]
+}
