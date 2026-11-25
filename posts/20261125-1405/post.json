@@ -1,0 +1,54 @@
+{
+ "id": "20261125-1405",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "TIDAL *PROHIBIRÁ LA MÚSICA* 100% IA Y BORRARÁ *27 MILLONES* DE CANCIONES",
+  "badge": "TIDAL",
+  "photos": [
+   "Tidal streaming service",
+   "",
+   "Spotify"
+  ],
+  "slides": [
+   "Tidal anunció que *a partir del 9 de diciembre* prohibirá la música generada íntegramente por inteligencia artificial. Eliminará más de *27 millones de canciones*, el 6,3% de su catálogo. Las pistas hechas con ayuda parcial de IA seguirán permitidas.",
+   "Según la empresa, en los últimos 90 días el *43% de las pistas* recibidas eran íntegramente artificiales, y el 96% de esa música no tuvo ninguna reproducción. Spotify y Apple Music las permiten con etiquetas; Tidal eligió *la prohibición directa*."
+  ],
+  "caption": "🎵 Tidal va a borrar más de 27 millones de canciones hechas íntegramente con inteligencia artificial.\n\nDesde el 9 de diciembre, Tidal prohibirá la música generada 100% por IA. Según la empresa, en los últimos 90 días el 43% de las pistas que recibió eran totalmente artificiales, y el 96% de ese material no tuvo ni una reproducción. Además, ya retiró 65.000 canciones señaladas como posibles suplantaciones de artistas reales.\n\n¿Y esto a mí qué? Si usas Tidal, la idea es que la música de artistas reales no quede tapada por pistas que nadie pidió. Las canciones hechas con ayuda parcial de IA siguen permitidas. Spotify y Apple Music, en cambio, aceptan la música 100% artificial con etiquetas.\n\n¿Te gustaría que Spotify también prohíba las canciones hechas 100% con IA?\n\nFuente: Infobae, Rolling Stone en Español\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "Tidal",
+   "MusicaConIA",
+   "Streaming"
+  ],
+  "image_prompts": [
+   "3D illustration of a floating smartphone showing a glowing music playlist, with dozens of metallic robotic music notes being swept away into a dark void, neon blue and purple lighting, dramatic cinematic composition, no text",
+   "3D illustration of a huge mountain of identical chrome vinyl records piled up in a dim warehouse, a single colorful handmade vinyl shining on top under a spotlight, moody lighting, wide angle view, no text or logos",
+   "3D illustration close-up of studio headphones resting on a wooden desk next to an acoustic guitar and a small toy robot holding a blank red stop sign, warm soft lighting, shallow depth of field, no letters"
+  ],
+  "reel_script": [
+   "Tidal va a borrar 27 millones de canciones hechas por inteligencia artificial.",
+   "Desde el 9 de diciembre, *Tidal* no aceptará música creada íntegramente con inteligencia artificial. Según la empresa, en tres meses, más de 4 de cada 10 canciones nuevas eran *totalmente artificiales*.",
+   "Y *casi nadie* las escuchaba: el 96 por ciento no tuvo ni una reproducción en ese tiempo. Spotify y Apple Music las aceptan con *etiquetas*. Falta ver si siguen el camino de Tidal."
+  ]
+ },
+ "caption": "🎵 Tidal va a borrar más de 27 millones de canciones hechas íntegramente con inteligencia artificial.\n\nDesde el 9 de diciembre, Tidal prohibirá la música generada 100% por IA. Según la empresa, en los últimos 90 días el 43% de las pistas que recibió eran totalmente artificiales, y el 96% de ese material no tuvo ni una reproducción. Además, ya retiró 65.000 canciones señaladas como posibles suplantaciones de artistas reales.\n\n¿Y esto a mí qué? Si usas Tidal, la idea es que la música de artistas reales no quede tapada por pistas que nadie pidió. Las canciones hechas con ayuda parcial de IA siguen permitidas. Spotify y Apple Music, en cambio, aceptan la música 100% artificial con etiquetas.\n\n¿Te gustaría que Spotify también prohíba las canciones hechas 100% con IA?\n\nFuente: Infobae, Rolling Stone en Español\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Tomasz Molina / Wikimedia Commons (CC BY-SA 4.0)\n\n#Tidal #MusicaConIA #Streaming",
+ "slides": [
+  "posts/20261125-1405/slide_1.jpg",
+  "posts/20261125-1405/slide_2.jpg",
+  "posts/20261125-1405/slide_3.jpg",
+  "posts/20261125-1405/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Adiós a 27 millones de canciones: una plataforma de streaming tomó medidas contra la música creada con IA",
+   "link": "https://www.infobae.com/tecno/2026/11/25/adios-a-27-millones-de-canciones-una-plataforma-de-streaming-tomo-medidas-contra-la-musica-creada-con-ia/",
+   "source": "Infobae"
+  },
+  {
+   "title": "Tidal es el primer servicio de streaming que prohíbe la música creada con inteligencia artificial",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORWItbkpEYzBkZVM5dzI4a0NKZDlFVEhWQzhvR2lQZHA5dk52enJTbFFIUHFJX0ExUVVPQ1lEYlRORjlhakJQY0dXSlh2OUV4WXBDSTNfYmJTckFaVHQ5WHVfZVBZNnVKMFBaVlJIaEw1LWZQNUhVOFJ0N0F0VnNBM05haWgxeVNVcW5nSGxfZmlTdVVMVWFXUmt4aE10VDROOFl6T0RIYkI4Y1Bvc3BzUjVfcXQ0UmxzY0lHVEd2XzFfRWRIalFOMTd3?oc=5",
+   "source": "Rolling Stone en Español"
+  }
+ ]
+}
