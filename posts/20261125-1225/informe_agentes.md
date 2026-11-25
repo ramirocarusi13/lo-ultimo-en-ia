@@ -7,3 +7,8 @@
 - **Revisor legal** (CAMBIOS, riesgo bajo): sin acusaciones ni consejo de inversión; quitar "se hunde" y especulación ("va a dar frutos"). Mantener descargo. Etiqueta IA: no. Aplicado.
 - **Guionista de reels** (CAMBIOS, gancho 4/10): propuso abrir con el 4%; se tomó su ritmo pero el gancho queda sin la cifra (el verificador pide atribuirla).
 - **Cazador de videos** (OK): 1 clip, b-roll de una Nvidia RTX 5090 de ZMASLO (Wikimedia Commons, CC BY 3.0). Descartó canales de comentario y videos con marca de agua. Sin video oficial con derechos.
+- **Productor** (CARRUSEL): es una noticia de mercado y el único clip (la placa RTX) es relleno que no muestra lo que dice la voz. Pidió sacar el clip. Aplicado: noclip Nvidia, sin Reel.
+- **Director de arte** (CAMBIOS, 6/10): en el slide 2, la foto del Nasdaq MarketSite mostraba una publicidad de NASA/Mars 2020 y carteles con personas. Aplicado: photos[1] = "" (va la ilustración generada). Los slides 1, 3 y 4 están OK.
+- **Editor de video** (OK, 7/10): el Reel se ve correcto, pero un solo clip repetido no ilustra la caída. Queda sin efecto porque va como carrusel.
+- **Rearmado**: se hizo una vez, con la foto 2 cambiada y sin clip.
+- **Etiqueta de IA**: no. Las ilustraciones 3D son simbólicas, sin personas ni fotos realistas.
