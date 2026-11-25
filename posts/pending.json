@@ -1,54 +1,54 @@
 {
- "id": "20261125-1025",
+ "id": "20261125-1225",
  "post": {
   "skip": false,
   "skip_reason": "",
   "confidence": "media",
-  "headline": "EUROPA PREPARARÍA HASTA *50.000 MILLONES DE EUROS* PARA COMPETIR EN *IA*",
-  "badge": "UE",
+  "headline": "VUELVE LA *OLA DE VENTAS* DE IA Y *NVIDIA CAE FUERTE*",
+  "badge": "NVIDIA",
   "photos": [
-   "Berlaymont building",
-   "",
-   "quantum computer"
+   "Nvidia headquarters",
+   "Nasdaq MarketSite",
+   ""
   ],
   "slides": [
-   "Según el *Financial Times*, Bruselas prepara un fondo de hasta 50.000 millones de euros llamado STEF. No dará subvenciones: comprará *participaciones en tecnológicas europeas* de inteligencia artificial y computación cuántica, para que no queden bajo control de capital de EEUU o China.",
-   "¿Alcanza? Según Xataka, no. Solo el proyecto *Stargate* de EEUU prevé 500.000 millones de dólares, y China ya lanzó un fondo tecnológico de unos 144.000 millones de dólares. El problema de Europa no es inventar, sino *convertir su ciencia en grandes empresas*."
+   "Las acciones de inteligencia artificial volvieron a caer con fuerza. Según Forbes, *el Nasdaq bajaba un 4%* y *Nvidia caía bruscamente*. El Wall Street Journal informó que los futuros del Nasdaq cayeron con el regreso de la ola de ventas de acciones de IA.",
+   "¿Por qué pasa esto? Según Reuters, los mercados temen por *el costo de construir la infraestructura* que necesita la inteligencia artificial. Además, el Wall Street Journal señala que *las acciones de IA retomaron su caída*."
   ],
-  "caption": "💰 Según el Financial Times, la Unión Europea prepara un fondo de hasta 50.000 millones de euros para que sus empresas de inteligencia artificial y computación cuántica no terminen en manos de capital de EEUU o China.\n\nEl fondo se llamaría STEF y no daría subvenciones: compraría participaciones en tecnológicas europeas y compartiría riesgos y ganancias. Todavía no está claro de dónde saldría el dinero; el Banco Europeo de Inversiones podría participar.\n\n¿Y esto a mí qué? Europa tiene talento y ciencia de punta, pero a sus empresas emergentes les cuesta conseguir dinero para crecer. Y la comparación duele: el proyecto Stargate de EEUU prevé 500.000 millones de dólares.\n\n¿Crees que Latinoamérica debería armar un fondo propio para no depender de la IA de EEUU y China?\n\nFuente: Xataka (con datos del Financial Times)\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "📉 Nuevo golpe a la inteligencia artificial en la bolsa: según Forbes, el Nasdaq caía un 4% y Nvidia bajaba con fuerza.\n\nLa ola de ventas de acciones de IA volvió a los mercados, según el Wall Street Journal. Reuters explica que el temor viene por lo caro que resulta construir la infraestructura que necesita esta tecnología.\n\n¿Y esto a mí qué? Construir la IA cuesta muchísimo y los mercados están atentos a esos gastos. Y Nvidia quedó en el centro de esta caída. Esto no es una recomendación de inversión.\n\n¿Crees que las empresas de IA están gastando demasiado en infraestructura?\n\nFuente: Forbes, The Wall Street Journal, Reuters\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "UnionEuropea",
-   "InteligenciaArtificial",
-   "ComputacionCuantica"
+   "Nvidia",
+   "Nasdaq",
+   "InteligenciaArtificial"
   ],
   "image_prompts": [
-   "3D illustration of a giant glowing vault door opening on a blue map of Europe, golden coins turning into luminous circuit lines that flow toward small futuristic buildings, cinematic lighting, dark background, no text, no logos",
-   "3D illustration of a balance scale with a small stack of glowing blue cubes on one side and two towering stacks of golden cubes on the other side, soft studio lighting, minimal dark backdrop, symbolic economic competition, no text, no logos",
-   "3D illustration of a sleek quantum computer chandelier of golden tubes and cables hanging in a clean laboratory, next to a glowing neural network sphere, cool blue and warm gold lights, wide angle, no text, no logos"
+   "A 3D illustration of a giant glowing green stock chart line plunging downward over a dark futuristic city skyline, red warning lights reflecting on glass towers, dramatic low angle, cinematic lighting, no text, no logos.",
+   "A 3D illustration of a stack of glowing computer chips cracking and tumbling down a staircase made of falling bar graphs, deep blue and red tones, close-up dramatic framing, no inscriptions, no text, no logos.",
+   "A 3D illustration of a huge unfinished data center under construction with cranes and server racks, coins draining out of it like sand in an hourglass, wide aerial view, moody purple dusk light, no text, no logos."
   ],
   "reel_script": [
-   "Europa prepararía hasta 50.000 millones para la IA; Estados Unidos, nueve veces más.",
-   "Según el Financial Times, Bruselas prepara un fondo de hasta 50.000 millones de euros. No dará subvenciones: comprará *participaciones* en empresas europeas de inteligencia artificial y computación cuántica.",
-   "Stargate, el plan de Estados Unidos, prevé *500.000* millones de dólares, y China lanzó un fondo de unos 144.000 millones. El problema de Europa no es inventar, sino convertir su *ciencia* en grandes empresas."
+   "Las acciones de la inteligencia artificial vuelven a caer con fuerza en Wall Street.",
+   "Según Forbes, el Nasdaq caía un 4 por ciento y *Nvidia* bajaba con fuerza. El Wall Street Journal informa que la ola de *ventas* de acciones de IA regresó.",
+   "Según Reuters, el miedo está en el *costo* de construir la infraestructura que necesita esta tecnología. Los mercados miran con cautela cuánto cuesta esa enorme inversión."
   ]
  },
- "caption": "💰 Según el Financial Times, la Unión Europea prepara un fondo de hasta 50.000 millones de euros para que sus empresas de inteligencia artificial y computación cuántica no terminen en manos de capital de EEUU o China.\n\nEl fondo se llamaría STEF y no daría subvenciones: compraría participaciones en tecnológicas europeas y compartiría riesgos y ganancias. Todavía no está claro de dónde saldría el dinero; el Banco Europeo de Inversiones podría participar.\n\n¿Y esto a mí qué? Europa tiene talento y ciencia de punta, pero a sus empresas emergentes les cuesta conseguir dinero para crecer. Y la comparación duele: el proyecto Stargate de EEUU prevé 500.000 millones de dólares.\n\n¿Crees que Latinoamérica debería armar un fondo propio para no depender de la IA de EEUU y China?\n\nFuente: Xataka (con datos del Financial Times)\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: acediscovery / Wikimedia Commons (CC BY 4.0)\n📸 Foto: Ragsxl / Wikimedia Commons (CC BY-SA 4.0)\n\n#UnionEuropea #InteligenciaArtificial #ComputacionCuantica",
+ "caption": "📉 Nuevo golpe a la inteligencia artificial en la bolsa: según Forbes, el Nasdaq caía un 4% y Nvidia bajaba con fuerza.\n\nLa ola de ventas de acciones de IA volvió a los mercados, según el Wall Street Journal. Reuters explica que el temor viene por lo caro que resulta construir la infraestructura que necesita esta tecnología.\n\n¿Y esto a mí qué? Construir la IA cuesta muchísimo y los mercados están atentos a esos gastos. Y Nvidia quedó en el centro de esta caída. Esto no es una recomendación de inversión.\n\n¿Crees que las empresas de IA están gastando demasiado en infraestructura?\n\nFuente: Forbes, The Wall Street Journal, Reuters\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Coolcaesar / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: NASA Headquarters / NASA/Emma Howells / Wikimedia Commons (Public domain)\n🎥 Video: ZMASLO / Wikimedia Commons (CC BY 3.0)\n\n#Nvidia #Nasdaq #InteligenciaArtificial",
  "slides": [
-  "posts/20261125-1025/slide_1.jpg",
-  "posts/20261125-1025/slide_2.jpg",
-  "posts/20261125-1025/slide_3.jpg",
-  "posts/20261125-1025/slide_4.jpg"
+  "posts/20261125-1225/slide_1.jpg",
+  "posts/20261125-1225/slide_2.jpg",
+  "posts/20261125-1225/slide_3.jpg",
+  "posts/20261125-1225/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "Europa prepara 50.000 millones de euros para sus empresas de tecnología. La pregunta es si es suficiente para competir con EEUU y China",
-   "link": "https://www.xataka.com/empresas-y-economia/europa-prepara-50-000-millones-euros-para-sus-empresas-tecnologia-pregunta-suficiente-para-competir-eeuu-china",
-   "source": "Xataka"
+   "title": "AI Selloff Deepens: Nasdaq Down 4% As Nvidia Sharply Falls",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRU5aOU5KVzlUeDlfOUhiWEFCNkxQd21DUGM3NlZROHBZOWNyODdDNXV5SW42dkQwRnNob3p1R1R3UVFYWThFMHRpMGlnQ1hBSGh5ZFM5OF9Db0M3TXFoMi1vd0RSa25EUkI2NG03MFhtQW5oUjVGQUo0YTZUZW80LUxMdjREOXFoaExfby01NkY3S2dVNUZNRHpTbnA?oc=5",
+   "source": "Forbes"
   },
   {
-   "title": "La UE planea invertir 50.000 millones de euros en inteligencia artificial y computación cuántica",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMFF6LU1WLWlhajl4a3BPTEN5VFBHNWQta3NNR2F2TGhON3k5N2xvRlhMX0FfenYxR2xtZVp0dHdvaHgxa2tIaVpzZlpoNUIxd2YxejRLNXpiUjE1VVAyRnMxMHp1WmlnNVpST0hJQUdDbTdKa21HT3o1TlJ4akp3QzNwbTF6NE02cWc?oc=5",
-   "source": "Yahoo Finanzas"
+   "title": "Nasdaq Futures Tumble as AI Selloff Returns",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNVZEZVVpM2pKb2t2dDktNWRNZ2xTXzc5aUN3SjNzM1dRbGRHUkZoYjFJY2hRaGZCd1dsNGNXckIxOWg1el9oZnhVVjRNSlpwcjJFLTQxSzZqSFZ1bVZGczJWR2RTT1BUU3BLenB0amhsQWFqRlJWNlNTdkR0dGRlcmNzWDg0R19lMDVwQ2lUdVF5YTQ0SnZKWElqbGwwa3VIemV3WDhVWEpiQQ?oc=5",
+   "source": "WSJ"
   }
  ]
 }

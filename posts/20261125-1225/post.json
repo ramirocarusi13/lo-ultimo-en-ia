@@ -1,0 +1,54 @@
+{
+ "id": "20261125-1225",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "media",
+  "headline": "VUELVE LA *OLA DE VENTAS* DE IA Y *NVIDIA CAE FUERTE*",
+  "badge": "NVIDIA",
+  "photos": [
+   "Nvidia headquarters",
+   "Nasdaq MarketSite",
+   ""
+  ],
+  "slides": [
+   "Las acciones de inteligencia artificial volvieron a caer con fuerza. Según Forbes, *el Nasdaq bajaba un 4%* y *Nvidia caía bruscamente*. El Wall Street Journal informó que los futuros del Nasdaq cayeron con el regreso de la ola de ventas de acciones de IA.",
+   "¿Por qué pasa esto? Según Reuters, los mercados temen por *el costo de construir la infraestructura* que necesita la inteligencia artificial. Además, el Wall Street Journal señala que *las acciones de IA retomaron su caída*."
+  ],
+  "caption": "📉 Nuevo golpe a la inteligencia artificial en la bolsa: según Forbes, el Nasdaq caía un 4% y Nvidia bajaba con fuerza.\n\nLa ola de ventas de acciones de IA volvió a los mercados, según el Wall Street Journal. Reuters explica que el temor viene por lo caro que resulta construir la infraestructura que necesita esta tecnología.\n\n¿Y esto a mí qué? Construir la IA cuesta muchísimo y los mercados están atentos a esos gastos. Y Nvidia quedó en el centro de esta caída. Esto no es una recomendación de inversión.\n\n¿Crees que las empresas de IA están gastando demasiado en infraestructura?\n\nFuente: Forbes, The Wall Street Journal, Reuters\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "Nvidia",
+   "Nasdaq",
+   "InteligenciaArtificial"
+  ],
+  "image_prompts": [
+   "A 3D illustration of a giant glowing green stock chart line plunging downward over a dark futuristic city skyline, red warning lights reflecting on glass towers, dramatic low angle, cinematic lighting, no text, no logos.",
+   "A 3D illustration of a stack of glowing computer chips cracking and tumbling down a staircase made of falling bar graphs, deep blue and red tones, close-up dramatic framing, no inscriptions, no text, no logos.",
+   "A 3D illustration of a huge unfinished data center under construction with cranes and server racks, coins draining out of it like sand in an hourglass, wide aerial view, moody purple dusk light, no text, no logos."
+  ],
+  "reel_script": [
+   "Las acciones de la inteligencia artificial vuelven a caer con fuerza en Wall Street.",
+   "Según Forbes, el Nasdaq caía un 4 por ciento y *Nvidia* bajaba con fuerza. El Wall Street Journal informa que la ola de *ventas* de acciones de IA regresó.",
+   "Según Reuters, el miedo está en el *costo* de construir la infraestructura que necesita esta tecnología. Los mercados miran con cautela cuánto cuesta esa enorme inversión."
+  ]
+ },
+ "caption": "📉 Nuevo golpe a la inteligencia artificial en la bolsa: según Forbes, el Nasdaq caía un 4% y Nvidia bajaba con fuerza.\n\nLa ola de ventas de acciones de IA volvió a los mercados, según el Wall Street Journal. Reuters explica que el temor viene por lo caro que resulta construir la infraestructura que necesita esta tecnología.\n\n¿Y esto a mí qué? Construir la IA cuesta muchísimo y los mercados están atentos a esos gastos. Y Nvidia quedó en el centro de esta caída. Esto no es una recomendación de inversión.\n\n¿Crees que las empresas de IA están gastando demasiado en infraestructura?\n\nFuente: Forbes, The Wall Street Journal, Reuters\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Coolcaesar / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: NASA Headquarters / NASA/Emma Howells / Wikimedia Commons (Public domain)\n🎥 Video: ZMASLO / Wikimedia Commons (CC BY 3.0)\n\n#Nvidia #Nasdaq #InteligenciaArtificial",
+ "slides": [
+  "posts/20261125-1225/slide_1.jpg",
+  "posts/20261125-1225/slide_2.jpg",
+  "posts/20261125-1225/slide_3.jpg",
+  "posts/20261125-1225/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "AI Selloff Deepens: Nasdaq Down 4% As Nvidia Sharply Falls",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRU5aOU5KVzlUeDlfOUhiWEFCNkxQd21DUGM3NlZROHBZOWNyODdDNXV5SW42dkQwRnNob3p1R1R3UVFYWThFMHRpMGlnQ1hBSGh5ZFM5OF9Db0M3TXFoMi1vd0RSa25EUkI2NG03MFhtQW5oUjVGQUo0YTZUZW80LUxMdjREOXFoaExfby01NkY3S2dVNUZNRHpTbnA?oc=5",
+   "source": "Forbes"
+  },
+  {
+   "title": "Nasdaq Futures Tumble as AI Selloff Returns",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNVZEZVVpM2pKb2t2dDktNWRNZ2xTXzc5aUN3SjNzM1dRbGRHUkZoYjFJY2hRaGZCd1dsNGNXckIxOWg1el9oZnhVVjRNSlpwcjJFLTQxSzZqSFZ1bVZGczJWR2RTT1BUU3BLenB0amhsQWFqRlJWNlNTdkR0dGRlcmNzWDg0R19lMDVwQ2lUdVF5YTQ0SnZKWElqbGwwa3VIemV3WDhVWEpiQQ?oc=5",
+   "source": "WSJ"
+  }
+ ]
+}
