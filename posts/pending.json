@@ -1,54 +1,54 @@
 {
- "id": "20261125-1505",
+ "id": "20261125-1555",
  "post": {
   "skip": false,
   "skip_reason": "",
   "confidence": "alta",
-  "headline": "NOTHING PRESENTA AURICULARES QUE *GRABAN Y RESUMEN* TUS REUNIONES CON *IA*",
-  "badge": "Nothing",
+  "headline": "LA FCC APRUEBA QUE *SPACEX* LANCE HASTA *1 MILLÓN* DE SATÉLITES CON IA",
+  "badge": "SpaceX",
   "photos": [
-   "Nothing Ear",
-   "Nothing Technology",
-   ""
+   "Elon Musk",
+   "Starlink satellites",
+   "Federal Communications Commission"
   ],
   "slides": [
-   "Nothing presentó *Ear (note)*, su primer dispositivo “nativo de IA”. Son auriculares cuyo estuche funciona como grabadora: pueden *transcribir y resumir* charlas en persona, llamadas, reuniones en línea y notas de voz, además de reproducir música en alta resolución.",
-   "Se lanza el *8 de diciembre* y todavía no tiene precio. El estuche tiene botones TALK y RECORD inspirados en el Walkman. Entra a un mercado competido: *Plaud y Amazon* ya ofrecen dispositivos que graban y transcriben conversaciones con IA."
+   "El regulador de comunicaciones de EE. UU. (FCC) autorizó a SpaceX, de Elon Musk, a poner en órbita hasta *1 millón de satélites con chips de IA*. Se llama Starmind y usará energía solar para dar potencia de cómputo a la IA en la Tierra.",
+   "Según The Verge, es la *primera vez que se aprueba una constelación completa* de satélites de IA. SpaceX debe lanzar el primero para 2033 y llegar al millón en 2040. *Amazon y la Sociedad Astronómica Estadounidense* habían pedido rechazarlo."
   ],
-  "caption": "🎧 Nothing presentó Ear (note): auriculares que graban, transcriben y resumen tus conversaciones con IA.\n\nEs el primer dispositivo “nativo de IA” de la marca. El estuche funciona como grabadora, con botones RECORD y TALK inspirados en el Walkman: RECORD graba y transcribe conversaciones, y TALK sirve para grabar tu propia voz. Según la empresa, también resume llamadas, reuniones en línea y notas de voz, sin dejar de lado el audio en alta resolución.\n\n¿Y esto a mí qué? Si pasas el día en reuniones, la idea es no tener que tomar apuntes ni cargar otro aparato. Se lanza el 8 de diciembre; el precio todavía no se conoce y, según 9to5Google, podría incluir una suscripción.\n\n¿Grabarías tus reuniones con los auriculares o le pedirías permiso a todos antes de apretar RECORD?\n\nFuente: Engadget, 9to5Google\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "🛰️ SpaceX tiene luz verde para poner hasta 1 millón de satélites con IA en órbita.\n\nLa FCC, el regulador de comunicaciones de Estados Unidos, autorizó Starmind, el proyecto de la empresa de Elon Musk: satélites con chips de IA y energía solar que, según SpaceX, se conectarán a Starlink. El primero debe lanzarse para 2033 y el millón completarse para 2040.\n\nAmazon, Viasat y la Sociedad Astronómica Estadounidense pidieron rechazarlo. Google y Blue Origin también quieren llevar la IA al espacio.\n\n¿Y esto a mí qué? La carrera por dar más potencia a la IA ya apunta fuera del planeta, y el cielo de noche podría llenarse de satélites.\n\n¿Te preocupa un cielo lleno de satélites o crees que la IA en el espacio es el futuro?\n\nFuente: CNBC, The Verge\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "NothingEarNote",
-   "Nothing",
-   "AuricularesIA"
+   "SpaceX",
+   "Starmind",
+   "InteligenciaArtificial"
   ],
   "image_prompts": [
-   "3D illustration of sleek transparent wireless earbuds floating above an open squared aluminum charging case, glowing sound waves turning into floating paper notes, soft purple and cyan studio lighting, clean dark background, no text",
-   "3D illustration of a meeting table seen from above with empty chairs, a small metallic earbud case in the center emitting glowing audio waves that transform into abstract floating document cards, minimal style, no text or letters",
-   "Close-up 3D illustration of a retro-inspired metallic device with two large tactile round buttons and clear windows shaped like topographic contour lines, soft reflections, futuristic minimal scene, no logos, no text, no inscriptions"
+   "3D illustration of a vast swarm of small glowing satellites with solar panel wings orbiting above a blue Earth at dawn, thin laser beams connecting them, deep space background, cinematic wide shot, no text",
+   "Close-up 3D render of a sleek satellite with large golden solar panels and a glowing server core inside, floating in space with the sun flaring behind it, clean futuristic style, no text or logos",
+   "3D illustration of a night sky over quiet mountains filled with countless tiny moving satellite lights forming bright streaks, a small observatory dome below, moody blue and violet tones, no people, no text"
   ],
   "reel_script": [
-   "Nothing presentó unos auriculares que graban tus conversaciones y te las resumen solos.",
-   "Se llaman *Ear note* y son el primer dispositivo nativo de inteligencia artificial de Nothing. El estuche funciona como grabadora y, con IA, transcribe y resume llamadas, reuniones y charlas.",
-   "Se lanza el *8 de diciembre* y aún no tiene precio. *Plaud y Amazon* ya tienen grabadoras con IA, pero esta trae los auriculares dentro."
+   "Un millón de satélites con inteligencia artificial acaban de recibir luz verde.",
+   "El regulador de Estados Unidos autorizó a *SpaceX*, de Elon Musk, a poner hasta un millón de satélites. Llevan chips de inteligencia artificial y funcionan con energía solar.",
+   "SpaceX debe lanzar el primer satélite para 2033, y el millón, para 2040. Amazon y los astrónomos pidieron frenarlo. Pero la *carrera de la IA* ya salió del planeta."
   ]
  },
- "caption": "🎧 Nothing presentó Ear (note): auriculares que graban, transcriben y resumen tus conversaciones con IA.\n\nEs el primer dispositivo “nativo de IA” de la marca. El estuche funciona como grabadora, con botones RECORD y TALK inspirados en el Walkman: RECORD graba y transcribe conversaciones, y TALK sirve para grabar tu propia voz. Según la empresa, también resume llamadas, reuniones en línea y notas de voz, sin dejar de lado el audio en alta resolución.\n\n¿Y esto a mí qué? Si pasas el día en reuniones, la idea es no tener que tomar apuntes ni cargar otro aparato. Se lanza el 8 de diciembre; el precio todavía no se conoce y, según 9to5Google, podría incluir una suscripción.\n\n¿Grabarías tus reuniones con los auriculares o le pedirías permiso a todos antes de apretar RECORD?\n\nFuente: Engadget, 9to5Google\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Premeditated / Wikimedia Commons (CC BY-SA 4.0)\n\n#NothingEarNote #Nothing #AuricularesIA",
+ "caption": "🛰️ SpaceX tiene luz verde para poner hasta 1 millón de satélites con IA en órbita.\n\nLa FCC, el regulador de comunicaciones de Estados Unidos, autorizó Starmind, el proyecto de la empresa de Elon Musk: satélites con chips de IA y energía solar que, según SpaceX, se conectarán a Starlink. El primero debe lanzarse para 2033 y el millón completarse para 2040.\n\nAmazon, Viasat y la Sociedad Astronómica Estadounidense pidieron rechazarlo. Google y Blue Origin también quieren llevar la IA al espacio.\n\n¿Y esto a mí qué? La carrera por dar más potencia a la IA ya apunta fuera del planeta, y el cielo de noche podría llenarse de satélites.\n\n¿Te preocupa un cielo lleno de satélites o crees que la IA en el espacio es el futuro?\n\nFuente: CNBC, The Verge\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Wcamp9 / Wikimedia Commons (CC BY 4.0)\n📸 Foto: Jakub Hałun / Wikimedia Commons (CC BY 4.0)\n🎥 Video: U.S. Space Force video by Gwendolyn Kurz / Wikimedia Commons (Public domain)\n🎥 Video: World Economic Forum / Wikimedia Commons (CC BY 4.0)\n\n#SpaceX #Starmind #InteligenciaArtificial",
  "slides": [
-  "posts/20261125-1505/slide_1.jpg",
-  "posts/20261125-1505/slide_2.jpg",
-  "posts/20261125-1505/slide_3.jpg",
-  "posts/20261125-1505/slide_4.jpg"
+  "posts/20261125-1555/slide_1.jpg",
+  "posts/20261125-1555/slide_2.jpg",
+  "posts/20261125-1555/slide_3.jpg",
+  "posts/20261125-1555/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "Nothing's Ear (note) is a pair of earbuds with built-in AI notetaking",
-   "link": "https://www.engadget.com/2328122/nothings-ear-note-is-a-pair-of-earbuds-with-built-in-ai-notetaking/",
-   "source": "Engadget"
+   "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+   "link": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+   "source": "CNBC"
   },
   {
-   "title": "Nothing Ear (note) is yet another AI recorder, but with earbuds inside",
-   "link": "https://9to5google.com/2026/11/25/nothing-ear-note-ai-recorder-teaser/",
-   "source": "9to5Google"
+   "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+   "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+   "source": "The Verge"
   }
  ]
 }
