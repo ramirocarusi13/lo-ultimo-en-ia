@@ -8,3 +8,12 @@
 - cazador-videos: sin clips libres relacionados → sin Reel, va CARRUSEL.
 
 Cambios aplicados: titular "TIDAL *PROHIBIRÁ LA MÚSICA* 100% IA Y BORRARÁ *27 MILLONES* DE CANCIONES"; cifras atribuidas a la empresa en slide 2, caption y guion; caption recortado a <150 palabras; guion con los cambios del guionista y del verificador.
+
+## Después del armado
+- productor: CARRUSEL (noticia de datos, sin video real con licencia libre → sin Reel).
+- director-arte: CAMBIOS, 5/10. La foto real del slide 3 ("Spotify" en Commons) era una protesta política en Polonia con personas reconocibles → reemplazada por ilustración. Portada: texto de interfaz deformado en la pantalla del celular (menor).
+- editor-video: no corrió (no hay reel.mp4).
+
+Cambios tras la revisión visual: photos[2] → "" y rearmado (1 vez). Slide 3 ahora es ilustración (auriculares, guitarra y robot con señal de pare sin letras); se fue el crédito de foto del caption. La portada reutilizó la ilustración en caché (detalle menor aceptado).
+Etiqueta de IA: no hace falta (son ilustraciones 3D sin personas ni fotorrealismo), aunque se puede marcar "Hecho con IA" por las imágenes generadas.
+Veredicto final: listo para revisar, formato CARRUSEL.
