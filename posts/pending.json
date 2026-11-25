@@ -1,59 +1,54 @@
 {
- "id": "20261124-1925",
+ "id": "20261124-2135",
  "post": {
   "skip": false,
   "skip_reason": "",
   "confidence": "alta",
-  "headline": "LA IA *MUSE* DE META LLEGA A LOS *MENSAJES DE INSTAGRAM*",
-  "badge": "Meta",
+  "headline": "JURADO DE EE.UU.: *HUAWEI, CULPABLE* DE CONSPIRAR PARA ROBAR *SECRETOS COMERCIALES*",
+  "badge": "Huawei",
   "photos": [
-   "Instagram app",
-   "Mark Zuckerberg",
-   ""
+   "Huawei headquarters",
+   "Theodore Roosevelt United States Courthouse",
+   "Huawei store"
   ],
   "slides": [
-   "Meta empezó a sumar a *Muse*, su agente personal de IA, dentro de los mensajes directos de Instagram. Se le puede preguntar por una publicación, un lugar o un producto, y pedirle que *organice tus guardados* en colecciones.",
-   "Además es negocio: según Mark Zuckerberg, *el 25% de los usuarios de Muse compra* con el agente, con una compra promedio de más de 200 dólares. Y según Forter, Muse hizo *el 51% de los pedidos con agentes* en la semana al 22 de noviembre."
+   "Un jurado de un tribunal federal de Brooklyn declaró a *Huawei culpable de 10 de los 12 cargos*, entre ellos conspiración para robar secretos comerciales, fraude bancario y conspiración para violar sanciones de EE.UU. Pero la absolvió del cargo más grave: *crimen organizado*.",
+   "Huawei ya tenía prohibido vender sus productos en EE.UU., pero el fallo podría costarle *miles de millones de dólares en multas*, según AP. La empresa dice que los cargos restantes no tienen base y *planea apelar*. La sentencia está prevista para septiembre de 2027."
   ],
-  "caption": "📱 Muse, el agente de IA de Meta, empieza a llegar a los mensajes de Instagram.\n\nEl lanzamiento arrancó este martes en Estados Unidos, Canadá, México, Japón y Singapur. Puedes mandarle una publicación y pedirle que agregue un café a tu itinerario, que busque una oferta de Black Friday o que convierta un video de receta en una lista de compras. Según Meta, no comparte ni envía nada sin tu aprobación.\n\n¿Y esto a mí qué? Según Zuckerberg, el 25% de los usuarios de Muse compra con el agente, y Meta planea cobrar una pequeña comisión por esas compras. Y según un ejecutivo de Meta citado por CNBC, Muse ya ayuda a sus anuncios porque sube las conversiones.\n\n¿Dejarías que una IA organice tus guardados y compre por ti en Instagram?\n\nFuente: TechCrunch, Engadget, CNBC\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "⚖️ Un jurado de EE.UU. declaró a Huawei culpable de conspirar para robar secretos comerciales.\n\nEl juicio duró dos meses en un tribunal federal de Brooklyn. El jurado halló culpable a la empresa china de 10 de los 12 cargos, incluidos fraude bancario y conspiración para violar sanciones de EE.UU. Pero la absolvió del cargo más grave: crimen organizado.\n\n¿Y esto a mí qué? Huawei ya tenía prohibido vender sus productos en EE.UU. por un veto de la FCC, pero según AP el fallo podría costarle miles de millones de dólares en multas. La empresa dice que los cargos restantes no tienen base y planea apelar. La sentencia está prevista para septiembre de 2027.\n\n¿Crees que este fallo cambia algo en la pelea tecnológica entre EE.UU. y China?\n\nFuente: Engadget, BBC, AP\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "Instagram",
-   "MetaMuse",
-   "AgentesDeIA"
+   "Huawei",
+   "secretoscomerciales",
+   "EEUUvsChina"
   ],
   "image_prompts": [
-   "3D illustration of a glowing smartphone floating in a dark violet space, an abstract conversation of rounded chat bubbles beside a friendly glowing orb assistant, soft neon pink and blue lighting, cinematic depth, no text, no logos",
-   "3D illustration of colorful blank photo cards and video thumbnails flying out of a phone and sorting themselves into floating folders, simple food, travel and clothing shapes, soft studio lighting, clean pastel background, no text",
-   "Isometric 3D illustration of a small shopping bag and gift boxes riding on glowing message bubbles toward a storefront made of light, sparkling coins around, pastel neon colors, wide shot, no text or logos"
+   "3D illustration of a glowing wooden judge gavel resting on a sleek network router, dramatic blue and red lighting, dark courtroom background, cinematic composition, no text, no logos",
+   "3D illustration of a translucent glass vault with glowing circuit boards and padlocked folders inside, digital particles leaking out, deep navy background, isometric view, no text, no logos",
+   "3D illustration of a balance scale weighing a stack of gold coins against a telecom antenna tower, soft studio lighting, minimal dark gradient background, wide shot, no text, no logos"
   ],
   "reel_script": [
-   "Meta empieza a meter su agente Muse en tus mensajes de Instagram.",
-   "Empieza a llegar a cinco países, entre ellos *México*. Le mandas una publicación y te ayuda a armar un itinerario, buscar ofertas o convertir una receta en *lista de compras*.",
-   "Y aquí está el negocio: según Zuckerberg, *uno de cada cuatro* usuarios de Muse ya compra con el agente. Meta planea cobrar una pequeña *comisión* por cada compra."
+   "Huawei fue declarada culpable en Estados Unidos, pero se libró del cargo más grave.",
+   "Un jurado de Brooklyn la halló culpable de *10 de 12 cargos*, como conspirar para robar secretos comerciales y fraude bancario. Pero no de crimen organizado.",
+   "El fallo podría costarle *miles de millones* de dólares en multas. Huawei planea apelar, y la sentencia está prevista para septiembre de 2027."
   ]
  },
- "caption": "📱 Muse, el agente de IA de Meta, empieza a llegar a los mensajes de Instagram.\n\nEl lanzamiento arrancó este martes en Estados Unidos, Canadá, México, Japón y Singapur. Puedes mandarle una publicación y pedirle que agregue un café a tu itinerario, que busque una oferta de Black Friday o que convierta un video de receta en una lista de compras. Según Meta, no comparte ni envía nada sin tu aprobación.\n\n¿Y esto a mí qué? Según Zuckerberg, el 25% de los usuarios de Muse compra con el agente, y Meta planea cobrar una pequeña comisión por esas compras. Y según un ejecutivo de Meta citado por CNBC, Muse ya ayuda a sus anuncios porque sube las conversiones.\n\n¿Dejarías que una IA organice tus guardados y compre por ti en Instagram?\n\nFuente: TechCrunch, Engadget, CNBC\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Anthony Quintano from Westminster, Unite / Wikimedia Commons (CC BY 2.0)\n\n#Instagram #MetaMuse #AgentesDeIA",
+ "caption": "⚖️ Un jurado de EE.UU. declaró a Huawei culpable de conspirar para robar secretos comerciales.\n\nEl juicio duró dos meses en un tribunal federal de Brooklyn. El jurado halló culpable a la empresa china de 10 de los 12 cargos, incluidos fraude bancario y conspiración para violar sanciones de EE.UU. Pero la absolvió del cargo más grave: crimen organizado.\n\n¿Y esto a mí qué? Huawei ya tenía prohibido vender sus productos en EE.UU. por un veto de la FCC, pero según AP el fallo podría costarle miles de millones de dólares en multas. La empresa dice que los cargos restantes no tienen base y planea apelar. La sentencia está prevista para septiembre de 2027.\n\n¿Crees que este fallo cambia algo en la pelea tecnológica entre EE.UU. y China?\n\nFuente: Engadget, BBC, AP\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: ajay_suresh / Wikimedia Commons (CC BY 4.0)\n📸 Foto: Ghaud Lnegauk / Wikimedia Commons (CC0)\n\n#Huawei #secretoscomerciales #EEUUvsChina",
  "slides": [
-  "posts/20261124-1925/slide_1.jpg",
-  "posts/20261124-1925/slide_2.jpg",
-  "posts/20261124-1925/slide_3.jpg",
-  "posts/20261124-1925/slide_4.jpg"
+  "posts/20261124-2135/slide_1.jpg",
+  "posts/20261124-2135/slide_2.jpg",
+  "posts/20261124-2135/slide_3.jpg",
+  "posts/20261124-2135/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
-   "link": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html",
-   "source": "CNBC"
-  },
-  {
-   "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-   "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-   "source": "TechCrunch"
-  },
-  {
-   "title": "Meta is bringing Muse to Instagram",
-   "link": "https://www.engadget.com/2326663/meta-is-bringing-muse-to-instagram/",
+   "title": "Huawei is guilty of conspiracy to steal trade secrets, US jury rules",
+   "link": "https://www.engadget.com/2327450/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules/",
    "source": "Engadget"
+  },
+  {
+   "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+   "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC"
   }
  ]
 }
