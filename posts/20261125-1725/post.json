@@ -1,0 +1,54 @@
+{
+ "id": "20261125-1725",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "*42 FISCALES* QUIEREN FRENAR LA SUBASTA DE *CHATS* DE CHARACTER.AI",
+  "badge": "Character",
+  "photos": [
+   "Rob Bonta",
+   "",
+   "Phil Weiser"
+  ],
+  "slides": [
+   "Character.AI, la app de chatbots que se declaró en *quiebra en octubre*, quiere subastar sus activos el 1 de diciembre. Según los fiscales, eso incluye *historiales de chats privados* y direcciones IP de sus usuarios, muchos de ellos menores de edad.",
+   "*42 fiscales generales* de Estados Unidos piden al tribunal frenar la venta. Según ellos, incluye chats de más de 21 millones de cuentas estadounidenses, *más de 2,1 millones de menores*, y el comprador podría hacer lo que quiera con esos datos, incluso revenderlos."
+  ],
+  "caption": "⚖️ 42 fiscales de Estados Unidos intentan frenar la subasta de los chats de Character.AI, prevista para el 1 de diciembre.\n\nLa empresa se declaró en quiebra en octubre y quiere vender sus activos. Según los fiscales, eso incluye chats de más de 21 millones de cuentas estadounidenses, más de 2,1 millones de menores, y direcciones IP. El único oferente anónimo revelado, Smirks and Pangs Acquisition LLC, se creó un día antes de ser elegido como oferta base. Character.AI asegura que los datos seguirán protegidos por su política de privacidad.\n\n¿Y esto a mí qué? Lo que le cuentas a un chatbot puede cambiar de dueño si la empresa quiebra. Según los fiscales, Character.AI había prometido no vender esos datos.\n\n¿Borrarías tus chats con una IA si supieras que pueden venderse en una quiebra?\n\nFuente: TechCrunch, Engadget.\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "CharacterAI",
+   "privacidad",
+   "chatbots"
+  ],
+  "image_prompts": [
+   "3D illustration of a glowing chat bubble locked inside a glass display case on an auction podium, a wooden gavel resting beside it, dramatic spotlight, dark blue background, cinematic lighting, no text",
+   "3D illustration of a broken piggy bank surrounded by floating speech bubbles drifting toward an open cardboard box, soft purple lighting, minimalist studio scene, symbolic of a bankrupt company selling data, no text",
+   "3D illustration of a large golden courthouse scale balancing a stack of glowing chat bubbles against a shield with a padlock, marble columns in the background, warm dramatic light, wide angle view, no text"
+  ],
+  "reel_script": [
+   "Una empresa de chatbots en quiebra quiere subastar los chats privados de sus usuarios.",
+   "Character.AI quebró en octubre y subasta sus activos el 1 de diciembre. Según *42 fiscales*, incluye chats de más de 21 millones de cuentas, entre ellas más de 2,1 millones de menores.",
+   "Pero los fiscales piden *frenar la venta*, porque el comprador podría revender esos datos. Lo que le cuentas a un chatbot puede cambiar de dueño."
+  ]
+ },
+ "caption": "⚖️ 42 fiscales de Estados Unidos intentan frenar la subasta de los chats de Character.AI, prevista para el 1 de diciembre.\n\nLa empresa se declaró en quiebra en octubre y quiere vender sus activos. Según los fiscales, eso incluye chats de más de 21 millones de cuentas estadounidenses, más de 2,1 millones de menores, y direcciones IP. El único oferente anónimo revelado, Smirks and Pangs Acquisition LLC, se creó un día antes de ser elegido como oferta base. Character.AI asegura que los datos seguirán protegidos por su política de privacidad.\n\n¿Y esto a mí qué? Lo que le cuentas a un chatbot puede cambiar de dueño si la empresa quiebra. Según los fiscales, Character.AI había prometido no vender esos datos.\n\n¿Borrarías tus chats con una IA si supieras que pueden venderse en una quiebra?\n\nFuente: TechCrunch, Engadget.\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Douglas Despres, California Attorney Gen / Wikimedia Commons (Public domain)\n📸 Foto: Phil's Photos / Wikimedia Commons (Public domain)\n\n#CharacterAI #privacidad #chatbots",
+ "slides": [
+  "posts/20261125-1725/slide_1.jpg",
+  "posts/20261125-1725/slide_2.jpg",
+  "posts/20261125-1725/slide_3.jpg",
+  "posts/20261125-1725/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "State AGs are trying to stop Character.AI from auctioning off users' chat histories",
+   "link": "https://www.engadget.com/2328630/state-ags-are-trying-to-stop-characterai-from-auctioning-off-users-chat-histories/",
+   "source": "Engadget"
+  },
+  {
+   "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+   "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+   "source": "TechCrunch"
+  }
+ ]
+}

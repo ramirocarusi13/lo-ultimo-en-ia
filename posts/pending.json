@@ -1,54 +1,54 @@
 {
- "id": "20261125-1555",
+ "id": "20261125-1725",
  "post": {
   "skip": false,
   "skip_reason": "",
   "confidence": "alta",
-  "headline": "LA FCC APRUEBA QUE *SPACEX* LANCE HASTA *1 MILLÓN* DE SATÉLITES CON IA",
-  "badge": "SpaceX",
+  "headline": "*42 FISCALES* QUIEREN FRENAR LA SUBASTA DE *CHATS* DE CHARACTER.AI",
+  "badge": "Character",
   "photos": [
-   "Elon Musk",
+   "Rob Bonta",
    "",
-   "Federal Communications Commission"
+   "Phil Weiser"
   ],
   "slides": [
-   "El regulador de comunicaciones de EE. UU. (FCC) autorizó a SpaceX, de Elon Musk, a poner en órbita hasta *1 millón de satélites con chips de IA*. Se llama Starmind y usará energía solar para dar potencia de cómputo a la IA en la Tierra.",
-   "Según The Verge, es la *primera vez que se aprueba una constelación completa* de satélites de IA. SpaceX debe lanzar el primero para 2033 y llegar al millón en 2040. *Amazon y la Sociedad Astronómica Estadounidense* habían pedido rechazarlo."
+   "Character.AI, la app de chatbots que se declaró en *quiebra en octubre*, quiere subastar sus activos el 1 de diciembre. Según los fiscales, eso incluye *historiales de chats privados* y direcciones IP de sus usuarios, muchos de ellos menores de edad.",
+   "*42 fiscales generales* de Estados Unidos piden al tribunal frenar la venta. Según ellos, incluye chats de más de 21 millones de cuentas estadounidenses, *más de 2,1 millones de menores*, y el comprador podría hacer lo que quiera con esos datos, incluso revenderlos."
   ],
-  "caption": "🛰️ SpaceX tiene luz verde para poner hasta 1 millón de satélites con IA en órbita.\n\nLa FCC, el regulador de comunicaciones de Estados Unidos, autorizó Starmind, el proyecto de la empresa de Elon Musk: satélites con chips de IA y energía solar que, según SpaceX, se conectarán a Starlink. El primero debe lanzarse para 2033 y el millón completarse para 2040.\n\nAmazon, Viasat y la Sociedad Astronómica Estadounidense pidieron rechazarlo. Google y Blue Origin también quieren llevar la IA al espacio.\n\n¿Y esto a mí qué? La carrera por dar más potencia a la IA ya apunta fuera del planeta, y el cielo de noche podría llenarse de satélites.\n\n¿Te preocupa un cielo lleno de satélites o crees que la IA en el espacio es el futuro?\n\nFuente: CNBC, The Verge\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "⚖️ 42 fiscales de Estados Unidos intentan frenar la subasta de los chats de Character.AI, prevista para el 1 de diciembre.\n\nLa empresa se declaró en quiebra en octubre y quiere vender sus activos. Según los fiscales, eso incluye chats de más de 21 millones de cuentas estadounidenses, más de 2,1 millones de menores, y direcciones IP. El único oferente anónimo revelado, Smirks and Pangs Acquisition LLC, se creó un día antes de ser elegido como oferta base. Character.AI asegura que los datos seguirán protegidos por su política de privacidad.\n\n¿Y esto a mí qué? Lo que le cuentas a un chatbot puede cambiar de dueño si la empresa quiebra. Según los fiscales, Character.AI había prometido no vender esos datos.\n\n¿Borrarías tus chats con una IA si supieras que pueden venderse en una quiebra?\n\nFuente: TechCrunch, Engadget.\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "SpaceX",
-   "Starmind",
-   "InteligenciaArtificial"
+   "CharacterAI",
+   "privacidad",
+   "chatbots"
   ],
   "image_prompts": [
-   "3D illustration of a vast swarm of small glowing satellites with solar panel wings orbiting above a blue Earth at dawn, thin laser beams connecting them, deep space background, cinematic wide shot, no text",
-   "Close-up 3D render of a sleek satellite with large golden solar panels and a glowing server core inside, floating in space with the sun flaring behind it, clean futuristic style, no text or logos",
-   "3D illustration of a night sky over quiet mountains filled with countless tiny satellite lights as small dots in a grid-like swarm with short faint streaks, a small observatory dome below, moody blue and violet tones, no people, no text"
+   "3D illustration of a glowing chat bubble locked inside a glass display case on an auction podium, a wooden gavel resting beside it, dramatic spotlight, dark blue background, cinematic lighting, no text",
+   "3D illustration of a broken piggy bank surrounded by floating speech bubbles drifting toward an open cardboard box, soft purple lighting, minimalist studio scene, symbolic of a bankrupt company selling data, no text",
+   "3D illustration of a large golden courthouse scale balancing a stack of glowing chat bubbles against a shield with a padlock, marble columns in the background, warm dramatic light, wide angle view, no text"
   ],
   "reel_script": [
-   "Un millón de satélites con inteligencia artificial acaban de recibir luz verde.",
-   "El regulador de Estados Unidos autorizó a *SpaceX*, de Elon Musk, a poner hasta un millón de satélites. Llevan chips de inteligencia artificial y funcionan con energía solar.",
-   "SpaceX debe lanzar el primer satélite para 2033, y el millón, para 2040. Amazon y los astrónomos pidieron frenarlo. Pero la *carrera de la IA* ya salió del planeta."
+   "Una empresa de chatbots en quiebra quiere subastar los chats privados de sus usuarios.",
+   "Character.AI quebró en octubre y subasta sus activos el 1 de diciembre. Según *42 fiscales*, incluye chats de más de 21 millones de cuentas, entre ellas más de 2,1 millones de menores.",
+   "Pero los fiscales piden *frenar la venta*, porque el comprador podría revender esos datos. Lo que le cuentas a un chatbot puede cambiar de dueño."
   ]
  },
- "caption": "🛰️ SpaceX tiene luz verde para poner hasta 1 millón de satélites con IA en órbita.\n\nLa FCC, el regulador de comunicaciones de Estados Unidos, autorizó Starmind, el proyecto de la empresa de Elon Musk: satélites con chips de IA y energía solar que, según SpaceX, se conectarán a Starlink. El primero debe lanzarse para 2033 y el millón completarse para 2040.\n\nAmazon, Viasat y la Sociedad Astronómica Estadounidense pidieron rechazarlo. Google y Blue Origin también quieren llevar la IA al espacio.\n\n¿Y esto a mí qué? La carrera por dar más potencia a la IA ya apunta fuera del planeta, y el cielo de noche podría llenarse de satélites.\n\n¿Te preocupa un cielo lleno de satélites o crees que la IA en el espacio es el futuro?\n\nFuente: CNBC, The Verge\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Wcamp9 / Wikimedia Commons (CC BY 4.0)\n🎥 Video: U.S. Space Force video by Gwendolyn Kurz / Wikimedia Commons (Public domain)\n🎥 Video: World Economic Forum / Wikimedia Commons (CC BY 4.0)\n\n#SpaceX #Starmind #InteligenciaArtificial",
+ "caption": "⚖️ 42 fiscales de Estados Unidos intentan frenar la subasta de los chats de Character.AI, prevista para el 1 de diciembre.\n\nLa empresa se declaró en quiebra en octubre y quiere vender sus activos. Según los fiscales, eso incluye chats de más de 21 millones de cuentas estadounidenses, más de 2,1 millones de menores, y direcciones IP. El único oferente anónimo revelado, Smirks and Pangs Acquisition LLC, se creó un día antes de ser elegido como oferta base. Character.AI asegura que los datos seguirán protegidos por su política de privacidad.\n\n¿Y esto a mí qué? Lo que le cuentas a un chatbot puede cambiar de dueño si la empresa quiebra. Según los fiscales, Character.AI había prometido no vender esos datos.\n\n¿Borrarías tus chats con una IA si supieras que pueden venderse en una quiebra?\n\nFuente: TechCrunch, Engadget.\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Douglas Despres, California Attorney Gen / Wikimedia Commons (Public domain)\n📸 Foto: Phil's Photos / Wikimedia Commons (Public domain)\n\n#CharacterAI #privacidad #chatbots",
  "slides": [
-  "posts/20261125-1555/slide_1.jpg",
-  "posts/20261125-1555/slide_2.jpg",
-  "posts/20261125-1555/slide_3.jpg",
-  "posts/20261125-1555/slide_4.jpg"
+  "posts/20261125-1725/slide_1.jpg",
+  "posts/20261125-1725/slide_2.jpg",
+  "posts/20261125-1725/slide_3.jpg",
+  "posts/20261125-1725/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
-   "link": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
-   "source": "CNBC"
+   "title": "State AGs are trying to stop Character.AI from auctioning off users' chat histories",
+   "link": "https://www.engadget.com/2328630/state-ags-are-trying-to-stop-characterai-from-auctioning-off-users-chat-histories/",
+   "source": "Engadget"
   },
   {
-   "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
-   "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
-   "source": "The Verge"
+   "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+   "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+   "source": "TechCrunch"
   }
  ]
 }

@@ -569,7 +569,9 @@
   "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRlZaMk1nd042X3JsMEZNUmNYdTBibGszaGU2M0RoT2c0U3QwcE80ZnBhTDVXa1ozclV1ZUJpX3FFMWNPaVhqUUJaU0R5QVFPUmdUNlo0WG5vXy1RbURjcHN5aUdYTmZsLTlIYWJRSmRXZFh1SUU1Q1NZbjZnTFJuN0lvOXliU195UUJ2aFB6dW5XNEpJTUpUSEItVUVIQUk0N2tTRm83cHhNLTFUTkN3bmw2TThJNzBudHhHWXRTb09lMU9iY0RV?oc=5",
   "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNa3o4OTdPXy1nWTNRLTZ6c1o1SFc3aVJRT0Fua2ZHMDhBMVVoMHEyeVlfbER5NElzQkR0cWpVZ29vOVJpQXhZY3Aza0RqMGlwUVdkdVhsUk5rMkg1bE9rZkRadXg2VnFwVnlDRUNpc2VJUmdFekttazRtdnJlZjBzVXEtZVNRU2lfV2FOSEFIOEZZY0ZncGxmRFBMZjdMRjdxLTNyUWQwQXY1MW9hVzZjOEtHUlFZcmowQ3NkNURrRzdSSEtSMkw5S0d0ZUptUnNtOHJwR25FWmdDZE1IVm9DNndmWQ?oc=5",
   "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
-  "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+  "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+  "https://www.engadget.com/2328630/state-ags-are-trying-to-stop-characterai-from-auctioning-off-users-chat-histories/",
+  "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -807,7 +809,8 @@
   "Where scientists draw the line on AI agents",
   "Del turismo a las finanzas: cómo las empresas utilizan la inteligencia artificial para crecer",
   "Inteligencia Artificial revoluciona la industria farmacéutica: Bagó mira a China para innovar",
-  "SpaceX wins FCC approval to deploy 1 million orbital data center satellites"
+  "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+  "State AGs are trying to stop Character.AI from auctioning off users' chat histories"
  ],
  "history": [
   {
@@ -2218,6 +2221,12 @@
   {
    "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
    "at": 1795633427,
+   "permalink": null,
+   "kind": "post"
+  },
+  {
+   "title": "State AGs are trying to stop Character.AI from auctioning off users' chat histories",
+   "at": 1795638855,
    "permalink": null,
    "kind": "post"
   }
