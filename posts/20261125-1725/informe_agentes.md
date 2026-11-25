@@ -8,3 +8,8 @@
 - **editor-estilo** — CAMBIOS, 8/10. Máx. 4 palabras resaltadas en el titular, recortar caption a ≤150. Aplicado.
 - **guionista-reels** — CAMBIOS, gancho 6→8. Gancho directo sin condicional, oraciones cortas. Aplicado (gancho sin cifra no atribuida).
 - **cazador-videos** — sin clips con licencia libre (11 descartados). Sin Reel: va carrusel.
+- **productor** — FORMATO: CARRUSEL (noticia legal/privacidad, sin video real).
+- **director-arte** — OK, 8/10. Fotos correctas (Bonta y Weiser, sin terceros), texto legible. Opcional: ilustración del slide 2 algo apagada (no se regeneró).
+- **editor-video** — no aplica (sin Reel).
+
+**Veredicto del jefe de redacción:** listo para revisar. Cambios aplicados: precisión de cifras (verificador), atribución en slide 1 (legal), titular y caption recortados (estilo), guion más directo (guionista). Confianza alta. **Sin etiqueta de IA** (fotos reales de Wikimedia + ilustraciones 3D simbólicas).
