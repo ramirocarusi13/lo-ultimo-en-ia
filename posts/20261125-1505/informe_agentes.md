@@ -7,3 +7,4 @@
 - **editor-estilo**: CAMBIOS, 8/10. Bajó el resaltado del titular a 4 palabras y cambió "online" por "en línea". Aplicados. Mantuve el "¿Y esto a mí qué?", que es parte de la fórmula de la cuenta.
 - **revisor-legal**: OK, riesgo bajo. Sin etiqueta de IA (son ilustraciones 3D sin personas).
 - **guionista-reels**: CAMBIOS, gancho 5/10. Gancho más directo y cierre con el dato diferencial (los auriculares van dentro del estuche). Aplicado, pero con "presentó" en vez de "acaba de lanzar".
+- **cazador-videos**: no encontró clips con licencia libre (descartó 2 que no tenían relación con la noticia). Sin Reel: va carrusel. No pudo confirmar que exista un video oficial, así que el caption no lo menciona.

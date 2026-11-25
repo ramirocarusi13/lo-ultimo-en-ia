@@ -12,3 +12,8 @@
 - **Editor de estilo — CAMBIOS, 8/10:** titular con 3 palabras resaltadas (antes eran 5), "usas" en vez de "usás", "en línea" en vez de "online", "botones" en plural en el Reel. Aplicado.
 - **Guionista — CAMBIOS, gancho 6→7:** gancho nuevo y textos 2 y 3 reescritos. Aplicado (en la voz, la atribución dice "según medios especializados").
 - **Cazador de videos — sin clips:** no encontró videos con licencia libre de Ear (note), así que va carrusel. No agregué la línea del video original porque no está verificada.
+
+## Revisión visual
+- **Productor — CARRUSEL:** sin video real no hay Reel.
+- **Director de arte — CAMBIOS, 6/10:** la foto de portada estaba borrosa y era de un modelo anterior de Nothing, y el slide 3 tenía texto deformado. Puse "" en la portada (va la ilustración, para no confundir con otro producto) y pedí tarjetas sin escritura en el slide 3. Se rearmó una vez.
+- **Etiqueta de IA:** no (las ilustraciones son 3D, no fotos realistas).
