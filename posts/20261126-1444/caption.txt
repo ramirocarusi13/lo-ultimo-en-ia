@@ -1,0 +1,20 @@
+🛰️ SpaceX recibió permiso para lanzar hasta un millón de satélites que funcionarían como centros de datos en el espacio.
+
+El regulador de comunicaciones de Estados Unidos (FCC) aprobó el proyecto Starmind, la primera autorización de este tipo en el país. La idea: procesar en órbita los datos de la inteligencia artificial con energía solar casi constante.
+
+El permiso exige un satélite operativo para noviembre de 2033 y como mínimo 100.000 para 2035. Las primeras pruebas serían a fines de 2027, según Reuters.
+
+¿Por qué importa? La IA consume muchísima energía y en la Tierra cuesta construir centros de datos nuevos. Según Xataka, un astrofísico advirtió que enfriar equipos en el vacío es muy difícil, y el plan sumaría basura espacial.
+
+¿Te parece buena idea llenar la órbita de servidores para alimentar a la IA?
+
+Fuente: Xataka, Infobae
+📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.
+
+📸 Foto: Wcamp9 / Wikimedia Commons (CC BY 4.0)
+📸 Foto: Jakub Hałun / Wikimedia Commons (CC BY 4.0)
+📸 Foto: NASA/Tony Gray and Kevin O'Connell / Wikimedia Commons (Public domain)
+🎥 Video: World Economic Forum / Wikimedia Commons (CC BY 4.0)
+🎥 Video: U.S. Space Force video by Gwendolyn Kurz / Wikimedia Commons (Public domain)
+
+#SpaceX #CentrosDeDatos #Starmind
