@@ -10,3 +10,9 @@
 - **editor-estilo** — CAMBIOS, 7/10. Aplicado: caption recortado a ≤150 palabras, Reuters en "Fuente", oraciones del guion más cortas.
 - Guion final: gancho atribuido (legal) + cierre con la incertidumbre (guionista).
 - **cazador-videos** — sin clips con licencia válida (5 descartados: canales de comentario, material ajeno o terceros identificables). Va como carrusel, sin Reel.
+- **director-arte** — OK, 8/10. Texto legible, sin personas reconocibles. Sugerencia opcional (foto de Singapur genérica) no aplicada.
+- **productor** — CARRUSEL (noticia de regulación, sin video real; no hay Reel).
+- **editor-video** — no corrió (no hay reel.mp4).
+
+**Veredicto final:** CARRUSEL, listo para revisar. Puntajes: tendencias 30/50 · verificador 8 · estilo 7 · legal riesgo medio (resuelto con atribución) · arte 8.
+**Etiqueta de IA:** no (las 3 imágenes son fotos reales de Wikimedia con crédito en el caption).
