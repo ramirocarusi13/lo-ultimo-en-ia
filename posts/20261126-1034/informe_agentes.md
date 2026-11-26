@@ -8,3 +8,14 @@
 - **revisor-legal** — OK, riesgo bajo. Sin etiqueta de IA (fotos generadas son ilustraciones 3D). Opcional aplicado: "búsquedas o historial".
 - **guionista-reels** — CAMBIOS, gancho 5/10. Aplicado el guion nuevo ("tu hijo puede negarse a aceptarlos"), adaptado con lo del editor.
 - **cazador-videos** — 1 clip: Elon Musk en el Foro Económico Mundial 2026 (Wikimedia Commons, CC BY 4.0). El anuncio original está en la cuenta de Seguridad de X (con derechos): se sumó la línea 🎬 al caption.
+
+## Después del armado
+- **productor** — FORMATO: CARRUSEL. El clip de Musk en Davos no muestra los controles parentales: es relleno.
+- **director-arte** — CAMBIOS, 6/10. Slide 3: calendario con números deformes; slide 2: ilustración muy pálida. Aplicado: 2 image_prompts nuevos (sin calendario, más contraste) y photos[0] vacío.
+- **editor-video** — CAMBIOS, 5/10. Clip sin relación y con logos del WEF y cartel de un tercero; titular tapaba el video; subtítulos cortados.
+
+## Decisión del jefe de redacción
+- Va como **carrusel**, sin Reel: `noclip "Elon Musk"` (se va también el crédito 🎥 del caption).
+- Se regeneraron las ilustraciones de los slides 2 y 3 y se rearmó una vez (paso 4).
+- Etiqueta de IA: **no** hace falta (ilustraciones 3D, no fotos realistas).
+- Puntajes: verificador 9, estilo 8, legal OK (riesgo bajo), guionista 5→reescrito, arte 6→corregido, video 5 (descartado).
