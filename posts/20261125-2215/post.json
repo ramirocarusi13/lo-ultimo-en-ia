@@ -1,0 +1,54 @@
+{
+ "id": "20261125-2215",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "media",
+  "headline": "*HUANG* VUELVE A NVIDIA Y *TRUMP CONFIRMA* QUE PRESIONÓ A LA JUNTA",
+  "badge": "NVIDIA",
+  "photos": [
+   "Jensen Huang#3",
+   "Donald Trump",
+   "Nvidia headquarters"
+  ],
+  "slides": [
+   "La junta de Nvidia *restituyó a Jensen Huang como director ejecutivo*, once días después de su renuncia. Donald Trump confirmó que *presionó a la junta* directamente y a través de intermediarios, y dijo que la caída de las acciones lo ayudó.",
+   "Expertos advierten que Nvidia podría ser *demasiado poderosa para rendir cuentas*. La Justicia investiga a Megaspeed, firma de Singapur, por presunto desvío de chips a China; según The Wall Street Journal, Huang no es investigado. Según Infobae, *comparecerá ante el Congreso* en diciembre."
+  ],
+  "caption": "🧠 Jensen Huang vuelve a dirigir Nvidia once días después de renunciar, y Donald Trump confirmó que presionó a la junta para lograrlo.\n\nLa junta lo restituyó antes de terminar su propia investigación interna. Trump contó que lo hizo directamente y con intermediarios. La Justicia de Estados Unidos investiga a Megaspeed, una empresa de Singapur, por supuestamente desviar chips de la compañía hacia China; según The Wall Street Journal, Huang no es investigado.\n\n¿Y esto a mí qué? Nvidia es la empresa líder en chips para inteligencia artificial. Expertos consultados por WIRED temen que se haya vuelto demasiado importante para rendir cuentas. Según Infobae, Huang comparecerá ante el Congreso entre el 1 y el 3 de diciembre.\n\n¿Debería un gobierno intervenir en quién dirige una empresa privada de tecnología?\n\nFuente: Infobae, WIRED en Español.\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "Nvidia",
+   "JensenHuang",
+   "ChipsIA"
+  ],
+  "image_prompts": [
+   "A glossy 3D illustration of an empty executive leather chair returning to the head of a long dark boardroom table, dramatic green rim lighting, a glowing blank computer chip floating above the table, cinematic wide angle.",
+   "A 3D illustration of a giant blank microchip on a pedestal pulled by many thin glowing strings from above like a puppet, set inside a classical government hall with columns, soft blue and green lighting, low angle view.",
+   "A 3D illustration of a stack of blank server chips sliding along a conveyor belt that crosses a world map made of glowing lines, with a large magnifying glass hovering over the belt, top-down isometric view, dark background."
+  ],
+  "reel_script": [
+   "Trump confirma que presionó para que el jefe de Nvidia volviera tras renunciar.",
+   "La junta de Nvidia reincorporó a *Jensen Huang* como director ejecutivo, once días después de su renuncia. Trump dijo que presionó a la junta directamente y con intermediarios.",
+   "Expertos temen que Nvidia sea *demasiado poderosa* para rendir cuentas. La Justicia investiga a Megaspeed por un presunto desvío de chips a China. Huang declarará ante el *Congreso* en diciembre."
+  ]
+ },
+ "caption": "🧠 Jensen Huang vuelve a dirigir Nvidia once días después de renunciar, y Donald Trump confirmó que presionó a la junta para lograrlo.\n\nLa junta lo restituyó antes de terminar su propia investigación interna. Trump contó que lo hizo directamente y con intermediarios. La Justicia de Estados Unidos investiga a Megaspeed, una empresa de Singapur, por supuestamente desviar chips de la compañía hacia China; según The Wall Street Journal, Huang no es investigado.\n\n¿Y esto a mí qué? Nvidia es la empresa líder en chips para inteligencia artificial. Expertos consultados por WIRED temen que se haya vuelto demasiado importante para rendir cuentas. Según Infobae, Huang comparecerá ante el Congreso entre el 1 y el 3 de diciembre.\n\n¿Debería un gobierno intervenir en quién dirige una empresa privada de tecnología?\n\nFuente: Infobae, WIRED en Español.\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Anders Eidesvik / Wikimedia Commons (CC BY 4.0)\n📸 Foto: Daniel Torok / Wikimedia Commons (Public domain)\n📸 Foto: Coolcaesar / Wikimedia Commons (CC BY-SA 4.0)\n🎥 Video: Narendra Modi / Wikimedia Commons (CC BY 3.0)\n🎥 Video: Transition 2017 / Wikimedia Commons (CC BY 4.0)\n\n#Nvidia #JensenHuang #ChipsIA",
+ "slides": [
+  "posts/20261125-2215/slide_1.jpg",
+  "posts/20261125-2215/slide_2.jpg",
+  "posts/20261125-2215/slide_3.jpg",
+  "posts/20261125-2215/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Las 5 preguntas que ponen a Nvidia bajo la lupa tras el regreso de Jensen Huang",
+   "link": "https://www.infobae.com/estados-unidos/2026/11/25/las-5-preguntas-que-ponen-a-nvidia-bajo-la-lupa-tras-el-regreso-de-jensen-huang-como-ceo/",
+   "source": "Infobae"
+  },
+  {
+   "title": "El regreso de Jensen Huang demuestra que Nvidia podría ser demasiado poderosa para rendir cuentas",
+   "link": "https://es.wired.com/articulos/el-regreso-de-jensen-huang-demuestra-que-nvidia-podria-ser-demasiado-poderosa-para-rendir-cuentas",
+   "source": "WIRED en Español"
+  }
+ ]
+}

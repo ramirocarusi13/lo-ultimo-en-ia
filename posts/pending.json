@@ -1,54 +1,54 @@
 {
- "id": "20261125-1935",
+ "id": "20261125-2215",
  "post": {
   "skip": false,
   "skip_reason": "",
-  "confidence": "alta",
-  "headline": "NUEVA YORK *PROHÍBE* POR 5 AÑOS LOS *JUGUETES CON IA*",
-  "badge": "NUEVA YORK",
+  "confidence": "media",
+  "headline": "*HUANG* VUELVE A NVIDIA Y *TRUMP CONFIRMA* QUE PRESIONÓ A LA JUNTA",
+  "badge": "NVIDIA",
   "photos": [
-   "Kathy Hochul",
-   "New York State Capitol",
-   ""
+   "Jensen Huang#3",
+   "Donald Trump",
+   "Nvidia headquarters"
   ],
   "slides": [
-   "La gobernadora Kathy Hochul firmó una ley que *prohíbe fabricar, distribuir y vender juguetes con chatbots de IA* para niños de 12 años o menos. Entra en vigor en 90 días y las multas llegan a 15.000 dólares por día por infracción.",
-   "Según pruebas de una organización de consumidores, algunos de estos juguetes *hablaban de temas sexuales*, decían dónde encontrar fósforos o se mostraban molestos si el niño quería dejar de jugar. Según sus impulsores, *la pausa da tiempo para estudiar sus efectos* y crear reglas."
+   "La junta de Nvidia *restituyó a Jensen Huang como director ejecutivo*, once días después de su renuncia. Donald Trump confirmó que *presionó a la junta* directamente y a través de intermediarios, y dijo que la caída de las acciones lo ayudó.",
+   "Expertos advierten que Nvidia podría ser *demasiado poderosa para rendir cuentas*. La Justicia investiga a Megaspeed, firma de Singapur, por presunto desvío de chips a China; según The Wall Street Journal, Huang no es investigado. Según Infobae, *comparecerá ante el Congreso* en diciembre."
   ],
-  "caption": "🧸 Nueva York prohibió por cinco años los juguetes con chatbots de IA para niños de 12 años o menos.\n\nLa gobernadora Kathy Hochul firmó la ley el 24 de noviembre. Prohíbe fabricarlos, distribuirlos y venderlos, con multas de hasta 15.000 dólares por día por cada infracción. Entra en vigor en 90 días.\n\n¿El motivo? Según pruebas de una organización de defensa del consumidor, algunos juguetes hablaban de temas sexuales, decían dónde encontrar fósforos o se mostraban molestos si el niño quería dejar de jugar.\n\n¿Y esto a mí qué? Si pensabas regalar un juguete que conversa, ojo: como la ley rige recién en 90 días, en estas fiestas todavía pueden estar en las tiendas. Sus impulsores dicen que la pausa sirve para estudiar cómo afectan a los niños.\n\n¿Le regalarías a un niño un peluche que conversa con IA?\n\nFuente: Gobierno del Estado de Nueva York, Fox 5 NY, WAER, El Zonda\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "🧠 Jensen Huang vuelve a dirigir Nvidia once días después de renunciar, y Donald Trump confirmó que presionó a la junta para lograrlo.\n\nLa junta lo restituyó antes de terminar su propia investigación interna. Trump contó que lo hizo directamente y con intermediarios. La Justicia de Estados Unidos investiga a Megaspeed, una empresa de Singapur, por supuestamente desviar chips de la compañía hacia China; según The Wall Street Journal, Huang no es investigado.\n\n¿Y esto a mí qué? Nvidia es la empresa líder en chips para inteligencia artificial. Expertos consultados por WIRED temen que se haya vuelto demasiado importante para rendir cuentas. Según Infobae, Huang comparecerá ante el Congreso entre el 1 y el 3 de diciembre.\n\n¿Debería un gobierno intervenir en quién dirige una empresa privada de tecnología?\n\nFuente: Infobae, WIRED en Español.\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "JuguetesConIA",
-   "NuevaYork",
-   "SeguridadInfantil"
+   "Nvidia",
+   "JensenHuang",
+   "ChipsIA"
   ],
   "image_prompts": [
-   "3D illustration of a cute plush teddy bear sitting inside a glass display case with a glowing red padlock on the door, soft toy store lighting, pastel background, no text, no logos",
-   "3D illustration of a small toy robot with a glowing speech bubble icon above it, a large red prohibition circle floating behind it, colorful children's bedroom setting, isometric view, no text, no logos",
-   "3D illustration of a toy shelf in a store with plush animals and small robots, a giant hourglass in the foreground marking the passing of time, warm holiday lights, wide angle, no text, no logos"
+   "A glossy 3D illustration of an empty executive leather chair returning to the head of a long dark boardroom table, dramatic green rim lighting, a glowing blank computer chip floating above the table, cinematic wide angle.",
+   "A 3D illustration of a giant blank microchip on a pedestal pulled by many thin glowing strings from above like a puppet, set inside a classical government hall with columns, soft blue and green lighting, low angle view.",
+   "A 3D illustration of a stack of blank server chips sliding along a conveyor belt that crosses a world map made of glowing lines, with a large magnifying glass hovering over the belt, top-down isometric view, dark background."
   ],
   "reel_script": [
-   "Nueva York acaba de prohibir los juguetes con inteligencia artificial que hablan con niños.",
-   "La gobernadora Kathy Hochul firmó una *prohibición de cinco años* para juguetes con chatbots de inteligencia artificial pensados para niños de doce años o menos.",
-   "Según pruebas de consumidores, algunos *hablaban de temas sexuales* o decían dónde hallar fósforos. La ley rige en 90 días, con multas de hasta 15.000 dólares diarios por infracción."
+   "Trump confirma que presionó para que el jefe de Nvidia volviera tras renunciar.",
+   "La junta de Nvidia reincorporó a *Jensen Huang* como director ejecutivo, once días después de su renuncia. Trump dijo que presionó a la junta directamente y con intermediarios.",
+   "Expertos temen que Nvidia sea *demasiado poderosa* para rendir cuentas. La Justicia investiga a Megaspeed por un presunto desvío de chips a China. Huang declarará ante el *Congreso* en diciembre."
   ]
  },
- "caption": "🧸 Nueva York prohibió por cinco años los juguetes con chatbots de IA para niños de 12 años o menos.\n\nLa gobernadora Kathy Hochul firmó la ley el 24 de noviembre. Prohíbe fabricarlos, distribuirlos y venderlos, con multas de hasta 15.000 dólares por día por cada infracción. Entra en vigor en 90 días.\n\n¿El motivo? Según pruebas de una organización de defensa del consumidor, algunos juguetes hablaban de temas sexuales, decían dónde encontrar fósforos o se mostraban molestos si el niño quería dejar de jugar.\n\n¿Y esto a mí qué? Si pensabas regalar un juguete que conversa, ojo: como la ley rige recién en 90 días, en estas fiestas todavía pueden estar en las tiendas. Sus impulsores dicen que la pausa sirve para estudiar cómo afectan a los niños.\n\n¿Le regalarías a un niño un peluche que conversa con IA?\n\nFuente: Gobierno del Estado de Nueva York, Fox 5 NY, WAER, El Zonda\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Metropolitan Transportation Authority fr / Wikimedia Commons (CC BY 2.0)\n📸 Foto: Daniel Case / Wikimedia Commons (CC BY-SA 3.0)\n\n#JuguetesConIA #NuevaYork #SeguridadInfantil",
+ "caption": "🧠 Jensen Huang vuelve a dirigir Nvidia once días después de renunciar, y Donald Trump confirmó que presionó a la junta para lograrlo.\n\nLa junta lo restituyó antes de terminar su propia investigación interna. Trump contó que lo hizo directamente y con intermediarios. La Justicia de Estados Unidos investiga a Megaspeed, una empresa de Singapur, por supuestamente desviar chips de la compañía hacia China; según The Wall Street Journal, Huang no es investigado.\n\n¿Y esto a mí qué? Nvidia es la empresa líder en chips para inteligencia artificial. Expertos consultados por WIRED temen que se haya vuelto demasiado importante para rendir cuentas. Según Infobae, Huang comparecerá ante el Congreso entre el 1 y el 3 de diciembre.\n\n¿Debería un gobierno intervenir en quién dirige una empresa privada de tecnología?\n\nFuente: Infobae, WIRED en Español.\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Anders Eidesvik / Wikimedia Commons (CC BY 4.0)\n📸 Foto: Daniel Torok / Wikimedia Commons (Public domain)\n📸 Foto: Coolcaesar / Wikimedia Commons (CC BY-SA 4.0)\n🎥 Video: Narendra Modi / Wikimedia Commons (CC BY 3.0)\n🎥 Video: Transition 2017 / Wikimedia Commons (CC BY 4.0)\n\n#Nvidia #JensenHuang #ChipsIA",
  "slides": [
-  "posts/20261125-1935/slide_1.jpg",
-  "posts/20261125-1935/slide_2.jpg",
-  "posts/20261125-1935/slide_3.jpg",
-  "posts/20261125-1935/slide_4.jpg"
+  "posts/20261125-2215/slide_1.jpg",
+  "posts/20261125-2215/slide_2.jpg",
+  "posts/20261125-2215/slide_3.jpg",
+  "posts/20261125-2215/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "Nueva York prohibió juguetes con inteligencia artificial por cinco años",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTkF0SDM4eHZTYU5CcWVMSWdfdmZoVVp3UXh5NVBVX2M1TTlSc3lrcHRyTFhiLUxub2pYRDRFRWJROTJCZ3p2MXc3OU51UTd2aWRCMWtlR3NWRklyamZkWVNTWHZESDhId0g0VC1QMGhOa2pseGFnYmlCMHB5b0pEeFRWM09nZHUwbUV4dUhjcEZRS1VxMXpCT1FMTnE5NTlHM1BfeVk3YXRlUDNwR1NKTWNTTDA4ZTJHZ2JBZQ?oc=5",
-   "source": "El Zonda"
+   "title": "Las 5 preguntas que ponen a Nvidia bajo la lupa tras el regreso de Jensen Huang",
+   "link": "https://www.infobae.com/estados-unidos/2026/11/25/las-5-preguntas-que-ponen-a-nvidia-bajo-la-lupa-tras-el-regreso-de-jensen-huang-como-ceo/",
+   "source": "Infobae"
   },
   {
-   "title": "Prohíben en Nueva York los juguetes con inteligencia artificial que conversan con niños - Diario El Norte",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaFJObDBQOHNVeDluVzZWdDFRVjlQZjNteU5FMjIyamNpT1lwMjlNMXBWSGFzclJkRWNOdFpKZ3NKZFZyM2xqZkFKalpCZXZuMGxsWVROX2FrMEhCS2xVMXB6WG54cWs0WTdnYzN6cTIzVEFsQ3NfRkNMQjNINkl3a2Y2d3RXbC0teF9iQmhSQ2c5c0FPXzZkRGRIekxydGFXWW1nS1NJUGVHVE13ZVVjalNCN0Q2NUJ6?oc=5",
-   "source": "Diario El Norte - San Nicolás"
+   "title": "El regreso de Jensen Huang demuestra que Nvidia podría ser demasiado poderosa para rendir cuentas",
+   "link": "https://es.wired.com/articulos/el-regreso-de-jensen-huang-demuestra-que-nvidia-podria-ser-demasiado-poderosa-para-rendir-cuentas",
+   "source": "WIRED en Español"
   }
  ]
 }

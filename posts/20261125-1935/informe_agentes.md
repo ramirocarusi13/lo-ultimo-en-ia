@@ -9,3 +9,8 @@
 - **guionista-reels** — CAMBIOS, gancho 6→7. Gancho nuevo y escenas más cortas → aplicado (mezclado con lo del legal).
 - **editor-estilo** — CAMBIOS, 7/10. Bajé el resaltado del titular a 4 palabras, acorté el caption (cuerpo de unas 142 palabras) y cambié "chicos" por "niños" → aplicado.
 - **cazador-videos** — sin clips: los videos de Commons no tienen relación con la noticia y la búsqueda de YouTube CC se colgó. Sin video real, va como CARRUSEL.
+- **productor** — FORMATO: CARRUSEL (es regulación y no hay clips válidos; los candidatos eran del Mundial).
+- **director-arte** — OK, 8/10. Textos legibles; en la portada de Hochul se ve un uniforme cortado al fondo, sin nadie reconocible; Capitolio sin personas; slide 3 en 3D.
+- **Jefe de redacción:** revisé los slides y están bien. No hace falta rearmar.
+- **Etiqueta de IA:** las fotos son reales (Wikimedia, con créditos en el caption) y el slide 3 es una ilustración 3D generada con IA, sin personas. El revisor legal dice que no hace falta la etiqueta; si querés, al subirlo podés marcar "Info de IA".
+- **Puntaje del equipo:** verificador 8, estilo 7, director de arte 8, analista 31/50, riesgo legal bajo.
