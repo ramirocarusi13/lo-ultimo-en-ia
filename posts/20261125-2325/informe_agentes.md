@@ -19,3 +19,12 @@ Gancho con "Tidal" y la cifra; texto 2 con fecha y volumen (hasta 85.000 por dí
 
 ## Cazador de videos — sin clips
 5 búsquedas sin material libre de Tidal/Spotify/Bandcamp (devolvían Tidal Basin, un laúd, etc.). Sin video → carrusel. El anuncio fue un post de texto en X. Por esos resultados, saqué las búsquedas de fotos "Tidal"/"Bandcamp": van 3 ilustraciones.
+
+## Productor — CARRUSEL
+Noticia de cifras y decisiones de plataforma; sin video real no hay Reel.
+
+## Director de arte — OK · 8/10
+Texto legible y buen contraste; ilustraciones 3D sin personas, logos ni texto. Opcional: el soporte de micrófono del slide 3 queda cortado (no se regeneró).
+
+## Decisión del jefe de redacción
+Formato: carrusel. Cambios aplicados: titular más preciso ("solo con IA", "casi 29 millones", 11 palabras), cifras atribuidas a Tidal/Andersen, "usas" en vez de "usás", "optaron por etiquetarla", guion del Reel reescrito (no se usa porque no hay Reel). Fotos reales quitadas: van 3 ilustraciones. **Etiqueta de IA: no** (ilustraciones 3D simbólicas, sin personas ni fotos realistas).
