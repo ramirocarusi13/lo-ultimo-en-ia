@@ -1,0 +1,54 @@
+{
+ "id": "20261125-2325",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "TIDAL BORRARÁ *CASI 29 MILLONES* DE CANCIONES HECHAS *SOLO CON IA*",
+  "badge": "Tidal",
+  "photos": [
+   "",
+   "",
+   ""
+  ],
+  "slides": [
+   "Desde el 9 de diciembre, Tidal *eliminará unos 29 millones de canciones* creadas solo con inteligencia artificial y rechazará entre 80.000 y 85.000 pistas por día. Según la plataforma, *el 43% de lo que recibió* en los últimos 90 días era música de IA.",
+   "Tidal seguirá aceptando canciones hechas *con ayuda de herramientas de IA*, siempre que haya intervención humana. Usará el detector Ircam Amplify y revisará metadatos. Bandcamp ya prohibió este tipo de música, mientras Spotify y YouTube *optaron por etiquetarla*."
+  ],
+  "caption": "🎵 Tidal va a borrar cerca de 29 millones de canciones creadas solo con inteligencia artificial a partir del 9 de diciembre.\n\nLo anunció Robert Andersen, responsable de música de la plataforma. Según Tidal, la música de IA fue el 43% de las canciones que recibió en los últimos 90 días y, según Andersen, el 96% de esas pistas no recibe ninguna reproducción. Además, rechazará entre 80.000 y 85.000 temas de IA por día.\n\n¿Y esto a mí qué? Si usas Tidal, vas a encontrar menos canciones de relleno hechas por máquinas. Las que usan IA como herramienta, con un artista detrás, se quedan. Bandcamp ya había prohibido este tipo de música; Spotify y YouTube, en cambio, optaron por etiquetarla.\n\n¿Te gustaría que tu app de música te avise o directamente borre las canciones hechas 100% con IA?\n\nFuente: Infobae, Diario de Cuyo.\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "Tidal",
+   "MusicaIA",
+   "Streaming"
+  ],
+  "image_prompts": [
+   "A glossy 3D illustration of a huge pile of blank vinyl records and music note icons being swept into a glowing digital trash bin, dark purple background with neon cyan rim light, cinematic wide angle.",
+   "A 3D illustration of a futuristic filter gate scanning a stream of floating blank music note icons, rejecting some with red light and letting others pass with green light, isometric view, soft studio lighting.",
+   "A 3D illustration of a pair of headphones resting on a stack of blank vinyl records beside a small robotic arm holding a guitar pick, warm golden lighting, close-up shallow depth of field, no text."
+  ],
+  "reel_script": [
+   "Tidal va a borrar casi 29 millones de canciones hechas solo con inteligencia artificial.",
+   "Desde el 9 de diciembre, *Tidal* las eliminará y rechazará hasta 85.000 más por día. Según la plataforma, en los últimos 90 días fueron el 43 por ciento de lo que recibió.",
+   "Las canciones hechas con ayuda de IA y un artista detrás se quedan. Bandcamp ya prohibió la música de IA, pero Spotify y YouTube *optaron por etiquetarla*."
+  ]
+ },
+ "caption": "🎵 Tidal va a borrar cerca de 29 millones de canciones creadas solo con inteligencia artificial a partir del 9 de diciembre.\n\nLo anunció Robert Andersen, responsable de música de la plataforma. Según Tidal, la música de IA fue el 43% de las canciones que recibió en los últimos 90 días y, según Andersen, el 96% de esas pistas no recibe ninguna reproducción. Además, rechazará entre 80.000 y 85.000 temas de IA por día.\n\n¿Y esto a mí qué? Si usas Tidal, vas a encontrar menos canciones de relleno hechas por máquinas. Las que usan IA como herramienta, con un artista detrás, se quedan. Bandcamp ya había prohibido este tipo de música; Spotify y YouTube, en cambio, optaron por etiquetarla.\n\n¿Te gustaría que tu app de música te avise o directamente borre las canciones hechas 100% con IA?\n\nFuente: Infobae, Diario de Cuyo.\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n#Tidal #MusicaIA #Streaming",
+ "slides": [
+  "posts/20261125-2325/slide_1.jpg",
+  "posts/20261125-2325/slide_2.jpg",
+  "posts/20261125-2325/slide_3.jpg",
+  "posts/20261125-2325/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Tidal eliminará cerca de 29 millones de canciones creadas con IA",
+   "link": "https://www.infobae.com/tecno/2026/11/25/tidal-eliminara-cerca-de-29-millones-de-canciones-creadas-con-ia/",
+   "source": "Infobae"
+  },
+  {
+   "title": "Tidal prohíbe la música creada con inteligencia artificial y eliminará 29 millones de canciones",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVUhEa2hvM09qcnNxeWNKUVRlSEZBenIyNm9GV3ZIZmtabExJNVQ2QUEyQThWTm55SXd4WDhuYjA4WjY3QXNmMDlqRW5OYzFodWVuelJyM2pYaWMzbUVkdlA3NlNieHVxU3JBLXJIRzJfeHFHN1BOQWNSWlhzdW9vRGdQNzVEem03VGkzaE5aUGtBLUlTWnlNa2ktZjFrbDcyNUJRak5jb2lhWVZYcml3TlV3b080LS1aOFVjVEVUclFNT2pDVFBRcncxNEo2blg5YUlEcFIwSlpIYmJM?oc=5",
+   "source": "Diario de Cuyo"
+  }
+ ]
+}
