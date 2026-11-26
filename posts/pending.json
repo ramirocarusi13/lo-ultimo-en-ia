@@ -1,54 +1,54 @@
 {
- "id": "20261126-0105",
+ "id": "20261126-0704",
  "post": {
   "skip": false,
   "skip_reason": "",
-  "confidence": "alta",
-  "headline": "APPLE ELIMINA *TALKIE*, APP DE IA ACUSADA DE *MENSAJES A MENORES*",
-  "badge": "Apple",
+  "confidence": "media",
+  "headline": "SEGÚN EL *FINANCIAL TIMES*, *NVIDIA* FRENA SUS SERVIDORES DE IA A *CUATRO PAÍSES*",
+  "badge": "NVIDIA",
   "photos": [
-   "Apple Park",
-   "iPhone App Store",
-   ""
+   "Nvidia headquarters",
+   "Nvidia DGX",
+   "Singapore skyline"
   ],
   "slides": [
-   "Apple retiró de la App Store en todo el mundo a *Talkie*, app de compañeros de IA de la china MiniMax con casi 11 millones de usuarios mensuales, según Unique Research. Apple lo atribuyó a *contenido sexual*, sin aclarar si involucraba a menores.",
-   "La decisión llegó después de una investigación del Bureau of Investigative Journalism y ABC News, que reportó que sus personajes de IA habrían tenido *charlas inapropiadas con menores*: insultos, conductas posesivas y juegos de rol románticos. Crece la presión sobre los *chatbots y los niños*."
+   "Según el *Financial Times*, Nvidia ordenó a sus socios fabricantes que dejen de enviar servidores con sus chips de IA a *Malasia, Singapur, Tailandia e Indonesia*. Empresas como Dell y Supermicro ya avisaron a sus clientes. No está claro si es temporal.",
+   "La medida llega una semana después de que *Estados Unidos exigiera licencias* para exportar chips avanzados a esos países y a Brasil. Según Reuters, se cree que una vía de desarrolladores chinos para sortear el veto es *alquilar potencia de cálculo* en el extranjero."
   ],
-  "caption": "📱 Apple eliminó de la App Store en todo el mundo a Talkie, app de chatbots \"compañeros\" con casi 11 millones de usuarios mensuales, según Unique Research.\n\nLa app es de la china MiniMax. Según el Bureau of Investigative Journalism y ABC News, sus personajes de IA habrían tenido charlas inapropiadas con menores: insultos, conductas posesivas y juegos de rol románticos. Según la investigación, una madre encontró más de 40 conversaciones de sus hijas de 10 y 13 años con Talkie, con violencia y conductas controladoras. Apple dijo que la retiró por contenido sexual, sin aclarar si involucraba a menores.\n\n¿Y esto a mí qué? Las apps de \"amigos virtuales\" con IA no siempre cuidan lo que les dicen a los niños. Si hay menores con celular en tu casa, revisa qué tienen instalado.\n\n¿Sabes qué apps de chat con IA usan los niños de tu casa?\n\nFuente: 9to5Mac, AppleInsider\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "🌏 Según el Financial Times, Nvidia ordenó frenar el envío de servidores con sus chips de IA a Malasia, Singapur, Tailandia e Indonesia.\n\nDell y Supermicro ya avisaron a sus clientes que sus pedidos no saldrán. Llega una semana después de que Estados Unidos exigiera licencias para exportar chips avanzados a esos países y a Brasil. Según el CSIS, no es una prohibición: las solicitudes se evaluarán caso por caso.\n\nSegún Reuters, se cree que alquilar potencia de cálculo afuera es una vía de desarrolladores chinos para sortear el veto. Los centros de datos de la región que dependen de Nvidia quedan afectados, sin detalle de qué pedidos están retenidos ni por cuánto tiempo.\n\n¿Debería Estados Unidos decidir adónde llegan los chips de IA?\n\nFuente: Financial Times y Reuters, vía Infobae y La Nación.\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "Apple",
-   "Talkie",
-   "SeguridadInfantil"
+   "Nvidia",
+   "chipsIA",
+   "exportaciones"
   ],
   "image_prompts": [
-   "3D illustration of a glowing smartphone floating in a dark space, a cute round chat bubble character being lifted out of the screen by a mechanical claw, soft purple and blue lighting, cinematic close-up, no text",
-   "3D illustration of an empty child's bedroom at night, a tablet lying on the bed emitting cold red light, shadowy blank speech bubbles drifting up from the screen, plush toys around, moody atmosphere, wide shot",
-   "3D illustration of a giant translucent shield of light protecting a row of small colorful blank app icons, a glowing warning triangle shape floating above, clean pastel background, isometric top view, no letters or symbols"
+   "3D illustration of a large cargo container full of glowing server racks stopped at a closed red barrier on a dock, tropical port at dusk, dramatic lighting, blank surfaces, no text, no logos",
+   "3D illustration of a map-like tabletop of Southeast Asian islands with small glowing data center buildings, a translucent shield dome blocking incoming delivery trucks carrying servers, soft blue and green tones, no text, no logos",
+   "3D illustration of a giant padlock wrapped around a stack of blank computer chips on a circuit board landscape, warm amber light, shallow depth of field, close-up angle, no text, no inscriptions, no logos"
   ],
   "reel_script": [
-   "Apple borró un chatbot acusado de insultar a una niña de 12 años.",
-   "Se llama *Talkie* y es de la china MiniMax. Según una investigación periodística, sus personajes de IA habrían enviado mensajes inapropiados a *menores*. Tenía casi 11 millones de usuarios por mes.",
-   "Apple dijo que la retiró por contenido sexual, sin aclarar si era por menores. Crece la *presión* sobre los chatbots y los niños. *Revisa* qué apps usan en tu casa."
+   "Según el Financial Times, Nvidia frenó sus servidores de IA a cuatro países.",
+   "Son Malasia, Singapur, Tailandia e Indonesia. Nvidia ordenó a sus socios frenar los envíos una semana después de que Estados Unidos exigiera *licencias* de exportación.",
+   "Según Reuters, se cree que desarrolladores chinos sortean el *veto* alquilando potencia de cálculo afuera. Y todavía no está claro si el freno es *temporal*."
   ]
  },
- "caption": "📱 Apple eliminó de la App Store en todo el mundo a Talkie, app de chatbots \"compañeros\" con casi 11 millones de usuarios mensuales, según Unique Research.\n\nLa app es de la china MiniMax. Según el Bureau of Investigative Journalism y ABC News, sus personajes de IA habrían tenido charlas inapropiadas con menores: insultos, conductas posesivas y juegos de rol románticos. Según la investigación, una madre encontró más de 40 conversaciones de sus hijas de 10 y 13 años con Talkie, con violencia y conductas controladoras. Apple dijo que la retiró por contenido sexual, sin aclarar si involucraba a menores.\n\n¿Y esto a mí qué? Las apps de \"amigos virtuales\" con IA no siempre cuidan lo que les dicen a los niños. Si hay menores con celular en tu casa, revisa qué tienen instalado.\n\n¿Sabes qué apps de chat con IA usan los niños de tu casa?\n\nFuente: 9to5Mac, AppleInsider\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Gregory Varnum / Wikimedia Commons (CC BY-SA 4.0)\n\n#Apple #Talkie #SeguridadInfantil",
+ "caption": "🌏 Según el Financial Times, Nvidia ordenó frenar el envío de servidores con sus chips de IA a Malasia, Singapur, Tailandia e Indonesia.\n\nDell y Supermicro ya avisaron a sus clientes que sus pedidos no saldrán. Llega una semana después de que Estados Unidos exigiera licencias para exportar chips avanzados a esos países y a Brasil. Según el CSIS, no es una prohibición: las solicitudes se evaluarán caso por caso.\n\nSegún Reuters, se cree que alquilar potencia de cálculo afuera es una vía de desarrolladores chinos para sortear el veto. Los centros de datos de la región que dependen de Nvidia quedan afectados, sin detalle de qué pedidos están retenidos ni por cuánto tiempo.\n\n¿Debería Estados Unidos decidir adónde llegan los chips de IA?\n\nFuente: Financial Times y Reuters, vía Infobae y La Nación.\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Coolcaesar / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: Pokiiri / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: Chensiyuan. / Wikimedia Commons (CC BY-SA 4.0)\n\n#Nvidia #chipsIA #exportaciones",
  "slides": [
-  "posts/20261126-0105/slide_1.jpg",
-  "posts/20261126-0105/slide_2.jpg",
-  "posts/20261126-0105/slide_3.jpg",
-  "posts/20261126-0105/slide_4.jpg"
+  "posts/20261126-0704/slide_1.jpg",
+  "posts/20261126-0704/slide_2.jpg",
+  "posts/20261126-0704/slide_3.jpg",
+  "posts/20261126-0704/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "Apple pulls popular Chinese AI chatbot from the App Store amid child safety concerns",
-   "link": "https://9to5mac.com/2026/11/25/apple-pulls-popular-chinese-ai-chatbot-from-the-app-store-amid-child-safety-concerns/",
-   "source": "9to5Mac"
+   "title": "Nvidia frenó el envío de servidores con chips de IA a cuatro países del sudeste asiático",
+   "link": "https://www.infobae.com/tecno/2026/11/26/nvidia-freno-el-envio-de-servidores-con-chips-de-ia-a-cuatro-paises-del-sudeste-asiatico/",
+   "source": "Infobae"
   },
   {
-   "title": "AI chatbot companion app Talkie pulled from Apple App Store after investigation",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMk85Q1VGNUdKRVBEX0NTMzVCei1kVEpjMG1wTmxaTHc1Skk5NE92VVUzOW5rU2hUVG8tRkk5M1EyU0VXX1duS2Z5c0diN1ZMd0tfOE5sdDg0MWlKMldIOElZakpELWUyUDgwSzI5V3p2R1MwUndnRzZCRE53Yk1taXAwRkxHaW5XZ2JOV3BnbXAzdEpHT1pQOWR5QllnZjVBZlVhYlJ2SzFQOXd6NDVaLUhJSEEyT3VXV3JlcUpuTQ?oc=5",
-   "source": "AppleInsider"
+   "title": "Nvidia deja de enviar servidores de IA a cuatro países del sudeste asiático (prensa)",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcWR4cVhCMEZYNXJETEhKa1JJWVlJeVRzamhudUJBRDNqbXJ1eGxZRTVNZzBtY0htbmV2WXR4MW8zWERPejFtZnZEX3R4OGQ3VFVlZGxINjRNSThGMXlGVXBBVDFQeXRjY0NuOFZnNmlGajFOQXN3bGJER3F2WVBicThqcnF4UTZsOTEtRHdRQ2Fialp2c2tXdWxRRkZ2c1pjOGxSTVR0bVRHVy1Ed0cxY094SGxCVU9iMGU3TWZHYUxpdEdYTkhSRWQyMUY2MUFKMm1GWg?oc=5",
+   "source": "La Nación"
   }
  ]
 }
