@@ -1,54 +1,54 @@
 {
- "id": "20261126-1444",
+ "id": "20261126-2104",
  "post": {
   "skip": false,
   "skip_reason": "",
   "confidence": "alta",
-  "headline": "SPACEX PODRÁ LLEVAR *UN MILLÓN* DE CENTROS DE DATOS *AL ESPACIO*",
-  "badge": "SpaceX",
+  "headline": "*NVIDIA* HABRÍA FRENADO ENVÍOS DE SERVIDORES DE IA A *4 PAÍSES ASIÁTICOS*",
+  "badge": "NVIDIA",
   "photos": [
-   "Elon Musk",
-   "",
-   "Falcon 9 launch"
+   "Nvidia headquarters",
+   "Singapore skyline",
+   "Nvidia GPU"
   ],
   "slides": [
-   "El regulador de comunicaciones de Estados Unidos autorizó a SpaceX a poner en órbita hasta *un millón de satélites* que funcionarían como centros de datos. El proyecto se llama Starmind y es *el primer permiso de este tipo* en el país.",
-   "La IA necesita cada vez más energía y en órbita usarían *energía solar casi constante*. Para conservar el permiso, SpaceX debe tener al menos 100.000 satélites para 2035 y el millón para 2040, aunque *la tecnología sigue en desarrollo*."
+   "Según el Wall Street Journal y el Financial Times, Nvidia pidió a fabricantes como Dell y Supermicro que *frenen los envíos de servidores* con sus chips de IA a *Malasia, Singapur, Tailandia e Indonesia*. No está claro cuánto durará la pausa.",
+   "Empresas chinas usaban centros de datos en esa región para acceder a chips de Nvidia a distancia, *un vacío que Estados Unidos acaba de cerrar*. Según el Institute for Progress, los centros remotos como esos aportan cerca del *24% del cómputo de IA de China*."
   ],
-  "caption": "🛰️ SpaceX recibió permiso para lanzar hasta un millón de satélites que funcionarían como centros de datos en el espacio.\n\nEl regulador de comunicaciones de Estados Unidos (FCC) aprobó el proyecto Starmind, la primera autorización de este tipo en el país. La idea: procesar en órbita los datos de la inteligencia artificial con energía solar casi constante.\n\nEl permiso exige un satélite operativo para noviembre de 2033 y como mínimo 100.000 para 2035. Las primeras pruebas serían a fines de 2027, según Reuters.\n\n¿Por qué importa? La IA consume muchísima energía y en la Tierra cuesta construir centros de datos nuevos. Según Xataka, un astrofísico advirtió que enfriar equipos en el vacío es muy difícil, y el plan sumaría basura espacial.\n\n¿Te parece buena idea llenar la órbita de servidores para alimentar a la IA?\n\nFuente: Xataka, Infobae\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "🌏 Nvidia habría pausado los envíos de servidores con sus chips de IA a cuatro países del Sudeste Asiático.\n\nSegún el Wall Street Journal y el Financial Times, Dell y Supermicro dejaron de enviar equipos a Malasia, Singapur, Tailandia e Indonesia. Según el WSJ, Nvidia revisa si sus socios cumplen las reglas de exportación de EE. UU.\n\nEmpresas chinas alquilaban acceso a esos chips desde centros de datos de la región, un vacío que Estados Unidos cerró este mes. Según el Institute for Progress, los centros remotos como esos aportan cerca del 24% del cómputo de IA de China.\n\n¿Y esto a mí qué? Esta pausa puede frenar proyectos de IA en toda la región.\n\n¿Crees que Estados Unidos puede cortar el acceso de China a los chips de IA?\n\nFuente: TechCrunch, Engadget\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "SpaceX",
-   "CentrosDeDatos",
-   "Starmind"
+   "Nvidia",
+   "ChipsDeIA",
+   "SudesteAsiatico"
   ],
   "image_prompts": [
-   "A 3D illustration of a vast constellation of small glowing satellites orbiting Earth at night, each with shining solar panels, forming a bright network of light lines above the planet, cinematic deep blue and violet tones",
-   "A 3D illustration of a single compact satellite data center module floating in space, large solar panel wings catching golden sunlight, a radiator panel glowing softly, blank smooth surfaces, Earth curving below",
-   "A 3D illustration seen from far away of a rocket launching from a coastal launch pad at dawn, a bright exhaust trail rising into a purple sky dotted with tiny satellite lights, wide dramatic composition"
+   "3D illustration of a cargo container full of glowing server racks stopped at a closed red barrier on a shipping dock, tropical city skyline in the background at dusk, cinematic lighting, no text, no logos",
+   "3D illustration of a stylized map of Southeast Asia made of circuit board lines, four glowing country shapes dimmed by a pause symbol hovering above, deep blue and green tones, no text, no labels",
+   "3D illustration of a vast data center hall with rows of servers, glowing cables stretching far across the sea toward a distant horizon, some cables cut and sparking, moody purple lighting, no text"
   ],
   "reel_script": [
-   "SpaceX recibió permiso para poner un millón de centros de datos en órbita.",
-   "El regulador de comunicaciones de Estados Unidos aprobó el proyecto Starmind. Serán hasta *un millón* de satélites. Según el regulador, es el *primer permiso* de este tipo.",
-   "La inteligencia artificial gasta muchísima *energía* y en órbita el sol llega casi constante. Las primeras pruebas serían a fines de 2027, pero la *tecnología* sigue en desarrollo."
+   "Según reportes, Nvidia frenó sus servidores de IA en cuatro países de Asia.",
+   "Según el Wall Street Journal, Nvidia pidió a Dell y Supermicro *pausar los envíos* de servidores a Malasia, Singapur, Tailandia e Indonesia, donde empresas chinas usaban sus chips a distancia.",
+   "Según el Institute for Progress, los centros remotos como esos aportan cerca del *24 por ciento* del poder de IA de China. Estados Unidos acaba de cerrar ese vacío."
   ]
  },
- "caption": "🛰️ SpaceX recibió permiso para lanzar hasta un millón de satélites que funcionarían como centros de datos en el espacio.\n\nEl regulador de comunicaciones de Estados Unidos (FCC) aprobó el proyecto Starmind, la primera autorización de este tipo en el país. La idea: procesar en órbita los datos de la inteligencia artificial con energía solar casi constante.\n\nEl permiso exige un satélite operativo para noviembre de 2033 y como mínimo 100.000 para 2035. Las primeras pruebas serían a fines de 2027, según Reuters.\n\n¿Por qué importa? La IA consume muchísima energía y en la Tierra cuesta construir centros de datos nuevos. Según Xataka, un astrofísico advirtió que enfriar equipos en el vacío es muy difícil, y el plan sumaría basura espacial.\n\n¿Te parece buena idea llenar la órbita de servidores para alimentar a la IA?\n\nFuente: Xataka, Infobae\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Wcamp9 / Wikimedia Commons (CC BY 4.0)\n📸 Foto: NASA/Tony Gray and Kevin O'Connell / Wikimedia Commons (Public domain)\n\n#SpaceX #CentrosDeDatos #Starmind",
+ "caption": "🌏 Nvidia habría pausado los envíos de servidores con sus chips de IA a cuatro países del Sudeste Asiático.\n\nSegún el Wall Street Journal y el Financial Times, Dell y Supermicro dejaron de enviar equipos a Malasia, Singapur, Tailandia e Indonesia. Según el WSJ, Nvidia revisa si sus socios cumplen las reglas de exportación de EE. UU.\n\nEmpresas chinas alquilaban acceso a esos chips desde centros de datos de la región, un vacío que Estados Unidos cerró este mes. Según el Institute for Progress, los centros remotos como esos aportan cerca del 24% del cómputo de IA de China.\n\n¿Y esto a mí qué? Esta pausa puede frenar proyectos de IA en toda la región.\n\n¿Crees que Estados Unidos puede cortar el acceso de China a los chips de IA?\n\nFuente: TechCrunch, Engadget\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Coolcaesar / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: Chensiyuan. / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: ChrisDag / Wikimedia Commons (CC BY 2.0)\n\n#Nvidia #ChipsDeIA #SudesteAsiatico",
  "slides": [
-  "posts/20261126-1444/slide_1.jpg",
-  "posts/20261126-1444/slide_2.jpg",
-  "posts/20261126-1444/slide_3.jpg",
-  "posts/20261126-1444/slide_4.jpg"
+  "posts/20261126-2104/slide_1.jpg",
+  "posts/20261126-2104/slide_2.jpg",
+  "posts/20261126-2104/slide_3.jpg",
+  "posts/20261126-2104/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "SpaceX tiene luz verde para desplegar un millón de satélites con centros de datos: no es por la IA es por la energía",
-   "link": "https://www.xataka.com/espacio/spacex-tiene-luz-verde-para-desplegar-millon-satelites-centros-datos-no-ia-energia",
-   "source": "Xataka"
+   "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+   "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+   "source": "TechCrunch"
   },
   {
-   "title": "SpaceX de Elon Musk recibe autorización para lanzar un millón de satélites y crear centros de datos en el espacio",
-   "link": "https://www.infobae.com/tecno/2026/11/25/spacex-de-elon-musk-recibe-autorizacion-para-lanzar-un-millon-de-satelites-y-crear-centros-de-datos-en-el-espacio/",
-   "source": "Infobae"
+   "title": "NVIDIA reportedly halts AI chip shipments to Southeast Asia",
+   "link": "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/",
+   "source": "Engadget"
   }
  ]
 }

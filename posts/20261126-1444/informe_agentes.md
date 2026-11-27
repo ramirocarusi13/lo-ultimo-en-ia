@@ -9,3 +9,10 @@
 - **revisor-legal** — OK, riesgo bajo. Sugirió atribuir la crítica del astrofísico a Xataka. → aplicado. Etiqueta IA: no.
 - **guionista-reels** — CAMBIOS, gancho 7/10. Gancho con "centros de datos en órbita" y escena 2 en oraciones cortas. → aplicado, combinado con lo del verificador.
 - **cazador-videos** — 2 clips: Elon Musk en el WEF 2026 (World Economic Forum, CC BY 4.0, Wikimedia Commons) y despegue de Falcon 9 Starlink 6-98 (U.S. Space Force, dominio público). Sin video oficial de la noticia.
+- **productor** — FORMATO: CARRUSEL. Noticia de permiso, cifras y plazos; los clips (charla de Musk en el WEF, lanzamiento genérico) no muestran lo que dice la voz.
+- **director-arte** — CAMBIOS, 7/10. Slide 2 (foto de satélites Starlink) casi negro. → reemplazada por la ilustración 3D (satélite con paneles solares). Portada y slide 3 OK; nadie más reconocible.
+- **editor-video** — CAMBIOS, 6/10. Musk repetido en 2 escenas y sin relación con la voz. → no aplica: se sacaron los clips (noclip) y va solo carrusel; el caption ya no lleva créditos de video.
+
+**Cambios aplicados:** titular con 4 palabras resaltadas, matices del verificador (mínimos para conservar el permiso, atribución a la FCC y a Xataka), caption recortado, foto del slide 2 → ilustración, sin Reel.
+**Etiqueta de IA:** SÍ, recomendada: el slide 2 es una ilustración generada con IA (portada y slide 3 son fotos reales de Wikimedia Commons).
+**Rearmado:** 1 vez (paso 4 repetido por el slide 2).
