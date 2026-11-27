@@ -7,7 +7,7 @@
   "headline": "HACKERS HABRÍAN ENTRADO A LA NUBE DE LA *FUERZA AÉREA* DE *EE.UU.*",
   "badge": "CLOUD ONE",
   "photos": [
-   "United States Air Force",
+   "",
    "F-35A Lightning II",
    "Data center servers"
   ],
@@ -32,7 +32,7 @@
    "Ahí corren desde sueldos hasta el *seguimiento de bombas y misiles*. El Comando Cibernético revisaría el caso. No consta que usaran IA, pero crece el miedo a esos ataques."
   ]
  },
- "caption": "🔓 Según Reuters, hackers habrían entrado a Cloud One, la nube que concentra los sistemas de la Fuerza Aérea de Estados Unidos.\n\nEl ataque se detectó en el último mes, durante una actualización. Una fuente dice que usaron una falla para llegar al \"plano de control\", algo así como un control remoto universal. No está claro quiénes fueron ni si se llevaron datos. La Fuerza Aérea no comenta y el Comando Cibernético revisa el caso.\n\n¿Y esto a mí qué? Cloud One funciona sobre Amazon, Google, Microsoft y Oracle, las mismas grandes nubes comerciales. No se sabe si este ataque usó IA, pero crece la preocupación por ataques con IA que encuentran fallas rápido.\n\n¿Confiarías los datos más sensibles de un país a una nube de empresas privadas?\n\nFuente: Reuters, vía Engadget y The Decoder\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Chairman of the Joint Chiefs of Staff / Wikimedia Commons (CC BY 2.0)\n📸 Foto: Airman 1st Class Zachary Foster / Wikimedia Commons (CC0)\n\n#ciberseguridad #CloudOne #FuerzaAerea",
+ "caption": "🔓 Según Reuters, hackers habrían entrado a Cloud One, la nube que concentra los sistemas de la Fuerza Aérea de Estados Unidos.\n\nEl ataque se detectó en el último mes, durante una actualización. Una fuente dice que usaron una falla para llegar al \"plano de control\", algo así como un control remoto universal. No está claro quiénes fueron ni si se llevaron datos. La Fuerza Aérea no comenta y el Comando Cibernético revisa el caso.\n\n¿Y esto a mí qué? Cloud One funciona sobre Amazon, Google, Microsoft y Oracle, las mismas grandes nubes comerciales. No se sabe si este ataque usó IA, pero crece la preocupación por ataques con IA que encuentran fallas rápido.\n\n¿Confiarías los datos más sensibles de un país a una nube de empresas privadas?\n\nFuente: Reuters, vía Engadget y The Decoder\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Airman 1st Class Zachary Foster / Wikimedia Commons (CC0)\n\n#ciberseguridad #CloudOne #FuerzaAerea",
  "slides": [
   "posts/20261127-1404/slide_1.jpg",
   "posts/20261127-1404/slide_2.jpg",
