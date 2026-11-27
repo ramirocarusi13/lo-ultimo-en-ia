@@ -7,3 +7,4 @@
 - **editor-estilo** — CAMBIOS, 8/10. Caption pasaba de 150 palabras (recortado); evitar repetir "al menos".
 - **revisor-legal** — OK, riesgo bajo. Bien atribuido y en condicional; sin personas en las fotos.
 - **guionista-reels** — CAMBIOS, gancho 5 → 8. El gancho ahora arranca con la cifra y SAP, y el cierre dice que la cifra puede cambiar.
+- **cazador-videos** — sin clips: no hay video libre de la noticia (descartó una charla CC de SAP que no trata los despidos). No hay video oficial con derechos.

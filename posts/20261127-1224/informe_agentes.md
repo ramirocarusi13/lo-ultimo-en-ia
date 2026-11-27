@@ -10,3 +10,10 @@
 - **cazador-videos** — sin clips con licencia libre → va como carrusel (sin Reel).
 
 **Cambios aplicados:** se separó Oracle de los recortes ligados a la IA (caption y guion); se sumó WiseTech; se atribuyó el 20% a Challenger, Gray & Christmas en el slide 2; nuevo gancho del Reel ("Un gigante europeo del software eliminaría al menos 10.000 puestos por la IA"); "cerca de uno de cada cinco"; caption recortado a 150 palabras. No se aplicó "AL MENOS" en el titular: quedaba en 13 palabras (el máximo es 12).
+
+- **productor** — FORMATO: CARRUSEL (sin video real, no hay Reel).
+- **director-arte** — OK, 8/10. Texto legible, sin terceros ni logos; foto real de Christian Klein en el slide 3 (Wikimedia, CC BY-SA 4.0). Detalle menor: "SAP RECORTARÍA" se ve con poco espacio entre palabras.
+- **editor-video** — no aplica (no hay reel.mp4).
+
+**Etiqueta de IA:** no hace falta (las ilustraciones 3D no muestran personas ni simulan fotos reales).
+**Puntaje del equipo:** verificador 8, estilo 9, arte 8, legal riesgo bajo, analista 38/50.
