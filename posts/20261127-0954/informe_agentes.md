@@ -10,3 +10,7 @@
 - **cazador-videos** — no encontró ningún clip con licencia libre de la noticia, ni video oficial. Sale como carrusel, sin Reel.
 
 **Cambios aplicados:** atribuí el logro a ADAspace en el titular, el caption y el Reel; aclaré que fueron 45 minutos y no un entrenamiento desde cero; corregí lo de SpaceX (tiene un permiso condicionado, no está haciendo pruebas); recorté el caption a 145 palabras y lo pasé a "tú"; adopté el guion propuesto con el gancho atribuido.
+- **productor** — FORMATO: CARRUSEL. Es una noticia de datos y no hay video real válido.
+- **director-arte** — OK, 8/10. El texto se lee bien en los 4 slides, las ilustraciones no tienen personas ni logos, y la foto de Alibaba no muestra a nadie. Sugirió, como opcional, buscar una foto con más impacto para el slide 2 (no la cambié).
+
+**Veredicto final:** CARRUSEL, confianza media (el dato lo informa ADAspace). **Sin etiqueta de IA**: las imágenes son ilustraciones 3D, no fotos realistas. Detalle: el crédito de la foto en el caption ("designed by HASSELL (arc") viene truncado de Wikimedia.

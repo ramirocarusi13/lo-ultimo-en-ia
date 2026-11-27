@@ -1,0 +1,64 @@
+{
+ "id": "20261127-1114",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "media",
+  "headline": "BLACK FRIDAY, LA PRIMERA GRAN PRUEBA DE LA *IA QUE PAGA*",
+  "badge": "",
+  "photos": [
+   "Black Friday shopping",
+   "OpenAI headquarters",
+   "Visa credit card"
+  ],
+  "slides": [
+   "Según Bloomberg y Fortune, Google, Amazon, Meta y OpenAI buscan que sus asistentes decidan qué regalar estas fiestas, y esta temporada será la primera en que *agentes capaces de pagar por el usuario* se prueben a gran escala.",
+   "Pero la confianza es baja: según Morning Consult para Visa, solo el *23% de los estadounidenses confía* en que la IA pague por ellos. En una prueba de Visa con 22 agentes, apenas el 57% de los intentos terminó en una compra o sugerencia adecuada."
+  ],
+  "caption": "🛍️ Black Friday: la primera gran prueba de los asistentes de IA que pueden comprar y pagar por ti.\n\nSegún Bloomberg y Fortune, Google, Amazon, Meta y OpenAI apuestan a que sus agentes elijan tus regalos. OpenAI presentó este mes \"Wallet\", una billetera conectada a American Express, Visa y Mastercard para pagar con el tope que fije cada usuario.\n\nPero la gente desconfía: según Morning Consult para Visa, el 54% de los estadounidenses ya usó IA para comprar, aunque solo el 23% confía en que pague por ellos. En una prueba de Visa con 22 agentes, apenas el 57% de los intentos terminó en una compra o sugerencia adecuada.\n\n¿Le darías tu tarjeta a un agente de IA para tus regalos, o solo lo usarías para comparar precios?\n\nFuente: Infobae, con datos de Fortune y Bloomberg\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "BlackFriday",
+   "AgentesDeIA",
+   "ComprasConIA"
+  ],
+  "image_prompts": [
+   "3D illustration of a friendly small robot pushing a shopping cart full of wrapped gift boxes through a glowing futuristic store at night, neon purple and blue lighting, soft shadows, wide angle shot, no text, no logos",
+   "3D illustration of a floating smartphone surrounded by abstract blank credit cards orbiting it, connected by thin light trails to tiny gift boxes, dark blue background, close-up view, soft glow, no text, no logos",
+   "3D illustration of a balance scale weighing a stack of shopping bags against a glowing padlock and shield, symbolizing trust in automated payments, soft studio lighting, isometric view, pastel colors, no text, no logos"
+  ],
+  "reel_script": [
+   "Black Friday: la inteligencia artificial puede pagar tus regalos, pero pocos confían.",
+   "Google, Amazon, Meta y OpenAI quieren que sus *agentes* elijan tus regalos. OpenAI presentó una billetera digital. Con ella, la IA paga dentro de los límites que tú fijes.",
+   "En una prueba de Visa, solo el 57 por ciento de los intentos salió bien. Y apenas el 23 por ciento de los estadounidenses *confía* en dejarle sus pagos."
+  ]
+ },
+ "caption": "🛍️ Black Friday: la primera gran prueba de los asistentes de IA que pueden comprar y pagar por ti.\n\nSegún Bloomberg y Fortune, Google, Amazon, Meta y OpenAI apuestan a que sus agentes elijan tus regalos. OpenAI presentó este mes \"Wallet\", una billetera conectada a American Express, Visa y Mastercard para pagar con el tope que fije cada usuario.\n\nPero la gente desconfía: según Morning Consult para Visa, el 54% de los estadounidenses ya usó IA para comprar, aunque solo el 23% confía en que pague por ellos. En una prueba de Visa con 22 agentes, apenas el 57% de los intentos terminó en una compra o sugerencia adecuada.\n\n¿Le darías tu tarjeta a un agente de IA para tus regalos, o solo lo usarías para comparar precios?\n\nFuente: Infobae, con datos de Fortune y Bloomberg\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Kgbo / Wikimedia Commons (CC BY-SA 4.0)\n\n#BlackFriday #AgentesDeIA #ComprasConIA",
+ "slides": [
+  "posts/20261127-1114/slide_1.jpg",
+  "posts/20261127-1114/slide_2.jpg",
+  "posts/20261127-1114/slide_3.jpg",
+  "posts/20261127-1114/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Remate final del Black Friday de MediaMarkt con descuentazos en portátiles, Dyson, teles y más",
+   "link": "https://www.xataka.com/seleccion/remate-final-black-friday-mediamarkt-descuentazos-portatiles-dyson-teles",
+   "source": "Xataka"
+  },
+  {
+   "title": "Los asistentes de IA que pagan por el usuario enfrentan su primera gran prueba en Black Friday",
+   "link": "https://www.infobae.com/tecno/2026/11/27/los-asistentes-de-ia-que-pagan-por-el-usuario-enfrentan-su-primera-gran-prueba-en-black-friday/",
+   "source": "Infobae"
+  },
+  {
+   "title": "Explainer: Black Friday test for retailers as tight budgets meet AI-savvy shoppers",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTENoLVpUUlhtT3oxYnhyQXhteVRhZ29Kb3BtaFc4UHc2QWtfdVNjRzJOZUxTb1VqaE8xY29STm1vV182RzBIR3JEN1QxVXVuY1hXVkpGMDQzNGIwbnBYQ2pmQVdFRDk0ckZWbGl6UE4tRU5mQ3RxaGFEZ2Zpb0VpbzE2OEJtQlFiNm5iblZpeWdXN2Zpay1vYmJsVWJObE0zRThqbFh4MGRVQUJBMlNIQzFhQTNoOW5XUjVRVXZtR0toRWc?oc=5",
+   "source": "Reuters"
+  },
+  {
+   "title": "Black Friday: crecen las compras con inteligencia artificial en Argentina",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN2VJZmNBU0oxSTd0RGVLZGtfbnhHSlRUOWpBQ2xjRndURlI5TVNuTF9hc24xYmRIdTNudjFwZXRsa25fa3o1cTdnRXB5YUM2MDdfUVlkbVp3ckZWVURpQ21BNno3eVhoTWVacm1CUHZTY1VLeWNjZUs2YTZuSFE0U0hST2Y4Y0JyVFdldXRCcWo5VHdIVURZcXBVMUg3ckszdS0tMndsTks5NG1RdHZuS1A3cGRmZUxpNXVCT0FBaG4zdw?oc=5",
+   "source": "ITSitio"
+  }
+ ]
+}
