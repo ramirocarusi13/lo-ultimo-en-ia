@@ -1,0 +1,54 @@
+{
+ "id": "20261127-1744",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "media",
+  "headline": "SEGÚN BLOOMBERG, CHIPS DE NVIDIA *RESTRINGIDOS PARA CHINA* APARECEN EN *SHANGHAI*",
+  "badge": "NVIDIA",
+  "photos": [
+   "Nvidia Blackwell",
+   "Nvidia data center",
+   ""
+  ],
+  "slides": [
+   "Según documentos revisados por *Bloomberg*, dos empresas chinas instalaron equipos con chips *Blackwell de Nvidia* en un centro de datos de Shanghai. Una de ellas, Shanghai Shuoyao, usó un rack GB300 como garantía de un préstamo de 14 millones de dólares.",
+   "Exportar estos chips a China *sin licencia de EE.UU.* está prohibido. Shuoyao tiene lazos con Megaspeed, empresa en una lista negra de EE.UU. que *la Justicia investiga*. Bloomberg no tiene pruebas de que desviara los chips directamente, y Megaspeed lo niega."
+  ],
+  "caption": "⚖️ Chips de IA que no se pueden vender a China sin licencia de EE.UU. aparecieron en Shanghai, según Bloomberg.\n\nDocumentos ante reguladores chinos muestran racks Nvidia GB300 y GB200 en un centro de datos del proyecto Yangtze River Delta. Shanghai Shuoyao usó un GB300 como garantía de un préstamo de 14 millones de dólares.\n\nShuoyao tiene lazos con Megaspeed, empresa que EE.UU. sumó este mes a una lista negra por sospechas de contrabando y que el Departamento de Justicia investiga. Bloomberg aclara que no tiene pruebas de que Megaspeed desviara directamente los chips, y la empresa lo niega.\n\nEste caso muestra lo difícil que es controlar a dónde van los chips de IA más potentes.\n\n¿Crees que EE.UU. puede frenar de verdad la llegada de estos chips a China?\n\nFuente: Bloomberg, vía Engadget y The Decoder\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "Nvidia",
+   "Blackwell",
+   "ChipsDeIA"
+  ],
+  "image_prompts": [
+   "A 3D illustration of a tall glowing server rack packed with GPU modules standing inside a dark warehouse, a shipping container half open behind it, cool blue and green lighting, dramatic low angle view.",
+   "A 3D illustration of a giant computer chip on a world map table, a red barrier line separating two continents, small cargo boxes sliding across the line, soft studio lighting, top down isometric view.",
+   "A 3D illustration of a magnifying glass hovering over rows of data center servers, tiny glowing serial tags floating in the air like clues, moody purple and teal lighting, wide cinematic composition."
+  ],
+  "reel_script": [
+   "Chips de Nvidia restringidos para China aparecieron en un centro de datos de Shanghai.",
+   "Según *Bloomberg*, dos empresas chinas instalaron equipos con chips Blackwell de Nvidia en ese lugar. Un rack sirvió de garantía de un préstamo de 14 millones de dólares.",
+   "Exportarlos sin licencia de Estados Unidos está *prohibido*. La Justicia investiga a Megaspeed, una empresa vinculada, que lo niega. Aparte, el jefe de Nvidia declarará ante el *Congreso* el 3 de diciembre."
+  ]
+ },
+ "caption": "⚖️ Chips de IA que no se pueden vender a China sin licencia de EE.UU. aparecieron en Shanghai, según Bloomberg.\n\nDocumentos ante reguladores chinos muestran racks Nvidia GB300 y GB200 en un centro de datos del proyecto Yangtze River Delta. Shanghai Shuoyao usó un GB300 como garantía de un préstamo de 14 millones de dólares.\n\nShuoyao tiene lazos con Megaspeed, empresa que EE.UU. sumó este mes a una lista negra por sospechas de contrabando y que el Departamento de Justicia investiga. Bloomberg aclara que no tiene pruebas de que Megaspeed desviara directamente los chips, y la empresa lo niega.\n\nEste caso muestra lo difícil que es controlar a dónde van los chips de IA más potentes.\n\n¿Crees que EE.UU. puede frenar de verdad la llegada de estos chips a China?\n\nFuente: Bloomberg, vía Engadget y The Decoder\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n#Nvidia #Blackwell #ChipsDeIA",
+ "slides": [
+  "posts/20261127-1744/slide_1.jpg",
+  "posts/20261127-1744/slide_2.jpg",
+  "posts/20261127-1744/slide_3.jpg",
+  "posts/20261127-1744/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Restricted NVIDIA chips were installed at a Chinese data center linked to Alice Huang",
+   "link": "https://www.engadget.com/2329748/restricted-nvidia-chips-were-installed-at-a-chinese-data-center-linked-to-alice-huang/",
+   "source": "Engadget"
+  },
+  {
+   "title": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports",
+   "link": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/",
+   "source": "The Decoder"
+  }
+ ]
+}
