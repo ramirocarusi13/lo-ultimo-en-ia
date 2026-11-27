@@ -1,0 +1,54 @@
+{
+ "id": "20261127-1415",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "media",
+  "headline": "HACKERS HABRÍAN ENTRADO A LA *NUBE* DE LA *FUERZA AÉREA* DE EE.UU.",
+  "badge": "Cloud One",
+  "photos": [
+   "United States Air Force",
+   "United States Cyber Command",
+   "data center servers"
+  ],
+  "slides": [
+   "Según Reuters, hackers habrían accedido a *Cloud One*, la plataforma en la nube de la Fuerza Aérea de Estados Unidos. Habrían aprovechado una falla para entrar al *plano de control*, que una fuente comparó con un control remoto universal. La intrusión se detectó durante una actualización.",
+   "Cloud One funciona desde 2017 con servidores de Amazon, Google, Microsoft y Oracle, y concentra desde sueldos hasta un sistema de *seguimiento de bombas y misiles* en más de 200 bases. La Fuerza Aérea no comenta y el *Comando Cibernético* evalúa el daño."
+  ],
+  "caption": "🔐 Hackers habrían entrado a Cloud One, la nube que usa la Fuerza Aérea de Estados Unidos para todo, desde sueldos hasta el seguimiento de bombas y misiles.\n\nSegún Reuters, los atacantes habrían aprovechado una vulnerabilidad para llegar al \"plano de control\", que una fuente comparó con un control remoto universal. La intrusión se descubrió en el último mes, durante una actualización. No se sabe quiénes fueron ni si se llevaron datos, y la Fuerza Aérea no comenta.\n\nSe frenó la migración de aplicaciones, se quitaron permisos de administrador a algunos usuarios y se bloquearon actualizaciones. El Comando Cibernético revisa el caso. Si se confirma, muestra que incluso una nube montada sobre Amazon, Google, Microsoft y Oracle puede ser vulnerable.\n\n¿Confiarías tus datos más sensibles a una nube después de algo así?\n\nFuente: Reuters, Engadget y The Decoder.\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "ciberseguridad",
+   "CloudOne",
+   "FuerzaAerea"
+  ],
+  "image_prompts": [
+   "3D illustration of a glowing blue cloud made of server racks floating over a dark military airfield at night, a red cracked padlock hovering in front of it, dramatic cinematic lighting, no text",
+   "3D illustration close-up of a sleek universal remote control connected by glowing cables to a cloud of servers, red warning light on the remote, dark background with neon blue accents, no letters",
+   "3D illustration wide view of a digital shield with a breach crack, tiny jet silhouettes and radar dishes inside a transparent cloud dome, network lines leaking red particles, moody purple and blue tones"
+  ],
+  "reel_script": [
+   "Hackers habrían entrado a la nube militar donde Estados Unidos sigue sus misiles.",
+   "Según Reuters, habrían entrado a *Cloud One*, la nube de la Fuerza Aérea, por una falla. Se descubrió durante una actualización. Aún no se sabe quiénes fueron.",
+   "La plataforma reúne desde sueldos hasta el *seguimiento de misiles*. Ahora el Comando Cibernético evalúa el daño. De confirmarse, deja dudas sobre la seguridad de las nubes militares."
+  ]
+ },
+ "caption": "🔐 Hackers habrían entrado a Cloud One, la nube que usa la Fuerza Aérea de Estados Unidos para todo, desde sueldos hasta el seguimiento de bombas y misiles.\n\nSegún Reuters, los atacantes habrían aprovechado una vulnerabilidad para llegar al \"plano de control\", que una fuente comparó con un control remoto universal. La intrusión se descubrió en el último mes, durante una actualización. No se sabe quiénes fueron ni si se llevaron datos, y la Fuerza Aérea no comenta.\n\nSe frenó la migración de aplicaciones, se quitaron permisos de administrador a algunos usuarios y se bloquearon actualizaciones. El Comando Cibernético revisa el caso. Si se confirma, muestra que incluso una nube montada sobre Amazon, Google, Microsoft y Oracle puede ser vulnerable.\n\n¿Confiarías tus datos más sensibles a una nube después de algo así?\n\nFuente: Reuters, Engadget y The Decoder.\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Chairman of the Joint Chiefs of Staff / Wikimedia Commons (CC BY 2.0)\n📸 Foto: Department of Defense / Wikimedia Commons (Public domain)\n\n#ciberseguridad #CloudOne #FuerzaAerea",
+ "slides": [
+  "posts/20261127-1415/slide_1.jpg",
+  "posts/20261127-1415/slide_2.jpg",
+  "posts/20261127-1415/slide_3.jpg",
+  "posts/20261127-1415/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Hackers reportedly infiltrated the Air Force's cloud systems",
+   "link": "https://www.engadget.com/2329586/hackers-reportedly-infiltrated-the-air-force-cloud-systems/",
+   "source": "Engadget"
+  },
+  {
+   "title": "Hackers breached the US Air Force's flagship Cloud One platform, report says",
+   "link": "https://the-decoder.com/hackers-breached-the-us-air-forces-flagship-cloud-one-platform-report-says/",
+   "source": "The Decoder"
+  }
+ ]
+}

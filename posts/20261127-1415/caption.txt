@@ -1,0 +1,16 @@
+🔐 Hackers habrían entrado a Cloud One, la nube que usa la Fuerza Aérea de Estados Unidos para todo, desde sueldos hasta el seguimiento de bombas y misiles.
+
+Según Reuters, los atacantes habrían aprovechado una vulnerabilidad para llegar al "plano de control", que una fuente comparó con un control remoto universal. La intrusión se descubrió en el último mes, durante una actualización. No se sabe quiénes fueron ni si se llevaron datos, y la Fuerza Aérea no comenta.
+
+Se frenó la migración de aplicaciones, se quitaron permisos de administrador a algunos usuarios y se bloquearon actualizaciones. El Comando Cibernético revisa el caso. Si se confirma, muestra que incluso una nube montada sobre Amazon, Google, Microsoft y Oracle puede ser vulnerable.
+
+¿Confiarías tus datos más sensibles a una nube después de algo así?
+
+Fuente: Reuters, Engadget y The Decoder.
+
+📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.
+
+📸 Foto: Chairman of the Joint Chiefs of Staff / Wikimedia Commons (CC BY 2.0)
+📸 Foto: Department of Defense / Wikimedia Commons (Public domain)
+
+#ciberseguridad #CloudOne #FuerzaAerea
