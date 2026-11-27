@@ -1,43 +1,43 @@
 {
- "id": "20261127-1755",
+ "id": "20261127-1805",
  "post": {
   "skip": false,
   "skip_reason": "",
   "confidence": "media",
-  "headline": "*CHIPS RESTRINGIDOS* DE NVIDIA APARECEN EN *SHANGHÁI*, SEGÚN BLOOMBERG",
+  "headline": "CHIPS DE IA *RESTRINGIDOS* DE NVIDIA APARECEN EN *SHANGHÁI*, SEGÚN BLOOMBERG",
   "badge": "NVIDIA",
   "photos": [
-   "Nvidia GB200 NVL72",
-   "",
-   "Nvidia headquarters"
+   "Nvidia Blackwell",
+   "Gigabyte Technology",
+   ""
   ],
   "slides": [
-   "Según documentos presentados ante reguladores chinos y revisados por *Bloomberg*, dos empresas instalaron servidores Nvidia GB300 y GB200 en un centro de datos de Shanghái. Una de ellas usó un rack GB300 como *garantía de un préstamo* de unos 14 millones de dólares.",
-   "Estados Unidos exige una licencia para enviar estos chips a China. Bloomberg rastreó el rack hasta la taiwanesa Gigabyte, que dice cumplir la ley. *No está claro cómo llegaron* a Shanghái, y Jensen Huang había dicho que los racks GB300 eran *demasiado grandes para contrabandearlos*."
+   "Según Bloomberg, documentos presentados ante reguladores chinos muestran *servidores con chips Blackwell* de NVIDIA en un centro de datos de Shanghái. Una empresa local ofreció uno de esos racks como garantía de un *préstamo de 14 millones de dólares*.",
+   "Estados Unidos prohíbe enviar estos chips a China sin licencia. El rack fue rastreado hasta el fabricante taiwanés Gigabyte. La empresa china está ligada a *Megaspeed*, que *niega irregularidades*; Bloomberg aclara que no tiene pruebas de que haya desviado los chips."
   ],
-  "caption": "🔍 Chips de Nvidia que no se pueden enviar a China sin permiso aparecieron en un centro de datos de Shanghái, según Bloomberg.\n\nDos empresas chinas presentaron documentos ante reguladores que mencionan servidores GB300 y GB200. Una ofreció un rack GB300 como garantía de un préstamo de 14 millones de dólares. Bloomberg rastreó su número de serie hasta Gigabyte, que asegura cumplir la ley. Aún no se sabe cómo llegaron.\n\n¿Y esto a mí qué? Son los chips que mueven la IA más avanzada, y Estados Unidos exige licencia para enviarlos a China. El caso muestra lo difícil que es controlar a dónde terminan.\n\n¿Crees que se puede controlar el destino de un servidor que pesa más de una tonelada?\n\nFuente: Bloomberg, vía Engadget y The Decoder.\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "⚖️ Chips de IA que EE.UU. no permite enviar a China sin licencia aparecieron en Shanghái, según Bloomberg.\n\nDocumentos presentados ante reguladores chinos muestran racks GB300 NVL72 y GB200 de NVIDIA. La empresa Shanghai Shuoyao ofreció uno como garantía de un préstamo de unos 14 millones de dólares. El rack fue rastreado hasta el fabricante taiwanés Gigabyte, que dice cumplir la ley.\n\nShuoyao está vinculada a Megaspeed, empresa de Singapur que EE.UU. sumó a su lista negra y que investiga el Departamento de Justicia. Megaspeed niega cualquier irregularidad, y Bloomberg aclara que no tiene pruebas de que haya desviado los chips. Muestra lo difícil que es frenar la carrera por los chips de IA.\n\n¿Crees que los controles de exportación pueden frenar el avance de China en IA?\n\nFuente: Bloomberg, vía Engadget y The Decoder.\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
    "Nvidia",
-   "ChipsIA",
-   "Exportaciones"
+   "Blackwell",
+   "ChipsDeIA"
   ],
   "image_prompts": [
-   "3D illustration of a tall dark server rack glowing with green and blue lights inside a vast futuristic data center, viewed from a low dramatic angle, cool cinematic lighting, no text, no logos",
-   "3D illustration of a heavy server cabinet strapped on a wooden shipping pallet inside a shadowy warehouse, cargo containers in the background, mysterious atmosphere with a single spotlight, no text, no labels",
-   "3D illustration of a glowing world map made of circuit lines with a bright route arc connecting two continents, small server icons along the path, dark blue background, wide composition, no text, no letters"
+   "3D illustration of a tall glowing black server rack standing alone in a dark warehouse, beams of green light leaking from its vents, a shipping container half open behind it, dramatic cinematic lighting, no text, no logos",
+   "3D illustration of a magnifying glass hovering over a blank metal serial plate on a server rack, a trail of glowing dotted lines connecting it to a small factory building and a cargo ship, clean isometric style, no letters",
+   "3D illustration of a giant padlock and chain wrapped around a stack of unmarked computer processors on a world map table, a gavel resting beside them, soft blue and green lighting, isometric view, no text or logos"
   ],
   "reel_script": [
-   "Un servidor de Nvidia restringido para China terminó como garantía de un préstamo.",
-   "Según *Bloomberg*, documentos de dos empresas chinas muestran servidores Blackwell en Shanghái. Uno de ellos respaldaba un préstamo de 14 millones de dólares.",
-   "Estados Unidos exige licencia para enviarlos a China. No está claro cómo llegaron, y el director ejecutivo de Nvidia decía que esos racks eran *demasiado grandes* para contrabandearlos."
+   "Según Bloomberg, chips de NVIDIA restringidos para China aparecieron en Shanghái.",
+   "Documentos ante reguladores chinos muestran servidores *Blackwell* en un centro de datos de esa ciudad. Una empresa usó uno como garantía de un préstamo de 14 millones de dólares.",
+   "Estados Unidos exige licencia para enviar estos chips a China. El Departamento de Justicia investiga a una empresa vinculada, Megaspeed, que niega cualquier *irregularidad*."
   ]
  },
- "caption": "🔍 Chips de Nvidia que no se pueden enviar a China sin permiso aparecieron en un centro de datos de Shanghái, según Bloomberg.\n\nDos empresas chinas presentaron documentos ante reguladores que mencionan servidores GB300 y GB200. Una ofreció un rack GB300 como garantía de un préstamo de 14 millones de dólares. Bloomberg rastreó su número de serie hasta Gigabyte, que asegura cumplir la ley. Aún no se sabe cómo llegaron.\n\n¿Y esto a mí qué? Son los chips que mueven la IA más avanzada, y Estados Unidos exige licencia para enviarlos a China. El caso muestra lo difícil que es controlar a dónde terminan.\n\n¿Crees que se puede controlar el destino de un servidor que pesa más de una tonelada?\n\nFuente: Bloomberg, vía Engadget y The Decoder.\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Coolcaesar / Wikimedia Commons (CC BY-SA 4.0)\n\n#Nvidia #ChipsIA #Exportaciones",
+ "caption": "⚖️ Chips de IA que EE.UU. no permite enviar a China sin licencia aparecieron en Shanghái, según Bloomberg.\n\nDocumentos presentados ante reguladores chinos muestran racks GB300 NVL72 y GB200 de NVIDIA. La empresa Shanghai Shuoyao ofreció uno como garantía de un préstamo de unos 14 millones de dólares. El rack fue rastreado hasta el fabricante taiwanés Gigabyte, que dice cumplir la ley.\n\nShuoyao está vinculada a Megaspeed, empresa de Singapur que EE.UU. sumó a su lista negra y que investiga el Departamento de Justicia. Megaspeed niega cualquier irregularidad, y Bloomberg aclara que no tiene pruebas de que haya desviado los chips. Muestra lo difícil que es frenar la carrera por los chips de IA.\n\n¿Crees que los controles de exportación pueden frenar el avance de China en IA?\n\nFuente: Bloomberg, vía Engadget y The Decoder.\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Quintin Lin / Wikimedia Commons (CC BY-SA 2.0)\n\n#Nvidia #Blackwell #ChipsDeIA",
  "slides": [
-  "posts/20261127-1755/slide_1.jpg",
-  "posts/20261127-1755/slide_2.jpg",
-  "posts/20261127-1755/slide_3.jpg",
-  "posts/20261127-1755/slide_4.jpg"
+  "posts/20261127-1805/slide_1.jpg",
+  "posts/20261127-1805/slide_2.jpg",
+  "posts/20261127-1805/slide_3.jpg",
+  "posts/20261127-1805/slide_4.jpg"
  ],
  "sources": [
   {
