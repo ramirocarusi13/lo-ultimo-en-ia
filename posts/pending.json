@@ -1,54 +1,54 @@
 {
- "id": "20261126-2104",
+ "id": "20261127-0954",
  "post": {
   "skip": false,
   "skip_reason": "",
-  "confidence": "alta",
-  "headline": "*NVIDIA* HABRÍA FRENADO ENVÍOS DE SERVIDORES DE IA A *4 PAÍSES ASIÁTICOS*",
-  "badge": "NVIDIA",
+  "confidence": "media",
+  "headline": "SATÉLITE CHINO *ENTRENA UNA IA* 45 MINUTOS EN ÓRBITA, SEGÚN *ADASPACE*",
+  "badge": "ADAspace",
   "photos": [
-   "Nvidia headquarters",
-   "Singapore skyline",
-   "Nvidia GPU"
+   "",
+   "Alibaba headquarters",
+   ""
   ],
   "slides": [
-   "Según el Wall Street Journal y el Financial Times, Nvidia pidió a fabricantes como Dell y Supermicro que *frenen los envíos de servidores* con sus chips de IA a *Malasia, Singapur, Tailandia e Indonesia*. No está claro cuánto durará la pausa.",
-   "Empresas chinas usaban centros de datos en esa región para acceder a chips de Nvidia a distancia, *un vacío que Estados Unidos acaba de cerrar*. Según el Institute for Progress, los centros remotos como esos aportan cerca del *24% del cómputo de IA de China*."
+   "La empresa china *ADAspace* informó que su satélite Libra mantuvo durante *45 minutos y 33 segundos* un proceso de entrenamiento de Qwen3-32B, el modelo de Alibaba con 32.800 millones de parámetros. Las pruebas las hizo la academia CAICT.",
+   "No fue un entrenamiento desde cero, pero el plan es enorme: ADAspace prepara *Star-Compute*, una red de *2.800 satélites* de cómputo para IA. Google y Starcloud ya hicieron pruebas en órbita, aunque todavía hay obstáculos como los costos y la radiación."
   ],
-  "caption": "🌏 Nvidia habría pausado los envíos de servidores con sus chips de IA a cuatro países del Sudeste Asiático.\n\nSegún el Wall Street Journal y el Financial Times, Dell y Supermicro dejaron de enviar equipos a Malasia, Singapur, Tailandia e Indonesia. Según el WSJ, Nvidia revisa si sus socios cumplen las reglas de exportación de EE. UU.\n\nEmpresas chinas alquilaban acceso a esos chips desde centros de datos de la región, un vacío que Estados Unidos cerró este mes. Según el Institute for Progress, los centros remotos como esos aportan cerca del 24% del cómputo de IA de China.\n\n¿Y esto a mí qué? Esta pausa puede frenar proyectos de IA en toda la región.\n\n¿Crees que Estados Unidos puede cortar el acceso de China a los chips de IA?\n\nFuente: TechCrunch, Engadget\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "🛰️ Según la empresa china ADAspace, su satélite mantuvo el entrenamiento de una IA en plena órbita durante 45 minutos.\n\nEl satélite Libra sostuvo el entrenamiento de Qwen3-32B, el modelo de Alibaba, y las pruebas las hizo la academia CAICT. Ojo: no fue desde cero, pero el error del modelo fue bajando.\n\nEs parte de Star-Compute, una red planeada de 2.800 satélites para IA. Google y Starcloud ya hicieron pruebas en órbita, y SpaceX tiene un permiso condicionado para su proyecto Starmind.\n\n¿Y esto a mí qué? Si funciona, parte de la IA que usas podría procesarse en órbita con luz solar. Pero quedan obstáculos: costos de lanzamiento, radiación y reparaciones.\n\n¿Crees que los centros de datos en órbita podrán competir con los de la Tierra?\n\nFuente: Xataka, Gizmodo en Español\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "Nvidia",
-   "ChipsDeIA",
-   "SudesteAsiatico"
+   "ADAspace",
+   "IAenElEspacio",
+   "Alibaba"
   ],
   "image_prompts": [
-   "3D illustration of a cargo container full of glowing server racks stopped at a closed red barrier on a shipping dock, tropical city skyline in the background at dusk, cinematic lighting, no text, no logos",
-   "3D illustration of a stylized map of Southeast Asia made of circuit board lines, four glowing country shapes dimmed by a pause symbol hovering above, deep blue and green tones, no text, no labels",
-   "3D illustration of a vast data center hall with rows of servers, glowing cables stretching far across the sea toward a distant horizon, some cables cut and sparking, moody purple lighting, no text"
+   "A sleek 3D illustration of a small satellite orbiting Earth along the day-night line, large unfolded solar panels catching golden sunlight, glowing blue data streams flowing from it, dark space background, cinematic lighting",
+   "A 3D illustration of a glowing neural network made of luminous nodes floating inside a compact satellite module, liquid cooling pipes and deployable radiator fins around it, Earth curving softly below, soft blue and orange tones",
+   "A wide 3D illustration of a constellation of many small satellites connected by thin laser beams forming a grid around the planet, sunlight on the horizon, futuristic and clean style, deep space backdrop with subtle stars"
   ],
   "reel_script": [
-   "Según reportes, Nvidia frenó sus servidores de IA en cuatro países de Asia.",
-   "Según el Wall Street Journal, Nvidia pidió a Dell y Supermicro *pausar los envíos* de servidores a Malasia, Singapur, Tailandia e Indonesia, donde empresas chinas usaban sus chips a distancia.",
-   "Según el Institute for Progress, los centros remotos como esos aportan cerca del *24 por ciento* del poder de IA de China. Estados Unidos acaba de cerrar ese vacío."
+   "Una empresa china asegura que su satélite entrenó una inteligencia artificial en órbita.",
+   "La empresa se llama *ADAspace*: su satélite Libra sostuvo el entrenamiento durante *45 minutos*. Era Qwen tres, un modelo de Alibaba con 32.800 millones de parámetros.",
+   "No fue desde cero, pero ADAspace prepara una red de *2.800 satélites*. Google y SpaceX también van por *centros de datos* en órbita. Falta ver si podrán competir en costos."
   ]
  },
- "caption": "🌏 Nvidia habría pausado los envíos de servidores con sus chips de IA a cuatro países del Sudeste Asiático.\n\nSegún el Wall Street Journal y el Financial Times, Dell y Supermicro dejaron de enviar equipos a Malasia, Singapur, Tailandia e Indonesia. Según el WSJ, Nvidia revisa si sus socios cumplen las reglas de exportación de EE. UU.\n\nEmpresas chinas alquilaban acceso a esos chips desde centros de datos de la región, un vacío que Estados Unidos cerró este mes. Según el Institute for Progress, los centros remotos como esos aportan cerca del 24% del cómputo de IA de China.\n\n¿Y esto a mí qué? Esta pausa puede frenar proyectos de IA en toda la región.\n\n¿Crees que Estados Unidos puede cortar el acceso de China a los chips de IA?\n\nFuente: TechCrunch, Engadget\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Coolcaesar / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: Chensiyuan. / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: ChrisDag / Wikimedia Commons (CC BY 2.0)\n\n#Nvidia #ChipsDeIA #SudesteAsiatico",
+ "caption": "🛰️ Según la empresa china ADAspace, su satélite mantuvo el entrenamiento de una IA en plena órbita durante 45 minutos.\n\nEl satélite Libra sostuvo el entrenamiento de Qwen3-32B, el modelo de Alibaba, y las pruebas las hizo la academia CAICT. Ojo: no fue desde cero, pero el error del modelo fue bajando.\n\nEs parte de Star-Compute, una red planeada de 2.800 satélites para IA. Google y Starcloud ya hicieron pruebas en órbita, y SpaceX tiene un permiso condicionado para su proyecto Starmind.\n\n¿Y esto a mí qué? Si funciona, parte de la IA que usas podría procesarse en órbita con luz solar. Pero quedan obstáculos: costos de lanzamiento, radiación y reparaciones.\n\n¿Crees que los centros de datos en órbita podrán competir con los de la Tierra?\n\nFuente: Xataka, Gizmodo en Español\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Thomas LOMBARD, designed by HASSELL (arc / Wikimedia Commons (CC BY-SA 3.0)\n\n#ADAspace #IAenElEspacio #Alibaba",
  "slides": [
-  "posts/20261126-2104/slide_1.jpg",
-  "posts/20261126-2104/slide_2.jpg",
-  "posts/20261126-2104/slide_3.jpg",
-  "posts/20261126-2104/slide_4.jpg"
+  "posts/20261127-0954/slide_1.jpg",
+  "posts/20261127-0954/slide_2.jpg",
+  "posts/20261127-0954/slide_3.jpg",
+  "posts/20261127-0954/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-   "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-   "source": "TechCrunch"
+   "title": "La carrera por la inteligencia artificial ya no se libra solo en la Tierra: China acaba de dar otro paso desde el espacio",
+   "link": "https://www.xataka.com/espacio/carrera-inteligencia-artificial-no-se-libra-solo-tierra-china-acaba-dar-otro-paso-espacio",
+   "source": "Xataka"
   },
   {
-   "title": "NVIDIA reportedly halts AI chip shipments to Southeast Asia",
-   "link": "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/",
-   "source": "Engadget"
+   "title": "China consigue entrenar inteligencia artificial en el espacio y lleva la carrera tecnológica más allá de la Tierra",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONGRjVmhxOXFCZjM3MVFJNm0tYXljdHFxdzNZTE82UHk3ejdFc3NUbzhIdkl3Z0NIdmRHaHVwWU1kS0JXMEVSWTRLaXFXOHIzY2hmOHBSOXRGYUJrQ1h4dklHYXpqcTJ3dmdhZzgxVnZKM2pWQjhYOE56dXNYZFFXbFJPU2R0akM0SlVaam9yak5icEgzNDNTazJmRFc2RHdHZmRLMVpJYThjTDBJQlMtSkxIdXNZZmRaMUZwRXlETDY2d1hwZTVHTVJhOEFsSlF4SnM5LTBZVGtrc2Vua2hCemR3?oc=5",
+   "source": "Gizmodo en Español"
   }
  ]
 }

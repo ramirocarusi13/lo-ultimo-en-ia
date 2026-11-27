@@ -1,0 +1,17 @@
+🛰️ Según la empresa china ADAspace, su satélite mantuvo el entrenamiento de una IA en plena órbita durante 45 minutos.
+
+El satélite Libra sostuvo el entrenamiento de Qwen3-32B, el modelo de Alibaba, y las pruebas las hizo la academia CAICT. Ojo: no fue desde cero, pero el error del modelo fue bajando.
+
+Es parte de Star-Compute, una red planeada de 2.800 satélites para IA. Google y Starcloud ya hicieron pruebas en órbita, y SpaceX tiene un permiso condicionado para su proyecto Starmind.
+
+¿Y esto a mí qué? Si funciona, parte de la IA que usas podría procesarse en órbita con luz solar. Pero quedan obstáculos: costos de lanzamiento, radiación y reparaciones.
+
+¿Crees que los centros de datos en órbita podrán competir con los de la Tierra?
+
+Fuente: Xataka, Gizmodo en Español
+
+📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.
+
+📸 Foto: Thomas LOMBARD, designed by HASSELL (arc / Wikimedia Commons (CC BY-SA 3.0)
+
+#ADAspace #IAenElEspacio #Alibaba

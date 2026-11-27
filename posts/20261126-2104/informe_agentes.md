@@ -8,3 +8,8 @@ Noticia: Nvidia frena los envíos de servidores con chips de IA a Malasia, Singa
 - **verificador** — CAMBIOS (8/10, confianza alta). El 24% es de "centros remotos como esos" (no solo de los 4 países); atribuir pausa y motivo (WSJ); el Reel debe decir "envíos de servidores" y nombrar al Institute for Progress.
 - **editor-estilo** — CAMBIOS (8/10). Caption pasaba de 150 palabras; foto 2 "Singapore skyline"; evitar repetir "usar" en el Reel.
 - **cazador-videos** — SIN CLIPS. No encontró video libre y propio de Nvidia/Dell/Supermicro: solo canales de comentario o material ajeno. Va como carrusel.
+- **productor** — FORMATO: CARRUSEL (noticia regulatoria, sin clips validados → sin Reel).
+- **director-arte** — OK (8/10). Textos legibles, sin terceros. Opcional: rack más moderno en el slide 3 (no aplicado: es una mejora estética menor y no justifica rearmar).
+
+**Cambios aplicados:** titular con "habría" y gancho del caption/Reel con atribución (legal + verificador); alcance del 24% corregido a "centros remotos como esos" y fuente nombrada; motivo de la pausa atribuido al WSJ; caption recortado a 147 palabras; guion del Reel reordenado según el guionista; foto 2 → "Singapore skyline". Confianza: alta (WSJ y FT, vía TechCrunch y Engadget).
+**Etiqueta de IA:** no (fotos reales de Wikimedia; las ilustraciones IA no se usaron en los slides).
