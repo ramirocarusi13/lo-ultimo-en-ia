@@ -1,64 +1,54 @@
 {
- "id": "20261127-1114",
+ "id": "20261127-1224",
  "post": {
   "skip": false,
   "skip_reason": "",
   "confidence": "media",
-  "headline": "BLACK FRIDAY, LA PRIMERA GRAN PRUEBA DE LA *IA QUE PAGA*",
-  "badge": "",
+  "headline": "SAP RECORTARÍA *10.000 EMPLEOS* PARA APOSTAR POR LA *IA*, SEGÚN BLOOMBERG",
+  "badge": "SAP",
   "photos": [
-   "",
-   "OpenAI headquarters",
-   "Visa credit card"
+   "SAP headquarters Walldorf",
+   "SAP SE building",
+   "Christian Klein"
   ],
   "slides": [
-   "Según Bloomberg y Fortune, Google, Amazon, Meta y OpenAI buscan que sus asistentes decidan qué regalar estas fiestas, y esta temporada será la primera en que *agentes capaces de pagar por el usuario* se prueben a gran escala.",
-   "Pero la confianza es baja: según Morning Consult para Visa, solo el *23% de los estadounidenses confía* en que la IA pague por ellos. En una prueba de Visa con 22 agentes, apenas el 57% de los intentos terminó en una compra o sugerencia adecuada."
+   "Según Bloomberg, SAP prepara un plan para eliminar *al menos 10.000 puestos*, como mínimo el 9% de sus más de 110.000 empleados. Todas las áreas deben buscar ahorros, sobre todo producto, ingeniería y ventas. SAP dijo que no comenta especulaciones.",
+   "El director ejecutivo Christian Klein quiere sumar IA a todos sus productos. Además, *Oracle recortó 21.000 puestos* en un año, y en EE.UU. la IA se citó en *cerca del 20% de los despidos* anunciados hasta octubre, según Challenger, Gray & Christmas."
   ],
-  "caption": "🛍️ Black Friday: la primera gran prueba de los asistentes de IA que pueden comprar y pagar por ti.\n\nSegún Bloomberg y Fortune, Google, Amazon, Meta y OpenAI apuestan a que sus agentes elijan tus regalos. OpenAI presentó este mes \"Wallet\", una billetera conectada a American Express, Visa y Mastercard para pagar con el tope que fije cada usuario.\n\nPero la gente desconfía: según Morning Consult para Visa, el 54% de los estadounidenses ya usó IA para comprar, aunque solo el 23% confía en que pague por ellos. En una prueba de Visa con 22 agentes, apenas el 57% de los intentos terminó en una compra o sugerencia adecuada.\n\n¿Le darías tu tarjeta a un agente de IA para tus regalos, o solo lo usarías para comparar precios?\n\nFuente: Infobae, con datos de Fortune y Bloomberg\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "💼 SAP, el gigante europeo del software, recortaría al menos 10.000 empleos para reorganizarse alrededor de la inteligencia artificial.\n\nSegún Bloomberg, es como mínimo el 9% de sus más de 110.000 trabajadores. Las áreas más afectadas serían producto, ingeniería y ventas, y la cifra final todavía puede cambiar tras negociar con los trabajadores. SAP no confirmó los recortes: dijo que la IA está cambiando rápido su negocio y que no comenta especulaciones.\n\n¿Y esto a mí qué? No es un caso aislado: WiseTech, Atlassian y Cloudflare también ligaron recortes a la IA, y Oracle eliminó 21.000 puestos en un año. En EE.UU., la IA se citó en cerca del 20% de los despidos anunciados hasta octubre.\n\n¿En tu trabajo ya usan IA para tareas que antes hacía una persona?\n\nFuente: Bloomberg, vía CNBC y The Decoder\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "BlackFriday",
-   "AgentesDeIA",
-   "ComprasConIA"
+   "SAP",
+   "inteligenciaartificial",
+   "empleo"
   ],
   "image_prompts": [
-   "3D illustration of a friendly small robot pushing a shopping cart full of wrapped gift boxes through a glowing futuristic store at night, neon purple and blue lighting, soft shadows, wide angle shot, no text, no logos",
-   "3D illustration of a floating smartphone surrounded by abstract blank credit cards orbiting it, connected by thin light trails to tiny gift boxes, dark blue background, close-up view, soft glow, no text, no logos",
-   "3D illustration of a balance scale weighing a stack of shopping bags against a glowing padlock and shield, symbolizing trust in automated payments, soft studio lighting, isometric view, pastel colors, no text, no logos"
+   "3D illustration of a sleek glass office tower at dusk with rows of empty desks visible through the windows, glowing blue neural network lines rising from the roof into a dark purple sky, cinematic lighting",
+   "3D illustration of a long row of identical office chairs on a polished floor, several of them fading into glowing digital particles that drift toward a large luminous abstract AI core sphere, soft dramatic lighting",
+   "3D illustration close-up of a balance scale on a dark desk, one side holding a small stack of tiny office briefcases, the other side a glowing abstract processor shape with circuit traces, moody blue and magenta light"
   ],
   "reel_script": [
-   "Black Friday: la inteligencia artificial puede pagar tus regalos, pero pocos confían.",
-   "Google, Amazon, Meta y OpenAI quieren que sus *agentes* elijan tus regalos. OpenAI presentó una billetera digital. Con ella, la IA paga dentro de los límites que tú fijes.",
-   "En una prueba de Visa, solo el 57 por ciento de los intentos salió bien. Y apenas el 23 por ciento de los estadounidenses *confía* en dejarle sus pagos."
+   "Un gigante europeo del software eliminaría al menos 10.000 puestos por la IA.",
+   "Según Bloomberg, *SAP* prepara un recorte de al menos 10.000 puestos para reorganizarse alrededor de la inteligencia artificial. La empresa no lo confirmó.",
+   "No es la única. Atlassian y Cloudflare también ligaron recortes a la IA, y en Estados Unidos la IA se citó en *cerca de uno de cada cinco* despidos anunciados hasta octubre."
   ]
  },
- "caption": "🛍️ Black Friday: la primera gran prueba de los asistentes de IA que pueden comprar y pagar por ti.\n\nSegún Bloomberg y Fortune, Google, Amazon, Meta y OpenAI apuestan a que sus agentes elijan tus regalos. OpenAI presentó este mes \"Wallet\", una billetera conectada a American Express, Visa y Mastercard para pagar con el tope que fije cada usuario.\n\nPero la gente desconfía: según Morning Consult para Visa, el 54% de los estadounidenses ya usó IA para comprar, aunque solo el 23% confía en que pague por ellos. En una prueba de Visa con 22 agentes, apenas el 57% de los intentos terminó en una compra o sugerencia adecuada.\n\n¿Le darías tu tarjeta a un agente de IA para tus regalos, o solo lo usarías para comparar precios?\n\nFuente: Infobae, con datos de Fortune y Bloomberg\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n#BlackFriday #AgentesDeIA #ComprasConIA",
+ "caption": "💼 SAP, el gigante europeo del software, recortaría al menos 10.000 empleos para reorganizarse alrededor de la inteligencia artificial.\n\nSegún Bloomberg, es como mínimo el 9% de sus más de 110.000 trabajadores. Las áreas más afectadas serían producto, ingeniería y ventas, y la cifra final todavía puede cambiar tras negociar con los trabajadores. SAP no confirmó los recortes: dijo que la IA está cambiando rápido su negocio y que no comenta especulaciones.\n\n¿Y esto a mí qué? No es un caso aislado: WiseTech, Atlassian y Cloudflare también ligaron recortes a la IA, y Oracle eliminó 21.000 puestos en un año. En EE.UU., la IA se citó en cerca del 20% de los despidos anunciados hasta octubre.\n\n¿En tu trabajo ya usan IA para tareas que antes hacía una persona?\n\nFuente: Bloomberg, vía CNBC y The Decoder\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Norbert Steinhauser / SAP SE / Wikimedia Commons (CC BY-SA 4.0)\n\n#SAP #inteligenciaartificial #empleo",
  "slides": [
-  "posts/20261127-1114/slide_1.jpg",
-  "posts/20261127-1114/slide_2.jpg",
-  "posts/20261127-1114/slide_3.jpg",
-  "posts/20261127-1114/slide_4.jpg"
+  "posts/20261127-1224/slide_1.jpg",
+  "posts/20261127-1224/slide_2.jpg",
+  "posts/20261127-1224/slide_3.jpg",
+  "posts/20261127-1224/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "Remate final del Black Friday de MediaMarkt con descuentazos en portátiles, Dyson, teles y más",
-   "link": "https://www.xataka.com/seleccion/remate-final-black-friday-mediamarkt-descuentazos-portatiles-dyson-teles",
-   "source": "Xataka"
+   "title": "SAP plans to cut at least 10,000 jobs as it pivots to AI",
+   "link": "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/",
+   "source": "The Decoder"
   },
   {
-   "title": "Los asistentes de IA que pagan por el usuario enfrentan su primera gran prueba en Black Friday",
-   "link": "https://www.infobae.com/tecno/2026/11/27/los-asistentes-de-ia-que-pagan-por-el-usuario-enfrentan-su-primera-gran-prueba-en-black-friday/",
-   "source": "Infobae"
-  },
-  {
-   "title": "Explainer: Black Friday test for retailers as tight budgets meet AI-savvy shoppers",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTENoLVpUUlhtT3oxYnhyQXhteVRhZ29Kb3BtaFc4UHc2QWtfdVNjRzJOZUxTb1VqaE8xY29STm1vV182RzBIR3JEN1QxVXVuY1hXVkpGMDQzNGIwbnBYQ2pmQVdFRDk0ckZWbGl6UE4tRU5mQ3RxaGFEZ2Zpb0VpbzE2OEJtQlFiNm5iblZpeWdXN2Zpay1vYmJsVWJObE0zRThqbFh4MGRVQUJBMlNIQzFhQTNoOW5XUjVRVXZtR0toRWc?oc=5",
-   "source": "Reuters"
-  },
-  {
-   "title": "Black Friday: crecen las compras con inteligencia artificial en Argentina",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN2VJZmNBU0oxSTd0RGVLZGtfbnhHSlRUOWpBQ2xjRndURlI5TVNuTF9hc24xYmRIdTNudjFwZXRsa25fa3o1cTdnRXB5YUM2MDdfUVlkbVp3ckZWVURpQ21BNno3eVhoTWVacm1CUHZTY1VLeWNjZUs2YTZuSFE0U0hST2Y4Y0JyVFdldXRCcWo5VHdIVURZcXBVMUg3ckszdS0tMndsTks5NG1RdHZuS1A3cGRmZUxpNXVCT0FBaG4zdw?oc=5",
-   "source": "ITSitio"
+   "title": "German software firm SAP is reportedly cutting at least 10,000 jobs in AI push",
+   "link": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
+   "source": "CNBC"
   }
  ]
 }

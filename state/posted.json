@@ -727,7 +727,11 @@
   "https://www.xataka.com/seleccion/remate-final-black-friday-mediamarkt-descuentazos-portatiles-dyson-teles",
   "https://www.infobae.com/tecno/2026/11/27/los-asistentes-de-ia-que-pagan-por-el-usuario-enfrentan-su-primera-gran-prueba-en-black-friday/",
   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTENoLVpUUlhtT3oxYnhyQXhteVRhZ29Kb3BtaFc4UHc2QWtfdVNjRzJOZUxTb1VqaE8xY29STm1vV182RzBIR3JEN1QxVXVuY1hXVkpGMDQzNGIwbnBYQ2pmQVdFRDk0ckZWbGl6UE4tRU5mQ3RxaGFEZ2Zpb0VpbzE2OEJtQlFiNm5iblZpeWdXN2Zpay1vYmJsVWJObE0zRThqbFh4MGRVQUJBMlNIQzFhQTNoOW5XUjVRVXZtR0toRWc?oc=5",
-  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN2VJZmNBU0oxSTd0RGVLZGtfbnhHSlRUOWpBQ2xjRndURlI5TVNuTF9hc24xYmRIdTNudjFwZXRsa25fa3o1cTdnRXB5YUM2MDdfUVlkbVp3ckZWVURpQ21BNno3eVhoTWVacm1CUHZTY1VLeWNjZUs2YTZuSFE0U0hST2Y4Y0JyVFdldXRCcWo5VHdIVURZcXBVMUg3ckszdS0tMndsTks5NG1RdHZuS1A3cGRmZUxpNXVCT0FBaG4zdw?oc=5"
+  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN2VJZmNBU0oxSTd0RGVLZGtfbnhHSlRUOWpBQ2xjRndURlI5TVNuTF9hc24xYmRIdTNudjFwZXRsa25fa3o1cTdnRXB5YUM2MDdfUVlkbVp3ckZWVURpQ21BNno3eVhoTWVacm1CUHZTY1VLeWNjZUs2YTZuSFE0U0hST2Y4Y0JyVFdldXRCcWo5VHdIVURZcXBVMUg3ckszdS0tMndsTks5NG1RdHZuS1A3cGRmZUxpNXVCT0FBaG4zdw?oc=5",
+  "https://9to5google.com/2026/11/27/google-gemini-chrome-ram-usage-error/",
+  "https://www.infobae.com/tecno/2026/11/27/como-restaurar-la-configuracion-de-google-chrome-y-liberar-memoria-ram-en-casa/",
+  "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/",
+  "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -1032,7 +1036,9 @@
   "Google and Los Angeles schools are in an AI standoff. Here's why.",
   "These are the best Mac Black Friday deals",
   "Black Friday 2026: siete formas de usar la inteligencia artificial para detectar ofertas engañosas",
-  "Remate final del Black Friday de MediaMarkt con descuentazos en portátiles, Dyson, teles y más"
+  "Remate final del Black Friday de MediaMarkt con descuentazos en portátiles, Dyson, teles y más",
+  "Google says it has fixed Gemini’s RAM usage error in Chrome",
+  "SAP plans to cut at least 10,000 jobs as it pivots to AI"
  ],
  "history": [
   {
@@ -2845,6 +2851,18 @@
   {
    "title": "Remate final del Black Friday de MediaMarkt con descuentazos en portátiles, Dyson, teles y más",
    "at": 1795789857,
+   "permalink": null,
+   "kind": "post"
+  },
+  {
+   "title": "Google says it has fixed Gemini’s RAM usage error in Chrome",
+   "at": 1795793121,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "SAP plans to cut at least 10,000 jobs as it pivots to AI",
+   "at": 1795793958,
    "permalink": null,
    "kind": "post"
   }
