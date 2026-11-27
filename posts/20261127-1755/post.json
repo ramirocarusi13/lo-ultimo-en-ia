@@ -1,0 +1,54 @@
+{
+ "id": "20261127-1755",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "media",
+  "headline": "*CHIPS RESTRINGIDOS* DE NVIDIA APARECEN EN *SHANGHÁI*, SEGÚN BLOOMBERG",
+  "badge": "NVIDIA",
+  "photos": [
+   "Nvidia GB200 NVL72",
+   "Shanghai skyline",
+   "Nvidia headquarters"
+  ],
+  "slides": [
+   "Según documentos presentados ante reguladores chinos y revisados por *Bloomberg*, dos empresas instalaron servidores Nvidia GB300 y GB200 en un centro de datos de Shanghái. Una de ellas usó un rack GB300 como *garantía de un préstamo* de unos 14 millones de dólares.",
+   "Estados Unidos exige una licencia para enviar estos chips a China. Bloomberg rastreó el rack hasta la taiwanesa Gigabyte, que dice cumplir la ley. *No está claro cómo llegaron* a Shanghái, y Jensen Huang había dicho que los racks GB300 eran *demasiado grandes para contrabandearlos*."
+  ],
+  "caption": "🔍 Chips de Nvidia que no se pueden enviar a China sin permiso aparecieron en un centro de datos de Shanghái, según Bloomberg.\n\nDos empresas chinas presentaron documentos ante reguladores que mencionan servidores GB300 y GB200. Una ofreció un rack GB300 como garantía de un préstamo de 14 millones de dólares. Bloomberg rastreó su número de serie hasta Gigabyte, que asegura cumplir la ley. Aún no se sabe cómo llegaron.\n\n¿Y esto a mí qué? Son los chips que mueven la IA más avanzada, y Estados Unidos exige licencia para enviarlos a China. El caso muestra lo difícil que es controlar a dónde terminan.\n\n¿Crees que se puede controlar el destino de un servidor que pesa más de una tonelada?\n\nFuente: Bloomberg, vía Engadget y The Decoder.\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "Nvidia",
+   "ChipsIA",
+   "Exportaciones"
+  ],
+  "image_prompts": [
+   "3D illustration of a tall dark server rack glowing with green and blue lights inside a vast futuristic data center, viewed from a low dramatic angle, cool cinematic lighting, no text, no logos",
+   "3D illustration of a heavy server cabinet strapped on a wooden shipping pallet inside a shadowy warehouse, cargo containers in the background, mysterious atmosphere with a single spotlight, no text, no labels",
+   "3D illustration of a glowing world map made of circuit lines with a bright route arc connecting two continents, small server icons along the path, dark blue background, wide composition, no text, no letters"
+  ],
+  "reel_script": [
+   "Un servidor de Nvidia restringido para China terminó como garantía de un préstamo.",
+   "Según *Bloomberg*, documentos de dos empresas chinas muestran servidores Blackwell en Shanghái. Uno de ellos respaldaba un préstamo de 14 millones de dólares.",
+   "Estados Unidos exige licencia para enviarlos a China. No está claro cómo llegaron, y el director ejecutivo de Nvidia decía que esos racks eran *demasiado grandes* para contrabandearlos."
+  ]
+ },
+ "caption": "🔍 Chips de Nvidia que no se pueden enviar a China sin permiso aparecieron en un centro de datos de Shanghái, según Bloomberg.\n\nDos empresas chinas presentaron documentos ante reguladores que mencionan servidores GB300 y GB200. Una ofreció un rack GB300 como garantía de un préstamo de 14 millones de dólares. Bloomberg rastreó su número de serie hasta Gigabyte, que asegura cumplir la ley. Aún no se sabe cómo llegaron.\n\n¿Y esto a mí qué? Son los chips que mueven la IA más avanzada, y Estados Unidos exige licencia para enviarlos a China. El caso muestra lo difícil que es controlar a dónde terminan.\n\n¿Crees que se puede controlar el destino de un servidor que pesa más de una tonelada?\n\nFuente: Bloomberg, vía Engadget y The Decoder.\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Gerd Eichmann / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: Coolcaesar / Wikimedia Commons (CC BY-SA 4.0)\n\n#Nvidia #ChipsIA #Exportaciones",
+ "slides": [
+  "posts/20261127-1755/slide_1.jpg",
+  "posts/20261127-1755/slide_2.jpg",
+  "posts/20261127-1755/slide_3.jpg",
+  "posts/20261127-1755/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "Restricted NVIDIA chips were installed at a Chinese data center linked to Alice Huang",
+   "link": "https://www.engadget.com/2329748/restricted-nvidia-chips-were-installed-at-a-chinese-data-center-linked-to-alice-huang/",
+   "source": "Engadget"
+  },
+  {
+   "title": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports",
+   "link": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/",
+   "source": "The Decoder"
+  }
+ ]
+}

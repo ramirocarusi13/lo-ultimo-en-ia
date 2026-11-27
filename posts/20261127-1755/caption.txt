@@ -1,0 +1,15 @@
+🔍 Chips de Nvidia que no se pueden enviar a China sin permiso aparecieron en un centro de datos de Shanghái, según Bloomberg.
+
+Dos empresas chinas presentaron documentos ante reguladores que mencionan servidores GB300 y GB200. Una ofreció un rack GB300 como garantía de un préstamo de 14 millones de dólares. Bloomberg rastreó su número de serie hasta Gigabyte, que asegura cumplir la ley. Aún no se sabe cómo llegaron.
+
+¿Y esto a mí qué? Son los chips que mueven la IA más avanzada, y Estados Unidos exige licencia para enviarlos a China. El caso muestra lo difícil que es controlar a dónde terminan.
+
+¿Crees que se puede controlar el destino de un servidor que pesa más de una tonelada?
+
+Fuente: Bloomberg, vía Engadget y The Decoder.
+📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.
+
+📸 Foto: Gerd Eichmann / Wikimedia Commons (CC BY-SA 4.0)
+📸 Foto: Coolcaesar / Wikimedia Commons (CC BY-SA 4.0)
+
+#Nvidia #ChipsIA #Exportaciones

@@ -1,54 +1,54 @@
 {
- "id": "20261127-1644",
+ "id": "20261127-1755",
  "post": {
   "skip": false,
   "skip_reason": "",
-  "confidence": "alta",
-  "headline": "*OPENAI* CONTRADEMANDA A *APPLE* Y LA ACUSA DE ROBAR *SECRETOS COMERCIALES*",
-  "badge": "OpenAI",
+  "confidence": "media",
+  "headline": "*CHIPS RESTRINGIDOS* DE NVIDIA APARECEN EN *SHANGHÁI*, SEGÚN BLOOMBERG",
+  "badge": "NVIDIA",
   "photos": [
-   "Apple Park aerial",
-   "",
-   "iPhone"
+   "Nvidia GB200 NVL72",
+   "Shanghai skyline",
+   "Nvidia headquarters"
   ],
   "slides": [
-   "OpenAI presentó el viernes una *contrademanda contra Apple* en un tribunal de California. La acusa de robar secretos comerciales y de *coaccionar y amenazar* a proveedores que trabajan con ambas empresas, bloqueando su acceso a fabricantes de hardware.",
-   "La pelea empezó en julio, cuando *Apple demandó a OpenAI* y a exempleados propios por llevarse información confidencial. OpenAI lo niega y prepara dispositivos propios tras comprar *io, el estudio de Jony Ive*, exdiseñador de Apple. El juicio original está previsto para julio de 2027."
+   "Según documentos presentados ante reguladores chinos y revisados por *Bloomberg*, dos empresas instalaron servidores Nvidia GB300 y GB200 en un centro de datos de Shanghái. Una de ellas usó un rack GB300 como *garantía de un préstamo* de unos 14 millones de dólares.",
+   "Estados Unidos exige una licencia para enviar estos chips a China. Bloomberg rastreó el rack hasta la taiwanesa Gigabyte, que dice cumplir la ley. *No está claro cómo llegaron* a Shanghái, y Jensen Huang había dicho que los racks GB300 eran *demasiado grandes para contrabandearlos*."
   ],
-  "caption": "⚖️ OpenAI contrademandó a Apple y la acusa de robar secretos comerciales.\n\nLa creadora de ChatGPT presentó la demanda el viernes en un tribunal de California. Según OpenAI, Apple “coacciona y amenaza” a proveedores que trabajan con ambas empresas.\n\nEs la respuesta a la demanda de Apple de julio, que acusa a OpenAI de quedarse con información secreta, algo que OpenAI niega. En octubre, OpenAI ya había denunciado que un exempleado que volvió a Apple habría enviado más de 100 archivos confidenciales sobre su hardware aún sin lanzar. Apple respondió que su investigación no encontró información de OpenAI.\n\n¿Y esto a mí qué? OpenAI prepara dispositivos propios para competir con Apple, y la pelea gira en torno a sus proveedores.\n\n¿Comprarías un dispositivo de OpenAI en lugar de uno de Apple?\n\nFuente: The Decoder, 9to5Mac (vía Financial Times)\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "caption": "🔍 Chips de Nvidia que no se pueden enviar a China sin permiso aparecieron en un centro de datos de Shanghái, según Bloomberg.\n\nDos empresas chinas presentaron documentos ante reguladores que mencionan servidores GB300 y GB200. Una ofreció un rack GB300 como garantía de un préstamo de 14 millones de dólares. Bloomberg rastreó su número de serie hasta Gigabyte, que asegura cumplir la ley. Aún no se sabe cómo llegaron.\n\n¿Y esto a mí qué? Son los chips que mueven la IA más avanzada, y Estados Unidos exige licencia para enviarlos a China. El caso muestra lo difícil que es controlar a dónde terminan.\n\n¿Crees que se puede controlar el destino de un servidor que pesa más de una tonelada?\n\nFuente: Bloomberg, vía Engadget y The Decoder.\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
   "hashtags": [
-   "OpenAI",
-   "Apple",
-   "ChatGPT"
+   "Nvidia",
+   "ChipsIA",
+   "Exportaciones"
   ],
   "image_prompts": [
-   "3D illustration of two giant glossy chess kings facing each other on a courtroom table, one white and one black, with a wooden judge gavel between them, dramatic blue and purple lighting, no text",
-   "3D illustration of a sleek unlabeled smartphone with a blank black screen, no logos, no emblems, and a small mysterious glowing device on a factory assembly line, tangled red ropes pulling the conveyor in two directions, soft studio lighting, wide shot",
-   "3D illustration of a stack of glowing confidential folders sealed with a padlock floating over a dark desk, scattered blank documents and a cloud icon above, cinematic close-up, teal and violet tones"
+   "3D illustration of a tall dark server rack glowing with green and blue lights inside a vast futuristic data center, viewed from a low dramatic angle, cool cinematic lighting, no text, no logos",
+   "3D illustration of a heavy server cabinet strapped on a wooden shipping pallet inside a shadowy warehouse, cargo containers in the background, mysterious atmosphere with a single spotlight, no text, no labels",
+   "3D illustration of a glowing world map made of circuit lines with a bright route arc connecting two continents, small server icons along the path, dark blue background, wide composition, no text, no letters"
   ],
   "reel_script": [
-   "OpenAI contraataca y acusa a Apple de robarle secretos y amenazar a sus proveedores.",
-   "La creadora de ChatGPT presentó el viernes una *contrademanda* en California. Acusa a Apple de robar secretos y de amenazar a proveedores de ambas empresas.",
-   "Todo empezó con la demanda de Apple en julio. Ahora OpenAI prepara sus propios *dispositivos* para competir. El juicio de Apple llegará en julio de 2027."
+   "Un servidor de Nvidia restringido para China terminó como garantía de un préstamo.",
+   "Según *Bloomberg*, documentos de dos empresas chinas muestran servidores Blackwell en Shanghái. Uno de ellos respaldaba un préstamo de 14 millones de dólares.",
+   "Estados Unidos exige licencia para enviarlos a China. No está claro cómo llegaron, y el director ejecutivo de Nvidia decía que esos racks eran *demasiado grandes* para contrabandearlos."
   ]
  },
- "caption": "⚖️ OpenAI contrademandó a Apple y la acusa de robar secretos comerciales.\n\nLa creadora de ChatGPT presentó la demanda el viernes en un tribunal de California. Según OpenAI, Apple “coacciona y amenaza” a proveedores que trabajan con ambas empresas.\n\nEs la respuesta a la demanda de Apple de julio, que acusa a OpenAI de quedarse con información secreta, algo que OpenAI niega. En octubre, OpenAI ya había denunciado que un exempleado que volvió a Apple habría enviado más de 100 archivos confidenciales sobre su hardware aún sin lanzar. Apple respondió que su investigación no encontró información de OpenAI.\n\n¿Y esto a mí qué? OpenAI prepara dispositivos propios para competir con Apple, y la pelea gira en torno a sus proveedores.\n\n¿Comprarías un dispositivo de OpenAI en lugar de uno de Apple?\n\nFuente: The Decoder, 9to5Mac (vía Financial Times)\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: FASTILY / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: Ka Kit Pang / Wikimedia Commons (CC BY-SA 4.0)\n\n#OpenAI #Apple #ChatGPT",
+ "caption": "🔍 Chips de Nvidia que no se pueden enviar a China sin permiso aparecieron en un centro de datos de Shanghái, según Bloomberg.\n\nDos empresas chinas presentaron documentos ante reguladores que mencionan servidores GB300 y GB200. Una ofreció un rack GB300 como garantía de un préstamo de 14 millones de dólares. Bloomberg rastreó su número de serie hasta Gigabyte, que asegura cumplir la ley. Aún no se sabe cómo llegaron.\n\n¿Y esto a mí qué? Son los chips que mueven la IA más avanzada, y Estados Unidos exige licencia para enviarlos a China. El caso muestra lo difícil que es controlar a dónde terminan.\n\n¿Crees que se puede controlar el destino de un servidor que pesa más de una tonelada?\n\nFuente: Bloomberg, vía Engadget y The Decoder.\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: Gerd Eichmann / Wikimedia Commons (CC BY-SA 4.0)\n📸 Foto: Coolcaesar / Wikimedia Commons (CC BY-SA 4.0)\n\n#Nvidia #ChipsIA #Exportaciones",
  "slides": [
-  "posts/20261127-1644/slide_1.jpg",
-  "posts/20261127-1644/slide_2.jpg",
-  "posts/20261127-1644/slide_3.jpg",
-  "posts/20261127-1644/slide_4.jpg"
+  "posts/20261127-1755/slide_1.jpg",
+  "posts/20261127-1755/slide_2.jpg",
+  "posts/20261127-1755/slide_3.jpg",
+  "posts/20261127-1755/slide_4.jpg"
  ],
  "sources": [
   {
-   "title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
-   "link": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
-   "source": "The Decoder"
+   "title": "Restricted NVIDIA chips were installed at a Chinese data center linked to Alice Huang",
+   "link": "https://www.engadget.com/2329748/restricted-nvidia-chips-were-installed-at-a-chinese-data-center-linked-to-alice-huang/",
+   "source": "Engadget"
   },
   {
-   "title": "OpenAI countersues Apple, alleging trade secret theft and supplier threats",
-   "link": "https://9to5mac.com/2026/11/27/openai-countersues-apple-alleging-trade-secret-theft-and-supplier-threats/",
-   "source": "9to5Mac"
+   "title": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports",
+   "link": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/",
+   "source": "The Decoder"
   }
  ]
 }

@@ -746,7 +746,11 @@
   "https://www.xataka.com/seleccion/ultimas-horas-black-friday-estos-algunos-mejores-chollos-que-puedes-conseguir-lenovo-dyson-apple-pixel",
   "https://9to5mac.com/2026/11/27/apple-tv-launches-50-off-black-friday-deal-6-99-month-for-6-months/",
   "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
-  "https://9to5mac.com/2026/11/27/openai-countersues-apple-alleging-trade-secret-theft-and-supplier-threats/"
+  "https://9to5mac.com/2026/11/27/openai-countersues-apple-alleging-trade-secret-theft-and-supplier-threats/",
+  "https://news.google.com/rss/articles/CBMilwJBVV95cUxQQldjcEFUa0Z1bWtHVVdFS2NFQm9MZU9iNlJLUWlUX25wZHhHNmlHM3RDTUg4Mi1pdDF1eVB5QWtsZWVMdGZsWEotbFBoU1Z2ZjVnd1dlUVpGLVhMWlBLbU9lUnY3eXY4Z1NMZ01meUVZYkhOVmFsOWJHUDBmdy1mV05FdWNyaGZtcEx2aUhidFBGcm5veHhKQTlKLTZ3RkZOd3J0TEJwYU4tcmZYeUtnSXhtaTExa3ZCUVU1QTIzZHJ0MGEzYXZaYkxqdDBESFdFdjgzeGpzMENaLWd1QXA4TVo3UkktdjNNRnUxVnZWT3V4cW5FZFZLdlZoclltRmM0Yl9SVGFCN3pWSFdLLVN4M0pCM1Ewdlk?oc=5",
+  "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQ1p3Ylg3Q1JzMWlERXA2VU44dkFaVnRVNmRBaGl3UTRUUXdPMlN1bUM0dmdoRGZTdFRCZ2xIeVdHbU9TbFc2TEFFbS1ydmxnT3pSQ2RrVkYzWGNaUncwbUVucERycGtuenJkSlZLbF9zMnVUb243VDNDc3lrWWRzUWpSRDlkMEF0Mlc5ODRpTVNEenhsb3ZPdEpId0EtSFhPelE3OFMxa24xeXBJazAtN0l4ei00cGNZZ1FkeGJPa3Zub0VLTHVpS3lsdW9CbEt3T3prdkpwT0JCQUEyN3ZqTDFPRWVDd09nSWVB?oc=5",
+  "https://www.engadget.com/2329748/restricted-nvidia-chips-were-installed-at-a-chinese-data-center-linked-to-alice-huang/",
+  "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/"
  ],
  "titles": [
   "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
@@ -1059,7 +1063,9 @@
   "5 Costco Electronics With Deep Discounts For Black Friday 2026",
   "Hackers reportedly infiltrated the Air Force's cloud systems",
   "The Pixel Watch 5 just hit a new low of $284 on Black Friday",
-  "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers"
+  "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
+  "Cumbre del Grupo de Puebla en La Rioja: con un ganador de la Medalla Fields, debatirán sobre inteligencia artificial y democracia",
+  "Restricted NVIDIA chips were installed at a Chinese data center linked to Alice Huang"
  ],
  "history": [
   {
@@ -2920,6 +2926,18 @@
   {
    "title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
    "at": 1795809271,
+   "permalink": null,
+   "kind": "post"
+  },
+  {
+   "title": "Cumbre del Grupo de Puebla en La Rioja: con un ganador de la Medalla Fields, debatirán sobre inteligencia artificial y democracia",
+   "at": 1795812319,
+   "permalink": null,
+   "kind": "skip"
+  },
+  {
+   "title": "Restricted NVIDIA chips were installed at a Chinese data center linked to Alice Huang",
+   "at": 1795813738,
    "permalink": null,
    "kind": "post"
   }
