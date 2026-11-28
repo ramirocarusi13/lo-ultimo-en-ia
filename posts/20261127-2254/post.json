@@ -1,0 +1,54 @@
+{
+ "id": "20261127-2254",
+ "post": {
+  "skip": false,
+  "skip_reason": "",
+  "confidence": "alta",
+  "headline": "LAS ESCUELAS DE *LOS ÁNGELES* APAGAN LA *IA DE GOOGLE*",
+  "badge": "Google",
+  "photos": [
+   "Los Angeles Unified School District",
+   "Googleplex",
+   ""
+  ],
+  "slides": [
+   "El *distrito escolar de Los Ángeles*, con cerca de medio millón de alumnos, desactivó los resúmenes con IA de Google en los equipos que entrega a sus estudiantes. No lo anunció: lo notaron padres y alumnos, y el distrito lo *confirmó como algo temporal*.",
+   "Google sostiene que su buscador y su IA están *profundamente integrados*. Según The New York Times, advirtió que si un distrito bloquea la IA, sus alumnos *se quedarían sin el buscador*. Nueva York, Los Ángeles y Chicago evalúan cambiar de buscador si Google no cede."
+  ],
+  "caption": "📱 El distrito escolar de Los Ángeles apagó los resúmenes con IA de Google en las computadoras de casi medio millón de alumnos.\n\nNo hubo anuncio: padres y estudiantes notaron que faltaban los resúmenes con IA en las búsquedas. El distrito lo confirmó y lo llama temporal, para mantener una experiencia \"segura y adecuada a la edad\".\n\nGoogle insiste en que buscador e IA van juntos. Según The New York Times, su vicepresidente de Educación, Chris Phillips, advirtió que si un distrito bloquea la IA, sus alumnos se quedarían sin buscador. Más de 500 empleados de Google pidieron reconsiderarlo, y Nueva York, Los Ángeles y Chicago evalúan cambiar de buscador si Google no cede.\n\n¿Las escuelas deberían poder usar Google sin sus resúmenes con IA?\n\nFuente: AP vía Engadget y ABC7 Los Angeles.\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.",
+  "hashtags": [
+   "Google",
+   "IAenLaEscuela",
+   "AIOverviews"
+  ],
+  "image_prompts": [
+   "3D illustration of a school laptop on a wooden classroom desk with a glowing search bar on its screen, a small sparkling AI orb above it being blocked by a translucent shield, warm afternoon light, no text, no logos",
+   "3D illustration of a large yellow school building at sunset with a giant toggle switch beside it turned off, soft glowing sparkles fading away into the sky, clean isometric style, no letters or signs",
+   "3D illustration of two puzzle pieces being pulled apart on a desk, one shaped like a magnifying glass and the other like a glowing brain, notebooks and pencils around them, soft blue light, no text or logos"
+  ],
+  "reel_script": [
+   "Los Ángeles apagó la IA de Google, y Google amenaza con quitar el buscador.",
+   "El distrito escolar de Los Ángeles, con casi *medio millón* de alumnos, desactivó los resúmenes con IA de Google en sus computadoras. No lo anunció: lo notaron los padres.",
+   "Google dice que buscador e IA van juntos, y que sin IA los alumnos perderían el buscador. Nueva York y Chicago *evalúan cambiar* de buscador si Google no cede."
+  ]
+ },
+ "caption": "📱 El distrito escolar de Los Ángeles apagó los resúmenes con IA de Google en las computadoras de casi medio millón de alumnos.\n\nNo hubo anuncio: padres y estudiantes notaron que faltaban los resúmenes con IA en las búsquedas. El distrito lo confirmó y lo llama temporal, para mantener una experiencia \"segura y adecuada a la edad\".\n\nGoogle insiste en que buscador e IA van juntos. Según The New York Times, su vicepresidente de Educación, Chris Phillips, advirtió que si un distrito bloquea la IA, sus alumnos se quedarían sin buscador. Más de 500 empleados de Google pidieron reconsiderarlo, y Nueva York, Los Ángeles y Chicago evalúan cambiar de buscador si Google no cede.\n\n¿Las escuelas deberían poder usar Google sin sus resúmenes con IA?\n\nFuente: AP vía Engadget y ABC7 Los Angeles.\n\n📲 Sigue a @loultimoenia y entérate primero de lo que pasa con la IA.\n\n📸 Foto: The Pancake of Heaven! / Wikimedia Commons (CC BY-SA 4.0)\n\n#Google #IAenLaEscuela #AIOverviews",
+ "slides": [
+  "posts/20261127-2254/slide_1.jpg",
+  "posts/20261127-2254/slide_2.jpg",
+  "posts/20261127-2254/slide_3.jpg",
+  "posts/20261127-2254/slide_4.jpg"
+ ],
+ "sources": [
+  {
+   "title": "LA school district blocks Google's AI search features",
+   "link": "https://www.engadget.com/2329851/la-school-district-blocks-google-ai-search-features/",
+   "source": "Engadget"
+  },
+  {
+   "title": "LAUSD blocks Google AI features as tech giant threatens to cut schools' search access",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVJzbWFTQ1A1X0h1Mi1VY1lUMlotdndSWXRxZExzRUFYSm8xanlvWUtrVUpCamUzbFhMSlNRRGhob0FzZ1N2c1huZVBpYVNTSHpZZ2FQT3kwYlYyTE51MXdiaFl0eVdhcHIxOTU5OWJwTnczUDN3Q2Q2bmRuOFI0cmFlUFpSRWlkbWU1X0N5MTU1LVMtUFo5V21kZ1FGSkEwaGU5YnpvNjU0cnRLYVZr0gG0AUFVX3lxTFA1MXpyRmVNOWgtb2tXRUJvRkdWaWJGcWxsdm1kZWZNaUh5c2FSMUZzOWpWVU5aaUxKNE1TUHBwdEJPX2pibFN3Uk05Y3ZLY0huZ2FUVUYzNDNuUjhHejlka0NSNTdyTUZMT1pvc0xiWS1yT0ZuQzlDQ0c1R2lDVWh6cVB1MGNhbGJkQTR6X2pfTnVJNEl2eUE0WVpnT0s4SndROGFlcUVtVDRjWFFFRkVkMW5Ccw?oc=5",
+   "source": "ABC7 Los Angeles"
+  }
+ ]
+}
